@@ -1,0 +1,471 @@
+﻿l_english:
+ 
+
+##### Parties #####
+
+ROM_vanguardist_party:0 "PCR"
+ROM_vanguardist_party_long:0 "Partidul Comunist Român"
+ROM_collectivist_party:0 "PUR"
+ROM_collectivist_party_long:0 "Partitul Unionist Român"
+ROM_libertarian_socialist_party:0 "POLS-T"
+ROM_libertarian_socialist_party_long:0 "Partidul Liber Socialist-Tărănist"
+ROM_social_democrat_party:0 "PSD"
+ROM_social_democrat_party_long:0 "Partidul Social Democrat Român"
+ROM_social_liberal_party:0 "MPU"
+ROM_social_liberal_party_long:0 "Miscarea Populară Unită"
+ROM_market_liberal_party:0 "PNLR"
+ROM_market_liberal_party_long:0 "Partidul National Liberal al Reformatorilor"
+ROM_social_conservative_party:0 "UDN"
+ROM_social_conservative_party_long:0 "Uniunea Democratică Natională"
+ROM_authoritarian_democrat_party:0 "LPD"
+ROM_authoritarian_democrat_party_long:0 "Liga Popular-Democratică"
+ROM_paternal_autocrat_party:0 "FLR"
+ROM_paternal_autocrat_party_long:0 "Frontul Loialist Român"
+ROM_national_populist_party:0 "FCML"
+ROM_national_populist_party_long:0 "Frontul Corpului Muncitoresc Legionar"
+ROM_valkist_party:0 "PNR"
+ROM_valkist_party_long:0 "Partidul National Român"
+
+
+### FOCUS ###
+
+rom_industry_expansion:0 "Industrial Expansion"
+rom_industry_expansion_desc:0 "The Romanian industry, while competant, still has much room for growth and improvement. New research has highlighted several areas where we may focus our efforts to streamline our production."
+###
+rom_infrastructure_effort:0 "Infrastructure Effort"
+rom_infrastructure_effort_desc:0 "The roads in Romania are delapidated and falling apart, we must make special effort to restore and improve our road systems to ensure the people and the army are able to traverse their own country."
+###
+rom_trans_rails:0 "Expand Transylvanian Railroads"
+rom_trans_rails_desc:0 "Transylvania recently came into our posession less than 30 years ago, and the rail system in the region is still largly reminiscent of the old Austro-Hungarian Empire. We must divert the tracks and connect them to the rest of Romania proper in order to integrate the region."
+###
+rom_military_effort:0 "Military Effort"
+rom_military_effort_desc:0 "Following the end of the Great War, Romania entered a period of extensive disarmament. With tensions once more rising in Europe, we must prepare to build a large professional army once more in the defense of our nation."
+###
+rom_armament_effort:0 "Armament Effort"
+rom_armament_effort_desc:0 "The production of infantry equipment is paramount to success on the battlefield, as such we must prioritize this field for the upcoming wars."
+###
+rom_civ_industry:0 "Civilian Industry"
+rom_civ_industry_desc:0 "While we do have a strong civilian sector, a large portion of it is owned locally and runs with a high degree of autonomy. We must construct new factories that are directly owned by the government in order to have greater control over the industrial sector."
+###
+rom_better_building:0 "Improved Building Techniques"
+rom_better_building_desc:0 "The civilian sector has become sluggish in the past decades, we must revitalize this area of our industry in preperation for the future."
+###
+rom_expand_oil:0 "Expand the Wallachian Oil Fields"
+rom_expand_oil_desc:0 "The Wallachian Oil Fields are our most profitable asset, we must increase the production of oil to give us more international leverage."
+###
+rom_more_urban:0 "Increase Urbanization"
+rom_more_urban_desc:0 "Romania is still a largely rural society, we must bring more people into the cities to expand our industry and economy further than we currently can."
+###
+rom_bucharest_uni:0 "Expand Bucharest University"
+rom_bucharest_uni_desc:0 "Bucharest University is the pride of Romania, and a centre for intellectuals all throughout Eastern Europe. The expansion of this university will allow us to recruit more talented individuals and research more projects at a time."
+###
+rom_preserve:0 "Preservation of Greater Romania"
+rom_preserve_desc:0 "We have finally achieved the dream of Greater Romania, we must sure that at all costs we maintain this position of geographical supremacy."
+###
+rom_begin_forts:0 "Begin the fortăreată"
+rom_begin_forts_desc:0 "We must begin an extensive fortification project to protect our nation from potential invasion on all sides."
+###
+rom_bessarabia_forts:0 "Expand Bessarabian Forts"
+rom_bessarabia_forts_desc:0 "The existance of an independant Ukrainian state may provide us with a buffer with Russia, but we know of their ambitions in Bessarabia and Bugeac. The expansions of our Eastern Forts will protect us both from an expansionist Ukraine and a resurgent Russia."
+###
+rom_tisza_forts:0 "Expand Tisza Forts"
+rom_tisza_forts_desc:0 "The rise of the Arrow Cross party in Hungary is worrying, they have already promised to rebuild the Hungarian state and take back their 'rightful lands'. The expansion of forts on the border with Hungary will protect us from any expansionist moves."
+###
+rom_carpathia_forts:0 "Expand Carpathian Forts"
+rom_carpathia_forts_desc:0 "We must accept the fact that we may lose ground in the upcoming wars, having a well-built and strong fallback line will allow us to recover and organize a counterattack."
+###
+rom_militarism:0 "Romanian Militarism"
+rom_militarism_desc:0 "We must be ready to militarize our society in the defense of the country, all must serve in one way or another."
+###
+rom_city_defense:0 "City Defenses"
+rom_city_defense_desc:0 "We must be prepared to defend every inch of our cities to the very last man. We will make the urban fighting difficult and unrewarding for our enemies by placing forts in hidden areas and scattering explosives throughout the city streets."
+###
+rom_air_1:0 "The Romanian Air Force"
+rom_air_1_desc:0 "The Air Force played a key role in our victory over the Austro-Hungarians and Bulgarians during the Great War. During the interwar period our air force diminished to the point where it has become practically nonexistant. We must rebuild the Air Force if we are to secure victory in the battles to come."
+###
+rom_air_2:0 "Expand Transylvanian Air Bases"
+rom_air_2_desc:0 "Transylvania is a massive region with dangerous terrain, we must develop air bases throughout the region if we are to expand our influence into the Carpathian basin."
+###
+rom_air_3:0 "Invest in the IAR"
+rom_air_3_desc:0 "The IAR is an ambitious and revolutionary avaiation development company interested in developing new fighter models for the Romanian military. Investing in their company will allow them to achieve new breakthroughs in aviation research."
+###
+rom_air_4:0 "Research new Bomber Models"
+rom_air_4_desc:0 "Bombers will pave the way to victory for our troops on the ground, we must ensure that we have the most modern and up-to-date models available if we are to use them effectivly in combat."
+###
+rom_air_5:0 "CAS Research"
+rom_air_5_desc:0 "We must ensure that our troops on the ground are kept safe from the air, as such we must increase our emphasis on CAS research."
+###
+rom_air_6:0 "Naval Bomber Initiative"
+rom_air_6_desc:0 "The Romanian navy cannot survive on its own, and it will need assistance from the air if we are to maintain control of the Black Sea and beyond."
+###
+rom_the_navy:0 "The Romanian Navy"
+rom_the_navy_desc:0 "The pride of the Romanian navy was lost during the Great War, we must rebuild our fleet and dockyards in order to ensure naval supremacy."
+###
+rom_new_ports:0 "Black Sea Dockyards"
+rom_new_ports_desc:0 "The Romanian Dockyards are underdeveloped and small, we must expand them if we are to wrest control of the Black Sea from our enemies."
+###
+rom_rmr_nick:0 "Commission the R.M.R. Nicholas"
+rom_rmr_nick_desc:0 "Prince Nicholas has always had aspirations to join the Royal Navy, but he has never been given the oppertunity. The Commissioning of a new Battleship named after him will give him the perfect chance to live his life at sea, and out of the political sphere."
+###
+rom_carrier_research:0 "Carrier Research"
+rom_carrier_research_desc:0 "Aircraft Carriers are the pride of any modern navy, the construction of which will boost our global prestige and allow us to project far greater naval power across Europe."
+###
+rom_battleships:0 "Battleship Research"
+rom_battleships_desc:0 "Battleships are the key to victory on the high seas, we must ensure we have the latest technologies and tactics at our disposal so we may defeat our larger opponents."
+###
+rom_admiral_nick:0 "Invite Prince Nicholas to become Admiral"
+rom_admiral_nick_desc:0 "It is no secret that prince Nicholas has long dreamed of joining the admiralty, perhaps now is the time to finally grant his request and let him live out the life he always wanted."
+###
+rom_army_1:0 "The Romanian Army"
+rom_army_1_desc:0 "The Romanian Army paved the way to victory in The Great War and the regional conflicts that followed. We must ensure that our army stays large and strong in order to defend our nation."
+###
+rom_new_guns:0 "The M1941"
+rom_new_guns_desc:0 "A large portion of our army is stuck with outdated service rifles from The Great War, we must research and produce a new rifle so our units maintain the ability to fight effectively in the wars to come."
+###
+rom_wargames:0 "Organize Wargames"
+rom_wargames_desc:0 "Having our troops sit around doing nothing is not going to help us in any way, we must organize wargames to keep the men busy while the political situation develops around us."
+###
+rom_evacuation_practice:0 "Royal Evacuation Practice"
+rom_evacuation_practice_desc:0 "The Monarchy was hastily forced to flee Romania during The Great War when the Central Powers reached Bucharest. We must practice another evacuation to ensure the royal family is kept safe incase any attempts on their lives are made."
+###
+rom_home_guard:0 "Establish the Home Guard"
+rom_home_guard_desc:0 "Romania is a vast country with a large population, we must make use of our citizens to defend the country they reside in. If we are ever beaten back in a war, we will be able to raise militia units to mount a temporary defense until reinforcements arrive."
+###
+rom_special_forces:0 "Fund the Special Forces"
+rom_special_forces_desc:0 "Regular infantry aren't suited to specific operations such as paradrops or marine invasions, we must create dedicated special forces divisions to carry out these dangerous operations."
+###
+rom_michaels_reign:0 "The End of the Regency"
+rom_michaels_reign_desc:0 "Prince Michael is now sixteen years of age, and it is finally time to annouce him as the King of Romania."
+###
+rom_build_cabinet:0 "Build the Cabinet"
+rom_build_cabinet_desc:0 "With Michael's accesion to the throne, we now need to build a cabinet of ministers to run the government."
+###
+rom_prepare_election:0 "Prepare for the Election"
+rom_prepare_election_desc:0 "The Romanian consitution dictates that elections must be held every four years, and 1937 marks the beginning of a new election. We must prepare the nation and set up the ballots for the election."
+###
+rom_stall_election:0 "Stall the Elections"
+rom_stall_election_dessc:0 "Democracy is a fickle thing, and can bring rise to populist regimes. We will stall the elections temporarily until the threat of the Iron Guard is eliminated, then we can safely resume the elections."
+###
+rom_1937_election:0 "Result of the Election"
+rom_1937_election_desc:0 "With the elections drawn to a close, we will see a regime change in the Romanian government; for better or for worse."
+###
+rom_iron_guard_win:0 "Iron Guard in Power"
+rom_iron_guard_win_desc:0 "The Iron Guard has won the election and taken up the dominant position in the government. We will now watch as they impliment their policies and guide our nation towards the future."
+###
+rom_socdem_win:0 "Social Democracy Prevails"
+rom_socdem_win_desc:0 "The sitting government has pulled ahead in the election, and democracy has remained a formidable force in Romania."
+###
+rom_free_education:0 "Free Education for all"
+rom_free_education_desc:0 "We must ensure that the people have open access to education, and that no child will be refused due to financial constraints."
+###
+rom_increase_sufferage:0 "Extend the Vote"
+rom_increase_sufferage_desc:0 "Under the Romanian Constituion, all males over the age of 25 had the right to vote. It is time we reform these laws to allow women and younger men to vote on the government that will run them."
+###
+rom_welfare_programs:0 "Social Welfare Programs"
+rom_welfare_programs_desc:0 "Welfare has never really been at the forefront of Romanian politics, but with a new government comes new policy, and it is time to look after our subjects as we should have always done before."
+###
+rom_soclib_win:0 "Social Liberalism Prevails"
+rom_soclib_win_desc:0 ""
+###
+rom_marklib_win:0 "Market Liberalism Prevails"
+rom_marklib_win_desc:0 ""
+###
+rom_soccon_win:0 "Social Conservatism Prevails"
+rom_soccon_win_desc:0 ""
+###
+rom_puppet_monarchy:0 "A Puppet Monarchy"
+rom_puppet_monarchy_desc:0 "The monarchy has become nothing more than a thorn in our side, but they are still a beacon of stability in the nation. Removing their royal authority and keeping them on a puppet throne will allow us to exert our power over them to an even greater degree."
+###
+rom_end_monarchy:0 "Put an end to the Monarchy"
+rom_end_monarchy_desc:0 "The monarchy is uncontrollable, they must be put to an end to ensure long-term stability in our new regime."
+###
+rom_new_constitution:0 "The Iron Constitution"
+rom_new_constitution_desc:0 "The Iron Guard has tossed out the constitution, and has drawn up plans for a new constitution. This will give them almost unlimited control over out country, and allow them to govern more effectivly."
+###
+rom_bucharest_decree:0 "The Bucharest Decree"
+rom_bucharest_decree_desc:0 "The Iron Guard will make a decree from the city of Bucharest, declaring the end of the constitution, the monarchy, and the old Romanian state."
+###
+rom_end_dissent:0 "Crush all internal dissent"
+rom_end_dissent_desc:0 ""
+###
+rom_religion_fate:0 "The Religious Question"
+rom_religion_fate_desc:0 "Religion is a relic of the old Romania, but it cannot simply be cast aside. We must hold a debate on the fate of religion in our country."
+###
+rom_national_industry:0 "National Industry Initative"
+rom_national_industry_desc:0 "Romania is in desperate need of more industrial capacity, and the militarization of our nation is putting most of our workforce at maximum capacity. The citizenry will be drafted to increase construction speed across the nation."
+###
+rom_nick_coup:0 "Prince Nicholas' Coup"
+rom_nick_coup_desc:0 "Having gathered loyal elements of both the army and the navy, Prince Nicholas has executed a coup and overthrown both the democratic government and king Michael."
+###
+rom_consolidate_power:0 "Consolidate Government Power"
+rom_consolidate_power_desc:0 "With the elections out of the way, we can now begin to consolidate power into the central government."
+###
+rom_kings_guard:0 "Establish the Kings Guard"
+rom_kings_guard_desc:0 "The ease of both Nicholas' coup and the governments attempt to seize power has shown how volitile the situation in Romania is, we must establish a loyal regiment of men who are willing to lay down their life for the new king."
+###
+rom_iron_foriegn:0 "Expansionism"
+rom_iron_foriegn_desc:0 "The Romanian state needs to secure its borders to ensure that nobody will ever rise to challenge our superiority over the Balkans and Carpathians."
+###
+rom_claim_transnistria:0 "Claim on Transnistria"
+rom_claim_transnistria_desc:0 "The Transnistria region is both wealthy and economically prosperous. We must claim the area as a part of Romania proper in preperation for its liberation."
+###
+rom_dismantle_hungary:0 "Pacify the Hungarians"
+rom_dismantle_hungary_desc:0 "The Arrow Cross party threatens to destroy stability in the Carpathian region, we must intervene once more to restore order to Hungary and prevent a conflict from breaking out."
+###
+rom_dismantle_serbia:0 "Dismantle Greater Serbia"
+rom_dismantle_serbia_desc:0 "The Serbian state is growing far too large and powerful, and soon they may be able to challenge our hegemonic position in the Balkan penensula. We must forcefully dismantle the Serbian state to ensure a balence of power in the region is maintained."
+###
+rom_german_embassy:0 "Establish German Embassy"
+rom_german_embassy_desc:0 "The establishment of a German embassy will allow for easier communication and greater cooperation between our two nations."
+###
+rom_german_advisors:0 "Invite German Military Advisors"
+rom_german_advisors_desc:0 "The Romanian army has increased in size, but it is still largely unprofessional and stuck in the doctrines of the path. Inviting German military advisors will allow for the professionalization of our army."
+###
+rom_german_eco:0 "Economic Cooperation with Germany"
+rom_german_eco_desc:0 "The German economy has long held sway in the Romanian lands, but with their defeat in the Great War many German owned factories were nationalized or handed off to other foriegn powers. The time has come to sign a new treaty which will bring us closer to Germany."
+###
+rom_stahlpakt:0 "Join the Stahlpakt"
+rom_stahlpakt_desc:0 "Our ties with Germany have brought our two nations closer together than ever, the next logical step is to enter a military alliance with the Germans against our potential enemies."
+###
+rom_balkan_protect:0 "Protector of the Balkans"
+rom_balkan_protect_desc:0 "With tensions rising in Europe, we have been left with the task of defending the Balkans from outside incursions. We must ensure that no great power attempts to assert its influence in the region and overpower any of our geographic brothers."
+###
+rom_balkan_protect:0 "Protector of the Balkans"
+rom_balkan_protect_desc:0 "We must be prepare to defend every inch of Romania against potential invaders, fortifications are the key to this defensive mentality."
+###
+rom_reach_serbia:0 "Reach out to Serbia"
+rom_reach_serbia_desc:0 "The Greater Serbian dream has been all but realized in full, an alliance between our two nations would guaruntee safety for the Balkans for all time."
+###
+rom_restore_hungary:0 "Restore Democracy in Hungary"
+rom_restore_hungary_desc:0 "The Arrow Cross Party threatens to destroy stability in Carpathia, we must install the democratic forces in Hungary and create a powerful ally in the West."
+###
+rom_french_alliance:0 "Restore the French Alliance"
+rom_french_alliance_desc:0 "Romania was an integral part of the Triple Entnete during the Great War, with tensions once more rising in Europe, it may be in our best interests to once more strengthen ties with France in hopes of military assistance."
+
+
+### EVENTS ###
+
+rom.1.t:0 "The Kingdom of Romania"
+rom.1.d:0 "ecks dee"
+rom.1.a:0 "ayy lmao"
+###
+rom.2.t:0 "The Coronation of King Michael"
+rom.2.d:0 "ecks dee"
+rom.2.a:0 "Long Live the King!"
+###
+rom.3.t:0 "The Result of the election"
+rom.3.d:0 "ecks dee"
+rom.3.a:0 "The Iron Guard is victorious"
+rom.3.b:0 "The sitting government is victorious"
+###
+rom.4.t:0 "The Fate of Religion"
+rom.4.d:0 "ecks dee"
+rom.4.a:0 "Religion has no place in the new Romania"
+rom.4.b:0 "Religion is an integral part of Romanian society."
+###
+rom.5.t:0 "Romania demands self-determination"
+rom.5.d:0 "The new Romanian government has sent us a list of most outrageous demands. They are calling for the independance and self-determination for all of the non-Serbs in our nation, and the practical end of the Serbian nation we have spent the last three decades building."
+rom.5.a:0 "It seems we are left with no other choice."
+rom.5.b:0 "We have not come this far to be dismantled by a foreign power!"
+###
+rom.6.t:0 "Serbia bends to our demands"
+rom.6.d:0 "The weak Serbian government has, to our surprise, decided to concede to the demands we sent them a few days ago. The new national governments are in the process of officially declaring independant states across the Balkans, free of Serbian oppression."
+rom.6.a:0 "One less enemy in our path."
+###
+rom.7.t:0 "Serbia stands defiant!"
+rom.7.d:0 "The Serbian government has, to the surprise of nobody, declined our list of reasonable demands. We must now muster our forces and free the people of the Balkans by ourselves."
+rom.7.a:0 "To Arms!"
+rom.7.b:0 "On second thought, maybe this isn't a good idea."
+###
+rom.8.t:0 "The Collapse of Serbia"
+rom.8.d:0 "The Serbian state is in the process of complete collapse, and we have been given a golden opperunity. The regions of Pirot and Macedonia are unguarded and isolated, and the Serbian government would likely hand them over without firing a shot in resistance should we demand them. Shall we attempt to seize the land?"
+rom.8.a:0 "Seize the states!"
+rom.8.b:0 "Best not to antagonize the Romanians."
+###
+rom.9.t:0 "Bulgaria attempts to seize Macedonia!"
+rom.9.d:0 "Earlier today, reports came in from Skopje of Bulgarian soldiers marching into the Pirot and Macedonia regions. They clearly have the intent of retaking the land they once stole from us during the Great War, and believe they can take it in our moment of weakness."
+rom.9.a:0 "We cannot afford a war with the Bulgarians"
+rom.9.b:0 "The Bulgarians stand no chance against our forces."
+###
+rom.10.t:0 "Serbia concedes Macedonia"
+rom.10.d:0 "The Serbian government has issued an official statement ceding the regions of Macedonia and Pirot to Bulgaria, their soldiers are evacuating the region and we have assumed direct control of both states."
+rom.10.a:0 "One step closer to the Greater Bulgarian dream"
+###
+rom.11.t:0 "Serbia stands defiant!"
+rom.11.d:0 "Despite their weakened state, the Serbian government has refused to cede Macedonia and Pirot, claiming that they will defend every inch of Serbia to the last man if need be. Shall we take them up on their offer?"
+rom.11.a:0 "To war!"
+rom.11.b:0 "Macedonia is not worth the effort."
+###
+rom.12.t:0 "Romania asks to join our alliance"
+rom.12.d:0 "After several months of economic and political cooperation, Romania has at last sent us an official request to join the Stahlpakt. Romania will open another front against the Soviet menace should they come knocking, and having them in our alliance will give us greater access to their vast oil reserves."
+rom.12.a:0 "We need all the help we can get"
+rom.12.b:0 "Now is not the time."
+###
+rom.13.t:0 "Germany accepts our request!"
+rom.13.d:0 "We have received official word from the German embassy in Bucharest, we have been formally accepted into the Stahlpakt. We will now recieve economic and military aid from Germany in the case of a war on our doorstep, and we now hold a much larger political clout in the Balkans and Carpathian mountains."
+rom.13.a:0 "To a brighter future, together!"
+###
+rom.14.t:0 "Germany denies our request"
+rom.14.d:0 "Sadly, it would seem the Germans have denied our request to join their military alliance for the time. While they have not given a specific reason, they have ensured us that this is only a temporary measure, and that in the future we will be granted a place in their 'greater Germany'."
+rom.14.a:0 "This is insulting!"
+###
+rom.15.t:0 "Romania Proposes an alliance"
+rom.15.d:0 "The democratic Romanian government has approached us today with an offer. They have offered a military alliance with the purpose of defending both nations and by extension the entirety of the Balkans from outside intervention. This may indeed be in our best interests, as it will allow us to hold more political sway over our enemies and aquire land with more forceful backing."
+rom.15.a:0 "We will join hands with our Romanian brothers."
+rom.15.b:0 "We do not need Romanian help to achieve the Greater Serbian dream."
+###
+rom.16.t:0 "Serbia joins our alliance!"
+rom.16.d:0 "The Serbian government has officially accepted our alliance offer, we now stnad together as a force to be reckoned with in the Balkans."
+rom.16.a:0 "To a brighter future"
+###
+rom.17.t:0 "Serbia declines our offer"
+rom.17.d:0 "The Serbian government has sadly declined our alliance offer, and we now stand alone in protecting the Balkans. Should Serbia find themselves on the back foot in a war, it will be a hot debate whether we should provide assistance or not."
+rom.17.a:0 "So uncivilized."
+###
+rom.18.t:0 "Romania wishes to rejoin the Entente"
+rom.18.d:0 "The Romanian government has reached out to us today with an official request to rejoin the Entente, as they did two decades years ago during the Great War. They must see the current path Europe is heading on and the increasing inevitability of another global war. Perhaps allowing them to join our alliance is in both our best interests."
+rom.18.a:0 "Brothers in arms once more."
+rom.18.b:0 "They are nothing more than a liability."
+###
+rom.19.t:0 "France allows us into the Continential Entente!"
+rom.19.d:0 "The French have officially signed us in as a member of the Continential Entnete, tipping the balence further towards us and away from the rising German power. Hopefully we never need to call our alliance into war, but the political situation of Europe is making that prospect seem quite unlikely."
+rom.19.a:0 "Brothers in arms once more."
+###
+rom.20.t:0 "France declines our request"
+rom.20.d:0 "The French government has sent us an official letter, denying us entry into the Continential Entente. They believe we are more of a liability that needs rescuing than a valuable ally, and would rather we stay out of French affairs."
+rom.20.a:0 "We'll show them..."
+###
+rom.21.t:0 "The monarchy expresses its discontent"
+rom.21.d:0 "Our temporary stalling of the election seems to have upset several members of the royal family, especially Prince Nicholas, who was gone as for as to denounce our so-called 'dictatorial' behaviour. Choosing not to deal with this issue may lead to problems in the future, but is it really worth worrying about?"
+rom.21.a:0 "Grant Nicholas a position in the navy to get him off our backs."
+rom.21.b:0 "We don't need to concern ourselves with the ideas of a lowly prince."
+###
+rom.22.t:0 "Prince Nicholas further criticizes the government"
+rom.22.d:0 "Prince Nicholas has further cemented his stance on the governments actions, calling members of parliament out as being 'cruel' and 'greedy'. Clearly he is making a fuss, and there exists a possibility that he may take action against the government, but attempting to silence the prince may make things far worse for us in the long run."
+rom.22.a:0 "Put a muzzle on the rogue prince..."
+rom.22.b:0 "Why should we care what he thinks?"
+###
+rom.23.t:0 "Prince Nicholas launches coup!"
+rom.23.d:0 "It would appear that our ignorance has finally caught up to us, prince Nicholas has gathered a large portion of the army and stormed the capital of Budapest, overthrowing the sitting government. Ina  surprising turn of events, he then turned to the royal palace, and proceeded to proclaim himself 'King of the Romanians' in an ad-hoc ceremony surrounded by rubble and tanks. Whether or not King Michael made it out alive is not known, however several aircraft were seen taking off from a nearby airport heading south towards the Danube. It would appear a new regime has taken control of Romania."
+rom.23.a:0 "Unbelievable!"
+###
+rom.24.t:0 "Unrest in Transylvania"
+rom.24.d:0 ""
+rom.24.a:0 "Send in the troops, quell the unrest!"
+rom.24.b:0 "It will all blow over in time."
+###
+rom.25.t:0 "Unrest in Transylvania dies down"
+rom.25.d:0 ""
+rom.25.a:0 "It would seem they have learned their place."
+###
+rom.26.t:0 "Revolution in Transylvania!"
+rom.26.d:0 ""
+rom.26.a:0 "They will be crushed in days"
+rom.26.b:0 "We cannot afford a war"
+###
+rom.27.t:0 "The Great Struggle"
+rom.27.d:0 ""
+rom.27.a:0 "Glory, Transylvania!"
+###
+rom.28.t:0 "Aid from our Hungarian brothers"
+rom.28.d:0 ""
+rom.28.a:0 "Call them to arms!"
+rom.28.b:0 "We don't need their help, this will be a cakewalk."
+###
+rom.29.t:0 "Transylvanian Revolt calls us to arms!"
+rom.29.d:0 ""
+rom.29.a:0 "We must assure their success on the battlefield"
+rom.29.b:0 "We will not waste our time an soldiers on their struggle."
+###
+rom.30.t:0 "Hungary joins our cause"
+rom.30.d:0 ""
+rom.30.a:0 "Wonderful!"
+###
+rom.31.t:0 "Hungary denies our call to arms"
+rom.31.d:0 ""
+rom.31.a:0 "This is not good..."
+
+
+### IDEAS ###
+rom_armament:0 "Arms Focus"
+rom_armament_desc:0 "Extra focus on our arms production allows us to field more soldiers and provide them all with new service rifles."
+###
+rom_fast_building:0 "Improved Building Techniques"
+rom_fast_building_desc:0 "New research has led to an increase in the speed of civilian construction in our country."
+###
+rom_preserve_rom:0 "Preserve Greater Romania"
+rom_preserve_rom_desc:0 "We have finally achieved the dream of Greater Romania, we must sure that at all costs we maintain this position of geographical supremacy."
+###
+rom_militarism_idea:0 "Romanian Militarism"
+rom_militarism_idea_desc:0 "We must be ready to militarize our society in the defense of the country, all must serve in one way or another."
+###
+rom_active_wargames:0 "Wargames"
+rom_active_wargames_desc:0 "Wargames across the country are training our men for actual conflict, and we are learning many valuable lessons."
+###
+rom_regency:0 "Michael's Regency"
+rom_regency_desc:0 "A regency council presides over the Romanian government until Michael can take the crown on his sixteenth birthday, slated for October 25, 1936."
+###
+rom_constitution:0 "The Iron Constitution"
+rom_constitution_desc:0 "The Iron Guard has drawn up a new consitution outlining how the nation will function, giving them a large degree of control over every aspect of the nation."
+###
+rom_full_control:0 "Absolute Control"
+rom_full_control_desc:0 "The Iron Guard has taken absolute control of the country; their soldiers patrol the streets of Bucharest and strike terror into the hearts of all those who would wish to dissent against the government."
+###
+rom_purge_dissent:0 "Purged Dissent"
+rom_purge_dissent_desc:0 ""
+###
+rom_seize_god:0 "Seized Religious Assets"
+rom_seize_god_desc:0 "The Government has seized religious assets across the nation, looting churches and taking wealth from monestaries across the nation."
+###
+rom_national_industry_idea:0 "Nationalized Industry"
+rom_national_industry_idea_desc:0 "Romania must act as one if we are to defend the lands we currently hold, the citizens will construct new factories to support the war effort both domestically and abroad."
+###
+rom_german_advisors_idea:0 "German Military Advisors"
+rom_german_advisors_idea_desc:0 "Advisors from Germany are improving the quality of our army drastically."
+###
+rom_balkan_defend:0 "Defender of the Balkans"
+rom_balkan_defend_desc:0 "We must be prepare to defend every inch of Romania against potential invaders, fortifications are the key to this defensive mentality."
+###
+rom_free_education_idea:0 "Free Education Programs"
+rom_free_education_idea_desc:0 "Progressive new policies regarding education are being put in place to ensure that all Romanian citizens recieve a high standard of learning."
+###
+rom_welfare:0 "Welfare Programs"
+rom_welfare_desc:0 "Social safety nets have been put in place to make sure that none of our citizens slip into unrecoverable poverty and become a drain on the economy and society."
+###
+rom_revenge:0 "Vengence for Bucharest"
+rom_revenge_desc:0 "The Hungarians have carried out a targeted strike on Bucharest, our glorious capital, with the intent of razing it to the ground. This attack has struck the heart of all Romanians, and for the time being our soldiers will fight with extra ferocity."
+
+
+
+### TOOLTIPS ###
+
+rom_nicks_ship:0 "§GThe R.M.R. Nicholas Battleship will be launched into the Black Sea, with Prince Nicholas himself at the helm.§!\n"
+###
+rom_evac:0 "§GThe royal family will be safe in the event of a coup or plot against the monarchy.§!\n"
+###
+rom_militias:0 "We will arm militias across the countryside, ready to rise up if an occupying force makes an incursion into our territory."
+###
+rom_bye_nick:0 "Prince Nicholas will live out his life as an admiral in the Romanian Navy, away from politics."
+###
+rom_kingsguard:0 "The Kings Guard will defend King Nicholas to the death."
+###
+rom_trans_dead:0 "§RThis will make our government look extremely weak and incapable...§!\n"
+###
+TRA_revolt:0 "Transylvanian Hungarians will rise up across the region."
+
+
+### OPINION MODIFIERS ###
+
+ROM_embassy:0 "Embassy Established"
+ROM_economic_cooperation:0 "Economic Cooperation Treaty"
+
+
+### FLAGS ###
+
+rom_nicky_coup:0 "Prince Nicholas has launched his coup"
+rom_election_done:0 "The Romanian election of 1937 has finished"
+
+
+### FACTIONS ###
+
+ROM_BALKAN_PACT:0 "Balkan Pact"

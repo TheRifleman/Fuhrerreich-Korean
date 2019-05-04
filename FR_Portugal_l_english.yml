@@ -1,0 +1,19 @@
+﻿l_english:
+
+#TOOLTIPS
+POR_first_warning_tt:0 "You have aproximately 6 more months to finish the war. Otherwise there will be more bloodshed on the mainland."
+
+#THREATS
+POR_renewed_civil_war_threat:0 "Portugese Civil War renewed"
+
+
+#EVENTS
+portugal.1.d:0 "can I get a uuuuuuhhhhh colonies please"
+portugal.2.d:0 "Ever since we kicked the Republicans out of the mainland in 1930, our plans on retaking the colonies have been thwarted by possessing a weaker navy than that of the Republicans. Of course, retaking the colonies will be no easy feat. The Republicans are well aware that the colonies are vital to the stability of our regime, and they've taken measures to dig in until another revolt rises up in our mainland due to mounting instability and shame caused by us not owning said colonies. \n\nNot to mention, a large portion of the navy defected to the Republicans. \n\nNo matter, today is a new day for Portugal. Our large naval project, the construction of the Retaliação, has finally been completed! This Battleship was costly, no doubt. However it will ensure that we'll be able to put the Republican navy out of action and retake the colonies."
+portugal.3.d:0 "The colonies are vital to us. If we put off the reconquest until another time, there will undoubtedly be a Republican revolt on the mainland. Today, Portugal will retake her birthright. We will reclaim our colonies, and some Republican rabble will not stand inbetween us!"
+portugal.4.d:0 "Reports from various police raids in Lisbon have informed us on a ever-growing number of Republican elements in our Society. We have no doubt that this is due to our incapability of landing in the colonies, which is hampering the stability of our regime. Whilst we will be able to keep these groups detained for now, the situation might spiral beyond our control in the near future."
+portugal.5.d:0 "As-of recent, Republican movements have spiraled far beyond our control. Now, various pro-republic militias have assembled and stormed locations such as Lisbon and Beja! Fortunately, the north has remained loyal to us...\n\nHowever we will see much more bloodshed on the mainland."
+portugal.6.d:0 "Due to the incompetence of the Kingdom in invading the colonies, the support for their regime on the mainland has plummeted! With the growth of many Republican movements on the mainland in the past year, we have been able to successfully execute a coup and regain a foothold in the mainland. The kingdom now merely resides in the north, crushing them should be an easy feat."
+
+#### Ideas ####
+

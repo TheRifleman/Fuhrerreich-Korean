@@ -1,0 +1,685 @@
+﻿l_english:
+
+UKR_FUHRERREICH_DESC:0 "Following the collapse of the Russian Empire, the Ukrainian people sought to establish their own state along the Dnieper river. The German Empire briefly established a client state with the hopes of using Ukraine's vast fields to feed the Imperial Army, but was forced to evacuate the region following the German revolution in 1918. The Ukrainian People's Republic was re-established, and thrown into the chaos of the Russian Civil War. Coming out victorious against the bolsheviks, the Ukrainians seeked to distance themselves from Russia and create a unique Ukrainian identity wedged between Soviet Russia and a resurgent Germany. With tensions once more rising in Europe, Ukraine must place her bets and pick a side, or be lost to the annals of time."
+
+
+#############
+## PARTIES ##
+#############
+
+UKR_vanguardist_party:0 "KPU(K)"
+UKR_vanguardist_party_long:0 "Kolektyvistsʹka Partiya Ukrayiny (Kosior)"
+UKR_collectivist_party:0 "KPU"
+UKR_collectivist_party_long:0 "Kolektyvistsʹka Partiya Ukrayiny"
+UKR_libertarian_socialist_party:0 "Anarkhisty"
+UKR_libertarian_socialist_party_long:0 "Anarkhisty"
+UKR_social_democrat_party:0 "UPSF"
+UKR_social_democrat_party_long:0 "Ukrayins'ka Partiya Sotsialistiv - Federalvstiv"
+UKR_social_liberal_party:0 "UDP"
+UKR_social_liberal_party_long:0 "Ukrayinsʹka Demokratychna Partiya"
+UKR_market_liberal_party:0 "ULP"
+UKR_market_liberal_party_long:0 "Ukrayinsʹka Liberalʹna Partiya"
+UKR_social_conservative_party:0 "NP"
+UKR_social_conservative_party_long:0 "Narodna Partiya"
+UKR_authoritarian_democrat_party:0 "OHA"
+UKR_authoritarian_democrat_party_long:0 "Ob'yednana Hetʹmansʹka Asotsiatsiya"
+UKR_paternal_autocrat_party:0 "ZSU"
+UKR_paternal_autocrat_party_long:0 "Zbroyni Syly Ukrayiny"
+UKR_national_populist_party:0 "OUN"
+UKR_national_populist_party_long:0 "Orhanizatsiya Ukrayins'kykh Natsionalistiv"
+UKR_valkist_party:0 "OLBS"
+UKR_valkist_party_long:0 "Orden Lytsariv Boha Sontsia"
+
+
+#############
+### FOCUS ###
+#############
+
+ukr_army_start:0 "Army Reform"
+ukr_army_start_desc:0 "The Ukrainian army is woefully underequiped and and inexperienced, we must extensivly reform the army if we are to compete in the upcoming wars."
+###
+ukr_army_skoropadksyi:0 "skoropadksyi's Plan"
+ukr_army_skoropadksyi_desc:0 "Skoropadksyi champions a doctine of mass assault, we will follow his direction to victory."
+###
+ukr_army_sinkler:0 "Sinkler's Plan"
+ukr_army_sinkler_desc:0 "Sinkler follows a doctine of fast and mobile warfare, adopting his ideas will surely bring us victory on the field."
+###
+ukr_army_pavlenko:0 "Pavlenko's Plan"
+ukr_army_pavlenko_desc:0 "Superior firepower will allow us to overwhelm our enemy, and Pavlenko supports this idea fully."
+###
+ukr_army_udovychenko:0 "Udovychenko's Plan"
+ukr_army_udovychenko_desc:0 "A grand battleplan will allow us to operate on huge fronts and surround our enemies with numbers and planning, following Udovychenko will lead us to glory."
+###
+ukr_army_modernization:0 "Modernize the Ukrainian Army"
+ukr_army_modernization_desc:0 "The weapons of the Great War are no longer sufficiant for the battles of today, modernization of the army is our top priority."
+###
+ukr_army_german_officers:0 "Invite German Officers"
+ukr_army_german_officers_desc:0 "The German army is one of the most formidable and diciplined in the entire world, inviting their officers to look over our army will surely increase our professionalism."
+###
+ukr_army_british_officers:0 "Invite British Officers"
+ukr_army_british_officers_desc:0 "It was the British Army who won the Great War, and it was British Officers that led the way to victory. We must learn from their past if we are to defeat our soon-to-be foes."
+###
+ukr_army_french_officers:0 "Invite French Officers"
+ukr_army_french_officers_desc:0 "The French Army preformed admirably during the Great War, defending every inch of France to the last man. These high levels of morale must be copied and implimented into the minds of our own soldiers."
+###
+ukr_army_top_down:0 "Top-Down Approach"
+ukr_army_top_down_desc:0 "Talented and skilled officers are the key to victory on the field, we must be sure to prioritize training them."
+###
+ukr_army_bottom_up:0 "Bottom-Up Approach"
+ukr_army_bottom_up_desc:0 "It is the soldier that wins the war on the ground, their professionalism and skill are of the utmost importance."
+###
+ukr_army_doctrine_research:0 "Extended Doctrine Research"
+ukr_army_doctrine_research_desc:0 "Furthering our doctrine research will give us a decisive edge in battle, it would be wise to look into the matter."
+###
+ukr_army_artillery_integration:0 "Artillery Integration"
+ukr_army_artillery_integration_desc:0 "Napoleon taught the world the importance of artillery in battle, perhaps his methods could be applied to the battles of today as well."
+###
+ukr_army_support_companies:0 "Support Companies"
+ukr_army_support_companies_desc:0 "An army cannot fight on their own, they need to be supported in battle by other elements. Field Hospitals, Engineers, Recon Companies and more will all help give our men an edge in battle."
+###
+ukr_navy_start:0 "The Ukrainian Navy"
+ukr_navy_start_desc:0 "The Black Sea is of vital importance to us, we must ensure that our navy is able to defend the waters and coastline from potential invasion."
+###
+ukr_navy_maximov:0 "Maximov's Plan"
+ukr_navy_maximov_desc:0 "Conventional warfare may be fought on the surface, but new submarine technologies are being developed every day, and the face of naval warfare is changing rapidly."
+###
+ukr_navy_gorshkov:0 "Gorshkov's Plan"
+ukr_navy_gorshkov_desc:0 "A large fleet capable of bombarding the enemy from beyond the horizon will allow us to destroy our enemies with devestating efficiancy."
+###
+ukr_navy_pilipenko:0 "Pilipenko's Plan"
+ukr_navy_pilipenko_desc:0 "A flexible navy capable of fufilling multiple roles will allow us to out-manouver and out-wit our enemies at sea."
+###
+ukr_navy_sea_wolves:0 "Sea Wolves"
+ukr_navy_sea_wolves_desc:0 "Submarine warfare is clearly the way to naval supremacy, we must invest more into the research of new models."
+###
+ukr_navy_sea_titans:0 "Sea Titans"
+ukr_navy_sea_titans_desc:0 "Larger ships are able to carry more guns and take more of a beating, bigger is always better."
+###
+ukr_navy_fleet_integralism:0 "Fleet Integrety"
+ukr_navy_fleet_integralism_desc:0 "The operational integrety of a fleet is often overlooked, but it is a vitally important aspect in the success of a navy."
+###
+ukr_navy_convoy_interdiction:0 "Convoy Interdiction"
+ukr_navy_convoy_interdiction_desc:0 "The destruction of enemy convoys will cripple their efforts to supply soldiers in far-flung areas, we must take advantage of this fact to gain the upper hand over our larger enemies."
+###
+ukr_navy_floating_fortress:0 "Floating Fortresses"
+ukr_navy_floating_fortress_desc:0 "A larger ship is always better, we must take this experiment to its logical conclusion."
+###
+ukr_navy_initiative:0 "Admiralty Initiative"
+ukr_navy_initiative_desc:0 "Initiative is not a skill that can be learned per se, but something that certain admirals are born with. We can still adapt our naval doctrine to fit these commanders and their skills."
+###
+ukr_air_start:0 "The Ukrainian Air Force"
+ukr_air_start_desc:0 "Control over the air ensures victory on the ground, we cannot neglect this fact for any longer than we already have."
+###
+ukr_air_shtern:0 "Shtern's Plan"
+ukr_air_shtern_desc:0 "Larger aircraft are able to carry a heavier payload and dish out more damage, and Shtern knows this very well."
+###
+ukr_air_tkachev:0 "Tkachev's Plan"
+ukr_air_tkachev_desc:0 "Light Aircraft are the backbone of any air force, neglecting them and their importance would be a fatal error."
+###
+ukr_air_navy_support:0 "Supporting the Navy"
+ukr_air_navy_support_desc:0 "The navy cannot operate on their own, they require assistance from the air force to remain operational for long periods of time."
+###
+ukr_air_army_support:0 "Supporting the Army"
+ukr_air_army_support_desc:0 "At the end of the day, it's the army is what wins the war, and their survival is paramount to the survial of Ukraine itself."
+###
+ukr_air_quality:0 "Quality"
+ukr_air_quality_desc:0 "We must ensure that the aircraft we produce are of high quality and high reliability so they don't require constant repairs and replacements."
+###
+ukr_air_quantity:0 "Quantity"
+ukr_air_quantity_desc:0 "It matters not how many planes they shoot down, we will replace each fallen pilot with 5 more."
+###
+ukr_1936_rada:0 "The 1936 Election"
+ukr_1936_rada_desc:0 "The time has once again come to continue the democratic process in our nation."
+###
+ukr_rada_nationalist:0 "The Nationalists"
+ukr_rada_nationalist_desc:0 "The Nationalists have won the election, now we must wait to see what the future holds."
+###
+ukr_rada_junta:0 "The Military"
+ukr_rada_junta_desc:0 "The Military has stepped in to take 'temporary' control of the nation. It's unlikely they'll be willing to relieve their position anytime soon, and Ukraine may soon be transformed into a military state."
+###
+ukr_rada_democratic:0 "The Liberals"
+ukr_rada_democratic_desc:0 "The Market Liberals have pulled ahead and won the election, it is now their turn to dictate the future of our nation."
+###
+ukr_rada_socialist:0 "The Socialists"
+ukr_rada_socialist_desc:0 "The Social Democrats have won yet another victory in the Ukrainian elections, and they once more hold power in the Rada. While some fear this trend may lead to reunification with Russia, we have a chance to create a unique breed of Ukrainian socialism, and learn from the Russian mistakes."
+###
+ukr_junta_reforms:0 "Administrative Reforms"
+ukr_junta_reforms_desc:0 "Militaries are generally not used to running entire states, as such we will need to make some administrative adjustments to allow this regime change to work efficiantly."
+###
+ukr_junta_german_economy:0 "Strenghen German Economic Ties"
+ukr_junta_german_economy_desc:0 "The Ukrainian economy has long relied on the Germans cooperating with us, we must ensure this economic bond stays tight to avoid another economic catastrophe."
+###
+ukr_junta_widescale_reforms:0 "Extend Adminstrative Reforms"
+ukr_junta_widescale_reforms_desc:0 "With the state finally secured, we can begin work on expanding our adminstration."
+###
+ukr_junta_official_language:0 "An Official Language"
+ukr_junta_official_language_desc:0 "The multi-lingual nature of the Ukrainian State has been holding us back politically, we must embrace the Ukrainian language if we are to compete on the world stage."
+###
+ukr_junta_german_training:0 "German Joint Training Exercises"
+ukr_junta_german_training_desc:0 "The German Army is legendary for their prowess and professionalism, there are more than a few things they could teach our officers and soldiers alike."
+###
+ukr_junta_destroy_commies:0 "Destroy the Left"
+ukr_junta_destroy_commies_desc:0 "The Socialists always had the intention of dragging us back under the Russian boot, we must ensure that never has the potential of happening again."
+###
+ukr_junta_black_sea_germans:0 "Black Sea German Privilages"
+ukr_junta_black_sea_germans_desc:0 "There is a large group of ethnic Germans living on the coast of the Black Sea, granting them special social and economic privilages will bring us closer to Germany herself."
+###
+ukr_junta_land_distribute:0 "Redistribution of Land"
+ukr_junta_land_distribute_desc:0 "The old Kulaks have land spread all throughout Ukraine, we must re-divide the land into even and equal sectors to increase the effeciancy of farming."
+###
+ukr_junta_puppet_rada:0 "Puppet the Rada"
+ukr_junta_puppet_rada_desc:0 "The Rada has long remained a thorn in our side, we will storm the building and put an end to their misbehaviour once and for all."
+###
+ukr_junta_end_elections:0 "Cancel Future Elections"
+ukr_junta_end_elections_desc:0 "Ukraine cannot be trusted with democracy. Elections must never be held again in our nation, lest we elect the Bolsheviks to power."
+###
+ukr_junta_german_ally:0 "A German Alliance?"
+ukr_junta_german_ally_desc:0 "We have been improving relations with the German Reich for months now, and the time has finally come to ask for a formal military alliance against the Russian menace."
+###
+ukr_nat_purge_reds:0 "Purge the Reds"
+ukr_nat_purge_reds_desc:0 "The socialists still hold a strong presence in the countryside of our nation, we must be diligent and thorough in the removal of the reds from Ukraine to prevent a second revolution."
+###
+ukr_nat_ukraine_culture:0 "Promote the Ukrainian Culture"
+ukr_nat_ukraine_culture_desc:0 "We must rid the nation of Russian influence on a personal level, promotion of the Ukrainian culture must be one of our top priorities."
+###
+ukr_nat_centralize:0 "Centralization of Power"
+ukr_nat_centralize_desc:0 "Devolution of power leads to an eventual loss of power and the collapse of government. We must ensure that power is held in a select group of trusted men to strenghen the nation."
+###
+ukr_nat_no_russian:0 "Claims in the East"
+ukr_nat_no_russian_desc:0 "The Donestsk and Voroshilovgrad regions are historically tied to Ukraine, and were seized by the Russians in our fight for independance. We must reassure our claim to the region"
+###
+ukr_nat_construction_projects:0 "National Construction Projects"
+ukr_nat_construction_projects_desc:0 "The people wish to serve the nation, but they have no direction. Using our vast civilian population to build up our industry will put is ahead of our neighbors in Poland and Belarus."
+###
+ukr_nat_peoples_militia:0 "The People's Militia"
+ukr_nat_peoples_militia_desc:0 "The threat of collectivism still looms heavy over our nation, we must arm our loyal citizens and organize them into loose militias to defend against any further socialist incursions."
+###
+ukr_nat_secret_police:0 "Found the VSO"
+ukr_nat_secret_police_desc:0 "The Vnutrishni Syly Oborony, or VSO, will act as the secret police for our government. Their job is to carry out the dirty work and do things that we would rather not acknowledge."
+###
+ukr_nat_militarize_state:0 "Militarization of the State"
+ukr_nat_militarize_state_desc:0 "Our economy is still heavily focused on the civilian industrial aspect, we must begin the shift to a military-industrial complex to ensure the survival of our nation."
+###
+ukr_nat_claim_land:0 "Proclaimation of Greater Ukraine"
+ukr_nat_claim_land_desc:0 "While we may not control the territory of Greater Ukraine, claiming the land is the first step to saving teh Ukrainian people stuck outside of our borders."
+###
+ukr_demo_voting_reform:0 "Voting Reform"
+ukr_demo_voting_reform_desc:0 "The democratic system in our country in flawed and corrupt, we must shake the system up to restore true democracy."
+###
+ukr_demo_farming_help:0 "Assistance to the farmers"
+ukr_demo_farming_help_desc:0 "Providing economic and manpower assistance to the farmers in West Ukraine will allow them to produce more food and outpace the growing deficit we have."
+###
+ukr_demo_left_coop:0 "Cooperation with the Left"
+ukr_demo_left_coop_desc:0 "The people demand rights, and the government demands unity; forming a coalition with the social democrats in government will satisfy both parties."
+###
+ukr_demo_public_works:0 "Public Works"
+ukr_demo_public_works_desc:0 "Public Works projects will provide a sense of unity to the people of Ukraine as they work together for the good of the country."
+###
+ukr_demo_urbanization:0 "Increased Urbanization"
+ukr_demo_urbanization_desc:0 "Rural lifestyle is nice, but the future lies in cities. We must encourage our populace to move into the cities and bring us up to Western standards."
+###
+ukr_demo_ukraine_language:0 "Promotion of the Ukrainian Language"
+ukr_demo_ukraine_language_desc:0 "The increasing influence of the Russian language in our nation must be stopped in its tracks, and the Ukrainian language must take its place."
+###
+ukr_demo_farming_innovation:0 "Farming Innovations"
+ukr_demo_farming_innovation_desc:0 "The kulaks in our country still use outdated and archaic methods and tools, we can increase their efficiancy by providing them with modern tools and farming techniques."
+###
+ukr_demo_farm_union:0 "Controlled Farmers Unions"
+ukr_demo_farm_union_desc:0 "The farmers have long asked for the right to unionize, perhaps we can allow a certain degree of unity as long as they remain under our control and direction."
+###
+ukr_demo_british_pact:0 "British Pact"
+ukr_demo_british_pact_desc:0 "The British Empire played a large part in our early years of independance and fighting off the Soviet forces, perhaps once more joining hands with London will serve us well."
+###
+ukr_demo_french_pact:0 "French Pact"
+ukr_demo_french_pact_desc:0 "The Stahlpakt grows stronger every day, we must find allies on the conteinent if we are to stave off the Germans when they eventually come knocking."
+###
+ukr_demo_bastion:0 "Democratic Bastion"
+ukr_demo_bastion_desc:0 "With the rise of authoritarianism throughout Europe, we must stand strong as a beacon of freedom and liberty."
+###
+ukr_soc_solve_no_food:0 "Solve the Food Problem"
+ukr_soc_solve_no_food_desc:0 "The risk of famine in our nation has held us back for years now, it's time the government stepped in and restored order."
+###
+ukr_soc_consolidate:0 "Consolidate the Party"
+ukr_soc_consolidate_desc:0 "The party is split between liberal and conservative factions, we must bring these sides together if we are to govern the nation effectivly."
+###
+ukr_soc_extort_kulaks:0 "Extort the Kulaks"
+ukr_soc_extort_kulaks_desc:0 "The Kulaks have long ignored our orders, and have acted with great autonomy. It's time to reign the kulaks in and bring them under our control."
+###
+ukr_soc_farm_money:0 "Farming Subsidies"
+ukr_soc_farm_money_desc:0 "The farming communities across Ukraine are teetering on the brink of economic collapse, we must divert funds to these farms to ensure food production is kept up to standard."
+###
+ukr_soc_purge_right:0 "Destroy hyper-nationalism"
+ukr_soc_purge_right_desc:0 "The OUN still holds significant power in the Ukrainian government and is popular with the people, we must campaign against them to ensure they never re-enter the political spectrum."
+###
+ukr_soc_reorganize_land:0 "Reorganization of land"
+ukr_soc_reorganize_land_desc:0 "We must sieze and reorganize the land in the rural countryside of Ukraine in order to improve land use."
+###
+ukr_soc_language_debate:0 "The Language Debate"
+ukr_soc_language_debate_desc:0 "We will hold a public debate to determine the future of language in Ukraine, and end this devisive issue once and for all."
+###
+ukr_soc_demote_valkism:0 "Discredit Valkism"
+ukr_soc_demote_valkism_desc:0 "Valkism, while still relatively new, has quickly proven to be a hostile and volitile ideology that threatens to upset the balance of power in Europe, we must make sure the world knows our stance."
+###
+ukr_soc_socialist_haven:0 "Socialist Haven"
+ukr_soc_socialist_haven_desc:0 "Ukraine has become a haven for socialism in Europe, and our rule has become more stable as a result."
+###
+ukr_soc_russian_pact:0 "Pact with Moscow"
+ukr_soc_russian_pact_desc:0 "We must accept that we will always remain a junior partner to the Russian bear, perhaps joining the international voluntarily will spare us from the worst of the extortion."
+###
+ukr_soc_socialist_republic:0 "The Socialist Republic"
+ukr_soc_socialist_republic_desc:0 "After many months of hard work, we can finally make the transition to a truly socialist Republic."
+###
+ukr_look_outwards:0 "Look Outwards"
+ukr_look_outwords_desc:0 "With stability restored in Ukraine, we can finally look beyond our borders and begin to fufill the dream of Greater Ukraine."
+###
+ukr_attack_russia:0 "Begin the Great Struggle"
+ukr_attack_russia_desc:0 "The time has come, we will march to Moscow and burn the Kremlin to the ground. We will avenge our fallen brothers, and free Ukraine from the shackles of Russian opression forever."
+###
+ukr_poland_deal:0 "A deal with Poland"
+ukr_poland_deal_desc:0 "Poland took Galicia from us in the chaos of the 1920s, perhaps we can come to an agreement to regain the territory peacefully and join in an alliance with the Poles."
+###
+ukr_attack_poland:0 "Attack Poland"
+ukr_attack_poland_desc:0 "The Poles cannot be trusted, we must strike first before they able to attack us."
+###
+ukr_invite_romania:0 "Invite Romania to the Alliance"
+ukr_invite_romania_desc:0 "The Romanians will give us access to the Balkans as well as their vast oil fields, having them on our side is paramount."
+###
+ukr_core_galicia:0 "Reinstate our rule in Galicia."
+ukr_core_galicia_desc:0 "Now that we are in control of Galicia, we must bring the area back into the fold and administer it properly."
+###
+ukr_red_revolution:0 "The Crimson Revolution"
+ukr_red_revolution_desc:0 "The Communists have taken control of Kiev, and the rest of the country has fallen under the red banner of socialism. A new era has dawned for Ukraine, an era surely to be full of happiness and prosperity."
+###
+ukr_first_meeting:0 "First Meeting of the Central Committee"
+ukr_first_meeting_desc:0 "The three main leaders of the revolution are spread out across the nation, we must call a meeting of the Central Committee and gather all three men in Kiev to determine the future of our nation."
+
+
+##############
+### EVENTS ###
+##############
+
+ukraine.1.t:0 "Ukraine in 1936"
+ukraine.1.d:0 "Someone remind me to write this before 0.2"
+ukraine.1.a:0 "Onward, for the people!"
+###
+ukraine.2.t:0 "Ukraine enters economic downturn."
+ukraine.2.d:0 "Someone remind me to write this before 0.2"
+ukraine.2.a:0 "Blast!"
+###
+ukraine.3.t:0 "The 1936 Election"
+ukraine.3.d:0 "Someone remind me to write this before 0.2"
+ukraine.3.a:0 "The democratic process continues once more..."
+###
+ukraine.4.t:0 "Socialists make a speech in Kharkov"
+ukraine.4.d:0 "Someone remind me to write this before 0.2"
+ukraine.4.a:0 "You know, they have a point."
+ukraine.4.b:0 "Denounce the speech."
+ukraine.4.c:0 "We will  make no comment."
+###
+ukraine.5.t:0 "Government sponsered radio broadcast"
+ukraine.5.d:0 "Someone remind me to write this before 0.2"
+ukraine.5.a:0 "Praise the sitting government."
+ukraine.5.b:0 "Praise the opposition."
+ukraine.5.c:0 "Make a jingoistic speech."
+###
+ukraine.6.t:0 "prominent Rada member assassinated!"
+ukraine.6.d:0 "Someone remind me to write this before 0.2"
+ukraine.6.a:0 "A member of the sitting government will take his place."
+ukraine.6.b:0 "A member of the opposition party will take his place."
+ukraine.6.c:0 "A member of the nationalist party will take his place."
+###
+ukraine.7.t:0 "The elections have finished!"
+ukraine.7.d:0 "Someone remind me to write this before 0.2"
+ukraine.7.a:0 "The Social Democrats have won the election"
+ukraine.7.b:0 "The Market Liberals have won the election"
+ukraine.7.c:0 "The National Populists have won the election"
+###
+ukraine.8.t:0 "Minorities within Ukraine express fear."
+ukraine.8.d:0 "Someone remind me to write this before 0.2"
+ukraine.8.a:0 "We must ensure they feel safe."
+ukraine.8.b:0 "They are nothing more than a leech on our nation."
+###
+ukraine.9.t:0 "Riots across Ukraine."
+ukraine.9.d:0 "Someone remind me to write this before 0.2"
+ukraine.9.a:0 "The local police will deal with the issue."
+###
+ukraine.10.t:0 "Local police defects!"
+ukraine.10.d:0 "Someone remind me to write this before 0.2"
+ukraine.10.a:0 "Call in the army!"
+###
+ukraine.11.t:0 "Army declares nationwide martial law"
+ukraine.11.d:0 "Someone remind me to write this before 0.2"
+ukraine.11.a:0 "Is this a coup?"
+###
+ukraine.12.t:0 "Proclaimation of Greater Ukraine"
+ukraine.12.d:0 "Someone remind me to write this before 0.2"
+ukraine.12.a:0 "Onward, for Ukraine!"
+###
+ukraine.13.t:0 "Ukraine applies to join the IPA"
+ukraine.13.d:0 "Someone remind me to write this before 0.2"
+ukraine.13.a:0 "Absolutely!"
+ukraine.13.b:0 "Absolutely not!"
+###
+ukraine.14.t:0 "Ukraine applies to join the Continential Entente"
+ukraine.14.d:0 "Someone remind me to write this before 0.2"
+ukraine.14.a:0 "Absolutely!"
+ukraine.14.b:0 "Absolutely not!"
+###
+ukraine.15.t:0 "The Language Issue"
+ukraine.15.d:0 "someone remind me to write this before 0.2"
+ukraine.15.a:0 "We will promote the Ukrainian language."
+ukraine.15.b:0 "We will promote the Russian language."
+ukraine.15.c:0 "We will promote both languages."
+###
+ukraine.16.t:0 "Ukraine wishes to join the International"
+ukraine.16.d:0 "someone remind me to write this before 0.2"
+ukraine.16.a:0 "Welcome, our socialist brothers!"
+ukraine.16.b:0 "No, Russia will conquer all."
+###
+ukraine.17.t:0 "Ukraine wishes to join the Stahlpakt"
+ukraine.17.d:0 "someone remind me to write this before 0.2"
+ukraine.17.a:0 "Ukraine is indespensible in the conquest of Russia."
+ukraine.17.b:0 "We will march into Kiev soon enough anyway,"
+###
+ukraine.18.t:0 "Ukraine demands Bessarabia!"
+ukraine.18.d:0 "someone remind me to write this before 0.2"
+ukraine.18.a:0 "We cannot afford another costly war"
+ukraine.18.b:0 "We will not surrender so easily!"
+###
+ukraine.19.t:0 "Romania cedes Bessarabia"
+ukraine.19.d:0 "someone remind me to write this before 0.2"
+ukraine.19.a:0 "One step closer to the dream of greater Ukraine!"
+###
+ukraine.20.t:0 "Romania refuses to cede Bessarabia"
+ukraine.20.d:0 "someone remind me to write this before 0.2"
+ukraine.20.a:0 "Fine, they can have it."
+ukraine.20.b:0 "We will not be ignored. To war, by jingo!"
+###
+ukraine.21.t:0 "Ukraine proposes a deal"
+ukraine.21.d:0 "someone remind me to write this before 0.2"
+ukraine.21.a:0 "We need the Ukrainians on our side"
+ukraine.21.b:0 "We will not surrender the lands we fought so hard to reclaim"
+###
+ukraine.22.t:0 "Poland accepts the deal"
+ukraine.22.d:0 "someone remind me to write this before 0.2"
+ukraine.22.a:0 "We will be stonger together."
+###
+ukraine.23.t:0 "Poland declines our offer"
+ukraine.23.d:0 "someone remind me to write this before 0.2"
+ukraine.23.a:0 "Then they will fall."
+ukraine.23.b:0 "We will take Poland by force!"
+###
+ukraine.24.t:0 "Ukraine invites us to their alliance"
+ukraine.24.d:0 "someone remind me to write this before 0.2"
+ukraine.24.a:0 "We will join our southern brothers."
+ukraine.24.b:0 "We will not go down with the sinking ship."
+###
+ukraine.25.t:0 "Belarus joins our alliance"
+ukraine.25.d:0 "someone remind me to write this before 0.2"
+ukraine.25.a:0 "We are stronger together"
+###
+ukraine.26.t:0 "Belarus declines our offer"
+ukraine.26.d:0 "someone remind me to write this before 0.2"
+ukraine.26.a:0 "A poor decision on their behalf."
+ukraine.26.b:0 "We will march onto Minsk!"
+###
+ukraine.27.t:0 "Ukraine offers us an alliance"
+ukraine.27.d:0 "someone remind me to write this before 0.2"
+ukraine.27.a:0 "For the good of our nation, we accept"
+ukraine.27.b:0 "A Ukrainian-led intermarium? What a joke."
+###
+ukraine.28.t:0 "Romania accepts the alliance offer"
+ukraine.28.d:0 "someone remind me to write this before 0.2"
+ukraine.28.a:0 "A wise decision."
+###
+ukraine.29.t:0 "Romania declines our offer"
+ukraine.29.d:0 "someone remind me to write this before 0.2"
+ukraine.29.a:0 "Then they will be lost to the annals of history."
+ukraine.29.b:0 "To Bucharest!"
+###
+ukraine.30.t:0 "Ukraine extends an alliance"
+ukraine.30.d:0 "someone remind me to write this before 0.2"
+ukraine.30.a:0 "For our own survival, we accept"
+ukraine.30.b:0 "We do not need to bow to others in order to ensure our survival."
+###
+ukraine.31.t:0 "Lithuania joins the alliance"
+ukraine.31.d:0 "someone remind me to write this before 0.2"
+ukraine.31.a:0 "Our alliance grows stronger by the day"
+###
+ukraine.32.t:0 "Lithuania refuses our offer"
+ukraine.32.d:0 "someone remind me to write this for 0.2"
+ukraine.32.a:0 "Fools, all of them."
+ukraine.32.b:0 "We need a Baltic coastline"
+###
+ukraine.33.t:0 "The Committee is quorum"
+ukraine.33.d:0 "With the arrival of Makhno, Khrushchev, and Kosior in Kiev, the Central Committee can now begin to discuss the future of our nation and the people we rule over. over the coming days the committee will decide on matters ranging from the economy to the military and foreign policy."
+ukraine.33.a:0 "Lets hope the discussion remains civil."
+###
+ukraine.34.t:0 "The Economic Policy"
+ukraine.34.d:0 "The Ukrainian Economy is full of capitalism and corruption, and each of our three leaders has proposed their own policy and plan for revitalizing and rebirthing the economy. \n\nKosier proposal a form of collectivisation, bringing all aspects of the economy under the control of the state. \n\nKhrushchev's proposal places a heavy emphasis on agriculture and the production of food on a nationwide scale, and a heavy level of micromanagment within the economy. \n\nMakhno proposes a radical policy of highly autonomous communes throughout Ukraine spearheaded by the peasants and workers of the region. He also wishes to sieze large ammounts of private property and distribute it back to the people."
+ukraine.34.a:0 "Kosier's Proposal Passes"
+ukraine.34.b:0 "Khrushchev's Proposal Passes"
+ukraine.34.c:0 "Makhno's Proposal Passes"
+###
+ukraine.35.t:0 "The Military Policy"
+ukraine.35.d:0 "The Ukrainian Military has always been woefully underequipped and comparatively small in relation to our neighbors. A radical change will need to be undertaken if we are to survive the many challenges that will face Ukraine in the near future. \n\nKosier wishes to create a red army loyal to the government, and not the state. Political repression, the quelling of unrest, and the defense of the nation will all be handed over to the military, creating an extremely military oriented state. \n\nKhruschev's plan includes the purging of several officers and thousands of supposedly disloyal soldiers to ensure that the army remains loyal, the formation of a national army from all areas of Ukraine meant to increase the sense of national unity, and the lending of foriegn rifle models. \n\nMakhno's proposal includes the drafting of local militias from towns across Ukraine, and the formation of 'horodyany' with the intention of defending every inch of Ukraine, should an invasion destroy the main bulk of the army."
+ukraine.35.a:0 "Kosier's Proposal Passes"
+ukraine.35.b:0 "Khrushchev's Proposal Passes"
+ukraine.35.c:0 "Makhno's Proposal Passes"
+###
+ukraine.36.t:0 "The Foreign Policy"
+ukraine.36.d:0 "Ukraine has been diplomatically isolated and under pressure from its neighbors, and the disaster that was the Polish-Ukrainian war is still fresh in the memory of many people in our nation. A new foriegn policy will need to be adapted if we are to survive the upcoming years. \n\nKosier champions a 'realpolitik' stance, arguing that historical rivalries and grudges should be put aside for practical alliances against the true enemies of Ukraine. \n\nKhrushchev wishes to see a rejuvinated alliance with the Russians, and closer cooperation with the soviet government in Moscow. This comes at the risk of possibly being reincoperated into the Russian government, but Khrushchev has ensured the committee that nothing of the sort will happen. \n\nMakhno holds the most radical views, arguing that nobody can be trusted outside of Ukraine, and that alliances with foreign powers will lead only to ruin and despair."
+ukraine.36.a:0 "Kosier's Proposal Passes"
+ukraine.36.b:0 "Khrushchev's Proposal Passes"
+ukraine.36.c:0 "Makhno's Proposal Passes"
+###
+ukraine.37.t:0 "The Internal Policy"
+ukraine.37.d:0 "The administration of Ukraine is sloppy and inefficient, with corruption being found in every corner. The reformation of the adminstrative department will be difficult and require radical methods. \n\nKosier wishes to impliment a policy of 'chitkist', meant to root out corruption and treachery wherever it is found at all levels of government and society. The military, of course, will be the instruments of this plan. \n\nKhrushchev wishes to follow his policy of show trials and purges meant to root out disloyalty to the party and ensure that thre is no opposition within the nation. \n\nMakhno's plan involves the commissioning of 'bluzky', a glorified death squad meant to strike fear into the hearts of the government and people alike. This plan is the most radical of the three, and Khrushchev has personally denounced the plan, calling it 'mad and insane'."
+ukraine.37.a:0 "Kosier's Proposal Passes"
+ukraine.37.b:0 "Khrushchev's Proposal Passes"
+ukraine.37.c:0 "Makhno's Proposal Passes"
+###
+ukraine.38.t:0 "Kosier moves to demote other members of the Committee"
+ukraine.38.d:0 "With his policies taking a majority in the meetings of the past week, Kosier has moved to demote the other members of the Central Committee and assume direct control of the nation. The other members of the Committee must now decide to either oppose or accept his decision."
+ukraine.38.a:0 "Kosier will lead the nation with a firm hand"
+ukraine.38.b:0 "This blatent attempt at consolidating power will not be tolerated."
+###
+ukraine.39.t:0 "Khrushchev moves to demote other members of the Committee"
+ukraine.39.d:0 "With his policies taking a majority in the meetings of the past week, Khrushchev has moved to demote the other members of the Central Committee and assume direct control of the nation. The other members of the Committee must now decide to either oppose or accept his decision."
+ukraine.39.a:0 "Khrushchev will lead the nation with a firm hand"
+ukraine.39.b:0 "This blatent attempt at consolidating power will not be tolerated."
+###
+ukraine.40.t:0 "Makhno moves to demote other members of the Committee"
+ukraine.40.d:0 "With his policies taking a majority in the meetings of the past week, "Makhno has moved to demote the other members of the Central Committee and assume direct control of the nation. The other members of the Committee must now decide o either oppose or accept his decision."
+ukraine.40.a:0 "Makhno will lead the nation with a firm hand"
+ukraine.40.b:0 "This blatent attempt at consolidating power will not be tolerated."
+###
+ukraine.41.t:0 "Kosier Launches Coup!"
+ukraine.41.d:0 "After being absent for several days, Makno has returned to the Kremlin with elements of the army at his back. He demands that the committee step down and allow him to assume control of the government and restore order to the country. \n\nAllowing Kosier to take control would surely lead to a reign of terror, and the rise of a totalitarian state, but it may in fact be in the best interests of the country to simply let him walk in and assume the role of Chairman."
+ukraine.41.a:0 "The Committee steps down."
+ukraine.41.b:0 "The Army arrives and restores order."
+###
+ukraine.42.t:0 "Kosier accepts the Committee's decision."
+ukraine.42.d:0 "After a tense set of days, Kosier has decided that retracting his motion is in the best interests of both the party and the people alike. He will return to his position as a member of the committee, but will wield significantly less influence and power within the central government."
+ukraine.42.a:0 "Another victory for the people."
+###
+ukraine.43.t:0 "Khrushchev Launches Coup!"
+ukraine.43.d:0 "After being absent for several days, Makno has returned to the Kremlin with elements of the army at his back. He demands that the committee step down and allow him to assume control of the government and restore order to the country. \n\nAllowing Khrushchev to take control would surely lead to a reign of terror, and the rise of a totalitarian state, but it may in fact be in the best interests of the country to simply let him walk in and assume the role of Chairman."
+ukraine.43.a:0 "The Committee steps down."
+ukraine.43.b:0 "The Army arrives and restores order."
+###
+ukraine.44.t:0 "Khrushchev accepts the Committee's decision."
+ukraine.44.d:0 "After a tense set of days, Khrushchev has decided that retracting his motion is in the best interests of both the party and the people alike. He will return to his position as a member of the committee, but will wield significantly less influence and power within the central government."
+ukraine.44.a:0 "Another victory for the people."
+###
+ukraine.45.t:0 "Makhno Launches Coup!"
+ukraine.45.d:0 "After being absent for several days, Makno has returned to the Kremlin with elements of the army at his back. He demands that the committee step down and allow him to assume control of the government and restore order to the country. \n\nAllowing Makhno to take control would surely lead to a reign of terror, and the rise of a totalitarian state, but it may in fact be in the best interests of the country to simply let him walk in and assume the role of Chairman."
+ukraine.45.a:0 "The Committee steps down."
+ukraine.45.b:0 "The Army arrives and restores order."
+###
+ukraine.46.t:0 "Makhno accepts the Committee's decision."
+ukraine.46.d:0 "After a tense set of days, Makhno has decided that retracting his motion is in the best interests of both the party and the people alike. He will return to his position as a member of the committee, but will wield significantly less influence and power within the central government."
+ukraine.46.a:0 "Another victory for the people."
+###
+
+
+###############
+### SPIRITS ###
+###############
+
+UKR_famine_spook:0 "Fear of famine"
+UKR_famine_spook_desc:0 "The Great Famine during the early 1930s is still fresh in the mind of many Ukrainians, and both our rural and urban population live in daily fear of another famine."
+###
+UKR_language_problem:0 "The Language Issue"
+UKR_language_problem_desc:0 "Our nation is linguistically torn between the Russian and Ukrainian languages. If we do not find a solution to this issue, we may find our national stability compromised."
+###
+UKR_modern_army:0 "A Modern Army"
+UKR_modern_army_desc:0 "A modern army is the key to victory on the  battlefield. We will defeat our enemies with superior weapons and tactics."
+###
+UKR_ger_modern_army:0 "A Modern Army"
+UKR_ger_modern_army_desc:0 "A modern army is the key to victory on the  battlefield. We will defeat our enemies with superior weapons and tactics."
+###
+UKR_eng_modern_army:0 "A Modern Army"
+UKR_eng_modern_army_desc:0 "A modern army is the key to victory on the  battlefield. We will defeat our enemies with superior weapons and tactics."
+###
+UKR_fra_modern_army:0 "A Modern Army"
+UKR_fra_modern_army_desc:0 "A modern army is the key to victory on the  battlefield. We will defeat our enemies with superior weapons and tactics."
+###
+UKR_fighter_quantity:0 "Increased Fighter Production"
+UKR_fighter_quantity_desc:0 "A larger focus on the production of fighter aircraft has allowed us to increase production efficiancy and decrease costs."
+###
+UKR_minority_happy:0 "Minority appeasement"
+UKR_minority_happy_desc:0 "The rise of nationalist factions in Ukrainian politics has left many ethnic minorities worrying for their safety. We must ensure that our citizens feel safe, no matter their national alliegance."
+###
+UKR_lsmc:0 "Economic Downturn"
+UKR_lsmc_desc:0 "The Ukrainian economy has enterd a collapse, and we must work quickly to reverse this crisis before it leads to bigger problems."
+###
+UKR_lsmc2:0 "Economic Downturn"
+UKR_lsmc2_desc:0 "The Ukrainian economy has enterd a collapse, and we must work quickly to reverse this crisis before it leads to bigger problems."
+###
+UKR_lsmc3:0 "Economic Downturn"
+UKR_lsmc3_desc:0 "The Ukrainian economy has enterd a collapse, and we must work quickly to reverse this crisis before it leads to bigger problems."
+###
+UKR_lsmc4:0 "Economic Downturn"
+UKR_lsmc4_desc:0 "The Ukrainian economy has enterd a collapse, and we must work quickly to reverse this crisis before it leads to bigger problems."
+###
+UKR_economic_boost:0 "Economic Revitalization"
+UKR_economic_boost_desc:0 "Our economy has been rebirthed by the economic crisis, and we are now able to operate far more effeciantly than we have before."
+###
+UKR_admin_reforms:0 "Administrative Reforms"
+UKR_admin_reforms_desc:0 "With the military in control, we need to make drastic changes to the the administration of the state in order for everything to run smooth and effeciantly."
+###
+UKR_german_economy:0 "German Economic Reliance"
+UKR_german_economy_desc:0 "Increasing trade with Germany will bring our two nations closer together."
+###
+UKR_admin_reforms2:0 "Administrative Reforms"
+UKR_admin_reforms2_desc:0 "With the military in control, we need to make drastic changes to the the administration of the state in order for everything to run smooth and effeciantly."
+###
+UKR_black_sea_ger:0 "Black Sea German Privilages"
+UKR_black_sea_ger_desc:0 "We hold a sizable population of Germans along the Black Sea coastline. Granting these Germans social and economic privilages will bring us closer to Germany, and help us to forge an alliance."
+###
+UKR_culture:0 "Promotion of Ukrainian Culture"
+UKR_culture_desc:0 "We are Ukrainians, strong and proud. We must ensure that the Ukrainian identity is promoted and we distance ourselves from our Russian-dominated past."
+###
+UKR_centralize:0 "Centralization of Power"
+UKR_centralize_desc:0 "Power must be centralized at the head to ensure a long and stable reign over the nation."
+###
+UKR_secret_police:0 "VUChK"
+UKR_secret_police_desc:0 "The VUChK operates as a secret police for the Ukrainian government, capturing and destroying the enemies of the state in a discrete and efficiant manner."
+###
+UKR_state_militarism:0 "State Militarism"
+UKR_state_militarism_desc:0 "Ukraine is trapped between the superpowers of Germany and Russia, we must prepare every civilian in every city to defend the nation until their dying breath."
+###
+UKR_voting_reform:0 "Voting Reform"
+UKR_voting_reform_desc:0 "The corrupt elections of the past must come to an end to ensure that radical parties on either side of the spectrum stay off the political stage."
+###
+UKR_big_corn:0 "Food Surplus"
+UKR_big_corn_desc:0 "Government subsidies into the farming sector have led to a surplus of food, especially corn, across Ukraine. Any fear of another great famine have been dashed"
+###
+UKR_left_coop:0 "Cooperation with the left"
+UKR_left_coop_desc:0 "Cooperation with the left-leaning political parties in our nation have led to an increase in the efficiancy of our bureaucracy, as well as an increase in popular support for socialist elements within our nation"
+###
+UKR_breadbasket:0 "Farming Innovations"
+UKR_breadbasket_desc:0 "New technologies in the farming sector have led to an increase in efficiancy in several sectors of our nation."
+###
+UKR_farmer_unions:0 "Controlled Farmers Unions"
+UKR_farmer_unions_desc:0 "Allowing farmers unions will lower unrest in the rural countryside, and give us a degree of control over the production of food."
+###
+UKR_farm_money:0 "Farming Subsidies"
+UKR_farm_money_desc:0 "Our farming communities simply aren't profitable enough, we must influx some cash in order to stimulate growth in the sector."
+###
+UKR_agriculture_boost:0 "Agriculture Boost"
+UKR_agriculture_boost_desc:0 "The people must unite to provide food for our vast and growing nation, and we must do our duty to encourage this behavour."
+###
+UKR_ukraine_language:0 "Ukrainian Language Promotion"
+UKR_ukraine_language_desc:0 "The Ukrainian language is being promoted across the nation, boosting nationalism and angering ethnic minorities."
+###
+UKR_russian_language:0 "Russian Language Promotion"
+UKR_russian_language_desc:0 "The Russian language is being promoted across the nation, boosting support for Russian minorities and angering the general populace."
+###
+UKR_bilingual:0 "Bilingual Language Promotion"
+UKR_bilingual_desc:0 "A bilingual system is being promoted across the nation, pleasing both Ukrainians and Russians, but infuriating ethnic minorities which speak neither language naturally."
+###
+UKR_socialist_republic:0 "The Socialist Republic"
+UKR_socialist_republic_desc:0 "Ukraine has bridged the ideological gap between democracy and socialism, and we now stand at a crossroads between Germany and Russia. We must choose our ally wisely if we are to see the survival of our nation."
+###
+UKR_expansionism:0 "Expansionism"
+UKR_expansionism_desc:0 "The Ukrainian people must be ready for war on all sides, and our army must be large enough to cover the many fronts."
+###
+UKR_wartime_prep:0 "Wartime Preperations"
+UKR_wartime_prep_desc:0 "The situation in Europe is growing more and more dangerous by the day, we must prepare the nation for war if we are to survive the next few years."
+###
+UKR_infrastructure_effort:0 "Infrastructure Effort"
+UKR_infrastructure_effort_desc:0 "Ukraine's infrastructure sector has always been lacking compared to our neighbours, we must take special effort to improve this situation."
+###
+UKR_industrial_effort:0 "Industrial Effort"
+UKR_industrial_effort_desc:0 "An increased focus on civilian industry will allow us to keep up with our current and future enemies both on the battlefield and the homefront"
+###
+UKR_food_imports:0 "Food Imports"
+UKR_food_imports_desc:0 "Importing food will take the burden off our farmers and allow them to work in other areas."
+###
+UKR_logistics:0 "Logistical Improvements"
+UKR_logistics_desc:0 "Ensuring that our troops have supplies is the key to victory on the field."
+
+
+###############
+### OPINION ###
+###############
+
+UKR_german_officers:0 "German officers in Ukraine"
+UKR_british_officers:0 "British officers in Ukraine"
+UKR_french_officers:0 "French officers in Ukraine"
+UKR_german_economy:0 "German Economic Assistance"
+UKR_black_sea:0 "Privilages to the Black Sea Germans"
+UKR_promote_ukrainian:0 "Promotion of the Ukrainian Language"
+UKR_demote_valkism:0 "Demotion of Valkism"
+
+
+#############
+### FLAGS ###
+#############
+
+UKR_bw:0 "Ukraine is suffering from economic downturn"
+ukr_commie_coup:0 "The Communists have taken control"
+
+
+################
+### TOOLTIPS ###
+################
+
+ukr_militia_rise:0 "Militia regements will be raised across Ukraine."
+ukr_commie_meeting:0 "§GIn a few days the United Communist Government will meet in Kiev§!\n"
+movement_accept:0 "§GThe Committee accepts the movement and steps down.§!\n"
+movement_deny:0 "§RThe Committee forms a voting bloc and prevents the movement from passing.§!\n"
+kosier_fights_back:0 "§RKosier attempting to take power by force.§!\n"
+kosier_accepts:0 "§GKosier accepting the Committee's decision§!\n."
+khrushchev_fights_back:0 "§RKhrushchev attempting to take power by force.§!\n"
+khrushchev_accepts:0 "§GKhrushchev accepting the Committee's decision§!\n."
+makhno_fights_back:0 "§RMakhno attempting to take power by force.§!\n"
+makhno_accepts:0 "§GMakhno accepting the Committee's decision§!\n."
+
+################
+### FACTIONS ###
+################
+
+ukr_intermarium:0 "Dnieper Alliance"

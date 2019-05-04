@@ -1,0 +1,35 @@
+﻿l_english:
+
+### Political Parties ###
+
+HAI_vanguardist_party:0 "PcH"
+HAI_vanguardist_party_long:0 "Parti communiste Haïtien"
+HAI_collectivist_party:0 "PpH"
+HAI_collectivist_party_long:0 "Parti du peuple Haïtien"
+HAI_libertarian_socialist_party:0 "GHL"
+HAI_libertarian_socialist_party_long:0 "Gratuit Haiti League"
+HAI_social_democrat_party:0 "S"
+HAI_social_democrat_party_long:0 "Socialistes"
+HAI_social_liberal_party:0 "PnTO"
+HAI_social_liberal_party_long:0 "Parti nationale des Taureau-Orignaux"
+HAI_market_liberal_party:0 "L"
+HAI_market_liberal_party_long:0 "Libéraux"
+HAI_social_conservative_party:0 "PMLC"
+HAI_social_conservative_party_long:0 "Parti de la Monarchie Libérale Constitutionnelle"
+HAI_authoritarian_democrat_party:0 "American Plebiscite"
+HAI_authoritarian_democrat_party_long:0 "American Plebiscite"
+HAI_paternal_autocrat_party:0 "House of Dessalines"
+HAI_paternal_autocrat_party_long:0 "House of Dessalines"
+HAI_national_populist_party:0 "Nationaux"
+HAI_national_populist_party_long:0 "Nationaux"
+HAI_valkist_party:0 "PANH"
+HAI_valkist_party_long:0 "Parti Agraire National Haïtien"
+
+#### Ideas ####
+
+HAI_american_infrastructure_financing:0 "American Infrastructure Financing"
+HAI_american_infrastructure_financing_desc:0 "One of the first goals of the American occupiers was to greatly expand infrastructure on the island. This goal is still being worked toward."
+HAI_american_military_occupation:0 "American Military Occupation"
+HAI_american_military_occupation_desc:0 "The United States of America has occupied this island after deeming its debts to the country too great to ignore lightly."
+HAI_demoralized_peoples:0 "Demoralized Peoples"
+HAI_demoralized_peoples_desc:0 "The people of Haiti are extremely demoralized. Before the oppressive American occupation, it was a corrupt native government, and before that violent Spanish slavedrivers. Citizens of the island want this situation to change, but worry constantly arises that that revolutionary government will be even worse than the current one."

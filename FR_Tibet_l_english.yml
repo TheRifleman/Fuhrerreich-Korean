@@ -1,0 +1,20 @@
+﻿l_english:
+### DECISIONS ###
+TIB_war_decisions:0 "War decisions"
+TIB_invade_sichuan:0 "Invade Sichuan Clique"
+TIB_invade_ma:0 "Invade Ma Clique"
+TIB_invade_bhutan:0 "Invade Bhutan"
+TIB_invade_kashmir:0 "Invade Kashmir"
+TIB_core_decisions:0 "Integration decisions"
+TIB_bhutan_integration:0 "Integrate Bhutan"
+TIB_north_integration:0 "Integrate Amdo"
+TIB_east_integration:0 "Integrate Kham"
+#Events
+tib.alliance.1.t:0 "Tibet proposes an alliance"
+tib.alliance.1.d:0 ""
+tib.alliance.1.a:0 "We shall fight together!"
+tib.alliance.1.b:0 "We are not their lapdogs!"
+tib.alliance.2.t:0 "Mongolia refuses our offer"
+tib.alliance.2.d:0 ""
+tib.alliance.2.a:0 "Then we will achieve victory alone!"
+

@@ -1,0 +1,127 @@
+﻿l_english:
+
+#################
+#####THE RAJ#####
+#################
+
+#####Ideas#####
+
+RAJ_poor_conditions:0 "Poor Conditions"
+RAJ_poor_conditions_desc:0 "A plethora of poor working conditions for the population has generated great resentment to our rule in India, almost at every turn in politics we are presented with demands to improve the situation."
+RAJ_colonial_administration:0 "Colonial Administration"
+RAJ_colonial_administration_desc:0 "While we can claim to rule India, there is no question as to who rules us. Due to this arrangement many view our Government as illegitimate and are as such unwilling to fight to ensure its survival. Additionally many of the country's best minds prefer to leave rather than stay, hampering our research capabilities."
+RAJ_poor_training:0 "Inefficient Training"
+RAJ_poor_training_desc:0 "Improper training procedures and a general lack of discipline in the army has led to it being an incredibly incapable force, suited only for policing. On the bright side we can at least train our soldiers quicker."
+RAJ_reconquest_campaign:0 "Beginning the Reconquest"
+RAJ_improved_conditions:0 "Improved Conditions"
+RAJ_exiled_government:0 "Our Government in Exile"
+RAJ_full_reform:0 "Fully Reformed Administration"
+RAJ_partial_reform:0 "Partially Reformed Administration"
+RAJ_bare_reform:0 "Barely Reformed Administration"
+
+#####Decisions#####
+
+RAJ_national_reforms:0 "National Reforms"
+RAJ_improving_conditions:0 "Improve Living and Working Conditions"
+RAJ_reforming_military:0 "Reforming the Military"
+RAJ_reforming_admin:0 "Reforming the Administration"
+
+#####Events#####
+
+raj.1.d:0 "We have been pushed out of India by those blasted rebels! While we prepare for the reconquest, we shall remain in exile on Ceylon.\n\n Our loss is a travesty and an insult to the Empire, but we shall return one day, the Indians are incapable of governing themselves and soon they shall splinter and collapse. When that happens, that is when we strike."
+raj.2.d:0 "The motherland has informed us that they are preparing for a reconquest of India. The time has come for us to regain what is rightfully ours, the Raj shall return in all it's glory and when we do we shall be sure to crush ideas of Indian independence once and for all!"
+raj.3.d:0 "Following the recent economic crisis, the British Government has reviewed every sector of the Empire thoroughly as it has become evident that modernisation and reform is necessary for the Empire to remain the leading power in the world. As a result, we welcome the King and his group of administrators as they prepare for their review of the Raj. They claim that this review is for the survival of British rule in India, as without reform and modernisation a rebellion akin to that of 1935 is sure to happen again."
+raj.4.d:0 "The British review has begun today, and they have started with perhaps the largest part. Our administration.\n\nTheir investigation has exposed a great deal of corruption and inefficiency within the ruling of our nation. They also claim that a major cause of the 1935 rebellion was the lack of representation of the Indian people in the administration.\n\nTheir 'suggestion' to us is to begin drafting a new Government of India Act to align with the demands of the 1935 rebels as well as the demands of the more prominent activists within India. We can also ignore the suggestions of the British, but it may be unwise to do so."
+raj.5.d:0 "The Royal Review continues, and today the military of the Raj came under scrutiny. The report claims that the conditions of our soldiers is far below the basic requirements of an effective military, and that our training methods are outdated and completely ineffective. As a result, the Raj is almost entirely reliant on British military assistance in dealing with big matters such as major rebellions. The British have informed us that they cannot support us militarily forever, and that it would be most wise for us to seek to form an effective fighting force. After all, they are on the other side of the globe."
+raj.6.d:0 "Rather unexpectedly, the Royal Review today looked into the living and working conditions of the citizens of the Raj. They were appalled by what they saw. They report seeing some of the worst poverty and squalor they had ever seen, particularly within the major cities such as Delhi.\n\nAdditionally, heavy criticism has been levied against the working conditions within the Raj with reports stating that many urban workers faced totally inhumane conditions with minimal pay and that agricultural sectors of the Raj faced extortionate prices and had much of their produce requisitioned by the landowners for profit. They have told us, with great importance, that this has turned India into a hot bed of revolutionary activity and that unless the situation is resolved soon, the whole Raj will face a rebellion far larger then anything we have seen before."
+raj.7.d:0 "Today, the King and his Royal Administrators finished their review and presented us with the final report.\n\nTheir largest areas of concern were with the living and working conditions within the nation and our administration, they claim that the current state of things will surely lead to revolution and bloodshed in India on a scale far larger then what we fought just a few years ago. They also say that, our failure to reform soon will result in the total collapse of British rule in India and that even Britain will be powerless to stop things then."
+raj.8.d:0 "Following the Royal Review, we have come to realise that the current administration of this Raj is completely outdated and that a certain degree of reform is needed for us to survive in the modern world. We have therefore begun drafting a new Government of India Act and have called major political activists and opposition to the Raj to Delhi for a meeting with the Viceroy and the current administration in the hope that together a compromise can be reached and that British rule can be preserved for a long time to come."
+raj.9.d:0 "Today discussion began and it didn't take long for perhaps the biggest issue to be raised: elections. The vast majority of those meeting with the adminstration have either demanded and requested elections of some variety, this presents us with a few options. We can either allow regular, provincial elections. Allow elections, however have them be called by the Viceroy himself, or allow elections but only allow the Princes to vote. While many would be unhappy with anything short of totally free elections, some are more open to the idea of a compromise seeing it as the beginning of a much larger series of change.\n\nHowever, it is we that have the final say on these matters."
+raj.10.d:0 "In recent discussions, the topic of the Princes and the Princely States as an entity has been raised by the opposition. This has caused a great deal of arguments not just between the administration and the opposition, but within the opposition itself. It seems that the more extreme of the opposition wish to see the Princes abolished entirely and their wealth confiscated and redistributed, while the moderates seek to slowly diminish the power of the Princes leaving them as unifying figureheads fearing that total abolition of the Princes will destabilise a lot of regions more then necessary. We have been presented with a number of arguements, and must decide which of these to add to the draft."
+raj.11.d:0 "Discussions continued today with the major topic being the status of political opposition within the Raj. Naturally, all of those meeting with the administration have demanded full legalisation of all opposition with many of them claiming that by legalising this opposition, there will be much less bloodshed and that reforms can be made peacefully without the need for British interference as was required for the reforms currently being proposed. The moderate opposition has also promised to not use any legalisation of oppositon or elections as a way to dismantle British Rule but see it as an opportunity for the British and India people to unite together into a new Asian power."
+raj.12.d:0 "With the new Government of India Act drafted, all that remained was for us to send it to the British Parliament for approval. Now that we have done just that, we must wait for their response and we must also hope that the reforms made by the act are effective in quelling future opposition. The fate of the Raj now rests in the hands of the British Parliament."
+raj.14.d:0 "The rebels have been defeated and the Raj stands victorious!\n\nThis was a bloody and long fought fight and many people have lost their lives, as such we must seek to prevent such a thing from happening in the future whether that be through reform and compromise, or continued oppression and military discipline something must be done to preserve the future of this Raj."
+###########################
+#####INDEPENDENT INDIA#####
+###########################
+
+#####Ideas#####
+
+IND_hindi_language:0 "Hindi National Language"
+IND_english_language:0 "English National Language"
+IND_mahatma_memories:0 "Memories of the Mahatma"
+IND_mahatma_memories_desc:0 "The British brutally murdered our beloved Mahatma in 1924 for doing nothing but organising peaceful and democratic protests to their rule. We will never forget him nor his legacy, we fight for the Mahatma!"
+IND_indian_rebels:0 "Disorganised Rebellion"
+IND_provisional_rule:0 "Provisional Incompetence"
+
+#####Decisions#####
+
+HYD_princely_relations:0 "Princely Relations"
+HYD_forming_princely_pact:0 "Forming a Defensive Pact"
+
+#### Factions ####
+
+HYD_princely_pact:0 "The Princely Pact"
+
+#####Events#####
+
+india.1.d:0 "With the British driven from our fair country, and a modicum of stability established across our new united nation, a Leadership Election has been called by the Provisional Government in Delhi, with Militia Leaders, the old Princes of the Raj, and the Communist Councils of the east given the right to vote.\n\nHowever, the election resulted in a deadlock. Corruption between the Princes and Militia representatives, along with the sizeable representation of the Communists, prevented anyone from gaining a true majority.\n\nThe power vacuum caused by the sudden collapse of the Raj must be filled soon, or our administration may collapse entirely!"
+india.2.d:0 "While our forces have been tied down in establishing rule of law in once lawless regions, the Indian Princes have been waiting for their opportunity. In the chaos that has followed the removal of the British from the Continent; the Princes have established their own militia forces in several regions and have moved towards creating their own administration in these regions.\n\nThey insist that this administration is only temporary and that it will be dissolved once the Delhi Administration meets for the first time. Doubts linger however over their sincerity, only time will tell."
+india.3.d:0 "This morning the Provisional Government officially met for the first time in Delhi. Militia leaders, Communists, Princes and our own representatives have conducted the first of several preliminary meetings in the recently constructed Secretariat Building which we have chosen to act as our temporary house of government, the meetings were tense and many ideological conflicts underpinned the proposals made by the different representatives. The biggest issue raised at the meeting was that of regional autonomy, particularly the illegal administrations created by the Princes recently.\n\nThe issue may not have been settled this time, but we are confident we can overcome our differences and come to a final settlement eventually."
+india.4.d:0 "Early this afternoon a major situation occurred on the streets of our capital. Confronted by our police force, a squad of militia members and their leader refused orders to hand over their weapons after the police were informed that they were intimidating civilians nearby. Arguing that their weapons were needed for self-defence, the situation continued for several hours until our own leadership intervened and prevented the situation from escalating further."
+india.5.d:0 "Today's meeting was due to continue into well into the evening, but the Communist representatives staged a walk-out, followed shortly after by delegations from the numerous Princes due to disagreements over autonomy in several provinces. Many within our own government have expressed concerns that the Communists have been stalling for time to establish total control over their own territory."
+india.6.d:0 "As expected, the Communist delegations have been stalling for time; in order for their own plans to move continue uninterrupted. It was unknown what exactly these plans were until this morning. They were worse than we had predicted, the Communists in Calcutta have set up their own ''People's Assembly'' to govern the region, and have announced a boycott of future meetings between our Provisional Government and their own rival Government.\n\nTaking advantage of the situation, the Princes have also declared their withdrawal from further Parliamentary meetings, arguing that if our Government cannot exert control over the East of the country, then its legitimacy is called into question."
+india.7.d:0 "With our victory over the British in our struggle for freedom, many believed that a highpoint in our history had been reached by vanquishing an Empire many times more powerful than our own nation. Those voices are silent on this day, and those words only sound hollow after developments in recent months.\n\nFollowing the calling of the first Leadership Election many weeks ago, things have only gone downhill. The failure of the representatives to compromise on important issues, the refusal of militia leaders to give up their arms and hand over administration to our Government, and the creation of a separate People's Assembly in Calcutta have only undermined our Government's position and legitimacy in governing India. To add more fuel to the fire, the Princes used the disarray to establish their own rule in several areas, utilising their own private armies and militia to force local administration to answer to their rule, rumours also persist that some of these Princes are still inclined to do business with the British, even after everything our people have been through.\n\nThe past several days have only seen this situation worsen drastically with militia leaders taking control over their own regions and refusing to allow our troops to pass. Seizing on the opportunity, the veritable thorn in our side, the Communist Government in Calcutta, has also begun setting up checkpoints in many major areas inside their territory. It would seem that despite our claim to controlling all of India, that our own hold was looser than anticipated."
+natind.1.d:0 "The situation we are faced with is a dangerous one, if we may one wrong move we may cease to exist all together therefore we must remain strong and united. If we are to unite the Indian people under one flag then we must ensure strong leadership. As a result, official elections for the National Government have been promised. A date has not been decided for the elections though it is likely they will be called once India has been sufficiently reclaimed. Until then, the Provisional Government will rule alone."
+natind.2.d:0 "The establishment of a real government has allowed us to begin extensive efforts towards reorganising our armies into a cohesive army. With the many princely armies and communist militias now working on their own, we have have organised a central command structure that should hopefully transform the mob of soldiers that composed the rebellion into a genuine fighting force."
+natind.3.d:0 "It is all well and good for the Provisional Government to claim control, but it means nothing if the people do not obey our authority. Therefore we must enforce our authority, we cannot afford to fall further then we already have."
+natind.4.d:0 "In the wake of British rule, we put ourselves forward as the authority for all of India. A huge nation, filled with many different cultures and religions, it would be difficult for anyone to keep it united and strong but we were willing to try. However, our offer was crushed by the scheming of the Princes and the Militias, before being torn apart once and for all by the vile Communists in the East.\n\n This cannot last, we are the rightful rulers of India and no traitorous Prince or Communist heathen will take that away from us!"
+natind.5.d:0 "India is an incredibly diverse nation, filled with many different cultures and religions and we are now tasked with deciding on the National Language. There are only really two choices, we could either go with the Hindi language as a reminder of our cultural heritage and ancient roots prior to the British invasion. While this would certainly gain us sizeable support at the moment, as our lands expand though it may cause tension in the largely Muslim regions of the west and east.\nAlternatively we could adopt English as our national language. It may be troublesome having to teach our population English, but it would keep things organised for when India as a whole is finally under our control."
+
+#####Parties#####
+
+IND_vanguardist_party:0 "RSP"
+IND_vanguardist_party_long:0 "Revolutionary Socialist Party"
+IND_collectivist_party:0 "CPI"
+IND_collectivist_party_long:0 "The Communist Party of India"
+IND_libertarian_socialist_party:0 "Radical Democratic Party"
+IND_libertarian_socialist_party_long:0 "Radical Democratic Party"
+IND_social_democrat_party:0 "Congress Party"
+IND_social_democrat_party_long:0 "Indian National Congress"
+IND_social_liberal_party:0 "Indian Liberal Party"
+IND_social_liberal_party_long:0 "Indian Liberal Party"
+IND_market_liberal_party:0 "Swatantra Party"
+IND_market_liberal_party_long:0 "Swatantra Party"
+IND_social_conservative_party:0 "CNP"
+IND_social_conservative_party_long:0 "Congress Nationalist Party"
+IND_authoritarian_democrat_party:0 "Provisional Government"
+IND_authoritarian_democrat_party_long:0 "Indian Provisional Assembly"
+IND_paternal_autocrat_party:0 "Princely Dominion"
+IND_paternal_autocrat_party_long:0 "Princely Dominion"
+IND_national_populist_party:0 "Free India Movement"
+IND_national_populist_party_long:0 "Free India Movement"
+IND_valkist_party:0 "APR"
+IND_valkist_party_long:0 "Agrarian Princely Reclamation"
+
+INC_vanguardist_party:0 "RSP"
+INC_vanguardist_party_long:0 "Revolutionary Socialist Party"
+INC_collectivist_party:0 "CPI"
+INC_collectivist_party_long:0 "The Communist Party of India"
+INC_libertarian_socialist_party:0 "Radical Democratic Party"
+INC_libertarian_socialist_party_long:0 "Radical Democratic Party"
+INC_social_democrat_party:0 "Congress Party"
+INC_social_democrat_party_long:0 "Indian National Congress"
+INC_social_liberal_party:0 "Indian Liberal Party"
+INC_social_liberal_party_long:0 "Indian Liberal Party"
+INC_market_liberal_party:0 "Swatantra Party"
+INC_market_liberal_party_long:0 "Swatantra Party"
+INC_social_conservative_party:0 "CNP"
+INC_social_conservative_party_long:0 "Congress Nationalist Party"
+INC_authoritarian_democrat_party:0 "Provisional Government"
+INC_authoritarian_democrat_party_long:0 "Indian Provisional Assembly"
+INC_paternal_autocrat_party:0 "Princely Dominion"
+INC_paternal_autocrat_party_long:0 "Princely Dominion"
+INC_national_populist_party:0 "Free India Movement"
+INC_national_populist_party_long:0 "Free India Movement"
+INC_valkist_party:0 "APR"
+INC_valkist_party_long:0 "Agrarian Princely Reclamation"

@@ -1,0 +1,60 @@
+﻿l_english:
+
+#### Political Parties ####
+
+SHO_vanguardist_party:0 "KNP"
+SHO_vanguardist_party_long:0 "Kollektivistische-Nationalistische Partei"
+SHO_collectivist_party:0 "KAP"
+SHO_collectivist_party_long:0 "Kollektivistische Arbeiterspartei"
+SHO_libertarian_socialist_party:0 "SP"
+SHO_libertarian_socialist_party_long:0 "Sozialistische Arbeiterspartei"
+SHO_social_democrat_party:0 "SP"
+SHO_social_democrat_party_long:0 "Sozialdemokratische Partei"
+SHO_social_liberal_party:0 "FV"
+SHO_social_liberal_party_long:0 "Freiheitlich Volkspartei"
+SHO_market_liberal_party:0 "FV"
+SHO_market_liberal_party_long:0 "Freiheitlich Volkspartei"
+SHO_social_conservative_party:0 "KP"
+SHO_social_conservative_party_long:0 "Konservative Partei"
+SHO_authoritarian_democrat_party:0 "Übergangsregierung"
+SHO_authoritarian_democrat_party_long:0 "Übergangsregierung"
+SHO_paternal_autocrat_party:0 "Übergangsregierung"
+SHO_paternal_autocrat_party_long:0 "Übergangsregierung"
+SHO_national_populist_party:0 "VP"
+SHO_national_populist_party_long:0 "Vereinigungspartei"
+SHO_valkist_party:0 "VP"
+SHO_valkist_party_long:0 "Vereinigungspartei"
+
+#### IDEAS ####
+
+SHO_hamburg_legacy:0 "Spectre of the Hamburg Commune"
+SHO_hamburg_legacy_desc:0 "The short-lived Collectivist revolt in Hamburg during 1927 was barely put down by the occupying Danish forces. The legacy of the Hamburg Commune lives on, 9 years later. Many socialist organizations still exist, awaiting a moment to rise up against their Danish oppressors once more."
+SHO_nazbol_gang:0 "National Collectivism"
+SHO_nazbol_gang_desc:0 "Hamburg has become the birthplace of the doctrine of National Collectivism. Encompassing a variation of Radical Nationalist and Collectivist ideals, the National Collectivists will likely be the ones to light the fires of revolution to overthrow the Danish Occupiers."
+SHO_political_repression:0 "Political Repression"
+SHO_political_repression_desc:0 "Despite that Democratic movements have achieved Democracy in Denmark itself, the Kiel Zone has remained under a Transitional Government for aproxmiately 6 years now. Many rights still have not been restored, and the Danish Transitional Government actively attempts to dismantle all Collectivist organziations before further reform."
+SHO_integrating_denmark:0 "Integrating territories"
+SHO_industrial_burdens:0 "Industrial Burdens"
+
+
+#### FLAGS ####
+SHO_has_become_germany:0 "Has become Germany"
+SHO_integrated_denmark_flag:0 "Has integrated Denmark"
+
+#### DECISIONS ####
+SHO_Peace_With_Honour:0 "Peace with Honour"
+SHO_Peace_and_Vengeance:0 "Peace and Vengance"
+SHO_fortify_the_elbe:0 "Fortify the Elbe"
+#SHO_fortify_the_elbe_desc:0 ""
+SHO_join_soviets:0 "Apply to join the Third Internationale"
+#SHO_join_soviets_desc:0 ""
+SHO_invade_denmark:0 "Avenge 1927"
+SHO_invade_denmark_desc:0 "The year of 1927 saw the workers of Hamburg proclaim the First Hamburg Commune, only to be crushed by the Danish oppressors. We will exact our revenge against the Danes."
+SHO_invade_germany:0 "Invade Germany"
+#SHO_invade_germany_desc:0 ""
+SHO_puppet_denmark:0 "Establish a Danish puppet-state"
+SHO_puppet_denmark_desc:0 "By creating a self-administering zone in Denmark and 'borrowing' their industrial machinery and funding, we'll be able to assist our industrial ambitions and lessen the burden on our administrative sector."
+SHO_Peace_With_Honour:0 "Peace with Honour"
+SHO_Peace_With_Honour_desc:0 "We've established occupation of the Jutland penisula, it's time to negotiate for our independence."
+SHO_Peace_and_Vengeance:0 "Peace and Vengeance"
+SHO_Peace_and_Vengeance_desc:0 "We've established occupation of the Jutland penisula, it's time to assert the superiority of the Hamburg Commune over the Danish oppressors!"

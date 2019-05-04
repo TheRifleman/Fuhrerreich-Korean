@@ -1,0 +1,35 @@
+﻿l_english:
+
+#### Political Parties ####
+
+GUA_vanguardist_party:0 "SRC"
+GUA_vanguardist_party_long:0 "Syndicate of Chain Breakers"
+GUA_collectivist_party:0 "SPT"
+GUA_collectivist_party_long:0 "Workers' Political Syndicate"
+GUA_libertarian_socialist_party:0 "SPT"
+GUA_libertarian_socialist_party_long:0 "Workers' Political Syndicate"
+GUA_social_democrat_party:0 "PDR"
+GUA_social_democrat_party_long:0 "Democratic Reformist Party"
+GUA_social_liberal_party:0 "PLC"
+GUA_social_liberal_party_long:0 "Liberal Party of Central America"
+GUA_market_liberal_party:0 "PP"
+GUA_market_liberal_party_long:0 "Prosperity Party"
+GUA_social_conservative_party:0 "PNC"
+GUA_social_conservative_party_long:0 "National Party of Central America"
+GUA_authoritarian_democrat_party:0 "Military Junta"
+GUA_authoritarian_democrat_party_long:0 "Military Organization for National Improvement"
+GUA_paternal_autocrat_party:0 "PRN"
+GUA_paternal_autocrat_party_long:0 "National Renewal Party"
+GUA_national_populist_party:0 "PRN"
+GUA_national_populist_party_long:0 "National Renewal Party"
+GUA_valkist_party:0 "FSNH"
+GUA_valkist_party_long:0 "National Salvationist Front of Guatemala"
+
+#### Events ####
+
+#guatemala
+
+guatemala.1.t:0 "Honduras Joins the Grand Republic"
+guatemala.1.d:0 "Not long ago, a socialist coup seized total power in Honduras after they gained majority control of the legislature. Led primarily by Nicaraguans who fled after their failed insurrection against the American military occupation, there are clear parallels between us and them, given the large number of Mexican immigrants that have come to influence our nation. It was their escape, first from the American puppet state and later the nationalists, that helped jumpstart the revolution in Guatemala, their numbers allowing for the toppling of the old regime and the proclamation of a new Centroamérica.\n Before, no other nation near us has successfully broken the chains of oppression. But Honduras now has and, despite some ideological differences, they have at last heeded our call for unity, and are requesting integration into the Grand Republic."
+guatemala.1.a:0 "¡Trabajadores del mundo, Uníos!"
+

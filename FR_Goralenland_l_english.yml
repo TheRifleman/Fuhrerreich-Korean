@@ -1,0 +1,65 @@
+﻿l_english:
+
+#### Political Parties ####
+
+GGRL_vanguardist_party:0 "GVP"
+GRL_vanguardist_party_long:0 "Goral Vanguard Party"
+GRL_collectivist_party:0 "GCP"
+GRL_collectivist_party_long:0 "Goral Collectivist Party"
+GRL_libertarian_socialist_party:0 "GLSP"
+GRL_libertarian_socialist_party_long:0 "Goral Libertarian Socialist Party"
+GRL_social_democrat_party:0 "GSDP"
+GRL_social_democrat_party_long:0 "Goral Social Democratic Party"
+GRL_social_liberal_party:0 "GSLP"
+GRL_social_liberal_party_long:0 "Goral Social Liberal Party"
+GRL_market_liberal_party:0 "GCDP"
+GRL_market_liberal_party_long:0 "Goral Christian Democratic Party"
+GRL_social_conservative_party:0 "GSCP"
+GRL_social_conservative_party_long:0 "Goral Social Conservative Party"
+GRL_authoritarian_democrat_party:0 "Goral Military Junta"
+GRL_authoritarian_democrat_party_long:0 "Goral Military Junta"
+GRL_paternal_autocrat_party:0 "GPAP"
+GRL_paternal_autocrat_party_long:0 "Goral Paternal Autocratic Party"
+GRL_national_populist_party:0 "Hans Frank's Party"
+GRL_national_populist_party_long:0 "Hans Frank's Party"
+GRL_valkist_party:0 "Stronnictwo Walkowsko-Goralskie"
+GRL_valkist_party_long:0 "Stronnictwo Walkowsko-Goralskie"
+
+#ideas
+life_of_goral:0 "Life of Goral (Goralskie Zycie)"
+life_of_goral_desc:0 "The life of The Gorals has always been so strange to outsiders, their lifestyle in the mountains, knowlege of outside world and their unity with nature. For this reason they are more prone to live inside of their area usually know from where to ambush the enemy."
+shepherdess_podhale:0 "Gaździna Podhala (Shepherdess of Podhale)"
+shepherdess_podhale_desc:0 "The Gaździna Podhale or Shepherdess of Podhale in English, is their current church located near the city of Zakopane, it brings unity within the region showing that religion can be sometimes helpful in times of these."
+minority_rule:0 "Minority Rule"
+minority_rule_desc:0 "Ever since the creation of this nation, The Reichskommissariat of Goralenland had been in complete stablity chaos, only a small number of The Goralenfuhrer's friends and gorals have absolute power over the country, causing massive riots, strikes and polticial crimes."
+polish_strike:0 "Polish Strikes"
+polish_strike_desc:0 "The Polish Goralenvolk throw their tools on the concrete ground! this is the result of the Goral-Polish relations in the region. Polish Goralenvolk always feel repressed by the Goralenfuhrer, by his deals with the Germans and by his grants to only Goral private businesses."
+hej_gorale:0 "Hej, Górale Anthem"
+hej_gorale_desc:0 "The song Hej, Górale is the official anthem of the Goralenvolk, some of the non-Gorals of the Goralenvolk do not sing such an oppressing anthem."
+jezu_milosci_twej:0 "Jezu Miłości Twej Anthem"
+jezu_milosci_twej_desc:0 "The song Jezu Miłości Twej is the official anthem of the Goralenvolk, all of Goralenland will salute in proud eyes over the flag with the anthem in the background."
+#focus
+
+#events
+ger.2071.t:0 "The Fate of the Gorals"
+ger.2071.d:0 "As we come to control the former Polish lands inhabited by the Gorals, we find ourselves holding territories of great ethnic tensions and struggle. While directly controlling these territories may be problematic for our government, if we were to grant them titular autonomy as our subjects, under the total guidance of the Reich, of course, we could get some use of their loyalty and men."
+ger.2071.a:0 "Establish a Reichskommissariat."
+ger.2071.b:0 "They'll be ruled directly by Germany."
+ger.2072.t:0 "The Goral Incorporation of Lemkowina"
+ger.2072.d:0 "The Goralenfuhrer sent Hans Frank, a Valkist Lawyer working in Reichskommissariat Goralenland for the merging of the two nations of Goralenland and Lemkowina, he claims that Gorals have claimed this region ever since the 11th century. Indeed, there are a lot of Gorals living there but does this give them a right to incorporate such a large portion of land?"
+ger.2072.a:0 "Who needed Lemko anyways?"
+ger.2072.b:0 "Those Gorals don't know what they are doing."
+grl.1.t:0 "Choosing an Anthem for Goralenland"
+grl.1.d:0 "Now that The Reichskommissariat of Goralenland has been formed, we, the Gorals of Goralenland have to decide on an anthem of our brand new nation. We have two to pick from, first one is ''Hej, Górale'' a Goral song that has been very popular within the SWG Party, it represents the hardships of the Goral life and that we are united in times of these. The second one is called ''Jezu Miłości Twej'' a old Polish traditional song writen within our area, it is a religious song that coincidentally has the same melody as the British anthem."
+grl.1.a:0 "The Hej, Górale of course, we are Gorals after all."
+grl.1.b:0 "The Jezu Miłości Twej, we need to show love to all the Goralenvolk."
+#decisions
+puppet_goralenland:0 "Install Valkist regime in Goralenland"
+GRL_German_Politics:0 "Goral-German Relations"
+puppet_goralenland_desc:0 "As we come to control the former Polish lands inhabited by the Gorals, we find ourselves holding territories of great ethnic tensions and struggle. While directly controlling these territories may be problematic for our government, if we were to grant them titular autonomy as our subjects, under the total guidance of the Reich, of course, we could get some use of their loyalty and men."
+lemko_incorporation:0 "Lemko Incorporation"
+lemko_incorporation_desc:0 "The Nation of Lemkowina has always been in our interests, its culture, terrain and it's minority of Gorals. It is time that we, Goralenvolk with our leader, Goralenfuhrer take back, what is rightfully ours!"
+
+#modifiers
+
+#flags

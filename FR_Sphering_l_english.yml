@@ -1,0 +1,95 @@
+﻿l_english:
+
+
+#Decisions
+sphere_decision_group:0 "Improving Relationships and Sphering"
+desphere_decision_group:0 "Removing nations from spheres"
+desphere_nation:0 "Remove [From.GetNameDef] from their Sphere of Influence"
+sphere_information_decision_group:0 "Sphered Nations"
+sphered_nations:0 "[From.GetNameDef]"
+sphere_nation_1:0 "Improve our relationship with [From.GetNameDef] to cordial"
+sphere_nation_1_desc:0 "Improve our relationship with [From.GetNameDef] to cordial to ensure that we get advantage over this nation compared to the other major powers."
+sphere_nation_2:0 "Improve our relationship with [From.GetNameDef] to friendly"
+sphere_nation_2_desc:0 "Improve our relationship with [From.GetNameDef] to friendly to ensure that we get advantage over this nation compared to the other major powers."
+sphere_nation_3:0 "Sphere [From.GetNameDef]"
+sphere_nation_3_desc:0 "Sphere [From.GetNameDef] to friendly to ensure that we get advantage over this nation compared to the other major powers." 
+
+#Interface
+sphering_status_1_loc:0 "[this.sphering_status_1_scripted_loc]"
+sphering_status_1_loc_neutral:0 "[GER.GetFlag]Neutral"
+sphering_status_1_loc_cordial:0 "[GER.GetFlag]Cordial"
+sphering_status_1_loc_friendly:0 "[GER.GetFlag]Friendly"
+sphering_status_1_loc_sphered:0 "[GER.GetFlag]Sphered"
+
+sphering_status_2_loc:0 "[this.sphering_status_2_scripted_loc]"
+sphering_status_2_loc_neutral:0 "[FRA.GetFlag]Neutral"
+sphering_status_2_loc_cordial:0 "[FRA.GetFlag]Cordial"
+sphering_status_2_loc_friendly:0 "[FRA.GetFlag]Friendly"
+sphering_status_2_loc_sphered:0 "[FRA.GetFlag]Sphered"
+
+sphering_status_3_loc:0 "[this.sphering_status_3_scripted_loc]"
+sphering_status_3_loc_neutral:0 "[JAP.GetFlag]Neutral"
+sphering_status_3_loc_cordial:0 "[JAP.GetFlag]Cordial"
+sphering_status_3_loc_friendly:0 "[JAP.GetFlag]Friendly"
+sphering_status_3_loc_sphered:0 "[JAP.GetFlag]Sphered"
+
+sphering_status_4_loc:0 "[this.sphering_status_4_scripted_loc]"
+sphering_status_4_loc_neutral:0 "[USA.GetFlag]Neutral"
+sphering_status_4_loc_cordial:0 "[USA.GetFlag]Cordial"
+sphering_status_4_loc_friendly:0 "[USA.GetFlag]Friendly"
+sphering_status_4_loc_sphered:0 "[USA.GetFlag]Sphered"
+
+sphering_status_5_loc:0 "[this.sphering_status_5_scripted_loc]"
+sphering_status_5_loc_neutral:0 "[ENG.GetFlag]Neutral"
+sphering_status_5_loc_cordial:0 "[ENG.GetFlag]Cordial"
+sphering_status_5_loc_friendly:0 "[ENG.GetFlag]Friendly"
+sphering_status_5_loc_sphered:0 "[ENG.GetFlag]Sphered"
+
+sphering_status_6_loc:0 "[this.sphering_status_6_scripted_loc]"
+sphering_status_6_loc_neutral:0 "[SOV.GetFlag]Neutral"
+sphering_status_6_loc_cordial:0 "[SOV.GetFlag]Cordial"
+sphering_status_6_loc_friendly:0 "[SOV.GetFlag]Friendly"
+sphering_status_6_loc_sphered:0 "[SOV.GetFlag]Sphered"
+
+sphering_status_7_loc:0 "[this.sphering_status_7_scripted_loc]"
+sphering_status_7_loc_neutral:0 "[ITA.GetFlag]Neutral"
+sphering_status_7_loc_cordial:0 "[ITA.GetFlag]Cordial"
+sphering_status_7_loc_friendly:0 "[ITA.GetFlag]Friendly"
+sphering_status_7_loc_sphered:0 "[ITA.GetFlag]Sphered"
+
+sphering_status_8_loc:0 "[this.sphering_status_8_scripted_loc]"
+sphering_status_8_loc_neutral:0 "[MEX.GetFlag]Neutral"
+sphering_status_8_loc_cordial:0 "[MEX.GetFlag]Cordial"
+sphering_status_8_loc_friendly:0 "[MEX.GetFlag]Friendly"
+sphering_status_8_loc_sphered:0 "[MEX.GetFlag]Sphered"
+
+
+
+IMPROVE_INFLUENCE_TOOLTIP:0 "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest"
+
+#Events
+sph.1.t:0 "[From.GetNameDef] improves relations with us!"
+sph.1.d:0 "Our relationship with [From.GetNameDef] has been increased to cordial."
+sph.1.a:0 "Okay"
+sph.2.t:0 "[From.GetNameDef] improves relations with us!"
+sph.2.d:0 "Our relationship with [From.GetNameDef] has been increased to friendly."
+sph.2.a:0 "Okay"
+sph.3.t:0 "[From.GetNameDef] spheres us!"
+sph.3.d:0 "We have been sphered by [From.GetNameDef]."
+sph.3.a:0 "Okay"
+sph.5.t:0 "Nation removed from sphere!"
+sph.5.d:0 "[sphereremover.GetNameDef] has removed [sphereremovegoal.GetNameDef] from our sphere!"
+sph.5.a:0 "Okay"
+sph.6.t:0 "We have been removed from our sphere"
+sph.6.d:0 "[sphereremover.GetNameDef] has removed us from our sphere, we were originally in [originalsphere.GetNameDef]'s sphere!"
+sph.6.a:0 "Okay"
+
+#Ideas
+sphered_idea_1:0 "In [sphereleader1.GetNameDef]'s Sphere of Influence"
+sphered_idea_2:0 "In [sphereleader2.GetNameDef]'s Sphere of Influence"
+sphered_idea_3:0 "In [sphereleader3.GetNameDef]'s Sphere of Influence"
+sphered_idea_4:0 "In [sphereleader4.GetNameDef]'s Sphere of Influence"
+sphered_idea_5:0 "In [sphereleader5.GetNameDef]'s Sphere of Influence"
+sphered_idea_6:0 "In [sphereleader6.GetNameDef]'s Sphere of Influence"
+sphered_idea_7:0 "In [sphereleader7.GetNameDef]'s Sphere of Influence"
+sphered_idea_8:0 "In [sphereleader8.GetNameDef]'s Sphere of Influence"

@@ -1,0 +1,35 @@
+﻿l_english:
+#desc
+LIT_FUHRERREICH_DESC:0 "fuck"
+#PARTIES
+#LIT_vanguardist_party:0 "really really angery socdems"
+#LIT_vanguardist_party_long:0 "really really angery socdems"
+#LIT_collectivist_party:0 "really angery socdems"
+#LIT_collectivist_party_long:0 "really angery socdems"
+#LIT_libertarian_socialist_party:0 "angery socdems"
+#LIT_libertarian_socialist_party_long:0 "angery socdems"
+#LIT_social_democrat_party:0 "socdems"
+#LIT_social_democrat_party_long:0 "socdems"
+#LIT_social_liberal_party:0 "probably commies"
+#LIT_social_liberal_party_long:0 "probably commies"
+#LIT_market_liberal_party:0 "Speak American"
+#LIT_market_liberal_party_long:0 "Speak American"
+#LIT_social_conservative_party:0 "Speak English"
+#LIT_social_conservative_party_long:0 "Speak English" 
+#LIT_authoritarian_democrat_party:0 "Speak Polish"
+#LIT_authoritarian_democrat_party_long:0 "Speak Polish"
+#LIT_paternal_autocrat_party:0 "Speak Polish"
+#LIT_paternal_autocrat_party_long:0 "Speak Polish" 
+#LIT_national_populist_party:0 "really really really angery socdems"
+#LIT_national_populist_party_long:0 "really really really angery socdems"
+#LIT_valkist_party:0 "Speak Lithuanian"
+#LIT_valkist_party_long:0 "Speak Lithuanian"
+
+#Decisions
+LIT_Augenis_Wetdream:0 "Augenis's Wetdream"
+LIT_Augenis_Wetdream_desc:0 "Speak Lithuanian"
+LIT_Sigismund_Wetdream:0 "Sigismund's Wetdream"
+LIT_Sigismund_Wetdream_desc:0 "Cores on everything"
+
+#Naval shit
+FLEET_NAME_LIT:0 "Karališkoji Lietuvos flotilė"

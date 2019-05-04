@@ -1,0 +1,54 @@
+﻿l_english:
+
+vanguardist_topbar_tooltip:0 "Your current ruling party is §HNational Collectivist§!"
+collectivist_topbar_tooltip:0 "Your current ruling party is §HSocialist§!"
+libertarian_socialist_topbar_tooltip:0 "Your current ruling party is §HLibertarian§!"
+social_democrat_topbar_tooltip:0 "Your current ruling party is §HSocial Democrat§!"
+social_liberal_topbar_tooltip:0 "Your current ruling party is §HSocial Liberal§!"
+market_liberal_topbar_tooltip:0 "Your current ruling party is §HMarket Liberal§!"
+social_conservative_topbar_tooltip:0 "Your current ruling party is §HSocial Conservative§!"
+authoritarian_democrat_topbar_tooltip:0 "Your current ruling party is §HAuthoritarian Democrat§!"
+paternal_autocrat_topbar_tooltip:0 "Your current ruling party is §HPaternal Autocrat§!"
+national_populist_topbar_tooltip:0 "Your current ruling party is §HNational Populist§!"
+valkist_topbar_tooltip:0 "Your current ruling party is §HValkist§!"
+
+
+party_popularity_delayed_tooltip:0 "Party popularity represents your current government's control over the nation and their support with the people. Political parties with high popularity are more able to push their political agenda and stabilise the nation."
+party_pop_0_90_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.95§!\n"
+party_pop_0_80_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.85§!\n"
+party_pop_0_70_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.75§!\n"
+party_pop_0_60_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.65§!\n"
+party_pop_0_50_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.55§!\n"
+party_pop_0_40_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.45§!\n"
+party_pop_0_30_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.35§!\n"
+party_pop_0_20_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.25§!\n"
+party_pop_0_10_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.15§!\n"
+party_pop_0_00_loc_key:0 "§HParty Popularity\n\nEffects from our current Party Popularity:§!\nDaily Political Power Gain: §G+0.05§!\n"
+KR_PARTY_POP_EFFECT:0 "[GetPopLevel]"
+
+coalition_parties_display:0 "[GetCoalitionWords] [GetCoalition]"
+coalition_parties_display_words:0 "The following ideologies are a part of our government coalition:"
+coalition_parties:0 "\n[GetLeninistCoalition][GetMarxistCoalition][GetRevolutionarySocialistCoalition][GetSocialDemocratCoalition][GetSocialLiberalCoalition][GetLiberalConservativeCoalition][GetSocialConservativeCoalition][GetAuthoritarianDemocratCoalition][GetRightWingPopulistCoalition][GetNationalPopulistCoalition]"
+coalition_parties_none:0 "None"
+ 
+coalition_parties_vanguardist:0 "§HNational Collectivist§! [?party_popularity@vanguardist|%H]\n"
+ 
+coalition_parties_collectivist:0 "§HSocialist§! [?party_popularity@collectivist|%H]\n"
+ 
+coalition_parties_libertarian_socialist:0 "§HLibertarian Socialist§! [?party_popularity@libertarian_socialist|%H]\n"
+  
+coalition_parties_social_democrat:0 "§HSocial Democrat§! [?party_popularity@social_democrat|%H]\n"
+ 
+coalition_parties_social_liberal:0 "§HSocial Liberal§! [?party_popularity@social_liberal|%H]\n"
+ 
+coalition_parties_market_liberal:0 "§HMarket Liberal§! [?party_popularity@market_liberal|%H]\n"
+ 
+coalition_parties_social_conservative:0 "§HSocial Conservative§! [?party_popularity@social_conservative|%H]\n"
+ 
+coalition_parties_authoritarian_democrat:0 "§HAuthoritarian Democrat§! [?party_popularity@authoritarian_democrat|%H]\n"
+ 
+coalition_parties_paternal_autocrat:0 "§HPaternal Autocrat§! [?party_popularity@paternal_autocrat|%H]\n"
+ 
+coalition_parties_national_populist:0 "National Populist [?party_popularity@national_populist|%H]\n"
+ 
+coalition_parties_valkist:0 "§HValkist§! [?party_popularity@valkist|%H]\n"

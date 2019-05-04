@@ -1,0 +1,26 @@
+﻿l_english:
+
+#### Political Parties ####
+
+SAF_vanguardist_party:0 "Free Africa"
+SAF_vanguardist_party_long:0 "Free African Organization"
+SAF_collectivist_party:0 "SACP"
+SAF_collectivist_party_long:0 "South African Collectivist Party" 
+SAF_libertarian_socialist_party:0 "Labour"
+SAF_libertarian_socialist_party_long:0 "Labour Party (Radical)"
+SAF_social_democrat_party:0 "Labour"
+SAF_social_democrat_party_long:0 "Labour Party (Moderate)"
+SAF_social_liberal_party:0 "Independent"
+SAF_social_liberal_party_long:0 "Independent MPs"
+SAF_market_liberal_party:0 "Unionists"
+SAF_market_liberal_party_long:0 "Unionist Party"
+SAF_social_conservative_party:0 "United"
+SAF_social_conservative_party_long:0 "United Party"
+SAF_authoritarian_democrat_party:0 "NP"
+SAF_authoritarian_democrat_party_long:0 "National Party"
+SAF_paternal_autocrat_party:0 "NP"
+SAF_paternal_autocrat_party_long:0 "National Party"
+SAF_national_populist_party:0 "SCOSA"
+SAF_national_populist_party_long:0 "Social Credit Organization of South Africa"
+SAF_valkist_party:0 "OB"
+SAF_valkist_party_long:0 "Ossewabrandwag"

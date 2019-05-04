@@ -1,0 +1,21 @@
+﻿l_english:
+### EVENTS ###
+yun.1.d:0 "As if out of nowhere, China has fallen into complete chaos once again! With the elections ever since the success of the Northern Expedition, the Republic had managed to stay united under the banner of Sun Yat-Sen. However his death 3 months ago resulted in the complete collapse of the Kuomintang. With it now split between the National and Social Kuomintang, it is time to stake our claim on the rest of China! With our forces we have been preparing ready, it is time for Chen Jiongming'ss Federative Republic of China to rise!"
+### DECISIONS ###
+YUN_war_decisions:0 "War decisions"
+YUN_invade_tibet:0 "Invade Tibet"
+YUN_invade_mongolia:0 "Invade Great Mongolian State"
+YUN_invade_sichuan:0 "Invade Sichuan Clique"
+YUN_invade_ma:0 "Invade Ma Clique"
+YUN_invade_xinjiang:0 "Invade Xinjiang Clique"
+YUN_invade_shanxi:0 "Invade Shanxi Clique"
+YUN_invade_kuomintang:0 "Invade Kuomintang Government"
+YUN_invade_zhili:0 "Invade Zhili Clique"
+YUN_invade_fengtian:0 "Invade Fengtian Governancy"
+YUN_invade_guominjun:0 "Invade Guominjun"
+YUN_invade_guanxi:0 "Invade Guanxi Clique"
+YUN_invade_guandong:0 "Invade Guandong Clique"
+YUN_invade_national_revoliutionary_army:0 "Invade National Revoliutionary Army"
+YUN_chinese_unification_decisions:0 "Chinese Unification Decisions"
+YUN_claim_to_be_Beijing_government:0 "Proclaim the new Beijing Government"
+YUN_unite_china:0 "Unite China"

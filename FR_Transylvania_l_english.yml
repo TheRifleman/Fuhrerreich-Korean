@@ -1,0 +1,45 @@
+﻿l_english:
+
+#### Ideas ####
+
+TRA_political_isolation:0 "Political Isolation"
+TRA_political_isolation_desc:0 "The Romanians were promised the territory of Transylvania during The Great war, but the Entente decided instead to grand us our independance. While we are forever greatful for this independance, it has left us politically isolated. Both the Hungarians and Romanians are looking to reclaim their lost land, and the Entente is slowly losing interest in keeping an independant Transylvanian state alive."
+###
+tra_danube_research:0 "Danube Research Bloc Member"
+tra_danube_research_desc:0 "We are a member of the Danube Research Bloc, giving us and all other participating nationans a boost to our research abilities. We would be wise to maintain good relations with all other members of the Bloc."
+###
+tra_integrated_officers:0 "Integrated Officer Corps"
+tra_integrated_officers_desc:0 "Attempts to draw our nations closer militarily have led to the formation of a transnational officer corps consisting of generals from all members of the faction. While the cultural and language divide is being progress difficult, with time this will prove to be one of our greatest strenghs."
+###
+tra_interlaced_economy:0 "Interlaced Economy"
+tra_interlaced_economy_desc:0 "We have made extensive efforts to connect our economy with our fellow faction members. This has allowed us to better allocate resources towards construction and military production."
+
+### Events ###
+
+trans.1.t:0 "The Transylvanian Kingdom"
+trans.1.d:0 "Coming into existance in 1921, the Transylvanian Kingdom was the result of a failiure between the Entente, Hungary, and Romania to decide who should have control over the Transylvanian region. Many proposals were made, but all fell through in the end. Eventually, an independant Transylvanian Kingdom was propped up as a'temporary' solution which would be revisited at a later date. This solution is now being seen across Europe as perminant, and it's unlikely that the Entente will want to involve themselves in the region again. \n\nThe future of Transylvania is uncertian, and it will take a steady hand to guide the nation through these turbulent years."
+trans.1.a:0 "We've got enemies on all sides..."
+
+trans.2.t:0 "Hungarians offer us truce!"
+trans.2.d:0 "Ever since our independance in 1920, we have fearing a Hungarian attack on our lands to bring us back under their boot. It seems that the political attitude has changed in Hungary however, and the President has sent us a letter expressing his desires for a pact of non-agression between us, Whether this is a political move or simply an act of friendship is unknown, but regardless we must answer their request."
+trans.2.a:0 "A pact serves our interests best."
+trans.2.b:0 "We will never make a deal with the Magyar devil!"
+
+trans.3.t:0 "Hungary invites us to their faction."
+trans.3.d:0 "We have been invited into a formal alliance with the Hungarians, they claim it is best for stability in the region if we all join hands in cooperation and friendship. This is a very large decision, and one we must consider carefully before making a choice."
+trans.3.a:0 "We will join the faction."
+trans.3.b:0 "We will not sign our independance away so easily!"
+
+trans.4.t:0 "Hungary demands Transylvania!"
+trans.4.d:0 "The Hungarian government has sent us an official letter today, demanding that we hand over control of Transylvania to King Horthy. This will result in the return of Hungarian supremacy in the region. Perhaps Hungary would be willing to give up their claims if we stood up for ourselves."
+trans.4.a:0 "We must safeguard our people, accept their demands."
+trans.4.b:0 "We will never surrender!"
+
+trans.5.t:0 "Hungary offers us protection"
+trans.5.d:0 "We have been decieved. The Romanians never wished to protect us, they only wished to annex and integrate us into their state. The Hungarians have approached us with an offer, an offer of protection. If we don't accept, the Romanians may jump on the oppertunity and invade."
+trans.5.a:0 "Unified with Hungary, once more."
+trans.5.b:0 "We will never lose our independance!"
+
+### MISC ###
+
+TRA_hungary_nice:0 "Building Rapport"

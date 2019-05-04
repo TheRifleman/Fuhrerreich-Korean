@@ -1,0 +1,19 @@
+﻿l_english:
+#desc
+STD_FUHRERREICH_DESC:0 ""
+#PARTIES
+
+STD_libertarian_socialist_party:0 "Bund der Landwirte"
+STD_libertarian_socialist_party_long:0 "Bund der Landwirte"
+STD_social_democrat_party:0 "DSA"
+STD_social_democrat_party_long:0 "Deutsche sozialdemokratische Arbeiterpartei"
+STD_social_liberal_party:0 "Deutschliberale Partei"
+STD_social_liberal_party_long:0 "Deutschliberale Partei"
+STD_market_liberal_party:0 "DCSV"
+STD_market_liberal_party_long:0 "Deutsche Christlich-Soziale Volkspartei"
+STD_social_conservative_party:0 "Deutsche National Partei"
+STD_social_conservative_party_long:0 "Deutsche National Partei" 
+STD_national_populist_party:0 "Sudetendeutsche Partei"
+STD_national_populist_party_long:0 "Sudetendeutsche Partei"
+STD_valkist_party:0 "Sudetendeutsche Partei"
+STD_valkist_party_long:0 "Sudetendeutsche Partei"

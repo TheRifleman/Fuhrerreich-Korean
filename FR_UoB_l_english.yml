@@ -1,0 +1,157 @@
+﻿l_english:
+
+#### Political Parties ####
+
+ENG_internationalist_party:0 "WIL"
+ENG_internationalist_party_long:0 "Worker's International League"
+ENG_collectivist_party:0 "BSP"
+ENG_collectivist_party_long:0 "British Socialist Party"
+ENG_libertarian_socialist_party:0 "ILP"
+ENG_libertarian_socialist_party_long:0 "Independent Labour Party"
+ENG_social_democrat_party:0 "Labour"
+ENG_social_democrat_party_long:0 "Labour Party"
+ENG_social_liberal_party:0 "Liberals"
+ENG_social_liberal_party_long:0 "Liberal Party"
+ENG_market_liberal_party:0 "Liberal Nationals"
+ENG_market_liberal_party_long:0 "Liberal Nationals Party"
+ENG_social_conservative_party:0 "Tories"
+ENG_social_conservative_party_long:0 "Conservative Party"
+ENG_authoritarian_democrat_party:0 "Military Junta"
+ENG_authoritarian_democrat_party_long:0 "Military Junta"
+ENG_paternal_autocrat_party:0 "Windsor"
+ENG_paternal_autocrat_party_long:0 "House of Windsor"
+ENG_national_populist_party:0 "IFL"
+ENG_national_populist_party_long:0 "Imperial Federation League"
+ENG_valkist_party:0 "PSPB"
+ENG_valkist_party_long:0 "People's Socialist Party of Britannia"
+
+#### Political Ministers ####
+
+ENG_Clement_Attlee_hog:0 "Clement Attlee, Prime Minister"
+ENG_Arthur_MacManus_hog:0 "Arthur MacManus, Prime Minister"
+ENG_Jock_Haston_hog:0 "Jock Haston, Prime Minister"
+
+ENG_Herbert_Morrison1_for:0 "Herbert Morrison, Foreign Secretary"
+ENG_James_Maxton_for:0 "James Maxton, Foreign Secretary"
+ENG_William_Rust_for:0 "William Rust, Foreign Secretary"
+
+ENG_Oswald_Mosley1_eco:0 "Oswald Mosley, Chancellor of the Exchequer"
+ENG_Aneurin_Bevan_eco:0 "Aneurin Bevan, Chancellor of the Exchequer"
+ENG_Wilfred_Risdon_eco:0 "Wilfred Risdon, Chancellor of the Exchequer"
+
+ENG_William_Gallacher_sec:0 "William Gallacher, Home Secretary"
+ENG_Stafford_Cripps_sec:0 "Stafford Cripps, Home Secretary"
+ENG_Clifford_Allen_sec:0 "Clifford Allen, Home Secretary"
+
+ENG_Fenner_Brockway_int:0 "Fenner Brockway, War Secretary"
+ENG_Rhys_Davies_int:0 "Rhys Davies, War Secretary"
+ENG_Arthur_Horner_int:0 "Arthur Horner, War Secretary"
+
+#####Relations Modifiers#####
+
+
+#####Ideas#####
+
+UOB_revo_recov:0 "Recovering from Revolution"
+UOB_eco_rev:0 "Economic Revival"
+UOB_eco_rev2:0 "Economic Revival"
+UOB_eco_rev3:0 "Economic Revival"
+UOB_mob_unions:0 "Mobilised the Unions"
+UOB_soc_freedom:0 "Socialist Freedom"
+UOB_enforced_atheism:0 "Enforced Atheism"
+UOB_re_britain:0 "Rebuilding Britain"
+UOB_exert_cont:0 "Exerting Control"
+UOB_eco_sr:0 "Economic Self-Reliance"
+UOB_bnu:0 "British National Union"
+UOB_mob_work:0 "Mobilised the Workers"
+UOB_soc_wpol:0 "Socialist Work Policies"
+
+#####Tooltips#####
+
+#####Focus#####
+
+## - Politics
+
+# - ILP
+
+UOB_moderate_app:0 "A Moderate Approach"
+UOB_eco_revival:0 "Economic Revival"
+UOB_eng_lives:0 "England Lives!"
+UOB_marches_on:0 "And Marches On!"
+UOB_diss_aristo:0 "Dissolve the Aristocracy"
+UOB_mob_union:0 "Mobilise the Unions"
+UOB_socialist_freedom:0 "Socialist Freedom"
+UOB_liberty_britons:0 "Liberty of Britons"
+
+# - BSP
+
+UOB_socialist_nation:0 "Socialism in One Nation"
+UOB_no_gods:0 "No Gods..."
+UOB_no_masters:0 "...No Masters"
+UOB_rebuild_britain:0 "Rebuilding Britain"
+UOB_control_eco:0 "Exerting Control"
+UOB_self_reliance:0 "Economic Self-Reliance"
+UOB_emergency_measures:0 "Emergency Measures"
+UOB_new_britain:0 "A New Britain"
+
+# - CPGB
+
+UOB_fires_revo:0 "The Fires of Revolution"
+UOB_establish_bnu:0 "Establish the BNU"
+UOB_mob_workers:0 "Mobilise the Workers"
+UOB_build_britain:0 "Build for Britain"
+UOB_defend_revo:0 "Defend the Revolution"
+UOB_work_policies:0 "Socialist Work Policies"
+UOB_export_revo:0 "Export the Revolution"
+UOB_war_prep:0 "War Preparations"
+UOB_perpetual_revo:0 "Perpetual Revolution"
+
+## - Foreign
+
+UOB_spread_revo:0 "Spread the Revolution"
+UOB_join_three:0 "Join the Third International"
+UOB_reclaim_ireland:0 "Reclaiming Ireland"
+UOB_bring_france:0 "Bring the Revolution to France"
+UOB_strike_beneleux:0 "Strike the Low Countries"
+UOB_socialist_ireland:0 "Socialism in Ireland"
+UOB_seize_nat:0 "Seize the North Atlantic"
+UOB_crush_valkism:0 "Crush the Valkists!"
+UOB_secure_nsea:0 "Securing the North Sea"
+
+## - Military
+
+UOB_begin_purge:0 "Begin the Purge"
+
+# - Army
+
+UOB_union_army:0 "Union Army"
+UOB_shells_soldiers:0 "Shells, not Soldiers"
+UOB_modern_army:0 "A Modern Army"
+UOB_strat_plan:0 "Strategic Planning"
+UOB_revo_guard:0 "The Revolutionary Guard"
+UOB_defence_britain:0 "In Defence of Britain"
+UOB_fist_union:0 "Fist of the Union"
+
+# - Air Force
+
+UOB_union_air:0 "Union Air Force"
+UOB_inter_force:0 "An Interception Force"
+UOB_bomb_defence:0 "Bomber Defence"
+UOB_air_strat:0 "Air Force Strategies"
+UOB_modern_weap:0 "Modern Weaponry"
+UOB_brit_bomb:0 "British Bombers"
+UOB_indust_target:0 "Industrial Targets"
+
+# - Navy
+
+UOB_union_navy:0 "Union Navy"
+UOB_our_shield:0 "Our Shield"
+UOB_defend_coast:0 "Defending our Coast"
+UOB_mod_doctrines:0 "Modern Doctrines"
+UOB_land_force:0 "Landing Force"
+UOB_nav_trad:0 "Encourage Naval Tradition"
+UOB_our_sword:0 "Our Sword"
+UOB_asw_effort:0 "Anti-Submarine Effort"
+
+
+##### Events #####

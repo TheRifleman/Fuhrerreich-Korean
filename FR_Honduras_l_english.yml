@@ -1,0 +1,38 @@
+﻿l_english:
+
+#### Political Parties ####
+
+HON_vanguardist_party:0 "PTR"
+HON_vanguardist_party_long:0 "Revolutionary Labor Party"
+HON_collectivist_party:0 "PTR"
+HON_collectivist_party_long:0 "Revolutionary Labor Party"
+HON_libertarian_socialist_party:0 "PTR"
+HON_libertarian_socialist_party_long:0 "Revolutionary Labor Party"
+HON_social_democrat_party:0 "PDR"
+HON_social_democrat_party_long:0 "Democratic Reformist Party"
+HON_social_liberal_party:0 "PLH"
+HON_social_liberal_party_long:0 "Liberal Party of Honduras"
+HON_market_liberal_party:0 "PP"
+HON_market_liberal_party_long:0 "Prosperity Party"
+HON_social_conservative_party:0 "PNH"
+HON_social_conservative_party_long:0 "National Party of Honduras"
+HON_authoritarian_democrat_party:0 "UFCO Lobbyists"
+HON_authoritarian_democrat_party_long:0 "United Fruit Company Lobbyists"
+HON_paternal_autocrat_party:0 "PRN"
+HON_paternal_autocrat_party_long:0 "National Renewal Party"
+HON_national_populist_party:0 "PRN"
+HON_national_populist_party_long:0 "National Renewal Party"
+HON_valkist_party:0 "FSNH"
+HON_valkist_party_long:0 "National Salvationist Front of Honduras"
+
+#### Events ####
+
+#Honduras
+
+honduras.1.t:0 "The Madruga Coup"
+honduras.1.d:0 "In the early hours of the morning, before the sun had even broken fully above the horizon, a group of men marched into the home of the President Vicente Mejía Colindres. Weapons at the ready, the men spoke plainly: the president had led well, but with as recent elections had shown, the people wanted greater change. To enact that change, and answer the call of the vox populi, the Socialist Alliance, its leadership composed of many Nicaraguan expats, would be seizing power. \n Colindres agreed to formally step down before he was arrested, to be kept under lock and key, along with the rest of the Liberal Party leadership, until the control of the socialists has solidified. Today a new dawn has come for the nation of Honduras, in more ways than one."
+honduras.1.a:0 "The People have spoken their will."
+honduras.2.t:0 "Joining the Grand Republic"
+honduras.2.d:0 "It has been over a month since the coup against President Colindres. Mostly bloodless, there was thankfully little chaos amongst the populace. Liberal Party supporters have either kept quiet, abandoned their cause, or were arrested in the early protests. Those protestors have now either gone to trial if they were violent, or released, anger vented. \n Now with the situation noticeably calmer and the new socialist government properly structured, a discussion has arisen; our new state is modeled off of the Grand Republic of Centroamerica, who certainly helped supply us. With a joint belief in a Socialist, Pan-Hispanic state, some propose we immediately join the Grand Republic, while others believe we ought to pursue a more autonomous path. Most of the latter are those who believe in a more radical state than Grand Republic has become."
+honduras.2.a:0 "¡El pueblo unido, jamás será vencido!"
+honduras.2.b:0 "We will join... once they follow the right path."

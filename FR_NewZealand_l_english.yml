@@ -1,0 +1,26 @@
+﻿l_english:
+
+#### Political Parties ####
+
+NZL_vanguardist_party:0 "NZCP"
+NZL_vanguardist_party_long:0 "New Zealand Communist Party"
+NZL_collectivist_party:0 "NZRL"
+NZL_collectivist_party_long:0 "New Zealand Radical Labour"
+NZL_libertarian_socialist_party:0 "Socialist Party NZ"
+NZL_libertarian_socialist_party_long:0 "SP"
+NZL_social_democrat_party:0 "NZL"
+NZL_social_democrat_party_long:0 "Labour"
+NZL_social_liberal_party:0 "Liberal Party"
+NZL_social_liberal_party_long:0 "Liberal Party"
+NZL_market_liberal_party:0 "New Zealand New Nationals"
+NZL_market_liberal_party_long:0 "New Nationals"
+NZL_social_conservative_party:0 "National Party"
+NZL_social_conservative_party_long:0 "National Party"
+NZL_authoritarian_democrat_party:0 "Nationalists' League"
+NZL_authoritarian_democrat_party_long:0 "Nationalists' League"
+NZL_paternal_autocrat_party:0 "MPA"
+NZL_paternal_autocrat_party_long:0 "Military Provisional Authority"
+NZL_national_populist_party:0 "NZAAP"
+NZL_national_populist_party_long:0 "New Zealand Above All Party"
+NZL_valkist_party:0 "NSRP"
+NZL_valkist_party_long:0 "Native Settlement and Rehabilition Party"

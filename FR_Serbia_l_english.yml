@@ -1,0 +1,73 @@
+﻿l_english:
+
+### Political Parties ###
+SER_vanguardist_party:0 "Istinski Komunisti"
+SER_vanguardist_party_long:0 "Istinski komunisti"
+SER_collectivist_party:0 "RDS"
+SER_collectivist_party_long:0 "Revolucionarna Država Stranka"
+SER_libertarian_socialist_party:0 "Socijalna Unija"
+SER_libertarian_socialist_party_long:0 "Socijalna unija"
+SER_social_democrat_party:0 "SP"
+SER_social_democrat_party_long:0 "Socijaldemokratska Partija"
+SER_social_liberal_party:0 "N"
+SER_social_liberal_party_long:0 "Napredak"
+SER_market_liberal_party:0 "Liberalna Liga"
+SER_market_liberal_party_long:0 "Liberalna Liga"
+SER_social_conservative_party:0 "Ustavna Partija"
+SER_social_conservative_party_long:0 "UP"
+SER_authoritarian_democrat_party:0 "Stranka Monarhije"
+SER_authoritarian_democrat_party_long:0 "BSM"
+SER_paternal_autocrat_party:0 "House of Karađorđević"
+SER_paternal_autocrat_party_long:0 "House of Karađorđević"
+SER_national_populist_party:0 "Ultra-Karađorđevićites"
+SER_national_populist_party_long:0 "Ultra-Karađorđevićites"
+SER_valkist_party:0 "Reklamacija"
+SER_valkist_party_long:0 "Reklamacija"
+
+### EVENTS ###
+
+serbia.1.t:0 "The Serbian Kingdom"
+serbia.1.d:0 "PLACEHOLDER"
+serbia.1.a:0 "We are destined for greatness!"
+
+serbia.2.t:0 "Hungary invites us to their faction"
+serbia.2.d:0 "In a surprising turn of events, we have recieved a letter from Budapest adressed to the King himself. It appears that the Hungarians are formally inviting us to a faction with them. They say that this alliance will allow for border exchanges and treaties to take place between us and that both nations will benifit greatly. We must choose wisely."
+serbia.2.a:0 "We must put old rivalries aside."
+serbia.2.b:0 "Serbia must forge her own path in history."
+
+serbia.3.t:0 "Hungary demands Bosnia!"
+serbia.3.d:0 "The Hungarians, in their infinite persuit of power, have sent us a list of demands, including all of our Bosnian held territories! While we may be able to fend the Hungarians off by ourselves, it would surely ruin the nation and perhaps expose one of our weak points."
+serbia.3.a:0 "Bosnia is a small concession for peace..."
+serbia.3.b:0 "We will never back down to the Magyar!"
+
+serbia.4.t:0 "Bosnia for peace?"
+serbia.4.d:0 "The Hungarians are far stronger than we had anticipated, and they may soon reach our capital. We can offer them Bosnia and Herzogovina in return for peace, but this will be seen as a shameful act in the eyes of both our government and our people. We can keep fighting, but if we lose then the Magyars will have free reign over our nation."
+serbia.4.a:0 "We will give up Bosnia, for the good of the nation."
+serbia.4.b:0 "The Magyars are weak, we need only a few months more..."
+
+serbia.5.t:0 "The Croatian Revolt spreads to Bosnia!"
+serbia.5.d:0 "The Croatians have only just recently risen up in Hungary, hoping to earn their independance through blood and iron. Now we are recieving reports that Bosnia and Herzogovina have both declared their complete allegance to the Croatian State, and has officially secceded from our nation. We must reign in the Bosnian provinces if we are to remain a relavant regional power!"
+serbia.5.a:0 "We will show the Croatians what it means to revolt against us."
+
+serbia.6.t:0 "Croatia wins their independance."
+serbia.6.d:0 "The fighting has dragged on for many long months now, and we are unable to make a significant dent in our enemies defenses. A delegation has been sent by both of our allies, asking for peace, and we must now follow suit. We cannot defeat the Croatians together, let alone by ourselves. Croatia will have their state, until the next major war allows us to reclaim our rightful territories."
+serbia.6.a:0 "This is a day which will live in infamy..."
+
+serbia.7.t:0 "Hungary demands West Banat!"
+serbia.7.d:0 "The Hungarian government today has demanded that we return the region of West Banat to them, or face certain consiquences. The region is extremely defensible and valuable from a strategic standpoint. Giving up the land would be a foolish move that would upset the people greatly, but we also must consider that Hungary mau attempt to take it by force if we decline."
+serbia.7.a:0 "West Banat is of little importance, they can have it."
+serbia.7.d:0 "They'll have to pry it from our cold, dead hands."
+
+### IDEAS ###
+
+ser_danube_research:0 "Danube Research Bloc Member"
+ser_danube_research_desc:0 "We are a member of the Danube Research Bloc, giving us and all other participating nationans a boost to our research abilities. We would be wise to maintain good relations with all other members of the Bloc."
+###
+ser_integrated_officers:0 "Integrated Officer Corps"
+ser_integrated_officers_desc:0 "Attempts to draw our nations closer militarily have led to the formation of a transnational officer corps consisting of generals from all members of the faction. While the cultural and language divide is being progress difficult, with time this will prove to be one of our greatest strenghs."
+###
+ser_interlaced_economy:0 "Interlaced Economy"
+ser_interlaced_economy_desc:0 "We have made extensive efforts to connect our economy with our fellow faction members. This has allowed us to better allocate resources towards construction and military production."
+
+### MISC ###
+SER_hungary_nice:0 "Building rapport"

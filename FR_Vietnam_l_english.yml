@@ -1,0 +1,72 @@
+﻿l_english:
+
+################
+### BOOKMARK ###
+################
+
+VIN_FUHRERREICH_DESC:0 "Ooga Booga"
+
+################
+### POLITICS ###
+################
+
+VIN_vanguardist_party:0 "CPI"
+VIN_vanguardist_party_long:0 "Communist Party of Indochina"
+VIN_collectivist_party:0 "IWU"
+VIN_collectivist_party_long:0 "Indochinese Workers Union"
+VIN_libertarian_socialist_party:0 "RSM"
+VIN_libertarian_socialist_party_long:0 "Red Sun Movement"
+VIN_social_democrat_party:0 "Colonial Administration"
+VIN_social_democrat_party_long:0 "Colonial Administration"
+VIN_social_liberal_party:0 "Colonial Administration"
+VIN_social_liberal_party_long:0 "Colonial Administration"
+VIN_market_liberal_party:0 "Colonial Administration"
+VIN_market_liberal_party_long:0 "Colonial Administration"
+VIN_social_conservative_party:0 "Colonial Administration"
+VIN_social_conservative_party_long:0 "Colonial Administration"
+VIN_authoritarian_democrat_party:0 "Colonial Administration"
+VIN_authoritarian_democrat_party_long:0 "Colonial Administration"
+VIN_paternal_autocrat_party:0 "VNQDD"
+VIN_paternal_autocrat_party_long:0 "Vietnamese Nationalist Party"
+VIN_national_populist_party:0 "NPGV"
+VIN_national_populist_party_long:0 "Nationalist Party of Greater Vietnam"
+VIN_valkist_party:0 "Imperial Restorationists"
+VIN_valkist_party_long:0 "Imperial Restorationists"
+
+#############
+### FOCUS ###
+#############
+
+#############
+### IDEAS ###
+#############
+
+VIN_literacy_1:0 "Very Low Literacy"
+VIN_literacy_1_desc:0 ""
+###
+VIN_literacy_2:0 "Low Literacy"
+VIN_literacy_2_desc:0 ""
+###
+VIN_literacy_3:0 "Average Literacy"
+VIN_literacy_3_desc:0 ""
+###
+VIN_literacy_4:0 "High Literacy"
+VIN_literacy_4_desc:0 ""
+###
+VIN_literacy_5:0 "Very High Literacy"
+VIN_literacy_5_desc:0 ""
+###
+VIN_consciousness_1:0 "Very Low Consciousness"
+VIN_consciousness_1_desc:0 ""
+###
+VIN_consciousness_2:0 "Low Consciousness"
+VIN_consciousness_2_desc:0 ""
+###
+VIN_consciousness_3:0 "Average Consciousness"
+VIN_consciousness_3_desc:0 ""
+###
+VIN_consciousness_4:0 "High Consciousness"
+VIN_consciousness_4_desc:0 ""
+###
+VIN_consciousness_5:0 "Very High Consciousness"
+VIN_consciousness_5_desc:0 ""

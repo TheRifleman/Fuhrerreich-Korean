@@ -1,0 +1,40 @@
+﻿l_english:
+
+#### Political Parties ####
+
+KNE_vanguardist_party:0 "RF"
+KNE_vanguardist_party_long:0 "Revolutionair Front"
+KNE_collectivist_party:0 "VVA"
+KNE_collectivist_party_long:0 "Volkspartij voor Agrariërs"
+KNE_libertarian_socialist_party:0 "AP"
+KNE_libertarian_socialist_party_long:0 "Anarchistische partij"
+KNE_social_democrat_party:0 "SDAP"
+KNE_social_democrat_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+KNE_social_liberal_party:0 "VDB"
+KNE_social_liberal_party_long:0 "Vrijzinnig Democratische Bond"
+KNE_market_liberal_party:0 "LSP"
+KNE_market_liberal_party_long:0 "Liberale Staatspartij"
+KNE_social_conservative_party:0 "ARP"
+KNE_social_conservative_party_long:0 "Anti-Revolutionaire Partij"
+KNE_authoritarian_democrat_party:0 "RKSP"
+KNE_authoritarian_democrat_party_long:0 "Roomsch-Katholieke Staatspartij"
+KNE_paternal_autocrat_party:0 "MP"
+KNE_paternal_autocrat_party_long:0 "Monarchistische Partij"
+KNE_national_populist_party:0 "NPU"
+KNE_national_populist_party_long:0 "Nederlandse Partij voor Unificatie"
+KNE_valkist_party:0 "PVV"
+KNE_valkist_party_long:0 "Partij Voor 't Vaoderland"
+
+#### Political Ministers ####
+
+
+#####Ideas#####
+KNE_military_refugees:0 "Military Refugees"
+KNE_military_refugees_desc:0 "A large part of the military fled the Netherlands to come to Suriname in refuge. Because of this we have a lot of capable soldiers who are willing to retake the homeland."
+
+#####Tooltips#####
+
+
+#####Focus#####
+
+#####Events#####

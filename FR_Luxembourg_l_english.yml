@@ -1,0 +1,39 @@
+﻿l_english:
+
+#### Political Parties ####
+
+LUX_vanguardist_party:0 "VP"
+LUX_vanguardist_party_long:0 "Vanguardist Partei"
+LUX_collectivist_party:0 "KP"
+LUX_collectivist_party_long:0 "Kollektivist Partei"
+LUX_libertarian_socialist_party:0 "RZP"
+LUX_libertarian_socialist_party_long:0 "Radikal-Sozialistesch Partei"
+LUX_social_democrat_party:0 "LSAP"
+LUX_social_democrat_party_long:0 "Lëtzebuerger Sozialistesch Aarbechterpartei"
+LUX_social_liberal_party:0 "LP"
+LUX_social_liberal_party_long:0 "Liberal Partei"
+LUX_market_liberal_party:0 "LL"
+LUX_market_liberal_party_long:0 "Liberal Liga"
+LUX_social_conservative_party:0 "RP"
+LUX_social_conservative_party_long:0 "Rietspartei"
+LUX_authoritarian_democrat_party:0 "MP"
+LUX_authoritarian_democrat_party_long:0 "Monarchistescher Partei"
+LUX_paternal_autocrat_party:0 "VB"
+LUX_paternal_autocrat_party_long:0 "Volksdeutsche Bewegung"
+LUX_national_populist_party:0 "ON"
+LUX_national_populist_party_long:0 "Onofhängeg Nationalpartei"
+LUX_valkist_party:0 "LD"
+LUX_valkist_party_long:0 "Letzebuerger Duchisten"
+
+#### Political Ministers ####
+
+
+#####Ideas#####
+
+
+#####Tooltips#####
+
+
+#####Focus#####
+
+#####Events#####

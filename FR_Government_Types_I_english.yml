@@ -1,0 +1,49 @@
+﻿l_english:
+vanguardist_noun:0 "National Collectivism"
+collectivist_noun:0 "Socialism"
+libertarian_socialist_noun:0 "Libertarianism"
+social_democrat_noun:0 "Social Democracy"
+social_liberal_noun:0 "Social Liberalism"
+market_liberal_noun:0 "Market Liberalism"
+social_conservative_noun:0 "Social Conservatism"
+authoritarian_democrat_noun:0 "Authoritarian Dem."
+paternal_autocrat_noun:0 "Paternal Autocracy"
+national_populist_noun:0 "National Populism"
+valkist_noun:0 "Valkism"
+
+vanguardist_desc:0 "National Collectivist"
+collectivist_desc:0 "Socialist"
+libertarian_socialist_desc:0 "Libertarian"
+social_democrat_desc:0 "Social Democrat"
+social_liberal_desc:0 "Social Liberal"
+market_liberal_desc:0 "Market Liberal"
+social_conservative_desc:0 "Social Conservative"
+authoritarian_democrat_desc:0 "Authoritarian Democrat"
+paternal_autocrat_desc:0 "Paternal Autocrat"
+national_populist_desc:0 "National Populist"
+valkist_desc:0 "Valkist"
+
+internationalist_subtype_desc:0 "Developed from particularly interventionist branches of Collectivism and Marxism overall, Internationalist Socialism, as it calls itself, or more commonly known as Internationalism,  is a socialist ideology that proposes the workers, once in power, must organize to enact a perpetual revolution, and to continue proactively in their struggle to bring socialism to the world. While most socialist strains are of international nature, the proactive spirit of Internationalism has given it a more militant nature, and Internationalist ideologues are known advocates of increased militarization of the workers in name of the revolution, as well as establishing a strong state that is able to defend the workers’ interests and protect the revolution from reactionary forces that may oppose it, however, these traits are just means, not ends, to Internationalists' agenda, as the revolution is never supposed to stop spreading."
+###
+vanguardist_subtype_desc:0 "National Collectivism is a term used to describe the collection of theories and concepts created by Vyacheslav Molotov based off of the attempted Hamburg Commune. National Collectivism emphasizes the development of socialism within the state. National Collectivist states build and implement their political base along Leninist lines, creating a revolutionary vanguard state to eventually reach a communist society. However, most power in National Collectivism is centralized around the strong state and its leader. Due to its totalitarian nature, political violence is used liberally to purge counter-revolutionary elements  Agriculture is often collectivized en masse and industry is centrally planned. Despite this, National Collectivism is widespread and sees itself as the true successor of Leninist thought, separating itself from Libertarianism completely while remaining suspicious of mainstream Leninist Socialism."
+###
+collectivist_subtype_desc:0 "Created in the aftermath of the Russian Revolution, Leninist Socialism is the mainstream socialist ideology. Named after the interpretations of Karl Marx by revolutionary Vladimir Lenin, Leninist Socialism adheres to the creation of a revolutionary vanguard and the dictatorship of the proletariat through class struggle and violent overthrow of the capitalist state. The eventual goal of Socialism is for the state functions to wither away and eventually transform society into a Marxist communist society. The Leninist Socialist political system is built around a single party state ran by the revolutionary workers party that adheres to a top-down approach towards governing known as democratic centralism, while the economic system is reliant of worker controlled regional and municipal councils known as soviets. Internationalist in tone, Leninist Socialism is often exported around the globe by its adherents and is heavily reinforced by the Leninist Union of Soviet Socialist Republics."
+###
+libertarian_socialist_subtype_desc:0 "Libertarianism represents a wide range of socialist doctrines that oppose the Leninist hegemony on the socialist movement through support of a decentralized, anti-authoritarian and anti-capitalist society ran democratically by the workers alongside worker-owned means of production. Libertarian ideologies include left communism, council communism, anarcho-syndicalism, and anarcho-communism, and do not strictly support the tenets of Marxism or Communism."
+###
+social_democrat_subtype_desc:0 "Social Democracy is an ideology whose goal is to reform capitalism and humanize it by aligning it with the ethical ideals of social welfare while maintaining the capitalist mode of production, rather than creating an alternative socialist economic system. While usually promoting a plutocratic form of government and a heavily regulated market economy, some more radical streams exist."
+social_liberal_subtype_desc:0 "Social Liberalism is a variation on mainstream Market liberalism, with the main difference being is the inclusion of various civil freedoms as basic human rights. Professing progressive social and economic policies the social liberals aim to create a society where every individual is free to live his own life with full opportunities regardless of their status"
+###
+market_liberal_subtype_desc:0 "Market Liberals see themselves as the mainstream liberal ideology. The main tenants of Market Liberalism are an unregulated free market and a liberal democratic political system. Market Liberals believe that the freer the market the freer the people, and they will staunchly defend the political and economic rights of the individual."
+###
+social_conservative_subtype_desc:0 "Conservatism is a political ideology which can vary greatly depending on the political history of the region or nation. Nonetheless, it is normally centred on preserving traditional beliefs, attitudes and philosophy as well as the traditional power dynamic of society while using the democratic system. Opposed to both radical and moderate changes to the status quo, conservatives want to keep society in order and stable. Most conservative societies usually promote a regulated market economy and favour economic protectionism."
+###
+authoritarian_democrat_subtype_desc:0 "Authoritarian Democracy is an ideology that combines a strong executive power with a representative parliament and a partial democratic political system. Authoritarian Democratic regimes often take a conservative stance on social issues, favour centralization and typically have Hawkish sentiments in-government; although isolationist branches of this ideology are not unheard of. The aim of these regimes is to maintain national stability and provide the people both a popular and responsible government."
+###
+paternal_autocrat_subtype_desc:0 "Paternal Autocracy is not a political ideology in the normal sense of the word, but rather a general term for the attitude that these governments hold towards their citizens: The people are all subjects of the leader, either a king or a dictator, and it is the leader's job and duty to lead the state and society towards the righteous and best path while uniting the people of under his benevolent protection. These countries usually have a very authoritarian government, conservative social views and a state controlled economy."
+###
+national_populist_subtype_desc:0 "Encompassing a variety of ultra-nationalist and militaristic movements, National Populism typically venerates devotion to the state, uniting the people under a strong leader and a corporate economy. Diplomatically, National Populists typically emphasize Expansionist, Hawkish, and Revanchist policies when appropriate or relevant to the nation in question. Often espousing racial politics and violent rhetoric, National Populism is vehemently opposed by most other political parties."
+###
+valkist_subtype_desc:0 "Named after the Germanic symbol that German Valkists wear, Valkism is an extreme nationalist and militaristic ideology, that proposes a system where the political power is centralized under a strong leadership, that through the state controls and guides the nation to its national rebirth. Nonetheless, Valkists fundamentally defend socially progressive ideals and the leader grants liberties to the people. Valkists are characterized by adopting conceptual and aesthetical aspects from ancient, pagan, mystical and esoterical traditions, generally relevant to the nation in question. There are many schools of thought in Valkist economics, but the state supremacy and control over it is undisputed."
+###
+social_nationalist_subtype_desc:0 "Social Nationalism, often abbreviated as SocNat, is a hypernationalist and extremely militaristic ideology. Typically classified as being extremely authoritarian, Social Nationalism is an extremely fringe ideology that originated in Hungary in 1932 with the foundation of the Arrow Cross party. Some trademarks of Social Nationalism is extreme economic protectionism, hyper-revanchism, ideals of racial and ethnic superiority, and a strong desire to bring together all members of an ethnicity under the same flag. Social Nationalist regimes tend to rule with an iron fist, and any attempt at liberlization of the government will almost always end in the collapse of the regime."

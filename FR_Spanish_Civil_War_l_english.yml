@@ -1,0 +1,71 @@
+﻿l_english: 
+
+#Decisions
+SPR_civil_war:0 "The Spanish Civil War"
+SPR_civil_war_desc:0 "The Spanish Civil War which began in November of 1935 as a result of Alfonso Pío Cristino assassination has resulted in four sides rising up, the Popular Front, Monarchists, Falangists, and Republicans. We must use whatever means neccesary to gain an advantage in this time of strife."
+
+SCW_partisans_monarchy_1:0 "Southern Resistance"
+SCW_partisans_monarchy_1_desc:0 "The people in South of Spain are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+SCW_partisans_monarchy_2:0 "Extremadura Resistance"
+SCW_partisans_monarchy_2_desc:0 "The people in Extremadura are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+SCW_partisans_popular_front_1:0 "Valencia Resistance"
+SCW_partisans_popular_front_1_desc:0 "The people in Valencia are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+SCW_partisans_popular_front_2:0 "Aragon Resistance"
+SCW_partisans_popular_front_2_desc:0 "The people in Aragon are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+SCW_partisans_republic_1:0 "La Mancha Resistance"
+SCW_partisans_republic_1_desc:0 "The people in La Mencha are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+SCW_partisans_republic_2:0 "Castille Resistance"
+SCW_partisans_republic_2_desc:0 "The people in Castille are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+SCW_partisans_falangists_1:0 "Leon Resistance"
+SCW_partisans_falangists_1_desc:0 "The people in Leon are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+
+#Tooltips
+SCW_uprising:0 " An uprising has already occured in this location"
+SCW_SPM_partisan_granada_tooltip:0 "A partisan division will rise up in Granada\n"
+SCW_SPM_partisan_jaen_tooltip:0 "A partisan division will rise up in Jaen\n"
+SCW_SPM_partisan_extremadura_tooltip:0 "Two partisan divisions will rise up in Extremadura\n"
+SCW_SPA_partisan_valencia_tooltip:0 "A partisan division will rise up in Valencia\n"
+SCW_SPA_partisan_murica_tooltip:0 "A partisan division will rise up in Murica\n"
+SCW_SPA_partisan_aragon_tooltip:0 "Two partisan divisions will rise up in Aragon\n"
+SCW_SPR_partisan_la_mancha_tooltip:0 "Two partisan divisions will rise up in La Mancha"
+SCW_SPR_partisan_castille_tooltip:0 "Two partisan divisions will rise up in Castille"
+SCW_SPR_partisan_leon_tooltip:0 "Two partisan divisions will rise up in Leon"
+
+#Ideas
+SCW_idea:0 "The Spanish Civil War"
+SCW_idea_desc:0 "The Spanish Civil war which began in 1935 has thrown Spain into utter chaos, and we've been thrown into the fire. We must come out victorious, for a better Spain!"
+
+SCW_SPM_no_support:0 "Support Cut-Off"
+SCW_SPM_no_support_desc:0 "With the British caught up in the Indian revolt, support for our side of the conflict has largely been cut off. We'll need to fend for ourselves until the Indians are dealt with."
+
+SCW_SPM_no_support_2:0 "Support Ended"
+SCW_SPM_no_support_2_desc:0 "With the dawn of the London Stock Market Crash, our support from the British has been totally cut off. Our chance of survival is limited, and many predict our fall any moment now."
+
+SCW_SPM_support_regained:0 "Support Regained"
+SCW_SPM_support_regained_desc:0 "The United Kingdom has made the wise decision to support our government in the civil war once again, resulting in a surge of strength. We must use this oppurtunity while it lasts!"
+
+#Events
+scw.1.t:0 "The Republic Destroyed"
+scw.1.d:0 "The Spanish Civil War has left our favor, with the Spanish Republic which controlled Madrid falling not long ago. The rebel movements have begun to move into Tangiers, but our very close proximity to it can cut off the rebel forces, and allow us to start a Republican government in exile in Tangiers. However, doing so will hurt relations with the victor of the war, but allows us to have a claim to the region."
+
+scw.2.t:0 "The Civil War Ends"
+scw.2.d:0 "When the dust settled, we came out on top, the one and only Republican government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+
+scw.3.t:0 "The Civil War Ends"
+scw.3.d:0 "When the dust settled, we came out on top, the one and only Falangist government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+
+scw.4.t:0 "The Civil War Ends"
+scw.4.d:0 "When the dust settled, we came out on top, the one and only People's government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+
+scw.5.t:0 "The Civil War Ends"
+scw.5.d:0 "When the dust settled, we came out on top, the one and only Monarchist government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+
+scw.6.t:0 "The London Stock Market Crash"
+scw.6.d:0 "With our main and only funder being the United Kingdom, their recent economic depression has cut off our support worse than when the Indian Revolt Cut-Off. Our already broken economy has been declared dead by many economists, and support for war overall within the country is at an all time low. Many within our land are telling us to surrender, and for the 'Kingdom to be buried once and for all!'."
+scw.6.a:0 "This is truly the end..."
