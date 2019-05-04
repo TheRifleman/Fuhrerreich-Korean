@@ -1,0 +1,57 @@
+﻿l_english:
+
+#### Political Parties ####
+
+DEN_vanguardist_party:0 "DKP"
+DEN_vanguardist_party_long:0 "Danmarks Kollectivistiske Parti"
+DEN_collectivist_party:0 "DKP"
+DEN_collectivist_party_long:0 "Danmarks Kollectivistiske Parti"
+DEN_libertarian_socialist_party:0 "RSP"
+DEN_libertarian_socialist_party_long:0 "Republikanske-Socialistiske parti"
+DEN_social_democrat_party:0 "Republikanske Parti"
+DEN_social_democrat_party_long:0 "Republikanske"
+DEN_social_liberal_party:0 "RV"
+DEN_social_liberal_party_long:0 "Radikale Venstre"
+DEN_market_liberal_party:0 "Venstre"
+DEN_market_liberal_party_long:0 "Venstre"
+DEN_social_conservative_party:0 "Konservative"
+DEN_social_conservative_party_long:0 "Konservative Folkeparti"
+DEN_authoritarian_democrat_party:0 "MK"
+DEN_authoritarian_democrat_party_long:0 "Militaire Kliek"
+DEN_paternal_autocrat_party:0 "Absolutistische Overblijfselen"
+DEN_paternal_autocrat_party_long:0 "Absolutistische Overblijfselen"
+DEN_national_populist_party:0 "NP(C)"
+DEN_national_populist_party_long:0 "Nationale Parti (Conservative)"
+DEN_valkist_party:0 "NP(P)"
+DEN_valkist_party_long:0 "Nationale Parti (Progressive)"
+
+#### IDEAS ####
+DEN_growing_republican_sentiment:0 "Growing Republican Sentiment"
+DEN_growing_republican_sentiment_desc:0 "The people of Denmark are still uneasy with the notion of a King given what happened during Christian X's reign. The severe political repression that was experienced during that period has led to growth of many Republican and Socialist movements."
+DEN_weary_military:0 "Weary Military"
+DEN_weary_military_desc:0 "Battered, Bolstered, Bloated and Weary from their extensive duties in the past 20 years; the Danish Military has found itself incredibly worn-out. Their ranks remain bolstered with Conscripts to compensate for a dire lack of recruits."
+
+###EVENTS###
+denmark.1.d:0 "" #Status of Denmark
+denmark.2.d:0 "" #Status of the Kiel Zone
+denmark.3.d:0 "As the 1936 Folketing elections creep closer, we are faced with quite the problem. Our shrinking popularity might cause us to lose the next election to the Republicans, which would undoubtedly result in the abolishment of the Monarchy. We simply cannot afford that. It would be much safer to arrange a coalition with the Venstre... But can we win this Election on our own?"
+denmark.4.d:0 "The 1936 Folketing Election has arrived, will the Republicans win and see the Monarchy abolished? Or, perhaps will another faction win?"
+denmark.5.d:0 "The Republicans have won the Election, as predicted. Their growing support meant it was only a matter of time before they took power. Nonetheless, the question of the Monarchy has been very controversial. Frederick himself has close connections with the Military after couping his father, and his influence is large enough to coup the current Government. Alternatively, he might prefer to peacefully resign in an attempt to preserve his reputation."
+denmark.6.d:0 "Once again, we have triumphed over the Collectivist rabble of the Hamburg Commune. Now we're faced with the decision on what to do with them."
+#SHO
+denmark.100.d:0 "Whilst the Kiel Zone has always been somewhat unstable, it seems there has been a recent resurgence of Collectivist activities, what's further worrisome is that they aren't the run-of-the-mill Leninist-Collectivists, they subscribe to their own variant of the ideology, called National Collectivism. Generally Nationalitic and violent in nature, we might face another uprising from them in the near future."
+denmark.101.d:0 "The National-Collectivists have instigated riots in Hamburg! The Riots have become particularly bad, with vandalism against Danish properties being highly prevalent. The Danish Garrisons in the city are having difficulty keeping the riots contained. Waiting the riots our and then arresting the agitators would be the safest solution to this mess, however solving this with force would allow us to stop these riots without having to deal with damages afterwards... Although, it's a possibility that the citizens will respond negatively to force."
+denmark.102.d:0 "Our attempts at containing the riots have failed, we've been incapable of enforcing the curfews and have simply been strained for manpower when it came to ending the riots with force. What's worse, is that riots have also started in Kiel, also with their backbone being the National-Collectivists. The severity of these riots might become uncontrollable soon."
+denmark.103.d:0 "With riots largely being calmed by us relenting and liberalizing, we're faced with the first Election of Schleswig Holstein. We will no longer be an occupation zone going forward, we will be a Liberal-Democratic Parliamentary Republic.\n\nNonetheless, we're faced with the first election of Schleswig-Holstein. Only a number of selected parties have been permitted to participate in the Election, but the most popular of these parties seems to be the SP, FV & KP."
+denmark.104.d:0 "All we've done is feed the flames. Rioting has only got worse in the recent days, and has reached further than simply the urban regions of our nation, and has even spread as far as Flensburg!\n\nOur Garrisons have largely been overwhelmed by rioters, some conscripts have even joined them. The little influence we have left here is in remote countryside locations, and given that the National-Collectivists have seized various Armouries, it's likely that this revolt may soon be armed."
+denmark.105.d:0 "The Danish Transitional Government has collapsed! National-Collectivist forces and other Socialist revolutionaries have joined forces and organized a handful of combat units using seized weaponry. Shortly after, they were able to drive Danish Garrisons out of the country with little resistance.\n\nAs the National-Collectivists and other Socialists are assembling a 'Second Hamburg Commune', it seems that the Transitional Government has entirely disappeared in place of the Hamburg Commune."
+denmark.106.d:0 "The damned Collectivists in the Kiel Zone have thrown our occupying forces out and have proclaimed the Second Hamburg Commune! Shall we crush this upstart again? Or shall we let them go?"
+denmark.107.d:0 "Otto Stasser, a popular politician in Das Deutches Reich, has arrived a few days ago. He has expressed a large passion for the ideology of National-Collectivism, however he is a former Valkist.\n\nNonetheless, he seems to be very fiscally adept and is very administratively experienced. How shall we go about this?"
+denmark.108.d:0 "The Danish oppressors lie defeated before us, our Militias are marching through our conquered territories bearing the flag of the Commune.\n\nA monumental day, now that we've successfully secured our independence, we can turn our gazes to other locations. We could even perhaps claim to be the legitimate German nation, but that would undoubtedly ruin relations with the Valkists."
+denmark.109.d:0 "The German Commune has sent a formal request to join the Third Internationale, likely due to a lack of any allies in their region. They seem to be a future target for Germany, which may bring us into war with them in the future. Shall we accept?"
+denmark.110.d:0 "The Soviets have rejected our offer to join the Third Internationale!"
+denmark.111.d:0 "Otto Strasser, a former German Valkist, has arrived in our Nation. He wasted no time in pledging his allegiance to the National-Collectivist cause, and quickly denounced Valkism in support of National-Collectivism. As unfortunate as it may be, he seems to be doing a good job at attracting supporters."
+denmark.112.d:0 "The Danish oppressors lie defeated before us, our Militias are marching through our liberated territories bearing the flag of the Commune.\n\nA monumental day, now that we've successfully secured our independence, we can turn our gazes to other locations! The First Hamburg Commune has been avenged!"
+denmark.113.d:0 "The Hamburg Commune has offered a 'peace with honour' of sorts, they demand that we recognize their independence and they will grant us peace in return, without any territorial concessions from Denmark herself."
+denmark.114.d:0 "The Hamburg Commune has put forward a 'peace with vengeance' demand. If we install a collaborationist regime, they are willing to cease military campaigns in our nation."
+denmark.115.d:0 "The Danish have been unwilling to accept any of our terms, and we have been unwilling to make any changes to our list of demands. The talks quickly turned hostile, and no peace was reached."

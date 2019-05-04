@@ -1,0 +1,27 @@
+﻿l_english:
+
+### Political Parties ###
+
+ECU_vanguardist_party:0 "VSE"
+ECU_vanguardist_party_long:0 "Vanguardia Socialista Ecuatoriana"
+ECU_collectivist_party:0 "PCE"
+ECU_collectivist_party_long:0 "Partido Colectivista Ecuatoriano"
+ECU_libertarian_socialist_party:0 "PSE"
+ECU_libertarian_socialist_party_long:0 "Radical Wing of Partido Socialista Ecuatoriano"
+ECU_social_democrat_party:0 "PSE"
+ECU_social_democrat_party_long:0 "Reformist Wing of Partido Socialista Ecuatoriano"
+ECU_social_liberal_party:0 "PLRE"
+ECU_social_liberal_party_long:0 "Partido Liberal Radical Ecuatoriano"
+ECU_market_liberal_party:0 "PLRE"
+ECU_market_liberal_party_long:0 "Partido Liberal Radical Ecuatoriano"
+ECU_social_conservative_party:0 "PC"
+ECU_social_conservative_party_long:0 "Partido Conservador"
+ECU_authoritarian_democrat_party:0 "PC (V)"
+ECU_authoritarian_democrat_party_long:0 "Partido Conservador (Velasquista)"
+ECU_paternal_autocrat_party:0 "UPN"
+ECU_paternal_autocrat_party_long:0 "Unión Patriótica Nacional"
+ECU_national_populist_party:0 "UPN - CON"
+ECU_national_populist_party_long:0 "UPN - Compactación Obrera Nacional"
+ECU_valkist_party:0 "FADN"
+ECU_valkist_party_long:0 "Frente Anti-Colectivista de Defensa Nacional"
+

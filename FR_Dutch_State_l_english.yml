@@ -1,0 +1,42 @@
+﻿l_english:
+
+#### Political Parties ####
+
+HOL_vanguardist_party:0 "RF"
+HOL_vanguardist_party_long:0 "Revolutionair Front"
+HOL_collectivist_party:0 "VVA"
+HOL_collectivist_party_long:0 "Volkspartij voor Agrariërs"
+HOL_libertarian_socialist_party:0 "AP"
+HOL_libertarian_socialist_party_long:0 "Anarchistische partij"
+HOL_social_democrat_party:0 "SDAP"
+HOL_social_democrat_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+HOL_social_liberal_party:0 "VDB"
+HOL_social_liberal_party_long:0 "Vrijzinnig Democratische Bond"
+HOL_market_liberal_party:0 "LSP"
+HOL_market_liberal_party_long:0 "Liberale Staatspartij"
+HOL_social_conservative_party:0 "CV"
+HOL_social_conservative_party_long:0 "Conservatief Verbond"
+HOL_authoritarian_democrat_party:0 "NNB"
+HOL_authoritarian_democrat_party_long:0 "Nieuwe Nederlandse Beweging"
+HOL_paternal_autocrat_party:0 "NNB"
+HOL_paternal_autocrat_party_long:0 "Nieuwe Nederlandse Beweging"
+HOL_national_populist_party:0 "NNB"
+HOL_national_populist_party_long:0 "Nieuwe Nederlandse Beweging"
+HOL_valkist_party:0 "PVV"
+HOL_valkist_party_long:0 "Partij Voor 't Vaoderland"
+
+#### Political Ministers ####
+
+
+#####Ideas#####
+
+
+#####Tooltips#####
+
+
+#####Focus#####
+
+#####Events#####
+hol.1.t:0 "The United Provinces in 1936"
+hol.1.d:0 ""
+hol.1.a:0 "Long live the prince!"

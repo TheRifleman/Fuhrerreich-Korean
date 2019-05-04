@@ -1,0 +1,75 @@
+﻿l_english:
+
+###########################
+# - By SuperMarks & RaptorJesus
+###########################
+
+##### Factions #####
+
+nato:0 "NATO"
+
+##### Opinion Modifiers #####
+
+AA_successful:0 "Successful Conference"
+AA_failure:0 "Diplomatic Breakdown"
+AA_pacific_do:0 "Pacific Defence Organisation"
+
+##### Ideas #####
+
+AA_ottawa_treaty:0 "Ottawa Naval Treaty"
+AA_econ_coop:0 "Anglo-American Economic Cooperation"
+AA_mil_coop1:0 "Military Difficulties"
+AA_mil_coop1_desc:0 "The process of integrating the command and control structure of the British and American militaries is a long and difficult process. It may be many months before the initial problems are overcome."
+AA_mil_coop2:0 "Anglo-American Military Cooperation"
+
+##### Events #####
+
+# - UK side
+
+anam.1a.d:0 "At the end of the Great War we found ourselves with the largest Navy the world had ever seen but all was not well. Our allies in the United States and the Empire of Japan were both beginning their own naval expansion programs that would challenge the previously unchallenged Royal Navy. With the economic boom in the Empire, much funding was delivered to the Royal Navy and a large-scale ship-building program was begun to attempt to match the pace of the American and Japanese construction. Ostensibly, a gentlemen's agreement has held between our three nations for the past decade and a half to limit any naval arms race that may occur, which would only inevitably lead to war. Instead a technological arms race would begin, with massive amounts of funding being poured into naval research and development in the three nations involved.\n\nOur Government knew that this agreement would never hold indefinitely and we moved first to secure our position with the launching of HMS Trafalgar earlier this year. Diplomatic efforts would be made between ourselves and the United States of America to prevent a disastrous naval race between our two nations, one that many believe we would be on the losing side of. This has culminated in the proposed Anglo-American Conference of '36, of which the preparations for have begun today.\n\nScheduled for late November - after the soon-to-be-held Presidential elections in the United States - the Conference will cover a multitude of issues as far reaching as naval construction, the Pacific, and the effects of the LSMC.\n\nThis Conference is likely to dictate the relations between our two nations for years to come, and if compromise is not found it may lead to war."
+anam.2a.d:0 "This morning the Anglo-American Conference of '36 began with the meeting of American and British diplomats in New York to discuss the shared interests, and concerns of each of our nations.\n\nExpected to last several days, the Conference will cover numerous topics and will signal a new beginning of Anglo-American solidarity if successful. Should the worst occur however, and agreements fail to be made, it may mean a total breakdown of relations between our two nations and the possibility of war on the horizon."
+anam.3a.d:0 ""
+anam.4a.d:0 ""
+anam.5a.d:0 ""
+anam.6a.d:0 ""
+anam.8a1.d:0 ""
+anam.8a2.d:0 ""
+
+# - US side
+
+anam.1b.d:0 ""
+anam.2b.d:0 ""
+anam.3b.d:0 ""
+anam.4b.d:0 ""
+anam.5b.d:0 ""
+anam.6b.d:0 ""
+anam.8b1.d:0 ""
+anam.8b2.d:0 ""
+
+# - Mutual
+
+anam.11.d:0 "With the creation of a Pacific Defence Organisation between our nations relations have improved significantly. The PDO has the mandate to defend and protect commercial shipping routes in the Pacific Ocean, and if necessary use military force to defend the member-states of the Organisation."
+anam.13.d:0 "This morning in New York, representatives of British and American Governments concluded a week-long diplomatic meeting on a proposed alliance between the two nations.\n\nWhile relations had been on the decline between the two nations in the inter-war years due to a technological naval race, it would seem that these concerns are a thing of the past.\n\nToday the British Foreign Minister and American Secretary of State read a joint statement to eager journalists informing the world of a new alliance between the two nations, the North Atlantic Treaty Organisation."
+
+##### Tooltips #####
+
+anamwarning:0 "§RThis Conference is surely to define our interactions for the foreseeable future.\n\nA collapse in the Conference will mean that suspicious relations between our two nations will continue and possibly lead to war. Success will lead to an increase in cooperation.\n\nCompromises will surely have to be made if it is to succeed.§!"
+AA_mil_diff_tt:0 "\n§RThe negative effects of increasing military cooperation between our two nations will only last several months at most, after which we will benefit from the increased cooperation between our two militaries.§!\n"
+
+##### Decisions #####
+
+##### Focus #####
+
+ENG_angloamerican_exercises:0 "Anglo-American Military Exercises"
+ENG_pacific_do:0 "Pacific Defence Organisation"
+ENG_atlantic_trade:0 "Atlantic Trade Protection"
+ENG_peace_firepower:0 "Peace Through Superior Firepower"
+ENG_armed_forces_coop:0 "Armed Forces Cooperation"
+ENG_nato_alliance:0 "A North Atlantic Hegemony"
+
+USA_angloamerican_exercises:0 "Anglo-American Military Exercises"
+USA_pacific_do:0 "Pacific Defence Organisation"
+USA_atlantic_trade:0 "Atlantic Trade Protection"
+USA_peace_firepower:0 "Peace Through Superior Firepower"
+USA_armed_forces_coop:0 "Armed Forces Cooperation"
+USA_nato_alliance:0 "A North Atlantic Hegemony"

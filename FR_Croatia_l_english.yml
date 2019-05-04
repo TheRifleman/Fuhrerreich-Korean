@@ -1,0 +1,50 @@
+﻿l_english:
+
+### Political Parties ###
+
+CRO_vanguardist_party:0 "KPH"
+CRO_vanguardist_party_long:0 "Komunistička Partija Hrvatske"
+CRO_collectivist_party:0 "HSRS"
+CRO_collectivist_party_long:0 "Hrvatska Socijalistička Radnička Stranka"
+CRO_libertarian_socialist_party:0 "SSH"
+CRO_libertarian_socialist_party_long:0 "Socijalistička Stranka Hrvatske"
+CRO_social_democrat_party:0 "SDSH"
+CRO_social_democrat_party_long:0 "Socijal-Demokratska Stranka Hrvatske"
+CRO_social_liberal_party:0 "HNS"
+CRO_social_liberal_party_long:0 "Hrvatska Narodna Stranka"
+CRO_market_liberal_party:0 "HLS"
+CRO_market_liberal_party_long:0 "Hrvatska Liberalna Stranka"
+CRO_social_conservative_party:0 "HSS"
+CRO_social_conservative_party_long:0 "Hrvatska Seljačka Stranka"
+CRO_authoritarian_democrat_party:0 "HSP"
+CRO_authoritarian_democrat_party_long:0 "Hrvatska Stranka Prava"
+CRO_paternal_autocrat_party:0 "VH"
+CRO_paternal_autocrat_party_long:0 "Vojna Hunta"
+CRO_national_populist_party:0 "UHRO"
+CRO_national_populist_party_long:0 "Ustaše-Hrvatska Revolucionarna Organizacija-Ustaše"
+CRO_valkist_party:0 "HRO"
+CRO_valkist_party_long:0 "Hrvatska Revolucionarna Organizacija"
+
+
+###Events###
+
+cro.1.t:0 "The Croatian War for Independance!"
+cro.1.d:0 "The Hungarians are unwilling to negotiate and compromise, we must take our independance by force!"
+cro.1.a:0 "Croatia forever!"
+###
+cro.2.t:0 "Serbia declares war!"
+cro.2.d:0 "The Croatians in Bosnia have recently joined our cause, and now Serbia has declared war with the intent of retaking the lands. We must now fight on two fronts."
+cro.2.a:0 "Croatia forever!"
+###
+cro.3.t:0 "Italy declares war!"
+cro.3.d:0 "Dalmatia has joined our state not too long ago, and the Italians have decided that military intervention is the only solution. While Italy is far stronger than us, their internal political struggle may yield results for us."
+cro.3.a:0 "Croatia forever!"
+###
+cro.4.t:0 "Our enemies offer peace."
+cro.4.d:0 "We have survived against all odds and with enemies on all sides, and our enemies are unable to break our iron will. A combined delegation of Serbian, Hungarian, and Italian diplomats have sent an official letter of peace. The terms are completely reasonable; we leave all areas we've occupied during the war, and so do they. The Greater Croatian State survives, and our dream has been realized.\n\nWe have won."
+cro.4.a:0 "Croatia forever!"
+
+###Ideas###
+
+cro_united_revolt:0 "United in revolt"
+cro_united_revolt_desc:0 "All Croatians are united in our great revolt against our masters. Croatia will no longer be subject to foriegn powers."

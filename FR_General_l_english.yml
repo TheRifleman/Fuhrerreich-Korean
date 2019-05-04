@@ -1,0 +1,639 @@
+﻿l_english:
+
+### Loading Messages ###
+LOADING_GUI:0 "Exporting the Revolution"
+#"Loading GUI"
+LOADING_HISTORY:0 "Winning the Great War"
+#"Loading History"
+LOADING_SAVEGAME:0 "Reshaping history: $NAME$"
+#"Loading savegame: $NAME$"
+LOADING_SAVEGAME_NO_NAME:0 "Waiting for the LMSC"
+#"Loading savegame"
+LOADING_DATABASES:0 "Rekindling Imperialism"
+#"Loading databases"
+LOADING_MAP_SPRITES:0 "Training for the Empire Games"
+#"Loading sprites"
+LOAD_GFX_PDXMAP_SHADERS:0 "Fortifying the Elbe"
+#"Loading Map(Creating Shaders)..."
+LOAD_GFX_PDXMAP_TERRAIN:0 "Exiling the Kaiser"
+#"Loading Map(Creating Terrain)..."
+LOAD_GFX_PDXMAP_BORDERS:0 "Promoting the Status Quo"
+#"Loading Map(Creating Borders)..."
+LOAD_GFX_PDXMAP_TEXTURES:0 "Allowing the Military to step in"
+#"Loading Map(Creating Textures)..."
+LOAD_GFX_PDXMAP_TREES:0 "Falling to a Revolution"
+#"Loading Map(Creating Trees)..."
+LOAD_GFX_PDXMAP_RIVERS:0 "Reviving dead Ideologies"
+#"Loading Map(Creating Rivers)..."
+LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "Promoting the Red Scare"
+#"Loading Map(Creating objects)..."
+LOAD_EVENTS:0 "Kicking off the Spanish Civil War"
+#"Loading Events"
+LOAD_GFX:0 "Writing Caesarreich"
+#"Loading Graphics"
+LOADING_MAIN_MENU:0 "Ending 1000 year Empires"
+#"Loading main menu"
+PRECALC_NAVAL_DIST:0 "Centralizing the Imperial Federation"
+#"Precalculating Naval Distances"
+EXITING_TO_FRONTEND:0 "Bypassing the Maginot Line"
+#"Returning to main menu"
+LOAD_INIT:0 "Modernizing the Royal Navy"
+#"Initialising Game..."
+LOAD_FLAGS:0 "Sprinkling Socialism in South America"
+#"Creating Flags"
+PROC_FLAGS:0 "Proclaiming the Hamburg Commune"
+#"Processing Flags"
+INIT_MAP_LOGIC:0 "Cleaning Dressler's Glasses"
+#"Initialising map logic"
+INIT_GAMESTATE:0 "Draining French Manpower"
+#"Initialising game"
+EXECUTE_HISTORY:0 "Invading the British Isles"
+#"Executing history"
+CREATING_CHKSUM:0 "Crushing the IRB"
+#"Creating checksum"
+GENERATING_GRADIENT_BORDERS:0 "Creating a Coalition"
+#"Generating Gradient Borders"
+
+### Name and Description ###
+BM_HISTORY_TITLE:0 "Brief History"
+
+FUHRERREICH_NAME:0 "Legacy of the Great War"
+
+FUHRERREICH_DESC:0 "The end of the Great War saw the empires of the old—the Ottomans, the Austrians, and the Germans—fall greatly in both power and influence while the United States, Britain, and France have risen. While the Great War was thought by many to usher in a new era of peace, it seems that the tensions of old have not yet faded away and, with them, could threaten the tenuous peace that remains..."
+
+###OTHER COUNTRIES DESC###
+OTHER_FUHRERREICH_DESC:0 "It is 1936, and the world is on a brink of a new, inevitable, war. But the world is made up of more than a few monolithic empires. The smallest stones can bring about tidal waves, and these lesser states can bring about much change. Will you side with the valkists? Will you carry on the torch of the revolution? Or maybe you will grant your people true freedom, the likes of which they have never seen? The world will soon derail from its peaceful existance, plummeting into the hells of war. And it will not wait for your decisions."
+
+###LEADER DESCRIPTIONS###
+POLITICS_GEORGE_V_DESC:0 "George V of Windsor is the King-Emperor of the British Empire, more than just in name. Reigning nearly 3 times longer than his father, Edward VII, he has risen to become one of the most beloved Monarchs in British history. Under his reign the British Empire has once again asserted itself as the Global Hegemon and has economically eclipsed both their rivals and former allies following the Empire's return to Splendid Isolation. However, his invincible image does not entirely live up to reality. As the years march forward, King George's health has been steadily deteriorating, forcing him allow his son, Prince Edward, to assume a portion of his duties. Some of the Empire's finest medical experts expect him to live another 10 years at minimum, although King George privately holds an opinion to the contrary, despite his often stoic nature."
+
+POLITICS_EDWARD_VIII_DESC:0 "With the passing of the beloved King George, Edward VIII of Windsor found himself inheriting not only an Empire spanning from Vancouver to Wellington, but also the larger-than-life image that was established by his Father. Charismatic, confident, and armed with experience from the closing years of his Father's reign; the newly coronated King-Emperor is prepared to assume any duties that may be required of him in coming years."
+
+POLITICS_ADAM_DRESSLER_DESC:0 "An orphan, a Veteran, an Austro-German, Dressler led a very difficult life. Following the Great War, Dressler would find his way to the DNVP and then become one of their most notable and charismatic speakers. Dressler would attempt to assist a DNVP-led coup in 1923, only to be crushed and forcibly detained. During his time in prison, Dressler wrote a fanatic novel titled 'Mein Deutschland das Siegreiche', a novel detailing revenge against the Western Powers and destruction of the Soviets in the East. The novel would become incredibly popular. Following a case that proved Dressler's imprisonment unlawful; he was released from prison and was greeted by hundreds of supporters. Dressler would then build up support for his newly founded Valkistische Volkspartei Deutschlands and then run for office in 1932. Dressler narrowly lost to Otto Wels, declared the results fraudulent, and then lead a coup to bring down the Wels' Government. Dressler declared himself leader of Germany in the Reichstag, something the Entente responded to with hostility due to their belief of the 1932 election being legitimate. Dressler declared a snap-election which led to an overwhelming VVD victory. With it, the Entente reluctantly accepted the belief that the 1932 elections were fraudulent. Since then, Dressler has rearmed Germany from the shadows, prepared to enforce Germany's vision for Europe through Military Might in coming years."
+
+POLITICS_PAUL_REYNAUD_DESC:0 "Paul Reynaud made his first major appearance in French politics in 1919, Reynaud was elected as part of the Conservative 'Blue Horizon' Bloc. Quickly developing a reputation for being a Savvy politician, Reynaud soon clarified his allegiance as a member of the Fédération Républicaine. Quickly climbing ranks within the party due to his Militant nature in foreign policy, Reynaud rose to the position of the Vice-President of the FR. In 1925, Auguste Isaac resigned his position as President of the Fédération Républicaine and sought to appoint a Militant successor in order to strengthen the platform of the party. Reynaud was a natural candidate due to his popularity within the party and firm stance on foreign affiars. Under Reynaud's leadership, the Fédération Républicaine managed gathering the most votes and seats in both the 1928 & 1932 Elections. An extremely pragmatic man, Reynaud follows one doctrine in foreign policy; France has no Friends, only Interests."
+
+### Laws ###
+undisturbed_isolation:0 "Splendid Isolation"
+undisturbed_isolation_desc:0 "With its victory in Great War, Britain once again retreated into isolation, content to manage its Empire and avoid further entanglements on the European continent. With the onset of political developments in British India and Colonial Africa the attention of the British Empire is focused squarely on internal affairs."
+
+isolation:0 "Isolation"
+isolation_desc:0 "Prioritizing internal affairs and managing our own nation is a preferable alternative to foreign intervention.\n"
+
+civilian_economy:0 "Peacetime Demobilization"
+civilian_economy_desc:0 "I believe it is peace for our time. Go home and get a nice quiet sleep.\n"
+
+low_economic_mobilisation:0 "Early Mobilization"
+low_economic_mobilisation_desc:0 "Opportunity belongs to those who seize it.\n"
+
+partial_economic_mobilisation:0 "Partial Mobilization"
+partial_economic_mobilisation_desc:0 "War looms on the horizon, we'd be simply foolish to disregard preparations for it.\n"
+
+war_economy:0 "Wartime Mobilization"
+war_economy_desc:0 "We are at war; we cannot afford to provide our enemies with slightest shred of sympathy.\n"
+
+tot_economic_mobilisation:0 "Total Mobilization"
+tot_economic_mobilisation_desc:0 "You don't reason with intellectuals. You shoot them.\n"
+
+free_trade:0 "Free Trade"
+free_trade_desc:0 "Globalization and free trade tends to spur economic growth, and they lead to lower prices on many goods.\n"
+
+export_focus:0 "Open Markets" #Export Focus
+export_focus_desc:0 "I'm not opposed to free trade if it's fair trade. But I am opposed to bad trade deals.\n"
+
+limited_exports:0 "Regulated Markets" #Limited Exports
+limited_exports_desc:0 "As with anything in life; you must apply moderation.\n"
+
+closed_economy:0 "Closed Markets" #Closed Economy
+closed_economy_desc:0 "Trade? Who needs trade?\n"
+
+disarmed_nation:0 "Disarmed Nation"
+disarmed_nation_desc:0 "It's for the best that we follow a limit imposed on our Military.\n"
+
+volunteer_only:0 "Volunteer-Only"
+volunteer_only_desc:0 "A "Just War" - if there could be such a thing - would not require conscription. Volunteers would be plentiful.\n"
+
+limited_conscription:0 "Limited Conscription"
+limited_conscription_desc:0 "Conscription if necessary, but not necessarily conscription.\n"
+
+extensive_conscription:0 "Extensive Conscription"
+extensive_conscription_desc:0 "Conscription is the vitality of a nation, the purification of its morality, and the real foundations of all its habits.\n"
+
+service_by_requirement:0 "Service by Requirement"
+service_by_requirement_desc:0 "Are you doing your part?\n"
+
+all_adults_serve:0 "All Adults Serve"
+all_adults_serve_desc:0 "The worse the man, the better the soldier.\n"
+
+scraping_the_barrel:0 "Scraping the Barrel"
+scraping_the_barrel_desc:0 "Every man, every women and every child will contribute to the War Effort, one way or another.\n"
+
+### Land Units ###
+garrison:0 "Garrison"
+militia:0 "Militia"
+
+### Trade Modifiers ###
+embargo:0 "Embargo"
+trade_sanctions:0 "Trade Sanctions"
+heavy_tariffs:0 "Heavy Tariffs"
+
+### Difficulty settings ###
+custom_diff_strong_ger:0 "Strengthen Stahlpakt"
+custom_diff_strong_sov:0 "Strengthen Soviet Russia"
+custom_diff_strong_fra:0 "Strengthen France"
+custom_diff_strong_ita:0 "Strengthen Italy"
+custom_diff_strong_eng:0 "Strengthen I.P.A."
+custom_diff_strong_usa:0 "Strengthen America"
+custom_diff_strong_mex:0 "Strengthen Mexico"
+custom_diff_strong_jap:0 "Strengthen Japan"
+custom_diff_strong_tur:0 "Strengthen Ottomans"
+
+### Factions ###
+imperial_protection_alliance:0 "Imperial Protection Alliance"
+continental_entente:0 "Continental Entente"
+Stahlpakt:0 "Stahlpakt"
+3rd_international:0 "Third International"
+free_bloc:0 "Free Bloc"
+commonwealth:0 "Commonwealth of Nations"
+
+### Interface ###
+minister:1 "Ministers"
+research_production:1 "Companies"
+industrial_concern:1 "Industrial Company"
+weapons_manufacturer:0 "Weapons Manufacturer"
+tank_manufacturer:1 "Heavy Equipment Manufacturer"
+air_naval_manufacturer:0 "Air and Naval Manufacturer"
+POLITICS_NOELECTIONS:0 "Any elections by event."
+can_replace_hog:0 "Can Replace Head Of Government"
+ministers_cannot_be_replaced:0 "Ministers Cannot Be Replaced"
+
+### Skill Level ###
+unskilled:0 "" #(unskilled)
+regular:0 "" #(regular)
+expert:0 "" #(expert)
+blank:0 "" #\n
+
+### Ministers ###
+head_of_government:0 "Head of Government"
+foreign_minister:0 "Foreign Minister"
+economy_minister:0 "Economy Minister"
+security_minister:0 "Security Minister"
+head_of_intel:0 "Head of Intelligence"
+decisions:0 "Decisions"
+naive_optimist:0 "Naive Optimist"
+resource_industrialist:0 "Resource Industrialist"
+mass_assault:0 "School of Mass Combat"
+static_defense:0 "Static Defence Doctrine"
+backstabber:0 "Backroom Backstabber"
+happy_amateur:0 "Happy Amateur"
+corporate_suit:0 "Corporate Suit"
+smiling_oilman:0 "Smiling Oilman"
+silent_workhorse:0 "Silent Workhorse"
+old_general:0 "Old General"
+old_air_marshall:0 "Old Air Marshall"
+totalist_chairman:0 "Totalist Chairman"
+political_powerhouse:0 "Political Powerhouse"
+expansive_imperialist:0 "Stern Imperialist"
+totalist_promoter:0 "Totalist Idol"
+radical_socialist_promoter:0 "Socialist Revolutionary"
+syndicalist_promoter:0 "Syndicalist Union Leader"
+social_democrat_promoter:0 "Socialist Reformist"
+social_liberal_promoter:0 "Progressive Hero"
+market_liberal_promoter:0 "Business Advocate"
+social_conservative_promoter:0 "Staunch Traditionalist"
+authoritarian_democrat_promoter:0 "Authoritarian Constitutionalist"
+paternal_autocrat_promoter:0 "Autocratic Charmer"
+national_populist_promoter:0 "Nationalist Demagogue"
+great_compromiser:0 "Great Compromiser"
+
+### Ideologies ###
+vanguardist:0 "National Collectivists"
+collectivist:0 "Socialists"
+libertarian_socialist:0 "Libertarians"
+social_democrat:0 "Social Democrats"
+social_liberal:0 "Social Liberals"
+market_liberal:0 "Market Liberals"
+social_conservative:0 "Social Conservatives"
+authoritarian_democrat:0 "Authoritarian Dem."
+paternal_autocrat:0 "Paternal Autocrats"
+national_populist:0 "National Populists"
+valkist:0 "Valkists"
+
+### Drift ###
+vanguardist_drift:0 "Daily National Collectivist support"
+collectivist_drift:0 "Daily Socialist support"
+libertarian_socialist_drift:0 "Daily Libertarian support"
+social_democrat_drift:0 "Daily Social Democrat support"
+social_liberal_drift:0 "Daily Social Liberal support"
+market_liberal_drift:0 "Daily Market Liberal support"
+social_conservative_drift:0 "Daily Social Conservative support"
+authoritarian_democrat_drift:0 "Daily Authoritarian Democrat support"
+paternal_autocrat_drift:0 "Daily Paternal Autocrat support"
+national_populist_drift:0 "Daily National Populist support"
+valkist_drift:0 "Daily Valkist support"
+
+### Banned ###
+vanguardist_banned:0 "Banned National Collectivists"
+collectivist_banned:0 "Banned Socialists"
+libertarian_socialist_banned:0 "Banned Libertarians"
+social_democrat_banned:0 "Banned Social Democrats"
+social_liberal_banned:0 "Banned Social Liberals"
+market_liberal_banned:0 "Banned Market Liberals"
+social_conservative_banned:0 "Banned Social Conservatives"
+authoritarian_democrat_banned:0 "Banned Authoritarian Democrats"
+paternal_autocrat_banned:0 "Banned Paternal Autocrats"
+national_populist_banned:0 "Banned National Populists"
+valkist_banned:0 "Banned Valkists"
+
+### Company Traits ###
+
+### Tank ###
+small_tank_producer_offense_0:0 "Light Tank Manufacturer"
+small_tank_producer_offense_1:0 "Light Tank Manufacturer"
+small_tank_producer_offense_2:0 "Light Tank Manufacturer"
+small_tank_producer_defense_0:0 "Light Tank Manufacturer"
+small_tank_producer_defense_1:0 "Light Tank Manufacturer"
+small_tank_producer_defense_2:0 "Light Tank Manufacturer"
+small_tank_producer_mass_0:0 "Light Tank Manufacturer"
+small_tank_producer_mass_1:0 "Light Tank Manufacturer"
+small_tank_producer_mass_2:0 "Light Tank Manufacturer"
+medium_tank_producer_offense_0:0 "Medium Tank Manufacturer"
+medium_tank_producer_offense_1:0 "Medium Tank Manufacturer"
+medium_tank_producer_offense_2:0 "Medium Tank Manufacturer"
+medium_tank_producer_defense_0:0 "Medium Tank Manufacturer"
+medium_tank_producer_defense_1:0 "Medium Tank Manufacturer"
+medium_tank_producer_defense_2:0 "Medium Tank Manufacturer"
+medium_tank_producer_mass_0:0 "Medium Tank Manufacturer"
+medium_tank_producer_mass_1:0 "Medium Tank Manufacturer"
+medium_tank_producer_mass_2:0 "Medium Tank Manufacturer"
+heavy_tank_producer_offense_0:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_offense_1:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_offense_2:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_defense_0:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_defense_1:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_defense_2:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_mass_0:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_mass_1:0 "Heavy Tank Manufacturer"
+heavy_tank_producer_mass_2:0 "Heavy Tank Manufacturer"
+
+### Air ###
+fighter_producer_offense_0:0 "Fighter Manufacturer"
+fighter_producer_offense_1:0 "Fighter Manufacturer"
+fighter_producer_offense_2:0 "Fighter Manufacturer"
+fighter_producer_defense_0:0 "Fighter Manufacturer"
+fighter_producer_defense_1:0 "Fighter Manufacturer"
+fighter_producer_defense_2:0 "Fighter Manufacturer"
+fighter_producer_mass_0:0 "Fighter Manufacturer"
+fighter_producer_mass_1:0 "Fighter Manufacturer"
+fighter_producer_mass_2:0 "Fighter Manufacturer"
+bomber_producer_offense_0:0 "Heavy Bomber Manufacturer"
+bomber_producer_offense_1:0 "Heavy Bomber Manufacturer"
+bomber_producer_offense_2:0 "Heavy Bomber Manufacturer"
+bomber_producer_defense_0:0 "Heavy Bomber Manufacturer"
+bomber_producer_defense_1:0 "Heavy Bomber Manufacturer"
+bomber_producer_defense_2:0 "Heavy Bomber Manufacturer"
+bomber_producer_mass_0:0 "Heavy Bomber Manufacturer"
+bomber_producer_mass_1:0 "Heavy Bomber Manufacturer"
+bomber_producer_mass_2:0 "Heavy Bomber Manufacturer"
+nav_cas_producer_offense_0:0 "Light Bomber Manufacturer"
+nav_cas_producer_offense_1:0 "Light Bomber Manufacturer"
+nav_cas_producer_offense_2:0 "Light Bomber Manufacturer"
+nav_cas_producer_defense_0:0 "Light Bomber Manufacturer"
+nav_cas_producer_defense_1:0 "Light Bomber Manufacturer"
+nav_cas_producer_defense_2:0 "Light Bomber Manufacturer"
+nav_cas_producer_mass_0:0 "Light Bomber Manufacturer"
+nav_cas_producer_mass_1:0 "Light Bomber Manufacturer"
+nav_cas_producer_mass_2:0 "Light Bomber Manufacturer"
+
+### Arms ###
+motorised_equipment_producer_offense_0:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_offense_1:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_offense_2:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_offense_3:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_defense_0:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_defense_1:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_defense_2:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_mass_0:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_mass_1:0 "Motorised Equipment Manufacturer"
+motorised_equipment_producer_mass_2:0 "Motorised Equipment Manufacturer"
+infantry_equipment_producer_offense_0:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_offense_1:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_offense_2:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_defense_0:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_defense_1:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_defense_2:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_assualt_0:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_assualt_1:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_assualt_2:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_allround_0:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_allround_1:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_allround_2:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_mass_0:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_mass_1:0 "Infantry Equipment Manufacturer"
+infantry_equipment_producer_mass_2:0 "Infantry Equipment Manufacturer"
+artillery_producer_offense_0:0 "Artillery Manufacturer"
+artillery_producer_offense_1:0 "Artillery Manufacturer"
+artillery_producer_offense_2:0 "Artillery Manufacturer"
+artillery_producer_defense_0:0 "Artillery Manufacturer"
+artillery_producer_defense_1:0 "Artillery Manufacturer"
+artillery_producer_defense_2:0 "Artillery Manufacturer"
+artillery_producer_mass_0:0 "Artillery Manufacturer"
+artillery_producer_mass_1:0 "Artillery Manufacturer"
+artillery_producer_mass_2:0 "Artillery Manufacturer"
+
+### Naval ###
+capital_ship_producer_offense_0:0 "Capital Ship Manufacturer"
+capital_ship_producer_offense_1:0 "Capital Ship Manufacturer"
+capital_ship_producer_offense_2:0 "Capital Ship Manufacturer"
+capital_ship_producer_defense_0:0 "Capital Ship Manufacturer"
+capital_ship_producer_defense_1:0 "Capital Ship Manufacturer"
+capital_ship_producer_defense_2:0 "Capital Ship Manufacturer"
+capital_ship_producer_mass_0:0 "Capital Ship Manufacturer"
+capital_ship_producer_mass_1:0 "Capital Ship Manufacturer"
+capital_ship_producer_mass_2:0 "Capital Ship Manufacturer"
+cruiser_producer_offense_0:0 "Cruiser Manufacturer"
+cruiser_producer_offense_1:0 "Cruiser Manufacturer"
+cruiser_producer_offense_2:0 "Cruiser Manufacturer"
+cruiser_producer_defense_0:0 "Cruiser Manufacturer"
+cruiser_producer_defense_1:0 "Cruiser Manufacturer"
+cruiser_producer_defense_2:0 "Cruiser Manufacturer"
+cruiser_producer_mass_0:0 "Cruiser Manufacturer"
+cruiser_producer_mass_1:0 "Cruiser Manufacturer"
+cruiser_producer_mass_2:0 "Cruiser Manufacturer"
+small_ship_producer_offense_0:0 "Small Ship Manufacturer"
+small_ship_producer_offense_1:0 "Small Ship Manufacturer"
+small_ship_producer_offense_2:0 "Small Ship Manufacturer"
+small_ship_producer_defense_0:0 "Small Ship Manufacturer"
+small_ship_producer_defense_1:0 "Small Ship Manufacturer"
+small_ship_producer_defense_2:0 "Small Ship Manufacturer"
+small_ship_producer_mass_0:0 "Small Ship Manufacturer"
+small_ship_producer_mass_1:0 "Small Ship Manufacturer"
+small_ship_producer_mass_2:0 "Small Ship Manufacturer"
+
+### General Industry ###
+chemical_producer:0 "Chemical Company"
+industrial_manufacturer:0 "Industrial Company"
+electronics_manufacturer:0 "Electronics Manufacturer"
+press_publishing_company:0 "Press Publishing Company"
+### Theorists ###
+### Different stuff ###
+industry_theorist:0 "Industry Theorist"
+nuclear_theorist:0 "Nuclear Theorist"
+rocket_theorist:0 "Rocket Theorist"
+electronic_theorist:0 "Electronic Theorist"
+### Doctrines ###
+
+### General ###
+air_doctrine_theorist:0 "Air Doctrine Theorist"
+naval_doctrine_theorist:0 "Naval Doctrine Theorist"
+land_doctrine_theorist:0 "Land Doctrine Theorist"
+
+### Land ###
+superior_firepower_theorist:0 "Superior Firepower Theorist"
+cat_supperior_firepower_research:0 "Superior Firepower Theorist"
+mobile_warfare_theorist:0 "Mobile Warfare Theorist"
+trench_warfare_theorist:0 "Trench Warfare Theorist"
+mass_assault_theorist:0 "Mass Assault Theorist"
+cat_grand_battleplan_research:0 "Grand Battleplan Theorist"
+### Air ###
+strategic_destruction_theorist:0 "Strategic Destruction Theorist"
+battlefield_support_theorist:0 "Battlefield Support Theorist"
+operational_integrity_theorist:0 "Operational Integrity Theorist"
+
+### Naval ###
+fleet_in_being_theorist_theorist:0 "Fleet In Being Theorist"
+trade_interdiction_theorist:0 "Trade Interdiction Theorist"
+base_strike_theorist:0 "Base Strike Theorist"
+
+### Unit Type Theorists ###
+
+### Air ###
+aircraft_theorist:0 "Aircraft Production Theorist"
+fighter_theorist:0 "Fighter Theorist"
+heavy_fighter_theorist:0 "Heavy Fighter Theorist"
+cas_theorist:0 "CAS Theorist"
+tac_theorist:0 "Tactical Bomber Theorist"
+strat_theorist:0 "Strategic Bomber Theorist"
+nav_theorist:0 "Naval Bomber Theorist"
+
+### Tanks ###
+tank_theorist:0 "Tank Production Theorist"
+small_tank_theorist:0 "Small Tank Theorist"
+medium_tank_theorist:0 "Medium Tank Theorist"
+heavy_tank_theorist:0 "Heavy Tank Theorist"
+
+### General Arms ###
+arms_theorist:0 "Arms Production Theorist"
+infantry_equipment_theorist:0 "Infantry Equipment Theorist"
+support_equipment_theorist:0 "Support Equipment Theorist"
+art_theorist:0 "Artillery Theorist"
+motorized_theorist:0 "Motorised Equipment Theorist"
+marine_theorist:0 "Marine Equipment Theorist"
+
+### General ###
+fighter_techs:0 "Fighter Tech"
+fighter_techs_research:0 "Fighter Tech Research Time"
+support_tech:0 "Support Tech"
+support_tech_research:0 "Support Tech Research Time"
+
+### Army Command Traits ###
+
+### Land ###
+land_defense_1:0 "Defensive Doctrine"
+land_defense_2:0 "Defensive Doctrine"
+land_defense_3:0 "Defensive Doctrine"
+
+land_offensive_1:0 "Offensive Doctrine"
+land_offensive_2:0 "Offensive Doctrine"
+land_offensive_3:0 "Offensive Doctrine"
+
+mobile_warfare_1:0 "Mobile Warfare"
+mobile_warfare_2:0 "Mobile Warfare"
+mobile_warfare_3:0 "Mobile Warfare"
+
+entrenchment_1:0 "Great War Doctrine"
+entrenchment_2:0 "Great War Doctrine"
+entrenchment_3:0 "Great War Doctrine"
+
+morale_1:0 "Inspiring Leader"
+morale_2:0 "Inspiring Leader"
+morale_3:0 "Inspiring Leader"
+
+organization_1:0 "Strategic Planner"
+organization_2:0 "Strategic Planner"
+organization_3:0 "Strategic Planner"
+
+attrition_1:0 "Careful Planner"
+attrition_2:0 "Careful Planner"
+attrition_3:0 "Careful Planner"
+
+supply_use_1:0 "Logistical Planner"
+supply_use_2:0 "Logistical Planner"
+supply_use_3:0 "Logistical Planner"
+
+### Artillery ###
+artillery_offense_1:0 "Offensive Barrage"
+artillery_offense_2:0 "Offensive Barrage"
+artillery_offense_3:0 "Offensive Barrage"
+
+artillery_defense_1:0 "Defensive Barrage"
+artillery_defense_2:0 "Defensive Barrage"
+artillery_defense_3:0 "Defensive Barrage"
+
+### Infantry ###
+infantry_offense_1:0 "Infantry Charge"
+infantry_offense_2:0 "Infantry Charge"
+infantry_offense_3:0 "Infantry Charge"
+
+infantry_defense_1:0 "Infantry Defence"
+infantry_defense_2:0 "Infantry Defence"
+infantry_defense_3:0 "Infantry Defence"
+
+### Tanks ###
+armored_offense_1:0 "Panzer Charge"
+armored_offense_2:0 "Panzer Charge"
+armored_offense_3:0 "Panzer Charge"
+
+armored_defense_1:0 "Panzer Defence"
+armored_defense_2:0 "Panzer Defence"
+armored_defense_3:0 "Panzer Defence"
+
+### Cavalry ###
+cavalry_offense_1:0 "Cavalry Charge"
+cavalry_offense_2:0 "Cavalry Charge"
+cavalry_offense_3:0 "Cavalry Charge"
+
+cavalry_defense_1:0 "Cavalry Defence"
+cavalry_defense_2:0 "Cavalry Defence"
+cavalry_defense_3:0 "Cavalry Defence"
+
+### Commando ###
+commando_offense_1:0 "Commando Charge"
+commando_offense_2:0 "Commando Charge"
+commando_offense_3:0 "Commando Charge"
+
+commando_defense_1:0 "Commando Defence"
+commando_defense_2:0 "Commando Defence"
+commando_defense_3:0 "Commando Defence"
+
+### XP ###
+army_reform_1:0 "Army Reformer"
+army_reform_2:0 "Army Reformer"
+army_reform_3:0 "Army Reformer"
+
+### Air ###
+concealment_1:0 "Concealment"
+concealment_2:0 "Concealment"
+concealment_3:0 "Concealment"
+
+air_reform_1:0 "Air Reformer"
+air_reform_2:0 "Air Reformer"
+air_reform_3:0 "Air Reformer"
+
+air_safety_1:0 "Air Safety"
+air_safety_2:0 "Air Safety"
+air_safety_3:0 "Air Safety"
+
+air_night_operations_1:0 "Night Operations"
+air_night_operations_2:0 "Night Operations"
+air_night_operations_3:0 "Night Operations"
+
+air_ground_suppression_1:0 "Ground Suppression"
+air_ground_suppression_2:0 "Ground Suppression"
+air_ground_suppression_3:0 "Ground Suppression"
+
+air_weather_1:0 "All-Weather"
+air_weather_2:0 "All-Weather"
+air_weather_3:0 "All-Weather"
+
+air_ace_promoter_1:0 "Positive Heroism"
+air_ace_promoter_2:0 "Positive Heroism"
+air_ace_promoter_3:0 "Positive Heroism"
+
+air_naval_strike_1:0 "Naval Strike"
+air_naval_strike_2:0 "Naval Strike"
+air_naval_strike_3:0 "Naval Strike"
+
+air_bomber_interception_1:0 "Bomber Interception"
+air_bomber_interception_2:0 "Bomber Interception"
+air_bomber_interception_3:0 "Bomber Interception"
+
+air_air_superiority_1:0 "Air Superiority"
+air_air_superiority_2:0 "Air Superiority"
+air_air_superiority_3:0 "Air Superiority"
+
+air_close_air_support_1:0 "Close Air Support"
+air_close_air_support_2:0 "Close Air Support"
+air_close_air_support_3:0 "Close Air Support"
+
+air_strategic_bombing_1:0 "Strategic Bombing"
+air_strategic_bombing_2:0 "Strategic Bombing"
+air_strategic_bombing_3:0 "Strategic Bombing"
+
+air_tactical_bombing_1:0 "Tactical Bombing"
+air_tactical_bombing_2:0 "Tactical Bombing"
+air_tactical_bombing_3:0 "Tactical Bombing"
+
+air_airborne_1:0 "Airborne Assault"
+air_airborne_2:0 "Airborne Assault"
+air_airborne_3:0 "Airborne Assault"
+
+### Naval ###
+navy_chief_naval_aviation_1:0 "Naval Aviation"
+navy_chief_naval_aviation_2:0 "Naval Aviation"
+navy_chief_naval_aviation_3:0 "Naval Aviation"
+
+navy_chief_decisive_battle_1:0 "Decisive Battle Doctrine"
+navy_chief_decisive_battle_2:0 "Decisive Battle Doctrine"
+navy_chief_decisive_battle_3:0 "Decisive Battle Doctrine"
+
+navy_chief_commerce_raiding_1:0 "Commerce Raiding Doctrine"
+navy_chief_commerce_raiding_2:0 "Commerce Raiding Doctrine"
+navy_chief_commerce_raiding_3:0 "Commerce Raiding Doctrine"
+
+navy_chief_reform_1:0 "Naval Reformer"
+navy_chief_reform_2:0 "Naval Reformer"
+navy_chief_reform_3:0 "Naval Reformer"
+
+navy_chief_maneuver_1:0 "Naval Manoeuvre"
+navy_chief_maneuver_2:0 "Naval Manoeuvre"
+navy_chief_maneuver_3:0 "Naval Manoeuvre"
+
+navy_anti_submarine_1:0 "Anti-Submarine"
+navy_anti_submarine_2:0 "Anti-Submarine"
+navy_anti_submarine_3:0 "Anti-Submarine"
+
+navy_naval_air_defense_1:0 "Naval Air Defence"
+navy_naval_air_defense_2:0 "Naval Air Defence"
+navy_naval_air_defense_3:0 "Naval Air Defence"
+
+navy_fleet_logistics_1:0 "Fleet Logistics"
+navy_fleet_logistics_2:0 "Fleet Logistics"
+navy_fleet_logistics_3:0 "Fleet Logistics"
+
+navy_amphibious_assault_1:0 "Amphibious Assault"
+navy_amphibious_assault_2:0 "Amphibious Assault"
+navy_amphibious_assault_3:0 "Amphibious Assault"
+
+navy_submarine_1:0 "Submarine Warfare Doctrine"
+navy_submarine_2:0 "Submarine Warfare Doctrine"
+navy_submarine_3:0 "Submarine Warfare Doctrine"
+
+navy_capital_ship_1:0 "Capital Fleet Doctrine"
+navy_capital_ship_2:0 "Capital Fleet Doctrine"
+navy_capital_ship_3:0 "Capital Fleet Doctrine"
+
+navy_screen_1:0 "Forward Escort Doctrine"
+navy_screen_2:0 "Forward Escort Doctrine"
+navy_screen_3:0 "Forward Escort Doctrine"
+
+navy_carrier_1:0 "Carrier Strike Doctrine"
+navy_carrier_2:0 "Carrier Strike Doctrine"
+navy_carrier_3:0 "Carrier Strike Doctrine"
+
+black_monday:0 "Black Monday"
+
+jet_aircraft_manufacturer:0 "Jet Aircraft Manufacturer"
+
+independent_war:0 "Independent War"
+independent_war_desc:0 "This country is currently in a independent war. It does not want other countries to get involved directly in the war."
