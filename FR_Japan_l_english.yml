@@ -2,130 +2,131 @@
 
 #### Political Parties ####
 
-JAP_vanguardist_party:0 "Rōdō Sodomei"
-JAP_vanguardist_party_long:0 "Nihon Rōdō Sodomei"
-JAP_collectivist_party:0 "Rōdō Sodomei"
-JAP_collectivist_party_long:0 "Nihon Rōdō Sodomei"
+JAP_vanguardist_party:0 "노동 연맹"
+JAP_vanguardist_party_long:0 "일본 노동 연맹"
+JAP_collectivist_party:0 "노동 연맹"
+JAP_collectivist_party_long:0 "일본 노동 연맹"
 JAP_libertarian_socialist_party:0 "공산당"
 JAP_libertarian_socialist_party_long:0 "일본 공산당"
-JAP_social_democrat_party:0 "Taishūtō"
-JAP_social_democrat_party_long:0 "Shakai Taishūtō"
-JAP_social_liberal_party:0 "Kakushin"
-JAP_social_liberal_party_long:0 "Progressive Kakushin"
-JAP_market_liberal_party:0 "Minseitō"
-JAP_market_liberal_party_long:0 "Rikken Minseitō"
-JAP_social_conservative_party:0 "Seiyūkai"
-JAP_social_conservative_party_long:0 "Rikken Seiyūkai"
-JAP_authoritarian_democrat_party:0 "IJN"
-JAP_authoritarian_democrat_party_long:0 "Imperial Japanese Navy"
-JAP_paternal_autocrat_party:0 "Kodoha"
-JAP_paternal_autocrat_party_long:0 "Kodoha"
-JAP_national_populist_party:0 "IJA"
-JAP_national_populist_party_long:0 "Imperial Japanese Army"
-JAP_valkist_party:0 "Ōsei"
-JAP_valkist_party_long:0 "Ōsei"
+JAP_social_democrat_party:0 "대중당"
+JAP_social_democrat_party_long:0 "사회 대중당"
+JAP_social_liberal_party:0 "혁신당"
+JAP_social_liberal_party_long:0 ""혁신 진보당
+JAP_market_liberal_party:0 "민주당"
+JAP_market_liberal_party_long:0 "헌법 민주당"
+JAP_social_conservative_party:0 "정우회"
+JAP_social_conservative_party_long:0 "입헌 정우회"
+JAP_authoritarian_democrat_party:0 "일본 제국 해군"
+JAP_authoritarian_democrat_party_long:0 "일본 제국 해군"
+JAP_paternal_autocrat_party:0 "황도파"
+JAP_paternal_autocrat_party_long:0 "황도파"
+JAP_national_populist_party:0 "일본 제국 육군"
+JAP_national_populist_party_long:0 "일본 제국 육군"
+JAP_valkist_party:0 "황정당"
+JAP_valkist_party_long:0 "황정당"
 
 #### Bookmark Description ####
 
-JAP_FUHRERREICH_DESC:0 "Japan is rising. In less than a century it has pulled itself from an isolated, feudal society to Asia's most industrialised and modern state. Emperor Hirohito rules over an young empire that simultaneously holds dominion over Korean and Taiwan, yet upholds a democracy based on American ideals. Lacking natural resources, Japan must advance even further if it's to thrive in this uncertain world. Tennōheika Banzai!"
+JAP_FUHRERREICH_DESC:0 "일본은 성장하고 있습니다. 한 세기도 안되어 고립된 봉건사회에서 아시아의 가장 산업화되고 현대적인 국가로 변모했습니다. 히로히토 천황은 한국과 대만을 동시에 지배하면서도 미국의 이상에 입각한 민주주의를 유지하는 젊은 제국을 통치하고 있습니다. 천연자원이 부족한 일본이 이런 불확실한 세계에서 번창하기 위해서는 더 나아가야 합니다. 천황 폐하 만세!"
 
 #####Events#####
 
-jap.0.t:0 "The Rising Sun"
-jap.0.d:0 "While other nations were immolated in the Great War, the early 20th century has been a blessing to Japan. Gaining dominion over many of Germany's former pacific territories, Japan has continously stepped into the spotlight on the world stage. \n\nHowever, the nation's dabbling in Democracy is still new, and many wish to corrupt it to suit their wishes. Many farmers struggle with the rapid pace of modernisation, and income inequality has exploded. The Zaibatsu, Japan's gargantuan conglomerates, have continued to stifle entrepreunership and innovation. It has been a golden age for Japan, but unless swift action is taken, stagnation may curse us. May the Emperor watch over us all."
-jap.0.a:0 "Tennōheika Banzai!"
+jap.0.t:0 "떠오르는 해"
+jap.0.d:0 "다른 국가들이 대전쟁에서 엄청난 피해를 겪은 반면, 20세기 초는 일본에게 축복과도 같았습니다. 과거 독일의 태평양 식민지에 대한 지배권을 얻은 일본은 세계 무대에서 계속해서 주목을 받고 있습니다. 하지만, 민주주의는 아직 겉물만 들었고, 많은 사람들이 민주주의가 부패하기만을 바라고 있습니다. 많은 농부들이 빠른 현대화의 속도에 고전하고 있고, 소득 불평등은 폭발적으로 증가하고 있습니다. 일본의 재벌들은 기업 선점주의와 억압으로 혁신을 억제해 왔습니다. 일본으로서는 황금기였지만, 신속한 조치가 취해지지 않는 한 불경기로 이어져 우리에게 저주가 될 수 있습니다. 천황께서 우리 모두를 돌봐주시기를.
+jap.0.a:0 "천황페하 만세!"
 
-jap.1.d.0:0 "Ever since the First Sino-Japanese war, Korea has been firmly under our influence and in 1910, annexed into our Empire under direct rule. The situation has been met with variable responses, with recent events, the assimilation of Koreans have now been put onto our agenda. We now must decide on the speed of assimilation, or further rebellion will be more often and in much larger scale, perhaps, even a full scale independance war."
+jap.1.d.0:0 "제1차 중일 전쟁 이후, 한국은 우리의 영향력 아래 확고히 자리잡았고, 1910년에 직접적인 지배하에 놓이기 위하여 우리 제국에 합병되었습니다. 이런 상황은 다양한 반응을 보였고, 최근의 사건들로 인해 한국인의 동화는 중요 의제로 떠올랐습니다. 우리는 이제 한국인의 동화를 시작해야 합니다. 그렇지 않는다면 더 많은 반란이 더 자주, 큰 규모로, 어쩌면 전면적인 독립전쟁이 일어날 것입니다."
 
-jap.2.d.0:0 "As the Fifth Fengtien-Zhili war starts to rage in Northern China, our interests in China forces our hand in support for one of the two clique, Zhili or Fengtien. One of which shall become victorious in the war and we must help one of them in their ultimate conquest to protect our interests. Now do we support the Zhili clique, whose military has proved itself time and time again, but lacks the industrial power of her neighbours, or the Fengtien governacy, whose area are wealthy in metal and owns the majority of the Manchurian railway?"
+jap.2.d.0:0 "중국 북부에서 제5차 봉천-직계 군벌 간의 전쟁이 격렬해지기 시작하면서, 중국에 대한 우리의 이해관계는 직계 또는 펑톈이라는 두 군벌 중 하나에 대한 지지를 강요합니다. 그 중 하나는 전쟁에서 승리할 것이고 우리는 우리의 이익을 보호하기 위해 그들 중 한쪽을 도와야 합니다. 우리는 강력한 군대를 가지고 있지만 산업력이 부족한 직계 군벌을 도와야 할까요? 아니면 풍부한 철과 만주 대부분의 철도를 소유한 봉천 군벌을 도와야 할까요?"
 
-jap.3.d.0:0 "After the London Stock Market Crash, we now have a major trade deficiency as no one would buy our products. To combat the trade deficiency, our politicians have decided to cut the budget for many departments, including both branches of the military. The generals of both branches have been notified and promised an expanded budget whenever the economy has been restored."
+jap.3.d.0:0 "런던 주식시장 붕괴 이후, 아무도 우리 제품을 사지 않아 심각한 무역적자를 겪고 있습니다. 무역적자를 없애기 위해 우리 정치인들은 육해군을 포함한 많은 부서의 예산을 삭감하기로 결정했습니다. 장성들은 경기가 회복될 때마다 통지를 받고 예산 증액을 약속 받았습니다."
 
-jap.9.d:0 "The most unsettling five days in the British Empire since the start of the Great War has came, as the Empire's stock markets has been varying radically due to the fear of inability to get resources and goods from all corners of the Empire. Due to this, many British investors have withdrawn their Japanese assets and caused a panic in our own stock markets as well. Not to mention the bankrupcy of quite a few Japanese trading partners, thus crippling our economy. Who knows what will happen due to this?"
+jap.9.d:0 "대전이 시작된 이래 대영제국에서 가장 불안했던 5일이 다가왔습니다. 제국의 주식시장은 자원과 상품을 공급받을 수 없다는 두려움 때문에 급격하게 달라졌기 때문입니다. 이 때문에 많은 영국 투자자들이 일본에서 자산을 회수하고 우리 증시도 공황상태에 빠졌습니다. 꽤 많은 일본 무역 파트너들의 금융 긴축은 말할 것도 없고, 따라서 우리 경제가 마비되고 있습니다. 이것 때문에 무슨일이 일어날지 누가 알겠습니까?"
 
-jap.11.d:0 "A military coup d'état by the Righteous Army has been set off on the 6th of September 1936, due to the result of military factionalism, constant rivalry against the government, and the recent London Stock Market Crash. This coup is is mostly comprised of young radical Imperial Japanese Army officers and their goal is to eliminate the ideological rivals, the social conservatives. Many in the opposition party say that any harsh military action against the small army would lead to open rebellion of the Army and may result in a civil war! We must act carefully to not hurt either side..."
+jap.11.d:0 "군대의 파벌싸움, 정부에 대한 경쟁의식, 그리고 그리고 최근의 런던 증권 시장 붕괴의 결과로 인해, 군사 쿠데타가 1936년 9월 6일에 일어났습니다. 이 쿠데타는 대부분 젊은 급진적 일본 육군 장교들로 구성되며 그들의 목표는 사회 보수주의자들을 제거하는 것입니다. 야당의 많은 사람들이 과격한 군사행동은 육군의 공개적인 반란을 초래할 것이고 내전으로 이어질 수도 있다고 말합니다! 우리는 양측 모두 신경써야 합니다..."
 
-jap.12.d:0 "With regiments of the Imperial Guard directed towards putting down the rebellion, The Righteous Army has been destroyed! The last of the commanders of the Righteous Army have been executed. The Righteous Army only managed to assassinate off few political members, as well as occupying the government center of Tokyo for a short while. Many citizens thanked the army, which came in and dealt with these traitors with no mercy. This rather unsettling rebllion may have proved to the two branches that we will crush any rebellions, but much more needs to be done before more of this happens."
+jap.12.d:0 "제국 근위대의 반란 진압으로 반란군들은 무너졌습니다! 마지막 반란군 사령관이 처형되었습니다. 반란군들은 몇 명의 정치인들을 간신히 암살했고, 잠시 동안만 도쿄의 정부 중심지를 점령했습니다. 많은 시민들이 반란을 진압한 군대에게 감사를 표했습니다. 이 불안정한 반란으로 우리가 어떠한 반란도 분쇄할 것이라는 것을 두 파벌 모두에게 증명해 주었을지도 모릅니다. 하지만 우리는 이런 일이 더 일어나기 전에 대처를 해야 합니다."
 
 jap.13.d:0 "Peace negotiations have been named, namely the unification of the military factionalism has been ended but for a cost of some political ministers of the ruling government. At the end, no Japanese life was lost at the end of the day and minimum damage has been made overall."
 
-jap.14.d:0 "Just now, our naval exercise just off Manila, the capital of the Phillipines have succeed in it's true purpose - a surprise attack on both Filipino and American military bases and we triumphed! The president of the Phillipines is mad and the the American President is shocked at our daring raid. We will win this war against the Imperialistic Foreigners!"
+jap.14.d:0 "지금, 우리는 필리핀의 수도 마닐라에서 실시한 해군 훈련의 진정한 목적인 필리핀과 미국 군사 기지를 기습 공격하는 것에 성공했습니다! 필리핀의 대통령은 화가 났고, 미국의 대통령은 우리의 과감한 공격에 충격을 받았습니다. 우리는 제국주의자들과의 전쟁에서 승리할 것입니다!"
 
-jap.15.d:0 "Yesterday, Japanese planes have attacked Filipino military bases and the American embassy! There has been many casualties of both nationalities and both us and the Phillipines are mad. Both the American and Filipino public are mad and request for war soared! The Phillipines are already at war with the Japanese now, leaving only us, the United States of America not at war. Our response shall be swift and deadly, and wipe this dishonorable empire off the face of the world!"
+jap.15.d:0 "어제 일본 비행기가 필리핀 군 기지와 미국 대사관을 공격했습니다!
+많은 사상자가 발생했으며 미국과 필리핀의 여론은 거센 비판을 퍼부었고, 전쟁을 하자는 목소리가 나오고 있습니다! 필리핀은 이미 일본군과 전쟁을 벌이고 있고, 우리 미국만이 전쟁을 하지 않고 있습니다. 우리의 대응은 빠르고 치명적일 것입니다. 그리고 이 비열한 제국을 세계에서 없애버릴 것입니다!"
 
-jap.16.d:0 "With the establishment of the Imperial Ruling Assistant Association, they have started the discuss the zaibatsu problem. These Zaibatsus are major conglomerates and each own an important part of our economy and industry. But as their influence expands, they start to affect our government's policy, perhaps a little too much. Now we must decide on whether to start dissolving these Zaibatsus, or to prevent them from entering the political sphere entirely. Either will help us complete our goal, but we must decide now, or never."
+jap.16.d:0 "우리는 대정익찬회와 함께 재벌 문제 논의에 착수했습니다. 재벌은 주요 대기업과 우리 경제와 산업의 중요한 부분을 소유하고 있습니다. 하지만 이들의 영향력이 확대되며 우리 정부의 정책에도 영향을 미치기 시작했는데, 이것이 어쩌면 좀 지나친 것 같습니다. 이제 우리는 재벌을 완전히 해체할 것인지, 아니면 정치권에 진입하지 못하도록 할 것인지 결정해야 합니다."
 
-jap.17.d:0 "A few days ago, the American Gunboat USS Panay fired at Japanese ships who were participating in the casual naval gunnery exercise. The captain of USS Panay said they thought that the ships were firing in anger and not exercising. While no casualties were caused, the incident proved that not just the American and Japanese government are distrustful of each other, even the militaries of both countries perform the same. Now we wait until the diet and parliament agree on a complaint to the American government."
+jap.17.d:0 "며칠 전, 미국 군함 USS 파나이호가 통상 해군 포격 훈련에 참가하던 일본 함정을 향해 사격을 가했습니다. USS 파나이호의 선장은 훈련이 아니라 실제 포격으로 생각했다고 밝혔습니다. 인명 피해는 없었지만, 이번 사건으로 미국과 일본 정부만 서로를 불신하는 게 아니라 양국의 군사력까지 같은 태도를 보인다는 게 밝혀졌습니다. 이제 우리는 의회가 미국 정부에 대한 이의 제기에 동의할 때까지 기다려야 합니다."
 
-jap.18.d:0 "With anti-Japanese sentiment rising in China, citizens of Shanghai attacked many Japanese businessmen, destroyed and vandalised Japanese-owned property, including the burning of the Sanyou factory. An upsurge of anti-Imperialist sentiment was caused and protests to boycott Japanese goods and remove the concessions to Japan also broke out. While the Chinese Nationalist government claim that this was staged by Japanese agents, regardless of this, what we will do is not yet decided on. Now what do we do?"
+jap.18.d:0 "중국에서 반일 감정이 고조되는 가운데 상하이 시민들은 일본 기업을 대거 공격해 정유공장을 불태우는 등 일본 소유의 재산을 파괴하고 파손했습니다. 반제국주의 정서가 고조되었고 일본 상품에 대한 불매운동과 일본에 대한 양보를 철회하자는 시위도 벌어졌습니다. 중국 정부는 이번 사태가 일본이 꾸민 일이라고 주장하지만, 이와 상관없이 우리가 어떻게 할지는 정해지지 않았습니다. 우리는 어떻게 해야 할까요?"
 
-jap.19.d:0 "The Japanese diplomat has just sent us a number of demands, including the ability to position Japanese troops in our territories to stop these anti-Japanese sentiment and provide assistance to investigate the recent Shanghai incident. This demand will basically give up our national sovereignty and independence! But our [From.GetLeader] has not yet made any decision on the response. Perhaps he will give in to these demands or this will not. We can only wait..."
+jap.19.d:0 "일본 외교관은 이러한 반일감정을 저지하기 위해 일본군을 우리 영토에 배치하고 최근의 상하이 사건을 조사하기 위한 지원을 할 수 있는 능력을 포함한 여러 가지 요구 사항을 방금 우리에게 보냈습니다. 이러한 요구는 우리의 주권과 독립을 포기하는 사항이 될 것입니다! 그러나 우리의 지도자 [From.GetLeader]께서는 아직 아무런 결정도 내리지 않았습니다. 아마도 그는 굴복하거나 굴복하지 않을 것이고, 우리는 기다리는 방법밖에 없습니다."
 
-jap.20.d:0 "As our supporters, the Japanese have earned some concessions in the Fifth Fengtien-Zhili war. But now their government has become much more imperialistic and started to expand. In their path of expansion, we lie. Now as the Japanese have sent us their ultimatum, do we refuse and wage a war we can ill fight against with Japan's technological might or do we submit to the imperialistic empire? The fate of Fengtien lies here and we do not know will we survive such a conflict."
+jap.20.d:0 "우리의 지지자로서 일본인들은 제5차 봉천-직계 군벌 전쟁에서 어느 정도 양보를 얻어냈습니다. 하지만 이제 그들의 정부는 훨씬 더 제국주의적 성향이 확대되기 시작했습니다. 우리는 그들의 팽창의 길에 놓여있습니다. 일본이 우리에게 최후통첩을 보냈듯이, 우리는 일본을 이길 수 없는 전쟁에서 이기려 해야 할까요? 아니면 제국주의 제국에 복종해야 할까요?"
 #Zhili ultimatum
-jap.21.d:0 "Following multiple incidents in Qingdao, Dailian and the Manchurian peninsular, the Japanese has had enough and now sent us an ultimatum. To submit or to go to war with them. While we cannot afford to fight a war with their technological might, we cannot afford to submit either, as the entire population is doubtful of the future of Zhili under Japanese rule. All we know is that the fate and future of Zhili lies here, and we depend on it."
+jap.21.d:0 "칭다오, 다롄, 만주 반도에서 일어난 여러 사건에 이어, 일본인은 우리에게 최후통첩을 보내왔습니다. 우리는 최후통첩을 받아들이거나 그들과 전쟁을 해야 합니다. 우리는 전쟁을 하기는 어렵지만, 일본 통치하에서 우리의 여론이 직계의 미래를 의심하고 있기 때문에, 우리도 굴복할 수는 없습니다. 우리가 아는 것은 여기에 직계의 미래가 있고, 우리는 그것에 굴복해야 할 것이라는 것입니다."
 #France peace proposal
-jap.22.d:0 "After the Japanese invasion of our only Asian possessions, we no longer have any holdings in Asia, and we therefore cannot fuel a war. The Japanese, through the Swiss diplomat has sent us asking for an armistice, or even peace. If we do, we will be giving up our Pacific possessions. We must consider this carefully."
+jap.22.d:0 "일본이 우리의 유일한 아시아 영토를 침략한뒤, 우리는 더이상 아시아 영토를 유지할 여력을 잃었습니다. 따라서 전쟁을 계속 진행할수 없을 것입니다. 일본인들은 스위스를 통해 우리에게 휴전, 심지어 종전을 요구합니다. 우리가 그렇게 한다면 우리는 태평양 영토를 포기해야 할 것이기에 우리는 이것을 신중히 고려해야 합니다."
 #Russo-Japanese coalition
-jap.23.d:0 "The Japanese, who have supported us many times in the Russian Civil War, have sent a proposal for an alliance against the reds, who currently own the vast Russian lands. If we do accept, we will gain a powerful ally who undoubtedly will support us in every possible moment and will facilitate us in conquering the vast Soviet menace."
+jap.23.d:0 "일본은 러시아내전 당시 우리를 여러번 도와주었고, 우리에게 소련을 타도하자고 동맹제안을 해왔습니다. 우리가 만약 제안을 받아들인다면, 일본은 우리를 지지 해줄 것이고, 거대한 소련의 위협을 없애는 강력한 동맹을 얻게 될 것입니다."
 
-jap.24.d:0 "The Japanese has allied with the British, and they now cooperate with them militarily. This means another knife will be pointing at us, but this time in the Pacific. While it is unknown on how will the two countries will fight against us, it is sure that the two nations will band together against us."
+jap.24.d:0 "일본은 영국과 동맹을 맺어 군사적으로 협력하고 있습니다. 이것은 이번에는 다른 칼이 태평양에서 우리를 가리키고 있다는 것을 의미합니다. 두 나라가 우리와 어떻게 싸울지는 알 수 없지만, 두 나라가 우리에게 맞서 싸울 것이라는 것은 확실합니다."
 
-jappol.16.d:0 "The Police have recently just took in a soldier of the Imperial Japanese Navy who is suspected to be participating in a conspiracy against the democratic government. He has no leaked any information, but what this means is that the Navy is not discouraged despite the September 6 incident, where the Righteous Army's uprising was stopped. Now that we know of such conspiracy, we must start thinking of a solution to this, in order to safeguard democracy."
+jappol.16.d:0 "경찰이 최근 민주정부에 대한 음모에 가담했다는 의혹을 받는 일본 제국 해군 병사를 연행했습니다. 어떠한 정보유출도 없었지만 9월 6일 사건 이후에도 불구하고 해군은 포기하지 않았다는 이야기입니다. 의병의 봉기가 멈췄던 음모를 알았으니 우리는 민주주의를 지키기 위하여 이 문제에 대한 해결책을 생각해야 합니다."
 
-jappol.17.d:0 "As the Diet notified the Emperor about the conspiracy, the Emperor has told the Diet that he intends to speak to both branches of the Military to, quote, 'Speak about the recent events'. The Diet is split on this measure, fearing that the speech may lead to criticism of the Emperor by the general public. Now if the Prime Minister agree to the speech, it may lead to either the Military giving up their plans for coups or the Emperor will be criticised. What do we do?"
+jappol.17.d:0 "의회가 천황께 음모를 밝힘에 따라, 천황께서는 양 군부에게 '최근의 사건에 대하여 밝히라'고 하실 작정이라고 말씀하셨습니다. 이 연설이 일반 대중들의 황실 비판으로 이어질 것을 우려하여, 이 조치에 대한 의회의 의견은 크게 엇갈리고 있습니다. 만약 총리가 연설에 동의 한다면, 군부가 쿠데타 계획을 포기하거나 황실이 비난을 받을수 있습니다. 어떻게 해야 할까요?"
 
-jappol.18.d:0 "Isoroku Yamamoto, one of the Admirals notified by the Imperial Diet, handed over the results of his investigation on the potential coup. He pulled his strings within the Imperial Japanese Navy and discovered plenty of officers and marines who were planning to coup later this year. He compiled a list of the officers and marines and gave it to the Imperial Diet. Now what will we do with this list of officers?"
+jappol.18.d:0 "제국 의회에 소식을 전한  원로 중의 한 사람인 야마모토 이소로쿠 제독은 쿠데타 가능성에 대한 조사 결과에 대하여 넘겨주었습니다. 그는 일본 제국 해군 내에서 영향력을 행사했고 올해 말에 쿠데타를 계획했던 많은 장교들과 해병들을 발견했습니다. 그는 이들의 명단을 작성하여 제국 의회에 제출하였습니다. 이제 이 명단에 적힌 인물들을 어떻게 해야 할까요?"
 
-jappol.19.d:0 "Yesterday, a group of naval officers and marines took hold of the Parliament and took hostage of the legislators. They demanded that the current Prime Minister resign and let a militarist become the new Prime Minister. The Imperial Japanese Army refused to intervene and the civilian government can only give into these demands, putting the Imperial Japanese Navy in command of the Empire. What lies in front of the path of the empire is unknown, yet conflict is sure to come soon quickly."
+jappol.19.d:0 "어제 해군 장교와 해병대가 의회를 점거하고 의원들을 인질로 잡았습니다. 그들은 현 총리가 사임하고 군국주의자가 새 총리가 되어야 한다고 요구했습니다. 일본 제국 육군은 개입을 거부했고 민간 정부는 이러한 요구를 거부할수 없었고, 일본 제국 해군은 제국을 지배하게 되었습니다. 제국의 앞길을 알 수는 없지만, 곧 갈등이 닥치리라는 것만은 확실합니다."
 
-jappol.20.d:0 "With Yamamoto's report on the naval officers and marines, the Prime Minister has ordered the mass arrests of these traitors. This has stopped the potential coup at the cost of the personnel of the Navy. We must start recovery from this purge and reinforce the superiority of the democratic government over the two branches."
+jappol.20.d:0 "야마모토 총리가 해군 장교와 해병대에 대한 보고를 받고, 이들 반역자들의 체포를 지시했습니다. 이로인해 해군의 쿠데타를 막을수 있었습니다. 우리는 이 숙청으로부터 회복해야 하며, 두 군부에 대한 민주 정부의 우월성을 강화해야 합니다."
 
-japhep.1.d:0 "As the Imperial Conference of 1937 drew to a close, the British called for a conference with us so negotiations and discussions for the continuation of the Anglo-Japanese Alliance and other issues with Japan will continue. Delagations from Britain has reached Osaka and met for the first time today. Both delegations and governments are hopeful of this conference and wishes that both side will get what they want from the conference."
+japhep.1.d:0 "1937년 제국 회의가 막을 내리자 영국인들은 우리와 회담을 열 것을 요청했고, 그래서 영일 동맹과 일본과의 다른 문제들에 대한 협상과 논의가 계속될 것입니다. 영국으로부터의 사절이 오사카에 도착하여 처음으로 회담을 가졌습니다. 대표단과 각국 정부 모두 이번 회담에 희망적이며, 양측이 이번 회담에서 원하는 것을 얻기를 희망하고 있습니다."
 
-japhep.2.d:0 "With uncertainty of the ability to provide resources and economic stability after the London Stock Market Crash, many Japanese companies have resorted to trading with other countries and companies, such as American products and German iron. The British Empire suffered a rather great hit to their trade and is not satisfied by this. The British Foreign Minister Anthony Eden has therefore decided to discuss with the Japanese delegate about such trade, namely imports and exports of the Japanese Empire."
+japhep.2.d:0 "런던증권시장 붕괴 이후 자원 확보력과 경제의 안정성이 불확실한 상황에서, 많은 일본 기업들이 미국 제품이나 독일의 철 등 다른 나라나 기업들과의 교역을 계속하고 있습니다. 영국은 무역에 큰 타격을 입었고 이것에 만족하지 않았습니다. 이에 영국은 외무장관 앤서니 이든을 일본에 파견하여 일본 대표단과 수입과 수출에 관하여 논의하기로 결정하였습니다."
 
-japhep.3.d:0 "As the British start to recover from the Stock Market Crash, many countries have abandoned the Gold Standard. The British delegates have told the Japanese delegates that the British government hopes to abandon the Standard or at least devaluate the Pound. The Japanese economic minister also supports such action. If we do this, we may be able to recover from the Stock Market Crash quicker."
+japhep.3.d:0 "영국이 증시 폭락에서 회복하기 시작하면서, 많은 나라들이 금본위제를 포기했습니다. 영국 대표단은 일본 대표단에게 영국 정부는 이 기준을 포기하거나 최소한 파운드화의 가치를 평가절하 하기를 원한다고 밝혔습니다. 일본 경제장관 또한 이러한 조치를 지지하며, 이렇게 한다면 증시 폭락에서 더 빨리 회복할 수 있을 것입니다."
 
-japhep.4.d:0 "The British delegates now said that the two Empires must band together for protection against unnamed threats that are on the rise. The British delegate is certain that if Japan announces to modify the Anglo-Japanese alliance to join in and support the British Empire in any upcoming conflict, the unspecified threat will doubt any potential attack on both empires. The problem is that, do we, or do we not, fulfil such action?"
+japhep.4.d:0 "영국 대표단은 이제 두 제국이 연합하여 이름없는 위협에 대한 대비를 해야 한다고 밝혔습니다. 영국 대표단은 일본이 다가오는 위협에서 대영제국의 편에 가담하고 지원을 해주기를 희망한다고 영일동맹을 수정하겠다고 발표하면, 이 위협은 두 제국에 어떠한 공격도 쉽게 하지 못할 것이라고 확신하고 있습니다. 문제는 우리가 그것을 실행하느냐, 그렇지 않느냐의 문제입니다."
 
-japhep.5.d:0 "With the 1937 temporal renewal of the Anglo-Japanese Alliance soon coming to an end, we have called for a summit with the Japanese. While that is one thing off the agenda, we are not sure how will the Japanese respond to this summit, seeing our numerous acts of aggression in the interwar years. What we are doing now is nothing more than a gamble, and we can only hope for the best."
+japhep.5.d:0 "1937년 영일동맹의 갱신이 끝나며, 우리는 일본과의 정상회담을 요구햇습니다. 회담의 의제는 다른 문제이기는 하지만, 우리는 전쟁기간동안 우리의 침략행위를 보면서 일본인들이 이 정상회담에 어떻게 반응할지 알수 없습니다. 우리가 하고있는일은 도박에 가까우며, 우리는 최선을 다할 뿐입니다."
 
-japhep.6.d:0 "With the London Stock Market Crash, many has lost much of their confidence in our economic stability and trade, many Japanese investors included. With an agreement, we can make them inclined to trade with us again with terms for guranteeing their trade and them being not affected with our tariffs. Hopefully these terms will be able to make them trade more with us again."
+japhep.6.d:0 "런던증시폭락으로 많은 일본 투자자들이 우리경제의 안정성과 무역에 대한 자신감을 잃었다고 많은 일본 투자자들이 밝혔습니다. 협정이 체결된다면, 우리는 그들이 우리와 다시 교역을 시작하고 그들이 우리의 관세에 영향을 받지 않도록 하는 조건으로 거래를 할수 있습니다. 바라건데 이 조건이 그들이 우리와 더 많은 교역을 할수 있기를 바랍니다."
 
-japhep.7.d:0 "The Gold standard is our former economic standard, while we have our plans on the standard, we do not want any of our trade partners being unable to trade with us continuously, or we will just undo the trade agreement signed previously. We shall encourage them to abandon the Gold Standard."
+japhep.7.d:0 "금본위제는 우리의 이전 경제 표준 지표였습니다. 그러나 우리는 우리의 계획을 표준 지표에 두고 있지만, 우리는 우리의 어떤 무역 파트너도 우리와 지속적인 거래를 계속할수 없는 것을 원치 않습니다. 만약 거래를 계속할수 없다면 우리는 무역협정을 무효화시킬 것입니다. 우리는 그들이 금본위제를 포기하도록 해야 합니다."
 
-japhep.8.d:0 "Despite some disagreement on some terms, our delegates have reported that it may be suitable for us to ask for Anglo-Japanese Alliance. Perhaps the Japanese will finally want to continue our alliance, both for protection, or for deterrance."
+japhep.8.d:0 "몇몇 조건에서 우리의 의견 불일치에도 불구하고, 우리 대표단은 우리가 영일동맹을 요청하는 것이 적절할수 있다고 판단하여 보고했습니다. 아마도 일본은 우리와 동맹관계를 유지하기를 원할 것입니다."
 
-japhep.9.d:0 "With much greatness, we and Great Britain has put aside our disagreements and finished the discussion of the Hirota-Eden Pact. This pact shall show the greatness of diplomacy and ensure the success of both the Empire of Japan and the Empire of Great Britain."
+japhep.9.d:0 "우리와 영국은 완벽할 정도로 의견차이를 좁혀 히로타-이든 조약에 대한 논의를 마쳤습니다. 이 협정은 외교의 대단함을 보여주고 일본과 영국의 미래를 보장해줄 것입니다."
 
-japhep.10.d:0 "Our delegates in Kyoto has reported back to Downing Street that the Japanese has accepted the extension of the Anglo-Japanese Alliance. This means that most of our hopes for the summit is fulfilled, despite most political councillors' conservative hopes. This will be the most influential conference in history. We shall rejoice at such event!"
+japhep.10.d:0 "교토에 있는 우리 대표단은 일본이 영일 동맹의 연장을 받아들였다고 다우닝 가에 보고했습니다. 이는 정치국의 보수적인 의견에도 불구하고 정상회담에서의 우리의 바램이 대부분 실현되었다는 것을 의미합니다. 이번 회의는 역사상 가장 중요한 회의가 될 것입니다. 우리는 이 일에 대해 기뻐할 것입니다!"
 
-japhep.100.d:0 "Our government, before the new elections take place, hopes to solve the problem of the not-yet-terminated Anglo-Japanese Alliance. Right now the cabinet is undergoing heavy debates at Downing Street to renew the alliance temporarily for three years. Many throughout the government are concerned if this alliance will stay for long, especially when our actions have alienated quite a lot of our former allies."
+japhep.100.d:0 "우리 정부는 선거가 시작되기 전에 끝나기 않은 영일동맹의 문제를 해결하기를 희망하고 있습니다. 지금의 내각은 다우닝가에서 3년동안 동맹을 갱신하기 위해 논쟁을 벌이고 있습니다. 대부분의 정부 부처에서 우리의 예전 동맹국들에게 등을 돌렸을때 동맹이 얼마나 오랫동안 이어질수 있는지에 대하여 우려하고 있습니다."
 
-japhep.101.d:0 "Britain has just told our minister for foreign affairs that they wish to renew the Anglo-Japanese Alliance for three more years and it is up to us to decide whether or not the alliance will continue. The Navy and Army are supportive of the renewal, but the diet is divided for such action, as many acts by the British have alienated their former allies and made many enemies."
+japhep.101.d:0 "영국은 방금 우리 외무부 장관에게 영일동맹을 3년 더 연장하고 싶다고 밝혔고, 동맹의 지속여부는 우리의 선택에 달려있습니다. 육군과 해군은 갱신을 지지하고 있지만, 영국의 많은 행동들이 옛 동맹국에게서 등을 돌리고 많은 적을 만들었기에, 의회는 분열되어 있습니다."
 
-japhep.102.d:0 "The Japanese Diet has sent a letter to the Foreign Office, saying that they have decided to renew the Alliance, following our proposal of a 3 year temporal renewal, until a complete discussion later. However, the letter has stated that numerous actions by the British Empire has conflicted with Japan and her interests. It will take a lot of actions by the British Empire to undo such acts of aggression against them."
+japhep.102.d:0 "일본 의회는 외교부에 서한을 보내 우리측의 3년 임시 갱신 제안을 받아들이고 추후 완전한 동맹을 논의하기로 결정했다고 밝였습니다. 하지만 이 서한에는 대영제국의 수많은 행동이 일본과 영국의 이해관계에 충돌한다고 명시되어 있었습니다. 영국의 이러한 행위를 되돌리려면 많은 조치들이 필요할 것입니다."
 
-japhep.103.d:0 "The Japanese Diet has sent a letter to the Foreign Office, saying that they have decided to terminate the Alliance, against our proposal for a 3 year temporal renewal. The letter stated that too many acts of aggression was done by the British Empire against the Japanese empire and has influenced them to terminate the alliance due to not hoping to associate themselves with constant aggressors."
+japhep.103.d:0 "일본 의회는 우리의 3년 임시갱신 제안에 반대하여, 동맹의 해지를 결정했다는 내용의 서한을 외무성에 보냈습니다. 편지에는 너무 많은 침략행위가 대영제국에 의해 일본제국에 대항하여 행해졌으며, 끊임없는 침략자들과 관계를 맺기를 바라지 않기 때문에 동맹관계를 종식시킨다고 밝혔습니다."
 
-japhep.104.d:0 "The British diplomat to us has just left us a letter, saying that it is in their nation's interests to terminate the Alliance, due to the overwhelming uncertainty posed by our actions, drifting away from the British interests, aligning ourselves with other nations. The Diet has not made any official comment on the letter currently."
+japhep.104.d:0 "우리에게 파견된 영국 외교관은 우리에게 편지를 남겼는데, 우리의 행동에 의해 발생한 불확실성 때문에, 영국의 이익이 피해를 입고, 다른 나라들과 제휴하는 것이 영국에게 이득일 것이라고 말했습니다. 현재 의회에서는 이 편지에 대하여 공식 입장을 밝히지 않고 있습니다."
 
-japhep.105.d:0 "As we enter 1940, one of the problems arise as the temporaily renewed Anglo-Japanese alliance comes to an end. With the 3 years ending without much conflict between the both nations, many think that this means the two nation's interests are once again, closer to each other. Quite a number of people support aligning Japan with us fully through inviting them to the Imperial Protection Alliance, but this must be done with thorough discussion."
+japhep.105.d:0 "1940년에 들어서며, 새롭게 재개된 영일동맹이 끝나며 새로운 문제가 발생했습니다. 두 나라 사이의 큰 갈등 없이 3년이 지나가면서, 많은 사람들은 이것이 두 나라간에 이익이 될 것이라고 생각합니다. 많은 사람들이 제국 보호 동맹에 일본을 초대하는 것으로써 우리와 일본이 한편에 서는것을 지지하지만, 이것은 철저한 논의끝에 결론이 날 것입니다."
 
-japhep.106.d:0 "The British diplomat entered the halls of the Foreign Ministry today, concerned, speaking of holding a conference between the two countries. It is sure that this conference will concern the fate of the Anglo-Japanese Alliance as the temporal renewal ends. The Diet is more optimistic towards holding the conference to discuss the fate of the Alliance. Perhaps it will go miraculously and we will be happy after all, or it may go poorly and both parties will go with a sour face."
+japhep.106.d:0 "영국 외교관은 오늘 양국 간 회담 개최와 관련해 우려하며 외교부에 들어섰습니다. 임시 갱신이 끝나가면서 이 회담은 영일동맹의 운명에 관해 이야기 할 것이 분명합니다. 의회는 동맹의 운명을 논의하기 위해 회담을 개최하는 것에 낙관하고 있습니다. 회담은 기적적으로 진행될 것이고 우리는 결국 행복하게 될 것입니다. 어쩌면 잘못될 수도 있고 양쪽 모두 시큰둥해진 표정으로 돌아갈 것입니다."
 
-japhep.107.d:0 "Japan has notified our diplomat over there that they will not discuss the Alliance, still citing the noticible times where the British have went against the interests of Japan. Therefore, they will also terminate the alliance. The Foreign Minister has already announced that Britain will not try to attempt to keep Japan as a part of the Alliance."
+japhep.107.d:0 "일본에 체류중인 우리 외교관이 일본은 동맹에 대하여 논의하지 않겠다는 뜻을 보내왔다고 전해왔습니다. 따라서 동맹은 종료될 것이며, 외무장관은 이미 영국이 일본을 동맹의 하나로 유지하려고 노력하지 않을 것이라고 발표했습니다."
 
-japhep.108.d:0 "Japan has notified our diplomat at Japan stating that they will terminate the Alliance immediately, citing the aggression of the British actions. The Foreign Minister has stated that the British Empire will not try to continue the alliance, stating 'A unpleasant alliance is against both nation's interests'. However, a number of our political advisors has advised against just letting go."
+japhep.108.d:0 "일본은 일본 주재 우리 외교관에게 영국의 침략행위를 이유로 동맹의 즉각적인 해지를 통보해 왔습니다. 외무장관은 영국이 '불쾌한 동맹은 양국의 이익에 반한다'고 전하며 동맹을 이어가지 않을 것이라고 밝혔습니다. 하지만 많은 정치 고문들은 계속해서 동맹을 이어가는데 찬성했습니다."
 
-japhep.109.d:0 "Britain has notified our diplomat to terminate the Alliance immediately, citing numerous unpleasant times of cooperation between the two nations, and how it is 'better for no relation than a mutually despiscing one'. Numerous political commentators are very suprised by Britain's actions, but have remained neutral on the issue."
+japhep.109.d:0 "영국은 우리 외교관에게 양국간의 길었던 불편한 협력시기와, 그리고 그것이 '서로 경멸하는 것보다 아무 관계도 아닌 것이 낫다'고 말하며 동맹의 즉각 해지를 통보했습니다. 수많은 정치 평론가들은 영국의 행동에 매우 놀라고 있지만, 이 문제에 대해서 중립을 지키고 있습니다."
 
-japsanfran.1.d:0 "Our intelligence sharing with the Americans was just in time. With us inviting them to a summit, they accepted and proposed to hold it in San Francisco. We shall decide a solution to the HMS Trafalgar and numerous other minor items. Now we shall participate immediately, without any doubts, as time is not on our side."
+japsanfran.1.d:0 "미국과 우리의 정보공유는 때맞춰 이뤄졌습니다. 우리가 그들을 정상회담에 초대하였고, 그들은 정상회담을 샌프란시스코에서 개최할 것을 제안하였습니다. 우리는 HMS 트라팔가르와 같이 많은 것들에 대한 해결책을 결정할 것입니다. 이제 시간은 우리의 편이 아니므로 바로 참가해야 합니다."
 
-japsanfran.2.d:0 "The Japanese's invitation of us to a summit about the naval problems and the pressing issue to HMS Trafalgar led to a summit in San Francisco. Now we shall participate to solve these issues. Now we must hold this summit as soon as possible, or our ships will be defeated easily."
+japsanfran.2.d:0 "일본이 우리를 정상회담에 초청한 것은 해군 문제와 HMS 트라팔가르에 대한 긴급한 문제 때문이었습니다. 이제 우리는 이 문제들을 해결하기 위하여 정상회담에 참여할 것입니다. 하루빨리 정상회담을 개최하지 않으면 우리의 전함들은 쉽게 패배할 것입니다."
 
-japsanfran.3.d:0 "After 18 years of the Washington Naval Treaty which limited both ours and the United States of America's shipbuilding, the British has launched the Super Heavy Battleship HMS Trafalgar which endangers both the American and the Japanese navy. We, the Japanese shall call for a summit to declare the end of the treaty and restart the fleet construction programs of both countries to ensure the security of our seas. If the Americans does not align with our cause, we must stop following them."
+japsanfran.3.d:0 "18년동안 워싱턴 해군 군축 조약으로 우리와 미국의 해군력을 제한받아온 지금, 영국의 초중전함 HMS 트라팔가르는 우리와 미국의 해군에 위험을 초래하고 있습니다. 우리, 일본은 우리 영해의 안전을 보장하기 위하여 정상회담을 개최하여 조약의 종결을 선언하고 양국의 함대 재건 계획을 재개할 것을 촉구할 것입니다. 만약 미국이 우리의 대의에 부합하지 않는다면, 우리는 그들을 따르는 것을 멈춰야 합니다."
 
 japsanfran.4.d:0 "The Japanese delegates, on the first day of the Summit, has said that 'With the HMS Trafalgar, we must stop limiting our navies immediately' and called for the immediate termination of the Washington Naval Treaty, and instead, band together for naval technology sharing to catch up for the missing interwar naval development."
 
@@ -290,18 +291,18 @@ jap_lowered_exports:0 "Limited Exports to the USA"
 
 ####National Foci#### 
 
-jap_honshu_infra:0 "Improve Honshu Infrastructure"
-jap_honshu_infra_desc:0 "During the 1920s, our governments upgraded the infrastructure, including a massive expansion of railways, stretching from Nagasaki to Tokyo. Despite these upgrades, some parts of our home have not been so fortunate as to recieve much industrialisation. By building new railways and highways to these more rural areas, namely Northern Honshu, we may be able to spped up the industrialisation of these areas."
-jap_kyushu_infra:0 "Improve Kyushu Infrastructure"
-jap_kyushu_infra_desc:0 "During the 1920s, our governments upgraded the infrastructure, including a massive expansion of railways, stretching from Nagasaki to Tokyo. Despite these upgrades, some parts of our home have not been so fortunate as to recieve much industrialisation. By building new railways and highways to these more rural areas, we may be able to speed up the industrialisation of these areas."
-jap_explore_hokkiado:0 "Exploration of Hokkaido"
-jap_explore_hokkiado_desc:0 "Emperor Meiji once ordered the exploration of Hokkaido. Now that our government has less on their agenda, we can send more explorers to explore the vast unknown that is Hokkaido."
-jap_fort_mainland:0 "Fortify The Mainland"
-jap_fort_mainland_desc:0 "Since our army are usually off guarding our overseas possesions, our main home islands are easilly occupied if a large suprise force lands successfully. To help with the defense of the Home islands, we must build some forts to guard strategic positions valuable to us."
-jap_fort_cities:0 "Fortify Important Cities"
-jap_fort_cities_desc:0 "After fortifying strategic locations, we must also fortify important cities, such as Tokyo, Osaka and Kyoto."
-jap_fort_islands:0 "Fortify Overseas Possesions"
-jap_fort_islands_desc:0 "Our overseas possesions are important strategic wise as they provide bases to base our navy out of, but require men to guard. By fortifying these possesions, we can reduce the men needed to guard them and repurpose them to other more desperately needed areas."
+jap_honshu_infra:0 "혼슈 기반 시설 개선"
+jap_honshu_infra_desc:0 "1920년대에 우리 정부는 나가사키에서 도쿄로 뻗어나가는 철도의 대규모 확장을 포함한 기반 시설을 개선했습니다. 이러한 개선에도 불구하고, 우리 나라의 일부 지역은 산업화의 혜택을 누릴만큼 운이 좋지 않았습니다. 새로운 철도와 고속도로를 더 많은 시골 지역, 즉 북부 혼슈에 건설함으로써 우리는 이들 지역의 산업화를 가속화할 수 있을 것입니다."
+jap_kyushu_infra:0 "규슈 기반 시설 개선"
+jap_kyushu_infra_desc:0 "1920년대에 우리 정부는 나가사키에서 도쿄로 뻗어나가는 철도의 대규모 확장을 포함한 기반 시설을 개선했습니다. 이러한 개선에도 불구하고, 우리 나라의 일부 지역은 산업화의 혜택을 누릴만큼 운이 좋지 않았습니다. 새로운 철도와 고속도로를 더 많은 시골 지역에 건설함으로써 우리는 이들 지역의 산업화를 가속화할 수 있을 것입니다."
+jap_explore_hokkiado:0 "홋카이도 탐사"
+jap_explore_hokkiado_desc:0 "메이지 천황은 홋카이도 탐사를 명령한 적이 있습니다. 이제 우리정부는 많은 문제를 해결한 덕분에, 홋카이도라는 방대한 미지의 세계에 탐험가를 더 파견할 수 있습니다."
+jap_fort_mainland:0 "본토 요새화"
+jap_fort_mainland_desc:0 "우리 군대는 대부분 해외에 주둔해 있기 때문에, 만약 대규모 기습으로 성공적인 상륙을 허락한다면 우리의 주요 섬들은 쉽게 함락당할 겁니다. 조국의 방어를 돕기 위해 우리는 전략적 위치에 요새를 건설해야 합니다."
+jap_fort_cities:0 "주요 도시 요새화"
+jap_fort_cities_desc:0 "전략적 위치의 방어를 강화하고, 우리는 도쿄, 오사카, 교토 같은 중요한 도시의 방어도 강화해야 합니다."
+jap_fort_islands:0 "해외 자산 요새화"
+jap_fort_islands_desc:0 "우리의 해외 자산에 주둔하는 것은 전략적으로 중요한데, 우리 해군 기지를 건설하기 위해서는 방어를 해야 하기 때문입니다. 이러한 자산들을 강화함으로써, 우리는 방어에 필요한 병력을 줄일 수 있고 병력이 필요한 다른 곳에 배치할 수 있습니다."
 jap_the_unsinkable_carriers:0 "The Unsinkable Carriers"
 jap_the_unsinkable_carriers_desc:0 "The islands that we own can afford airbases so we can base our aircrafts there and, therefore, the islands can be the unsinkable carriers of the navy, wrecking havoc, in case we cannot catch up to the ship-building of the USA and the British Empire."
 jap_further_hokkaido_exploration:0 "Further Hokkaido Exploration"
@@ -324,51 +325,51 @@ jap_shikoku_infra:0 "Improve Shikoku Infrastructure"
 jap_shikoku_infra_desc:0 "During the 1920s, our governments upgraded the infrastructure, including a massive expansion of railways, stretching from Nagasaki to Tokyo. Despite these upgrades, some parts of our home have not been so fortunate as to recieve much industrialisation. By building new railways and highways to these more rural areas, we may be able to speed up the industrialisation of these areas."
 
 #Navy
-jap_modernise_the_navy:0 "Imperial Navy"
-jap_modernise_the_navy_desc:0 "The Navy since the Washington Naval Treaty has been mostly neglected. Ships from the Great War are now getting surpassed from all other naval powers. We must proceed to modernise the navy at once."
-jap_modernisation_of_cruiser:0 "Modernisation of Cruisers"
-jap_modernisation_of_cruiser_desc:0 "Newer Cruiser designs surpass our old cruisers that were built during the Great War and the Interwar period. We must commission a new cruiser design and start building them immediately."
-jap_destroyer_modernisation:0 "Asashio Destroyer"
-jap_destroyer_modernisation_desc:0 "Our Destroyer designs have also been outdated and cannot properly compete against newer designs. Newer designs must be developed as soon as possible."
-jap_expand_the_snlf:0 "Expand the SNLF"
-jap_expand_the_snlf_desc:0 "The Special Naval Landing Force is a specisalised group of Marines, which could be the dominant invading force if we want to fight a war and land in the islands of the Pacific. Perhaps by investing in the marines, we could recieve a strong and powerful marine invasion force."
-jap_long_lance_torpedoes:0 "Long Lance Torpedoes"
-jap_long_lance_torpedoes_desc:0 "The Long Lance Torpedoes are currently a promising prototype. If we spend time and capital to invest in this prototype, we might develop one of the best torpedoes, ahead of the other navies."
-jap_torpedo_cruisers:0 "Torpedo Cruisers"
-jap_torpedo_cruisers_desc:0 "With the development of the Long Lance Torpedoes, by putting a lot of torpedo launchers on our cruisers, they could overpower many of the naval powers' cruisers, and possibly threaten the pride of the enemy's fleet."
-jap_superior_battlefleet:0 "Superior Battlefleet"
-jap_superior_battlefleet_desc:0 "The Eight-Eight Fleet concept developed by our tacticians after the Russo-Japanese War is a capable doctrine, and we should continue with this concept without any doubt."
-jap_improve_naval_artillery:0 "Improve Naval Artillery"
-jap_improve_naval_artillery_desc:0 "The naval batteries of our ships have always been relatively high quality, but with more investments in them to license other powers' design or to research a more improved version, we could likely design a battery of better quality."
-jap_expand_the_kure_dockyards:0 "Expand Kure Naval Arsenal"
-jap_expand_the_kure_dockyards_desc:0 "The Kure Naval Arsenal has been the dominant shipyard of the Imperial Japanese Navy since the Sasebo arsenal deactivated. It has recently proven incapable to serve a larger fleet and we must now expand it. "
-JAP_the_yamato:0 "The Yamato"
-JAP_the_yamato_desc:0 "The design of a super heavy battleship has been in design during the interwar period, but not actually built due to the Washington Naval Treaty. With imminent conflict coming, we should consider to reactivate the design division, so the class can be completed before the conflict spreads to us."
-jap_expand_the_sasebo_arsenal:0 "Reactivate the Sasebo Arsenal"
-jap_expand_the_sasebo_arsenal_desc:0 "The Sasebo Arsenal was deactivated during the Interwar period and mainly used as a wharf. As the dark clouds of war linger over Europe, we must reactivate this shipyard to increase our naval power that shields us. "
+jap_modernise_the_navy:0 "제국 해군"
+jap_modernise_the_navy_desc:0 "워싱턴 해군 조약 이후 해군은 등한시 되었습니다. 대전 이전의 배들은 이제 다른 모든 해군 강국들에게 추월당하고 있습니다. 우리는 즉시 해군의 현대화를 추친해야 합니다."
+jap_modernisation_of_cruiser:0 "순양함 현대화"
+jap_modernisation_of_cruiser_desc:0 "새 순양함 설계는 대전 이전과 대전동안 건조되었던 우리의 순양함을 능가합니다. 우리는 새로운 순양함 설계를 의뢰하여 즉시 건조에 착수해야 합니다."
+jap_destroyer_modernisation:0 "구축함 아사시오"
+jap_destroyer_modernisation_desc:0 "우리의 구축함 설계 또한 시대에 뒤떨어져 신형 설계와 경쟁하기 힘듭니다. 서둘러 새로운 구축함을 개발해야 합니다."
+jap_expand_the_snlf:0 "SNLF 확장"
+jap_expand_the_snlf_desc:0 "해군 특수 상륙부대는 해병대 소속으로, 태평양 섬에서의 전투와 상륙을 원한다면 해병대에 투자함으로써, 우리는 강하고 강력한 해상 상륙군을 얻을 수 있을 것입니다."
+jap_long_lance_torpedoes:0 "장창 어뢰"
+jap_long_lance_torpedoes_desc:0 "장창 어뢰는 유망한 신제품입니다. 만약 우리가 시간과 자본을 들여 이 제품에 투자한다면, 우리는 다른국가의 해군들보다 앞선 최고의 어뢰 중 하나를 개발할 수 있을 것입니다."
+jap_torpedo_cruisers:0 "어뢰 순양함"
+jap_torpedo_cruisers_desc:0 "장창 어뢰의 개발로 우리 순양함에 어뢰발사대를 다수 장착함으로써 열강들의 순양함을 다수 제압할 수 있고, 적 함대의 자랑거리를 위협할 가능성 또한 존재합니다."
+jap_superior_battlefleet:0 "우월한 전투함대"
+jap_superior_battlefleet_desc:0 "러일전쟁 이후 우리의 책사들이 개발한 88 함대교리는 훌륭한 교리이며, 우리는 이 교리를 계속 사용해야 합니다."
+jap_improve_naval_artillery:0 "함선 대포 개선"
+jap_improve_naval_artillery_desc:0 "우리 함정의 해군 포대는 항상 비교적 품질이 높았지만, 다른 열강의 설계에 대한 면허를 받거나 보다 개선된 버전을 연구하기 위해 더 많은 투자를 했기 때문에, 우리는 더 나은 품질의 포대를 설계할 수 있을 것입니다."
+jap_expand_the_kure_dockyards:0 "구레 해군공창 확장"
+jap_expand_the_kure_dockyards_desc:0 "일본 제국 해군의 구레 해군공창이 주요 조선소가 되자, 일본 제국 해군은 사세보 해군공창을 정지시켰습니다. 최근에 더 큰 함대를 편성할 수 없다는 것이 증명되었고, 우리는 이제 함대를 확장해야 합니다."
+JAP_the_yamato:0 "야마토"
+JAP_the_yamato_desc:0 "초중전함의 설계는 전쟁 기간 동안 설계되어 왔지만, 워싱턴 해군 조약 때문에 실제로 건조되지는 않았습니다. 충돌이 임박한 상황이 오기 전에 설계를 재개해야 할지를 고려해야 충돌이 확산되기 전에 초중전함 건조를 마칠 수 있을 것입니다."
+jap_expand_the_sasebo_arsenal:0 "사세보 해군공창 재가동"
+jap_expand_the_sasebo_arsenal_desc:0 "사세보 해군공창은 전쟁 기간 동안 가동이 중단되었고, 부두로만 이용되었습니다. 전쟁의 먹구름이 유럽을 뒤덮고 있기에 우리는 우리를 방어할 해군력을 증가시키기 위해 조선소를 다시 활성화 시켜야 합니다."
 jap_lessons_of_the_great_war:0 "Lessons of The Great War"
 jap_lessons_of_the_great_war_desc:0 "With many lessons learnt from the naval battles of the Great War, many things are learnt. But these lessons are not properly implemented, with some work, we can make sure our naval staff makes use of them."
-jap_imperial_bb_academy:0 "Imperial Battleship Academy"
+jap_imperial_bb_academy:0 "제국 해군 사관학교"
 jap_imperial_bb_academy_desc:0 "With the implementation of the lessons of the Great War, a dedicated academy for the battleship crew will be extremely affecting in the imminent naval combat, as we can give our crews an edge over our enemies."
-jap_dominance_of_cv:0 "Dominance of Carriers"
-jap_dominance_of_cv_desc:0 "As the testing of aircraft carrier doctrines with Hosho and Ryujo has found out that aircrafts can destroy a warship with ease, we must push an agenda that focuses on carriers, instead of the battleship fleet our old doctrines suggest."
-jap_first_air_fleet:0 "First Air Fleet"
-jap_first_air_fleet_desc:0 "The First Air Fleet can be established, concentrating the naval aviation power of Kaga, Akagi, Soryu and Hiryu into a neat and powerful fleet, able to be attached or dettach at a moments notice from any other fleets of ours."
-jap_third_gen_cv:0 "Third Gen Carrier Program"
-jap_third_gen_cv_desc:0 "With the experiences of Soryu and Hiryu, we have much more quickly needed improvements that needs to be incoporated. With the new naval expansions, the development of the third generation of carriers must start."
-jap_fifth_fleet_expansion:0 "Fifth Fleet Expansion"
+jap_dominance_of_cv:0 "항공모함의 지배"
+jap_dominance_of_cv_desc:0 "호쇼와 류조와의 항모 교리 시험을 통해 항공기가 군함을 쉽게 파괴할 수 있다는 사실을 알게 된 만큼, 우리의 옛 교리가 우리의 옛 교리가 시사하는 전함교리 대신 항모 중심의 교리를 추진해야 합니다."
+jap_first_air_fleet:0 "최초의 공군"
+jap_first_air_fleet_desc:0 "제1항공 함대는 가가와 아카기, 소류, 히류 등의 해군 항공력을 깔끔하고 강력한 함대에 집중시켜 우리 함대의 다른 함대에서 즉시 배치할 수 있도록 할 수 있습니다."
+jap_third_gen_cv:0 "3세대 항공모함 프로그램"
+jap_third_gen_cv_desc:0 "소류와 히류에서의 경험으로 보아, 우리는 더욱 빨리 해군을 개선할 필요가 있습니다. 새롭게 해군을 개선하기 위하여 3세대 항공모함의 개발이 시작되어야 합니다."
+jap_fifth_fleet_expansion:0 "5함대 확장"
 jap_fifth_fleet_expansion_desc:0 "The Fifth fleet is a collection of a few escort and transport ships. Our planners have found that a few of these ships can be converted into potential military ships, such as the Nitta Maru-class cargo liners built by Mitsubishi."
-jap_inaa:0 "Imperial Naval Aviation Academy"
-jap_inaa_desc:0 "With the expansion of many newer fleets, fewer and fewer experienced pilots and crew are present for them. With the establishment of an academy, these pilots can become a strong force of these fleets."
+jap_inaa:0 "제국 해군 항공 사관학교"
+jap_inaa_desc:0 "함대가 새로이 확장되면서 경험이 풍부한 조종사와 승무원들이 부족해지고 있습니다. 사관학교를 설립하면 조종사들과 승무원을 새로이 충원할 수 있을 겁니다."
 #Planes are cool
-jap_plane_modernisation:0 "Plane Modernisation"
-jap_plane_modernisation_desc:0 "With our expansion for our militaries, the corresponding aerial support must be implemented as well. Spending some capital on modernising our planes can help increase our militaries' effectiveness."
-jap_mitsubishi_designs:0 "Mitsubishi Designs"
-jap_mitsubishi_designs_desc:0 "Mitsubishi is a company that focused on shipbuilding and transport. But recently they have stepped into the aviation industry. With the experiences the Navy had from the A5M naval fighter, the Navy thinks that they are a great aviation designer and their designs can be used."
-jap_the_zero:0 "The Zero"
-jap_the_zero_desc:0 "Mitsubishi has gained the trust of the Imperial Japanese Navy and the navy now needs a new and capable fighter. We should commission a new agile carrier-based naval fighter from them, with Jiro Horikoshi as the lead designer of the project."
-jap_unify_research_effort:0 "Unify Research Effort"
-jap_unify_research_effort_desc:0 "The seperate research efforts of our militaries' led to duplicate researchs taking place. By ordering the unification of the two branches' research department, we can concentrate our aerial research on what is needed."
+jap_plane_modernisation:0 "항공기 현대화"
+jap_plane_modernisation_desc:0 "우리에 군사력 확대에 상응하는 공중 지원이 필요합니다. 우리 항공기의 현대화에 자본을 투입하는 것은 우리 군의 효율성을 높이는 데 도움이 될 수 있을 것입니다."
+jap_mitsubishi_designs:0 "미쓰비시 설계"
+jap_mitsubishi_designs_desc:0 "미쓰비시는 조선·운송에 주력하고 있는 회사입니다. 하지만 최근 그들은 항공 산업에 발을 들여놓았습니다. 해군은 A5M 해군 전투기에서 얻은 경험을 바탕으로 그들이 훌륭한 항공 디자이너이며 설계 또한 사용할 수 있다고 생각합니다."
+jap_the_zero:0 "제로센"
+jap_the_zero_desc:0 "미쓰비시는 새롭고 뛰어난 전투기가 필요한 일본 제국 해군의 신뢰를 얻었습니다. 우리는 미쓰시비에 호시코리 지로가 이끄는 프로젝트의 항공모함용 전투기를 의뢰해야 합니다."
+jap_unify_research_effort:0 "연구 통합"
+jap_unify_research_effort_desc:0 "우리 군대의 개별적인 연구는 서로 중복 연구를 하도록 만들었습니다. 육군과 해군의 연구 통일을 지시함으로써 항공연구를 진척시킬 수 있을 겁니다."
 jap_combine_bomber_effort:0 "Combined Bomber Effort"
 jap_combine_bomber_effort_desc:0 "By giving a contract to both the navy's and army's respective plane contractors, we can get a bomber suitable for naval use and tactical bombing, the best of both worlds."
 jap_jet_effort:0 "Jet Effort"
