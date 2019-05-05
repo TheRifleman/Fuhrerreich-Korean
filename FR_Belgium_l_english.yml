@@ -275,20 +275,16 @@ BEL_goal_artillery_desc:0 "포병은 모든 훌륭한 군대의 중추입니다.
 
 #####Events#####
 bel.1.t:0 "대전 이후의 벨기에"
-bel.1.d:0 "1914년, 독일은 중립을 무시하고 벨기에를 침공하여, 영국을 협상국 측의 전쟁에 끌어들였습니다. 벨기에 군은 순식간에 제압되었지만, 이제르 강 뒤에 단단히 자리잡았습니다.  점령된 벨기에에서는, 독일인들이 플랑드르 민족주의자를 향한 정책인 플랑드르 정책을 추구했으며 본질적으로 그들의 요구를 들어주었습니다. 자유 벨기에에서는, 알버트 왕이 그의 군대를 이끌고 전선으로 향했으며, 이는 종전후 왕이 큰 인기를 얻게되는 이유중 하나로 떠올랐습니다. 1920년 베르사유 조약에서, 벨기에 외교관들은 네덜란드로부터 지우스-플란데런과 림부르크에 대한 영유권을 확보할 수 있게되었지만, 그 결과, 네덜란드와의 관계는 그 이후 한 번도 예전 같지 않게되었습니다.
-
-1919년 로펨 협정에서, 국왕은 점령된 벨기에에 남아 있었던 벨기에 정치인들과 함께 21세 이상의 모든 남성들에 대한 보편적 참정권의 가능성을 논의하였습니다. 그 다음 선거에서는, 보편적 참정권이 입법화되어 효과적으로 이 나라를 대중민주주의로 전환시켰고, 결과적으로, 몇몇 정당들은 유권자들을 끌어들이기위해 자신들의 프로그램을 개선해야했습니다. 플랑드르 인들을 위해 투쟁하는 정당들 또한 설립되었고, 심지어 전통적인 정당들 내에서도 이러한 정책이 채택되었습니다. 1930년대 초, 이는 플랑드르 행정처에서 네덜란드 어 하나만을 사용하도록 하는 몇몇 언어법의 제정으로 이어졌습니다. 
-
-그러나 최근 몇년동안, 현재의 정치체계에 대한 경멸이 커져가면서 몇몇 극우 및 극좌 정당이 나타나기 시작하였습니다."
-bel.1.a:0 "The Belgian Lion stands strong!"
-bel.2.t:0 "King Albert dies in an accident"
-bel.2.d:0 "At 2 a.m. on the 18th of February, the body of King Albert was found at the base of a cliff in Marche-Les-Dames (Namur). It is presumed the King fell to his death after a climbing accident. However, the King was known to be a skilled mountaineer and many wonder if his death was an accident at all. His 35 year old son, Leopold, will now follow in his father's footsteps as King of Belgium."
-bel.2.a:0 "Long live King Leopold III!"
-bel.3.t:0 "Queen Astrid dies in suspicious accident"
-bel.3.d:0 "With the death of King Albert only one month ago, Belgium and the royal family have been struck by disaster again. Leopold III and his wife Astrid were involved in a car crash in the Ardennes earlier this day. Leopold survived the accident, but his wife died in his arms. Police officers rushed to the scene and discovered some elements that sabotage may be the cause of the crash. Leopold III is furious and is determined to find the culprit, whatever the cost may be."
-bel.3.a:0 "Start an investigation into the case."
-bel.4.t:0 "Enact Krijgswet to help the investigation?"
-bel.4.d:0 "If parliament were to enact the Krijgswet, the military would take over the investigation into the death of Queen Astrid. This would improve the chances of catching the culprit, but it would mean that he would probably not get a fair trial."
+bel.1.d:0 "1914년, 독일은 중립을 무시하고 벨기에를 침공하여, 영국을 협상국 측의 전쟁에 끌어들였습니다. 벨기에 군은 순식간에 제압되었지만, 이제르 강 뒤에 단단히 자리잡았습니다.  점령된 벨기에에서는, 독일인들이 플랑드르 민족주의자를 향한 정책인 플랑드르 정책을 추구했으며 본질적으로 그들의 요구를 들어주었습니다. 자유 벨기에에서는, 알버트 왕이 그의 군대를 이끌고 전선으로 향했으며, 이는 종전후 왕이 큰 인기를 얻게되는 이유중 하나로 떠올랐습니다. 1920년 베르사유 조약에서, 벨기에 외교관들은 네덜란드로부터 지우스-플란데런과 림부르크에 대한 영유권을 확보할 수 있게되었지만, 그 결과, 네덜란드와의 관계는 그 이후 한 번도 예전 같지 않게되었습니다.\n\n 1919년 로펨 협정에서, 국왕은 점령된 벨기에에 남아 있었던 벨기에 정치인들과 함께 21세 이상의 모든 남성들에 대한 보편적 참정권의 가능성을 논의하였습니다. 그 다음 선거에서는, 보편적 참정권이 입법화되어 효과적으로 이 나라를 대중민주주의로 전환시켰고, 결과적으로, 몇몇 정당들은 유권자들을 끌어들이기위해 자신들의 프로그램을 개선해야했습니다. 플랑드르 인들을 위해 투쟁하는 정당들 또한 설립되었고, 심지어 전통적인 정당들 내에서도 이러한 정책이 채택되었습니다. 1930년대 초, 이는 플랑드르 행정처에서 네덜란드 어 하나만을 사용하도록 하는 몇몇 언어법의 제정으로 이어졌습니다.\n\n 그러나 최근 몇년동안, 현재의 정치체계에 대한 경멸이 커져가면서 몇몇 극우 및 극좌 정당이 나타나기 시작하였습니다."
+bel.1.a:0 "벨기에의 사자는 굳건히 서있다!"
+bel.2.t:0 "알버트 왕이 사고로 사망하다"
+bel.2.d:0 "2월 18일 오전 2시, 알버트 왕의 시신이 마르셰르담 (나뮈르)의 절벽밑에서 발견되었습니다. 등반사고로 왕이 사망한것으로 추정되지만, 왕은 숙련된 등반가로 알려져있으며 많은 사람들이 그의 죽음이 사고였는지 의문을 가지고있습니다. 35세의 아들인 레오폴드는, 이제 벨기에의 왕으로서 아버지의 발자취를 따라갈것입니다."
+bel.2.a:0 "국왕 레오폴드 3세 만세!"
+bel.3.t:0 "아스트리드 여왕이 의심쩍은 사고로 사망하다"
+bel.3.d:0 "불과 한 달 전 알베르 왕의 죽음에 이어, 벨기에와 벨기에 왕실이 또 다시 재앙에 휩싸였습니다. 레오폴드 3세와 그의 아내 아스트리드가 오늘 오전 아르덴에서 자동차 추돌 사고를 당했습니다. 레오폴드는 사고에서 살아남았지만 그의 아내는 그의 품안에서 사망하였습니다. 경찰관들이 현장에 달려갔고 사고의 원인이 사보타주일수도있는 몇가지 요소를 발견하였습니다. 레오폴드 3세는 격노하였고 어떤 대가를 치르더라도 범인을 찾아내기로 결심하였습니다."
+bel.3.a:0 "사건에 대한 조사를 시작하라"
+bel.4.t:0 "사건 조사의 도움을 위해 계엄을 선포하시겠습니까?"
+bel.4.d:0 "의회가 계엄을 승인하면, 군부가 아스트리드 여왕의 죽음에 대한 조사를 시작할것입니다. 승인이된다면 범인을 잡을 가능성은 높아지겠지만, 범인이 공정한 재판을 받지못할수도있습니다."
 bel.4.a:0 "The Krijgswet passes in parliament, do everything to catch the killer."
 bel.4.b:0 "The bill fails, a fair trial is too important."
 bel.5.t:0 "The killer is caught"
