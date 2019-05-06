@@ -3,27 +3,27 @@
 #### Political Parties ####
 
 HOL_vanguardist_party:0 "RF"
-HOL_vanguardist_party_long:0 "Revolutionair Front"
+HOL_vanguardist_party_long:0 "혁명전선"
 HOL_collectivist_party:0 "VVA"
-HOL_collectivist_party_long:0 "Volkspartij voor Agrariërs"
+HOL_collectivist_party_long:0 "농민인민당"
 HOL_libertarian_socialist_party:0 "AP"
-HOL_libertarian_socialist_party_long:0 "Anarchistische partij"
+HOL_libertarian_socialist_party_long:0 "무정부당"
 HOL_social_democrat_party:0 "SDAP"
-HOL_social_democrat_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+HOL_social_democrat_party_long:0 "사회민주노동당"
 HOL_social_liberal_party:0 "VDB"
-HOL_social_liberal_party_long:0 "Vrijzinnig Democratische Bond"
+HOL_social_liberal_party_long:0 "자유사상민주연맹"
 HOL_market_liberal_party:0 "LSP"
-HOL_market_liberal_party_long:0 "Liberale Staatspartij"
+HOL_market_liberal_party_long:0 "자유국가당"
 HOL_social_conservative_party:0 "CV"
-HOL_social_conservative_party_long:0 "Conservatief Verbond"
+HOL_social_conservative_party_long:0 "보수연대"
 HOL_authoritarian_democrat_party:0 "NNB"
-HOL_authoritarian_democrat_party_long:0 "Nieuwe Nederlandse Beweging"
+HOL_authoritarian_democrat_party_long:0 "신 네덜란드 운동"
 HOL_paternal_autocrat_party:0 "NNB"
-HOL_paternal_autocrat_party_long:0 "Nieuwe Nederlandse Beweging"
+HOL_paternal_autocrat_party_long:0 "신 네덜란드 운동"
 HOL_national_populist_party:0 "NNB"
-HOL_national_populist_party_long:0 "Nieuwe Nederlandse Beweging"
+HOL_national_populist_party_long:0 "신 네덜란드 운동"
 HOL_valkist_party:0 "PVV"
-HOL_valkist_party_long:0 "Partij Voor 't Vaoderland"
+HOL_valkist_party_long:0 "조국당"
 
 #### Political Ministers ####
 
@@ -37,6 +37,6 @@ HOL_valkist_party_long:0 "Partij Voor 't Vaoderland"
 #####Focus#####
 
 #####Events#####
-hol.1.t:0 "The United Provinces in 1936"
+hol.1.t:0 "1936년의 네덜란드 공화국"
 hol.1.d:0 ""
-hol.1.a:0 "Long live the prince!"
+hol.1.a:0 "공작 만세!"
