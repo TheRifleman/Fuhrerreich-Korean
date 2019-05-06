@@ -1,8 +1,8 @@
 ﻿l_english:
 
-irq.11.t:0 "The Mashriqi Kingdom breaks free!"
-irq.11.d:0 "Ever since the Great War, the Mashriqi Kingdom was firmly under our influence. But after we were struck by the London Stock Market Crash, the scoundrels in the Mashriqi parliament have voted to terminate our protectorate over them, and have kicked out our High Commissioner without any respect."
-irq.11.a:0 "They can do this?"
+irq.11.t:0 "마쉬리크 왕국이 해방되었습니다!"
+irq.11.d:0 "대전쟁 이후로 마쉬리크 왕국은 확고히 우리의 영향력 하에 있었습니다. 하지만 런던 주식 시장 붕괴로 우리가 큰 타격을 입은 후로, 마쉬리크 의회의 비열한 악당들은 우리의 보호령으로 남아있길 거부하는 투표를 진행하였으며 아무런 존중 없이 우리의 고등 판무관을 쫓아내었습니다."
+irq.11.a:0 "그들이 과연 할 수 있을까?"
 
-IRQ_divided_nation:0 "Divided Nation"
-IRQ_divided_nation_desc:0 "The Mashriq is a vast region, containing many tribes, ethnicities and religions within it. Ruling over them and trying to unite them under Pan-Arabism has been difficult, and they don't share the same enthusiasm as the Syrians in opposing the Phoenicians. Our nation suffers deeply as a result."
+IRQ_divided_nation:0 "분열된 국가"
+IRQ_divided_nation_desc:0 "마쉬리크는 넓은 영역으로, 많은 부족과 인종 그리고 종교를 담고 있습니다. 그들을 다스리고 범아랍주의 아래에서 하나로 통합하는 일은 어려운 일이었습니다. 또 그들은 시리아인들이 페니키아인들에 맞서는 것만큼의 열정을 보이지 않고 있습니다. 결과적으로 우린 큰 고초를 겪고 있습니다."
