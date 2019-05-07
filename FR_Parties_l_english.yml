@@ -1,15 +1,15 @@
 ﻿l_english:
-vanguardist_noun:0 "National Collectivism"
-collectivist_noun:0 "Socialism"
-libertarian_socialist_noun:0 "Libertarianism"
-social_democrat_noun:0 "Social Democracy"
-social_liberal_noun:0 "Social Liberalism"
-market_liberal_noun:0 "Market Liberalism"
-social_conservative_noun:0 "Social Conservatism"
-authoritarian_democrat_noun:0 "Authoritarian Dem."
-paternal_autocrat_noun:0 "Paternal Autocracy"
-national_populist_noun:0 "National Populism"
-valkist_noun:0 "Valkism"
+vanguardist_noun:0 "국가집산주의"
+collectivist_noun:0 "사회주의"
+libertarian_socialist_noun:0 "자유지상주의적 사회주의"
+social_democrat_noun:0 "사회민주주의"
+social_liberal_noun:0 "사회자유주의"
+market_liberal_noun:0 "시장자유주의"
+social_conservative_noun:0 "사회보수주의"
+authoritarian_democrat_noun:0 "권위민주주의"
+paternal_autocrat_noun:0 "세습전제주의"
+national_populist_noun:0 "민족대중주의"
+valkist_noun:0 "발키즘"
 
 vanguardist_desc:0 "National Collectivist"
 collectivist_desc:0 "Socialist"
@@ -23,25 +23,25 @@ paternal_autocrat_desc:0 "Paternal Autocrat"
 national_populist_desc:0 "National Populist"
 valkist_desc:0 "Valkist"
 
-vanguardist_subtype_desc:0 "National Collectivism is a term used to describe the collection of theories and concepts created by Vyacheslav Molotov based off of the attempted Hamburg Commune. National Collectivism emphasizes the development of socialism within the state. National Collectivist states build and implement their political base along Leninist lines, creating a revolutionary vanguard state to eventually reach a communist society. However, most power in National Collectivism is centralized around the strong state and its leader. Due to its totalitarian nature, political violence is used liberally to purge counter-revolutionary elements  Agriculture is often collectivized en masse and industry is centrally planned. Despite this, National Collectivism is widespread and sees itself as the true successor of Leninist thought, separating itself from Libertarianism completely while remaining suspicious of mainstream Leninist Socialism."
+vanguardist_subtype_desc:0 "국가집산주의는 뱌체슬라프 몰로토프가 과거에 시도된 함부르크 코뮌을 바탕으로 만든 사상의 집합체를 의미합니다.  국가집산주의는 국가 안의 사회주의의 발전을 중시합니다. 국가집산주의 국가는 그들의 정치적 기반을 레닌주의에 두고 적용하여, 혁명의 전위 국가를 만들고 궁극적으로 공산주의 사회를 이룩하려 합니다. 하지만, 국가집산주의 안의 권력의 대부분은 강력한 국가와 그 지도자에게 집중되어 있습니다. 사상의 전체주의적 성향 때문에, 정치적 폭력은 반혁명적 요소를 숙청하기 위해 거리낌 없이 사용됩니다. 농업은 보통 집산화되고 공업은 중앙에 의해 계획됩니다. 그럼에도, 국가집산주의는 널리 퍼져있고 그들을 레닌주의 사상의 전정한 후계자로 여기며, 스스로를 자유지상주의적 사회주의와 완전히 분리시키고 주류 레닌주의를 의심스럽게 여깁니다."
 
-collectivist_subtype_desc:0 "Created in the aftermath of the Russian Revolution, Leninist Socialism is the mainstream socialist ideology. Named after the interpretations of Karl Marx by revolutionary Vladimir Lenin, Leninist Socialism adheres to the creation of a revolutionary vanguard and the dictatorship of the proletariat through class struggle and violent overthrow of the capitalist state. The eventual goal of Socialism is for the state functions to wither away and eventually transform society into a Marxist communist society. The Leninist Socialist political system is built around a single party state ran by the revolutionary workers party that adheres to a top-down approach towards governing known as democratic centralism, while the economic system is reliant of worker controlled regional and municipal councils known as soviets. Internationalist in tone, Leninist Socialism is often exported around the globe by its adherents and is heavily reinforced by the Leninist Union of Soviet Socialist Republics."
+collectivist_subtype_desc:0 "러시아 혁명의 여파에서 태어난 레닌주의는 주류 사회주의 이념입니다.  혁명가 블라디미르 레닌의 마르크스주의에 대한  해석에서 이름 붙혀진 레닌주의는 혁명 전위대 창설과 계급 투쟁을 통한 무산 계급의 독재, 그리고 자본주의 국가의 급진적인 전복을 추종합니다.  레닌주의의 궁극적인 목적은 국가의 기능을 서서히 없앤 후 사회를 최종적으로 마르크스 공산주의 사회로 바꾸는 것에 있습니다. 레닌주의의 정치 시스템은 민주 집중제라고 하는 하향식의 관리 방식을 따르는 혁명노동자당이 이끄는 단일 정당 국가를 중심으로 이루어지면서도, 경제 시스템은 소비에트라고 알려진 노동자가 이끄는 지역의 위원회에 의존합니다.  국제주의를 지향하는 레닌주의는 보통 추종자들에 의해 전세계로 퍼졌으며 소비에트 레닌주의 공화국 연방에 의해 크게 강화되었습니다."
 
-libertarian_socialist_subtype_desc:0 "Libertarianism represents a wide range of socialist doctrines that oppose the Leninist hegemony on the socialist movement through support of a decentralized, anti-authoritarian and anti-capitalist society ran democratically by the workers alongside worker-owned means of production. Libertarian ideologies include left communism, council communism, anarcho-syndicalism, and anarcho-communism, and do not strictly support the tenets of Marxism or Communism."
+libertarian_socialist_subtype_desc:0 "자유지상주의적 사회주의는 사회주의 운동의 헤게모니를 가진 레닌주의를 노동자 소유의 생산수단과 노동자가 민주적으로 운영하는 분권화되고 반권위주의적이며 반자본주의적인 사회를 지지함으로써 반대하는 다양한 부류의 사회주의 사상을 총칭하는 표현입니다. 자유지상주의적 사회주의 사상으로는 좌파 공산주의, 평의회 공산주의, 아나코생디칼리즘, 아나코공산주의가 있으며, 그들은 마르크스주의나 공산주의의 원칙을 철저히 따르지 않습니다."
 
-social_democrat_subtype_desc:0 "Social Democracy is an ideology whose goal is to reform capitalism and humanize it by aligning it with the ethical ideals of social welfare while maintaining the capitalist mode of production, rather than creating an alternative socialist economic system. While usually promoting a plutocratic form of government and a heavily regulated market economy, some more radical streams exist."
-social_liberal_subtype_desc:0 "Social Liberalism is a variation on mainstream Market liberalism, with the main difference being is the inclusion of various civil freedoms as basic human rights. Professing progressive social and economic policies the social liberals aim to create a society where every individual is free to live his own life with full opportunities regardless of their status."
+social_democrat_subtype_desc:0 "사회민주주의는 자본주의를 개혁하고 사회주의적 경제 시스템이라는 대안보다는 자본주의적 생산 방식을 유지하면서 사회 복지의 도덕적 이상에 맞춰 자본주의를 조정함으로써 더 인도적으로 만드는 것을 목표로 하는 이념입니다. 보통은 자본주의적인 정부 형태와 강력하게 규제되는 시장 경제를 지원하지만, 더 극단적인 분파도 일부 존재합니다."
+social_liberal_subtype_desc:0 "사회자유주의는 주류 시장자유주의의 변형으로, 가장 큰 차이점은 기초 인권과 같은 다양한 시민의 자유의 포함 여부입니다. 진보적인 사회 경제 정책을 주장하는 사회자유주의는 모든 사람들이 그들의 사회적 지위와 상관없이 모든 기회를 누리며 살 수 있는 자유를 가진 사회를 만드는 것을 목적으로 합니다."
 
-market_liberal_subtype_desc:0 "Market Liberals see themselves as the mainstream liberal ideology. The main tenants of Market Liberalism are an unregulated free market and a liberal democratic political system. Market Liberals believe that the freer the market the freer the people, and they will staunchly defend the political and economic rights of the individual."
+market_liberal_subtype_desc:0 "시장자유주의자들은 스스로를 주류 자유주의 이념이라고 여깁니다. 시장자유주의의 주요 목적에는 규제 없는 자유 시장과 자유민주주의적인 정치 시스템이 있습니다. 시장자유주의자들은 시장이 자유로울수록 사람들도 자유로울 것이라고 믿으며, 개인의 정치와 경제적 권리를 확고하게 수호할 것입니다."
 
-social_conservative_subtype_desc:0 "Conservatism is a political ideology which can vary greatly depending on the political history of the region or nation. Nonetheless, it is normally centred on preserving traditional beliefs, attitudes and philosophy as well as the traditional power dynamic of society while using the democratic system. Opposed to both radical and moderate changes to the status quo, conservatives want to keep society in order and stable. Most conservative societies usually promote a regulated market economy and favour economic protectionism."
+social_conservative_subtype_desc:0 "보수주의는 국가나 지역의 정치적 역사에 따라 크게 달라질 수 있는 정치 이념입니다. 그럼에도, 일반적인 보수주의는 전통적인 믿음, 태도나 사상, 그리고 권력 구조를 민주적인 시스템을 활용해 지키는 것에 목표를 둡니다. 현재 상황의 온건하거나 급진적인 변화에 반대하는 보수주의자들은 사회를 안정되고 질서 있는 상태로 유지하고 싶어합니다. 대부분의 보수주의적 사회는 통제된 시장 경제와 보호적 경제 정책을 선호합니다."
 
-authoritarian_democrat_subtype_desc:0 "Authoritarian Democracy is an ideology that combines a strong executive power with a representative parliament and a partial democratic political system. Authoritarian Democratic regimes often take a conservative stance on social issues, favour centralization and typically have Hawkish sentiments in-government; although isolationist branches of this ideology are not unheard of. The aim of these regimes is to maintain national stability and provide the people both a popular and responsible government."
+authoritarian_democrat_subtype_desc:0 "권위민주주의는 강력한 행정 권력과 대의 제도, 그리고 부분적인 민주적 정치 시스템을 결합한 이념입니다. 권위민주주의적 정권은 보통 사회 문제에 대해 보수주의적 입장을 취하고 중앙집권화를 선호하며, 일반적으로 정부에서 강경한 입장을 취하지만 고립주의적인 분파가 없는 것은 아닙니다. 이런 정권의 목적은 국가 안정을 유지하고 대중에게 인기있고 책임감 있는 정부를 제공하는 것입니다."
 
-paternal_autocrat_subtype_desc:0 "Paternal Autocracy is not a political ideology in the normal sense of the word, but rather a general term for the attitude that these governments hold towards their citizens: The people are all subjects of the leader, either a king or a dictator, and it is the leader's job and duty to lead the state and society towards the righteous and best path while uniting the people of under his benevolent protection. These countries usually have a very authoritarian government, conservative social views and a state controlled economy."
+paternal_autocrat_subtype_desc:0 "세습전제주의는 일반적인 정치 이념이라기보다는 세습전제주의적 특성을 지닌 정부가 국민을 향해 취하는 태도를 포괄적으로 의미합니다.  그 태도는 국민이 군주나 독재자같은 지도자에게 종속되어있고, 지도자의 임무는 국가나 사회를 최선의 방향으로 이끌어나감과 동시에 그의 자애로운 보호 아래 국민을 통합시키는 것을 추구하는 방식을 뜻합니다. 이런 국가들은 매우 권위주의적인 정부, 사회에 대한 보수적인 시각, 그리고 국가가 통제하는 경제같은 특성을 지니고 있습니다."
 
-national_populist_subtype_desc:0 "Encompassing a variety of ultra-nationalist and militaristic movements, National Populism typically venerates devotion to the state, uniting the people under a strong leader and a corporate economy. Diplomatically, National Populists typically emphasize Expansionist, Hawkish, and Revanchist policies when appropriate or relevant to the given Nation. Often espousing racial politics and violent rhetoric, National Populism is vehemently opposed by most other political parties."
+national_populist_subtype_desc:0 "다양한 종류의 국수주의적, 군사적 운동을 아우르는 민족대중주의는 국가에 대한 헌신과 강력한 지도자 아래 단결, 그리고 기업경제를 중시합니다.  민족대중주의자들은 외교적으로 확장적이고 강경하며 보복주의적인 태도를 국가의 상황이 맞으면 강조할 것입니다. 인종주의적 정치와 과격한 표현을 옹호하는 민족대중주의는 대부분의 다른 정당에 의해 강력하게 배척됩니다."
 
-valkist_subtype_desc:0 "Named after the Germanic symbol that German Valkists wear, Valkism is an extreme nationalist and militaristic ideology, that proposes a system where the political power is centralized under a strong leadership, that through the state controls and guides the nation to its national rebirth. Nonetheless, Valkists fundamentally defend socially progressive ideals and the leader grants liberties to the people. Valkists are characterized by adopting conceptual and aesthetical aspects from ancient, pagan, mystical and esoterical traditions, generally relevant to the nation in question. There are many schools of thought in Valkist economics, but the state supremacy and control over it is undisputed."
+valkist_subtype_desc:0 "독일 발키스트들이 착용하는 게르만 문양에서 이름 붙혀진 발키즘은 강력한 지도자 아래 정치 권력이 중앙화된 국가를 통제하고 국가의 재탄생으로 이끄는 시스템을 제안하는 극단적 민족주의, 군국주의 이념입니다. 그럼에도 불구하고, 발키스트들은 진보적인 사회 이상을 근본적으로는 수호하며, 지도자는 사람들에게 자유를 줍니다. 발키스트들은 일반적으로 해당 국가의 비밀스럽게 내려오는 고대의 이교도적이고 신비적 전통에서 개념적, 미적인 부분을 가져오는 것으로 특징지을 수 있습니다. 발키스트 경제학에는 여러 학파가 존재하지만 국가의 우위와 통제에 관해서는 이견이 없습니다."
 
-internationalist_subtype_desc:0 "Developed from particularly interventionist branches of collectivism and marxism overall, Internationalist Socialism, as it calls itself, or more commonly known as Internationalism,  is a socialist ideology that proposes the workers, once in power, must organize to enact a perpetual revolution, and to continue proactively in their struggle to bring socialism to the world. While most socialist strains are of international nature, the proactive spirit of Internationalism has given it a more militant nature, and Internationalist ideologues are known advocates of increased militarization of the workers in name of the revolution, as well as establishing a strong state that is able to defend the workers’ interests and protect the revolution from reactionary forces that may oppose it, as the revolution is never supposed to stop spreading."
+internationalist_subtype_desc:0 "전체적인 집산주의와 마르크스주의 중에서 특히 간섭주의적인 부류에서 발전된 국제주의적 사회주의, 또는 스스로 부르는 것과 달리 더 일반적으로 국제주의는, 권력을 잡은 노동자들이 항구적 혁명을 지속할 준비를 하고 사회주의를 세상으로 퍼뜨리기 위한 노력을 적극적으로 해야 한다고 주장하는 사회주의 이념입니다.  대부분의 사회주의 분파 역시 국제주의적인 성격을 지니고 있지만 국제주의의 적극적인 정신은 그것에게 더 전투적인 성격을 부여했고,  국제주의 사상가들이 혁명의 이름 아래 노동자들의 무장 강화와 노동자를 보호하고 항구적 혁명을 반동 세력으로부터 수호하기 위한 강력한 국가 수립을 옹호하도록 만들었습니다."
