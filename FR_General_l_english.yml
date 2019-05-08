@@ -1,111 +1,111 @@
 ﻿l_english:
 
 ### Loading Messages ###
-LOADING_GUI:0 "Exporting the Revolution"
+LOADING_GUI:0 "혁명을 전파하는 중"
 #"Loading GUI"
-LOADING_HISTORY:0 "Winning the Great War"
+LOADING_HISTORY:0 "대전쟁에서 승리하는 중"
 #"Loading History"
-LOADING_SAVEGAME:0 "Reshaping history: $NAME$"
+LOADING_SAVEGAME:0 "역사를 다시 쓰는 중: $NAME$"
 #"Loading savegame: $NAME$"
-LOADING_SAVEGAME_NO_NAME:0 "Waiting for the LMSC"
+LOADING_SAVEGAME_NO_NAME:0 "런던증권시장 붕괴를 기다리는 중"
 #"Loading savegame"
-LOADING_DATABASES:0 "Rekindling Imperialism"
+LOADING_DATABASES:0 "제국주의를 다시 일으키는 중"
 #"Loading databases"
-LOADING_MAP_SPRITES:0 "Training for the Empire Games"
+LOADING_MAP_SPRITES:0 "제국 게임을 위해 훈련하는 중"
 #"Loading sprites"
-LOAD_GFX_PDXMAP_SHADERS:0 "Fortifying the Elbe"
+LOAD_GFX_PDXMAP_SHADERS:0 "엘베 강을 요새화하는 중"
 #"Loading Map(Creating Shaders)..."
-LOAD_GFX_PDXMAP_TERRAIN:0 "Exiling the Kaiser"
+LOAD_GFX_PDXMAP_TERRAIN:0 "카이저를 유배하는 중"
 #"Loading Map(Creating Terrain)..."
-LOAD_GFX_PDXMAP_BORDERS:0 "Promoting the Status Quo"
+LOAD_GFX_PDXMAP_BORDERS:0 "현 상태를 지지하는 중"
 #"Loading Map(Creating Borders)..."
-LOAD_GFX_PDXMAP_TEXTURES:0 "Allowing the Military to step in"
+LOAD_GFX_PDXMAP_TEXTURES:0 "군부가 개입하도록 허락하는 중"
 #"Loading Map(Creating Textures)..."
-LOAD_GFX_PDXMAP_TREES:0 "Falling to a Revolution"
+LOAD_GFX_PDXMAP_TREES:0 "혁명에 빠지는 중"
 #"Loading Map(Creating Trees)..."
-LOAD_GFX_PDXMAP_RIVERS:0 "Reviving dead Ideologies"
+LOAD_GFX_PDXMAP_RIVERS:0 "사라진 이념을 되살리는 중"
 #"Loading Map(Creating Rivers)..."
-LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "Promoting the Red Scare"
+LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "적색 공포를 촉진하는 중"
 #"Loading Map(Creating objects)..."
-LOAD_EVENTS:0 "Kicking off the Spanish Civil War"
+LOAD_EVENTS:0 "스페인 내전을 일으키는 중"
 #"Loading Events"
-LOAD_GFX:0 "Writing Caesarreich"
+LOAD_GFX:0 "카이사르라이히를 쓰는 중"
 #"Loading Graphics"
-LOADING_MAIN_MENU:0 "Ending 1000 year Empires"
+LOADING_MAIN_MENU:0 "천년 제국을 종식시키는 중"
 #"Loading main menu"
-PRECALC_NAVAL_DIST:0 "Centralizing the Imperial Federation"
+PRECALC_NAVAL_DIST:0 "제국 연방을 중앙집권화하는 중"
 #"Precalculating Naval Distances"
-EXITING_TO_FRONTEND:0 "Bypassing the Maginot Line"
+EXITING_TO_FRONTEND:0 "마지노 선을 우회하는 중"
 #"Returning to main menu"
-LOAD_INIT:0 "Modernizing the Royal Navy"
+LOAD_INIT:0 "왕립 해군을 현대화하는 중"
 #"Initialising Game..."
-LOAD_FLAGS:0 "Sprinkling Socialism in South America"
+LOAD_FLAGS:0 "남아메리카에 사회주의를 퍼뜨리는 중"
 #"Creating Flags"
-PROC_FLAGS:0 "Proclaiming the Hamburg Commune"
+PROC_FLAGS:0 "함부르크 코뮌을 선포하는 중"
 #"Processing Flags"
-INIT_MAP_LOGIC:0 "Cleaning Dressler's Glasses"
+INIT_MAP_LOGIC:0 "드레슬러의 안경을 닦는 중"
 #"Initialising map logic"
-INIT_GAMESTATE:0 "Draining French Manpower"
+INIT_GAMESTATE:0 "프랑스의 인력을 고갈시키는 중"
 #"Initialising game"
-EXECUTE_HISTORY:0 "Invading the British Isles"
+EXECUTE_HISTORY:0 "영국 제도를 침공하는 중"
 #"Executing history"
-CREATING_CHKSUM:0 "Crushing the IRB"
+CREATING_CHKSUM:0 "IRB를 분쇄하는 중"
 #"Creating checksum"
-GENERATING_GRADIENT_BORDERS:0 "Creating a Coalition"
+GENERATING_GRADIENT_BORDERS:0 "연립 정부를 구성하는 중"
 #"Generating Gradient Borders"
 
 ### Name and Description ###
-BM_HISTORY_TITLE:0 "Brief History"
+BM_HISTORY_TITLE:0 "간략한 역사"
 
-FUHRERREICH_NAME:0 "Legacy of the Great War"
+FUHRERREICH_NAME:0 "대전쟁의 유산"
 
-FUHRERREICH_DESC:0 "The end of the Great War saw the empires of the old—the Ottomans, the Austrians, and the Germans—fall greatly in both power and influence while the United States, Britain, and France have risen. While the Great War was thought by many to usher in a new era of peace, it seems that the tensions of old have not yet faded away and, with them, could threaten the tenuous peace that remains..."
+FUHRERREICH_DESC:0 "대전쟁의 종식과 함께 오스만, 오스트리아, 독일과 같은 옛 제국들의 국력과 영향력이 모두 크게 줄어드는 동안 미국, 영국, 프랑스는 부상하게 되었습니다.  많은 사람들이 대전쟁이 새로운 평화의 시대를 가져올 것이라고 믿었지만, 과거의 갈등이 완전히 해소된 것은 아니었으며, 그 갈등이 지금 남아있는 미약한 평화를 위협할지도 모릅니다..."
 
 ###OTHER COUNTRIES DESC###
-OTHER_FUHRERREICH_DESC:0 "It is 1936, and the world is on a brink of a new, inevitable, war. But the world is made up of more than a few monolithic empires. The smallest stones can bring about tidal waves, and these lesser states can bring about much change. Will you side with the valkists? Will you carry on the torch of the revolution? Or maybe you will grant your people true freedom, the likes of which they have never seen? The world will soon derail from its peaceful existance, plummeting into the hells of war. And it will not wait for your decisions."
+OTHER_FUHRERREICH_DESC:0 "1936년, 세계는 새로우면서도 불가피한 전쟁의 가장자리에 서있습니다. 하지만 세계는 몇 개의 천편일률적인 제국만으로 이루어진 것이 아닙니다. 가장 작은 돌이 해일을 일으키는 것과 같이, 이 소국들은 큰 변화를 일으킬 수 있습니다. 당신은 발키스트들의 편을 들겠습니까? 혁명의 횃불을 이어나가겠습니까? 아니면 국민들이 본 적도 없는 진정한 자유를 주겠습니까? 세계는 곧 평화에서 벗어나, 전쟁의 지옥으로 빠질 것입니다. 그리고 그것은 당신의 결정을 기다리지 않을 것입니다."
 
 ###LEADER DESCRIPTIONS###
-POLITICS_GEORGE_V_DESC:0 "George V of Windsor is the King-Emperor of the British Empire, more than just in name. Reigning nearly 3 times longer than his father, Edward VII, he has risen to become one of the most beloved Monarchs in British history. Under his reign the British Empire has once again asserted itself as the Global Hegemon and has economically eclipsed both their rivals and former allies following the Empire's return to Splendid Isolation. However, his invincible image does not entirely live up to reality. As the years march forward, King George's health has been steadily deteriorating, forcing him allow his son, Prince Edward, to assume a portion of his duties. Some of the Empire's finest medical experts expect him to live another 10 years at minimum, although King George privately holds an opinion to the contrary, despite his often stoic nature."
+POLITICS_GEORGE_V_DESC:0 "윈저 왕가의 조지 5세는 명실상부한 대영제국의 왕이자 인도 황제입니다. 그의 아버지 에드워드 7세보다 3배나 오래 통치하면서, 그는 영국 역사상 가장 인기있는 군주가 되었습니다. 그의 치세 하의 대영제국은 다시 한번 세계 패권국임을 증명했으며, 명예로운 고립으로 돌아온 후 과거 동맹들과 라이벌들을 크게 경제적으로 앞질렀습니다. 하지만 그의 불멸의 이미지가 현실과 완전히 부합하는 것은 아닙니다. 해가 갈수록 나빠지는 조지 왕의 건강이 그의 아들 에드워드 왕자가 그의 역할 일부를 맡도록 만들었습니다. 제국의 최고의 의학 전문가들 중 일부는 그가 최소 10년은 더 살 것이라고 예상하지만, 조지 왕은 그의 종종 스토아적인 성격에도 불구하고 개인적으로 반대의 생각을 가지고 있습니다."
 
-POLITICS_EDWARD_VIII_DESC:0 "With the passing of the beloved King George, Edward VIII of Windsor found himself inheriting not only an Empire spanning from Vancouver to Wellington, but also the larger-than-life image that was established by his Father. Charismatic, confident, and armed with experience from the closing years of his Father's reign; the newly coronated King-Emperor is prepared to assume any duties that may be required of him in coming years."
+POLITICS_EDWARD_VIII_DESC:0 "국민들에게 사랑받았던 조지 왕이 서거하면서, 윈저 왕가의 에드워드 8세는 그가 밴쿠버에서 웰링턴까지의 제국뿐만 아니라, 그의 아버지에 의해 만들어진 실제보다 과장된 이미지까지 물려받았다는 것을 깨달았습니다. 카리스마 있고, 자신감에 넘치며, 그의 아버지 치세의 마지막에서 얻은 경험으로 무장한 새로운 영국의 왕이자 인도 황제는 앞으로 다가올 그 어떠한 역할도 맡을 준비가 되어 있습니다."
 
-POLITICS_ADAM_DRESSLER_DESC:0 "An orphan, a Veteran, an Austro-German, Dressler led a very difficult life. Following the Great War, Dressler would find his way to the DNVP and then become one of their most notable and charismatic speakers. Dressler would attempt to assist a DNVP-led coup in 1923, only to be crushed and forcibly detained. During his time in prison, Dressler wrote a fanatic novel titled 'Mein Deutschland das Siegreiche', a novel detailing revenge against the Western Powers and destruction of the Soviets in the East. The novel would become incredibly popular. Following a case that proved Dressler's imprisonment unlawful; he was released from prison and was greeted by hundreds of supporters. Dressler would then build up support for his newly founded Valkistische Volkspartei Deutschlands and then run for office in 1932. Dressler narrowly lost to Otto Wels, declared the results fraudulent, and then lead a coup to bring down the Wels' Government. Dressler declared himself leader of Germany in the Reichstag, something the Entente responded to with hostility due to their belief of the 1932 election being legitimate. Dressler declared a snap-election which led to an overwhelming VVD victory. With it, the Entente reluctantly accepted the belief that the 1932 elections were fraudulent. Since then, Dressler has rearmed Germany from the shadows, prepared to enforce Germany's vision for Europe through Military Might in coming years."
+POLITICS_ADAM_DRESSLER_DESC:0 "고아이자 참전용사이자 오스트리아계 독일인인 드레슬러는 매우 어려운 삶을 살았습니다. 대전쟁 이후, 드레슬러는 DNVP에 입당한 후 가장 주목 받고 카리스마 있는 연설가로 떠올랐습니다. 드레슬러는 1923년에 DNVP가 주도하는 쿠데타를 도우려 시도했지만, 진압된 후 강제로 구금되었습니다. 옥중에서 드레슬러는 서방 세력에 대한 복수와 동쪽의 소련의 파괴를 다룬 광적인 소설 '승리의 독일'을 저술했습니다. 이 소설은 사람들에게 매우 인기있게 되었습니다.  드레슬러의 투옥이 불법이라는 판결에 따라 감옥에서 풀려난 후 그는 수백 명의 지지자들에게 축하받았습니다. 드레슬러는 그 후 발키스트독일인민당을 창당해 지지를 모은 후, 1932년 대권에 도전했습니다. 오토 벨스에게 석패한 후 드레슬러는 선거 결과를 부정하고 벨스 정권을 붕괴시키기 위한 쿠데타를 일으켰습니다. 드레슬러는 국가의사당에서 스스로를 독일의 지도자로 선포했으며, 1932년 대선이 적법했다고 본 협상국은 이에 적대적으로 반응했습니다. 드레슬러는 조기선거를 선언했고, VVD가 선거에서 압승을 거두었습니다. 그것으로 협상국은 1932년 대선이 부정 선거였다는 것을 마지못해 받아들였습니다. 그 후, 드레슬러는 그림자에서 추후에 독일의 유럽에 대한 비전을 군사력을 통해 강제할 수 있도록 독일을 재무장했습니다."
 
-POLITICS_PAUL_REYNAUD_DESC:0 "Paul Reynaud made his first major appearance in French politics in 1919, Reynaud was elected as part of the Conservative 'Blue Horizon' Bloc. Quickly developing a reputation for being a Savvy politician, Reynaud soon clarified his allegiance as a member of the Fédération Républicaine. Quickly climbing ranks within the party due to his Militant nature in foreign policy, Reynaud rose to the position of the Vice-President of the FR. In 1925, Auguste Isaac resigned his position as President of the Fédération Républicaine and sought to appoint a Militant successor in order to strengthen the platform of the party. Reynaud was a natural candidate due to his popularity within the party and firm stance on foreign affiars. Under Reynaud's leadership, the Fédération Républicaine managed gathering the most votes and seats in both the 1928 & 1932 Elections. An extremely pragmatic man, Reynaud follows one doctrine in foreign policy; France has no Friends, only Interests."
+POLITICS_PAUL_REYNAUD_DESC:0 "폴 레노는 1919년에 프랑스 정계에 처음 등장해, 보수적인 '푸른 수평선' 연합의 의원으로 당선되었습니다. 요령있는 정치인으로서의 명성을 빠르게 얻은 레노는 공화연맹의 일원임을 분명하게 했습니다. 외교 정책에 대한 전투적인 성향으로 당 내에서 빠르게 직위가 오르면서, 레노는 FR의 당 부대표가 되었습니다. 1925년, 오귀스트 이삭은 공화연맹의 당 대표에서 물러나면서 당론을 강화하기 위해 전투적인 후임자를 임명하려 했습니다. 레노는 당 내의 인기와 외교 정책에 대한 일관된 태도로 자연스럽게 후보가 되었습니다. 레노의 지휘 하에, 공화연맹은 1928년과 1932년 선거에서 많은 득표와 대부분의 의석을 차지할 수 있었습니다. 매우 실용적인 사람인 레노는 외교 정책에 있어서 하나의 원칙을 고집합니다. 프랑스에겐 친구는 없으며, 이해 관계만 있다는 것을요."
 
 ### Laws ###
-undisturbed_isolation:0 "Splendid Isolation"
-undisturbed_isolation_desc:0 "With its victory in Great War, Britain once again retreated into isolation, content to manage its Empire and avoid further entanglements on the European continent. With the onset of political developments in British India and Colonial Africa the attention of the British Empire is focused squarely on internal affairs."
+undisturbed_isolation:0 "명예로운 고립"
+undisturbed_isolation_desc:0 "대전쟁의 승리 이후 영국은 방대한 제국을 관리하고 유럽 대륙에서 더 이상의 충돌을 피하기 위해 다시 한번 스스로를 고립으로 몰아넣었습니다. 영국령 인도 및 아프리카 식민지에서 정치적 발전이 시작되면서, 대영제국의 관심은 전적으로 내정에 치중되었습니다."
 
-isolation:0 "Isolation"
-isolation_desc:0 "Prioritizing internal affairs and managing our own nation is a preferable alternative to foreign intervention.\n"
+isolation:0 "고립주의"
+isolation_desc:0 "내치를 우선하고 우리나라를 관리하는 것이 해외에 개입하는 것보다 나을 것입니다.\n"
 
-civilian_economy:0 "Peacetime Demobilization"
-civilian_economy_desc:0 "I believe it is peace for our time. Go home and get a nice quiet sleep.\n"
+civilian_economy:0 "평시 동원해제령"
+civilian_economy_desc:0 "나는 이것이 우리 시대의 평화라고 믿습니다. 그러니 집에 가서 잠이나 자십시오.\n"
 
-low_economic_mobilisation:0 "Early Mobilization"
-low_economic_mobilisation_desc:0 "Opportunity belongs to those who seize it.\n"
+low_economic_mobilisation:0 "초기 동원령"
+low_economic_mobilisation_desc:0 "기회는 그것을 붙잡는 자에게 있습니다.\n"
 
-partial_economic_mobilisation:0 "Partial Mobilization"
-partial_economic_mobilisation_desc:0 "War looms on the horizon, we'd be simply foolish to disregard preparations for it.\n"
+partial_economic_mobilisation:0 "부분 동원령"
+partial_economic_mobilisation_desc:0 "전쟁의 그림자가 드리우고 있으니, 준비를 하지 않는 것은 어리석은 일일 것입니다.\n"
 
-war_economy:0 "Wartime Mobilization"
-war_economy_desc:0 "We are at war; we cannot afford to provide our enemies with slightest shred of sympathy.\n"
+war_economy:0 "전시 동원령"
+war_economy_desc:0 "전쟁을 하고 있는 한, 우리의 적에게 조금의 동정심도 줄 수 없습니다.\n"
 
-tot_economic_mobilisation:0 "Total Mobilization"
-tot_economic_mobilisation_desc:0 "You don't reason with intellectuals. You shoot them.\n"
+tot_economic_mobilisation:0 "총동원령"
+tot_economic_mobilisation_desc:0 "지식인들을 설득할 필요는 없습니다. 그저 쏴버리면 되니까요.\n"
 
-free_trade:0 "Free Trade"
-free_trade_desc:0 "Globalization and free trade tends to spur economic growth, and they lead to lower prices on many goods.\n"
+free_trade:0 "자유 무역"
+free_trade_desc:0 "세계화와 자유 무역은 경제 성장을 촉진하고, 많은 상품들의 가격이 내려가도록 합니다.\n"
 
-export_focus:0 "Open Markets" #Export Focus
-export_focus_desc:0 "I'm not opposed to free trade if it's fair trade. But I am opposed to bad trade deals.\n"
+export_focus:0 "개방 시장" #Export Focus
+export_focus_desc:0 "공정한 거래면 자유 무역을 반대할 이유가 없습니다. 하지만 저는 불공정한 무역 거래는 반대합니다.\n"
 
-limited_exports:0 "Regulated Markets" #Limited Exports
-limited_exports_desc:0 "As with anything in life; you must apply moderation.\n"
+limited_exports:0 "통제 시장" #Limited Exports
+limited_exports_desc:0 "인생의 그 어떤 것이나 그렇듯이, 절제를 지켜야합니다.\n"
 
-closed_economy:0 "Closed Markets" #Closed Economy
-closed_economy_desc:0 "Trade? Who needs trade?\n"
+closed_economy:0 "폐쇄 시장" #Closed Economy
+closed_economy_desc:0 "무역? 누가 무역을 필요로 하죠?\n"
 
 disarmed_nation:0 "Disarmed Nation"
 disarmed_nation_desc:0 "It's for the best that we follow a limit imposed on our Military.\n"
