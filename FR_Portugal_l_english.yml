@@ -1,19 +1,19 @@
 ﻿l_english:
 
 #TOOLTIPS
-POR_first_warning_tt:0 "You have aproximately 6 more months to finish the war. Otherwise there will be more bloodshed on the mainland."
+POR_first_warning_tt:0 "전쟁을 끝내기위해서는 6개월정도 더 있어야합니다 그렇지 않으면 본토에서 더욱더 많은 유혈사태가 일어나게될것입니다."
 
 #THREATS
-POR_renewed_civil_war_threat:0 "Portugese Civil War renewed"
+POR_renewed_civil_war_threat:0 "새로운 포르투칼의 내전"
 
 
 #EVENTS
-portugal.1.d:0 "can I get a uuuuuuhhhhh colonies please"
-portugal.2.d:0 "Ever since we kicked the Republicans out of the mainland in 1930, our plans on retaking the colonies have been thwarted by possessing a weaker navy than that of the Republicans. Of course, retaking the colonies will be no easy feat. The Republicans are well aware that the colonies are vital to the stability of our regime, and they've taken measures to dig in until another revolt rises up in our mainland due to mounting instability and shame caused by us not owning said colonies. \n\nNot to mention, a large portion of the navy defected to the Republicans. \n\nNo matter, today is a new day for Portugal. Our large naval project, the construction of the Retaliação, has finally been completed! This Battleship was costly, no doubt. However it will ensure that we'll be able to put the Republican navy out of action and retake the colonies."
-portugal.3.d:0 "The colonies are vital to us. If we put off the reconquest until another time, there will undoubtedly be a Republican revolt on the mainland. Today, Portugal will retake her birthright. We will reclaim our colonies, and some Republican rabble will not stand inbetween us!"
-portugal.4.d:0 "Reports from various police raids in Lisbon have informed us on a ever-growing number of Republican elements in our Society. We have no doubt that this is due to our incapability of landing in the colonies, which is hampering the stability of our regime. Whilst we will be able to keep these groups detained for now, the situation might spiral beyond our control in the near future."
-portugal.5.d:0 "As-of recent, Republican movements have spiraled far beyond our control. Now, various pro-republic militias have assembled and stormed locations such as Lisbon and Beja! Fortunately, the north has remained loyal to us...\n\nHowever we will see much more bloodshed on the mainland."
-portugal.6.d:0 "Due to the incompetence of the Kingdom in invading the colonies, the support for their regime on the mainland has plummeted! With the growth of many Republican movements on the mainland in the past year, we have been able to successfully execute a coup and regain a foothold in the mainland. The kingdom now merely resides in the north, crushing them should be an easy feat."
+portugal.1.d:0 "내가 식민지를 가져도될까아아아아아아"
+portugal.2.d:0 "우리가 1930년 본토에서 공화파를 쫒아낸이후, 우리의 식민지 탈환계획은 공화국때보다 약해진 해군력에 의하여 좌절되었습니다. 몰론, 식민지 탈환이 쉬운것은 아닙니다. 공화파들은 식민지가 우리 정권의 안정성에 매우 중요한것임을 알고있을것입니다, 그리고 그들은 우리가 식민지를 소유하지 못한것으로 야기되는 정치적 불안정성과 수치심을 이용하여 본토에서 또다른 반란이 일어날수있도록 파고들으려 합니다. \n\n말할것도 없이, 많은 수의 해군들이 공화파로 전향했습니다. \n\n그러나 상관없습니다, 오늘은 포르투갈을 위한 새로운 날입니다. 우리의 거대한 해군 프로젝트, 우리의 복수를 위한 건설이, 마침내 끝났습니다!의심할여지없이 전함들은 비쌀것이지만 이것들은 공화파들의 해군을 몰아내고 우리의 식민지탈환을 이루어내게 할것입니다."
+portugal.3.d:0 "식민지들은 우리에게 매우 중요합니다. 만약 우리가 재정복을 미루게 된다면, 의심할여지없이 공화파들은 다시 반란을 일으키게될것입니다. 오늘날, 포르투칼은 그들의 권리를 되찾을것입니다. 우리는 우리의 식민지를 다시 주장할것이며,그리고 공화파 그 역적들은 우리들 사이에 서있지못하게될겄이다!"
+portugal.4.d:0 "리스본에서 올라온 경찰습격에관한 보고서는 우리에게 우리 사회에 많은 공화파의 세력이 자라나고있음을 알려줍니다. 의심할 여지없이 이것은 식민지 상륙에 관한 우리의 무능으로 인한것이며, 이것들은 우리정권의 안전성을 저해시킬것입니다. 당장은 이러한 세력들을 구금할수있겠지만, 시간이 지남에 따라 우리가 통제할수없는 상황이 올수있을것입니다."
+portugal.5.d:0 "최근, 공화파들의 움직임이 우리가 통제할수없을정도로 소용돌이 치고있습니다. 지금 이순간, 수많은 친공화파군들이 리스본과 베자에 집결하였으며 우리를 습격했습니다! 다행이도, 북부는 우리에게 충성을 다하고있지만...\n\n우리의 본토에는 수많은 유혈사태가 일어나게될것입니다."
+portugal.6.d:0 "식민지를 침략하는 왕국의 무능함으로인해, 그들의대한 지지도는 폭락하게 되었다! 지난 1년간 공화파들의 세력은 성장했으며,우리는 쿠데타를 일으켜 성공했으며 본토에 우리의 발판을 마련했다. 이제 왕정은 그저 북부에 남아있을뿐이니 그것은 쉽게 무너지게 될것이다."
 
 #### Ideas ####
 
