@@ -390,6 +390,6 @@ bel.32.a:0 "혁명 만세!"
 
 #####Decisions#####
 BEL_economy:0 "벨기에의 경제"
-BEL_economy_desc:0 "Our national industry is important for the wealth and strength of our nation. Our government needs to do everything in its power to improve and build upon the current infrastructure."
-BEL_end_economic_crisis:0 "End the Economic Crisis"
-BEL_end_economic_crisis_desc:0 "Ever since Black Wednesday, our economy has been in a state of disarray. But with the effort of the government, the end is now in sight. Now we need to send a strong signal to the people and let them know that the future looks bright for Belgium."
+BEL_economy_desc:0 "우리의 국가 산업은 우리나라의 부와 힘을 위해서는 아주 중요합니다. 우리의 정부는 현재의 인프라를 개선하고 구축하기위해 전력을 다해야합니다."
+BEL_end_economic_crisis:0 "경제위기가 종식되다"
+BEL_end_economic_crisis_desc:0 "검은 수요일 이후, 우리의 경제는 혼란상태에 빠졌습니다. 그러나 우리 정부의 노력으로 이제 끝이 보이고있습니다. 이제 우리는 국민들에게 강력한 신호를 보내고 벨기에의 미래가 밝아질것이라는것을 알려야합니다."
