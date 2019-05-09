@@ -1,61 +1,61 @@
 ﻿l_english:
 
 #Description
-USA_FUHRERREICH_DESC:0 "Participating in the Great War on both the Mexican and European fronts, Theodore Roosevelt left the tables at Versailles angered at the stringent and demanding treaty. A nation now in political isolation, the country has descended into deep economic troubles. In the midst, several of the nation's holdings declared their own independence, including their Mexican client state. Now, with few friends and a couple powerful enemies, America stands divided as another great conflict looms on the horizon."
+USA_FUHRERREICH_DESC:0 "대전쟁에서 유럽과 멕시코의 양 전선에 모두 참여한 테오도어 루즈벨트는 엄격하고 까다로운 조약에 분노하여 베르사유를 떠났습니다. 정치적 고립상황에 있는 이 국가는 심각한 경제난에 빠져있습니다.  그와중에, 종송국인 멕시코를 포함한 그들의 몇몇 소유물은 독립을 선포했습니다. 이제, 적은 수의 친구들과 다수의 강력한 적들이 있는 가운데, 미국은 떠오르는 새로운 갈등 앞에 분열되어 있습니다."
 
 #OPINION MODIFIERS
-USA_extradition_law:0 "Tightened Extradition Law"
+USA_extradition_law:0 "강화된 범죄자 인도법"
 
 #WOLRD TENSION MODIFIERS
-USA_end_isolation:0 "Discarded Isolation"
-USA_centroamerican_agression:0 "Demanded submission from Central America"
-USA_warmongering:0 "American Warmongering"
-USA_pressure_mexico:0 "Pressuring Mexico"
+USA_end_isolation:0 "폐기된 고립"
+USA_centroamerican_agression:0 "중앙 아메리카 굴복 요구"
+USA_warmongering:0 "미국의 전쟁도발"
+USA_pressure_mexico:0 "멕시코 압박"
 
 #### Tooltips ####
 
-USA_kearsarge_tooltip:0 "§GWe will deploy a Carrier, the USS Kearsarge, to Norfolk.§!\n"
-USA_destroyers_tooltip:0 "§GWe will deploy a Squadron of Destroyers to Norfolk.§!\n"
-USA_great_depression_tt:0 "§GWe will finally recover from the Great Depression!§!\n"
+USA_kearsarge_tooltip:0 "§G우리는 항공모함, USS 키어사지를 노포크에 배치할 것입니다.§!\n"
+USA_destroyers_tooltip:0 "§G우리는 노포크에 구축함 전대를 배치할 것입니다.§!\n"
+USA_great_depression_tt:0 "§G우리는 마침내 대공황으로부터 회복될 것입니다!§!\n"
 
 #### Flags ####
-Eisenhower_plan:0 "We have opted for Eisenhower's plan"
-Patton_plan:0 "We have opted for Patton's plan"
-MacArthur_plan:0 "We have opted for MacArthur's plan"
-usa_army_reformed:0 "This focus will be bypassed"
-usa_navy_reformed:0 "This focus will be bypassed"
-Heavy_fleet:0 "We have opted for a Large Fleet"
-Carrier_fleet:0 "We have opted for a Carrier-based Fleet"
-usa_airforce_reformed:0 "This focus will be bypassed"
-Heavy_airforce:0 "We have prioritized Bombers"
-Light_airforce:0 "We have prioritized Ground-support"
+Eisenhower_plan:0 "우리는 아이젠하워의 계획을 선택할 것입니다"
+Patton_plan:0 "우리는 패튼의 계획을 선택할 것입니다"
+MacArthur_plan:0 "우리는 맥아더의 계획을 선택할 것입니다"
+usa_army_reformed:0 "이 중점은 통과될 것입니다"
+usa_navy_reformed:0 "이 중점은 통과될 것입니다"
+Heavy_fleet:0 "우리는 대함대를 선택했습니다"
+Carrier_fleet:0 "우리는 항공모함 기반의 함대를 선택했습니다"
+usa_airforce_reformed:0 "이 중점은 통과될 것입니다"
+Heavy_airforce:0 "우리는 폭격기를 우선할 것입니다"
+Light_airforce:0 "우리는 지상지원을 우선할 것입니다"
 
 
 
 #### Political Parties ####
 
 USA_vanguardist_party:0 "APRCWF"
-USA_vanguardist_party_long:0 "American Permanent Revolution and Class Warfare Foundation"
+USA_vanguardist_party_long:0 "미국 영구혁명 및 계급투쟁 재단"
 USA_collectivist_party:0 "CPUSA"
-USA_collectivist_party_long:0 "Communist Party of the United States"
-USA_libertarian_socialist_party:0 "Socialist Party"
-USA_libertarian_socialist_party_long:0 "Socialist Party"
-USA_social_democrat_party:0 "Democratic Party"
-USA_social_democrat_party_long:0 "Progressive Wing of the Democratic Party"
-USA_social_liberal_party:0 "Republican-Progressive Party"
-USA_social_liberal_party_long:0 "New Liberal Wing of the Republican-Progressive Party"
-USA_market_liberal_party:0 "Republican-Progressive Party"
-USA_market_liberal_party_long:0 "Classical Liberal Wing of the Republican-Progressive Party"
-USA_social_conservative_party:0 "Democratic Party"
-USA_social_conservative_party_long:0 "Conservative Wing of the Democratic Party"
-USA_authoritarian_democrat_party:0 "Council of Patriots"
-USA_authoritarian_democrat_party_long:0 "Council of Patriots"
-USA_paternal_autocrat_party:0 "Council of True Patriots"
-USA_paternal_autocrat_party_long:0 "Council of True Patriots"
+USA_collectivist_party_long:0 "미국 공산당"
+USA_libertarian_socialist_party:0 "사회당"
+USA_libertarian_socialist_party_long:0 "사회당"
+USA_social_democrat_party:0 "민주당"
+USA_social_democrat_party_long:0 "민주당 진보파"
+USA_social_liberal_party:0 "공화-진보당"
+USA_social_liberal_party_long:0 "공화-진보당의 신자유주의파"
+USA_market_liberal_party:0 "공화-진보당"
+USA_market_liberal_party_long:0 "공화-진보당의 고전자유주의파"
+USA_social_conservative_party:0 "민주당"
+USA_social_conservative_party_long:0 "민주당의 보수파"
+USA_authoritarian_democrat_party:0 "애국자 협의회"
+USA_authoritarian_democrat_party_long:0 "애국자 협의회"
+USA_paternal_autocrat_party:0 "진정한 애국자 협의회"
+USA_paternal_autocrat_party_long:0 "진정한 애국자 협의회"
 USA_national_populist_party:0 "APP"
-USA_national_populist_party_long:0 "American Purity Party"
+USA_national_populist_party_long:0 "순수 미국인 당"
 USA_valkist_party:0 "FLD"
-USA_valkist_party_long:0 "Foundation for the Lord and Democracy"
+USA_valkist_party_long:0 "주님과 민주주의를  재단"
 
 #### Events ####
 
