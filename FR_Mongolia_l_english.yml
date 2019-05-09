@@ -5,25 +5,25 @@
 
 #Mongolian Revolutionary Party
 MON_vanguardist_party:0 "MKN"
-MON_vanguardist_party_long:0 "몽골혁명당" 
+MON_vanguardist_party_long:0 "몽골 혁명당" 
 #Communist party of Mongolia
 MON_collectivist_party:0 "PPM"
 MON_collectivist_party_long:0 "몽골인민당"
 #Socialist Party
 MON_libertarian_socialist_party:0 "사회당"
-MON_libertarian_socialist_party_long:0 "몽골사회당"
+MON_libertarian_socialist_party_long:0 "몽골 사회당"
 #Democratic Party
 MON_social_democrat_party:0 "MPP"
-MON_social_democrat_party_long:0 "몽골진보당"
+MON_social_democrat_party_long:0 "몽골 진보당"
 #Social Liberal Party
 MON_social_liberal_party:0 "사회자유당"
-MON_social_liberal_party_long:0 "몽골사회자유당"
+MON_social_liberal_party_long:0 "몽골 사회자유당"
 #Market Liberal Party
 MON_market_liberal_party:0 "자유당"
-MON_market_liberal_party_long:0 "몽골자유당"
+MON_market_liberal_party_long:0 "몽골 자유당"
 #Social Conservative Party
 MON_social_conservative_party:0 "MTP"
-MON_social_conservative_party_long:0 "몽골전통당"
+MON_social_conservative_party_long:0 "몽골 전통당"
 #Mongolian Unity Party
 MON_authoritarian_democrat_party:0 "대회의"
 MON_authoritarian_democrat_party_long:0 "대회의"
@@ -31,7 +31,7 @@ MON_paternal_autocrat_party:0 "절대주의자"
 MON_paternal_autocrat_party_long:0 "절대주의자"
 #Mongol Restoration Party
 MON_national_populist_party:0 "MRP"
-MON_national_populist_party_long:0 "몽골유신당"
+MON_national_populist_party_long:0 "몽골 유신당"
 #Mongolian Valkist Party
 MON_valkist_party:0 "NYM"
 MON_valkist_party_long:0 "북원 운동"
@@ -62,9 +62,9 @@ MON_doctrine:0 "차힐가안 돕틀로트"
 MON_doctrine_desc:0 "'전격 공세'로 알려져 있는 이 교리는 남쪽의 한심한 군벌들을 상대할 때 가장 강력한 무기가 될 것입니다. 이 교리는 기동력이 우수한 사단들로 적의 대군을 포위한 후 보급이 완전히 끊겼을 때 섬멸하는 것에 집중합니다./n이 국가 정신의 효과는 기동전 교리나 다양한 국가 중점을 완료하면서 바뀔 것입니다."
 
 ### DECISIONS ###
-TIB_war_decisions:0 "War decisions"
+TIB_war_decisions:0 "전쟁 결정"
 TIB_invade_fengtian:0 "북양 정부 침공"
 TIB_invade_ma:0 "마가 군벌 침공"
-TIB_core_decisions:0 "Integration decisions"
+TIB_core_decisions:0 "통합 결정"
 TIB_south_integration:0 "남부 통합"
 TIB_east_integration:0 "동부 통합"
