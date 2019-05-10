@@ -2,44 +2,44 @@
 
 #### Ideas ####
 
-TRA_political_isolation:0 "Political Isolation"
-TRA_political_isolation_desc:0 "The Romanians were promised the territory of Transylvania during The Great war, but the Entente decided instead to grand us our independance. While we are forever greatful for this independance, it has left us politically isolated. Both the Hungarians and Romanians are looking to reclaim their lost land, and the Entente is slowly losing interest in keeping an independant Transylvanian state alive."
+TRA_political_isolation:0 "정치적 고립"
+TRA_political_isolation_desc:0 "루마니아는 대전쟁중 트란실바니아를 약속받았었지만 협상국은 그대신에 우리의 독립을 결정했습니다 우리의 영원하며 위대한 독립을말입니다 이것은 우리에게 정치적 고립을 가져왔으며 또한 헝가리와 루마니아의 영토 요구를 가져왔으며 협상국은 트란실바니아의 독립에 대하여 흥미를 잃어가고있습니다."
 ###
-tra_danube_research:0 "Danube Research Bloc Member"
-tra_danube_research_desc:0 "We are a member of the Danube Research Bloc, giving us and all other participating nationans a boost to our research abilities. We would be wise to maintain good relations with all other members of the Bloc."
+tra_danube_research:0 "다뉴브 연구 블록의 일원"
+tra_danube_research_desc:0 "우리는 우리와 다른 참가국들의 연구 역량을 신장시키는 다뉴브 연구 블록의 일원입니다. 그러니 다른 참가국들과 양호한 관계를 유지하는 것이 좋을 것입니다."
 ###
-tra_integrated_officers:0 "Integrated Officer Corps"
-tra_integrated_officers_desc:0 "Attempts to draw our nations closer militarily have led to the formation of a transnational officer corps consisting of generals from all members of the faction. While the cultural and language divide is being progress difficult, with time this will prove to be one of our greatest strenghs."
+tra_integrated_officers:0 "통합된 장교단"
+tra_integrated_officers_desc:0 "군사적으로 우리나라를 통합하려는 노력은 모든 파벌의 장군들로 이루어진 범국가적인 장교단의 형성으로 이어졌습니다. 문화적, 언어적 장벽이 성공적인 진행을 어렵게 하고 있지만, 시간이 지나면 이것은 우리의 가장 큰 강점이 될 것입니다."
 ###
-tra_interlaced_economy:0 "Interlaced Economy"
-tra_interlaced_economy_desc:0 "We have made extensive efforts to connect our economy with our fellow faction members. This has allowed us to better allocate resources towards construction and military production."
+tra_interlaced_economy:0 "잘 조직된 경제"
+tra_interlaced_economy_desc:0 "우리는 다양한 파벌들과 함께 국가 경제를 연결하기 위한 많은 노력을 했습니다. 이것은 자원을 건설과 군수 생산에 더 많이 할당할 수 있도록 만들었습니다."
 
 ### Events ###
 
-trans.1.t:0 "The Transylvanian Kingdom"
-trans.1.d:0 "Coming into existance in 1921, the Transylvanian Kingdom was the result of a failiure between the Entente, Hungary, and Romania to decide who should have control over the Transylvanian region. Many proposals were made, but all fell through in the end. Eventually, an independant Transylvanian Kingdom was propped up as a'temporary' solution which would be revisited at a later date. This solution is now being seen across Europe as perminant, and it's unlikely that the Entente will want to involve themselves in the region again. \n\nThe future of Transylvania is uncertian, and it will take a steady hand to guide the nation through these turbulent years."
-trans.1.a:0 "We've got enemies on all sides..."
+trans.1.t:0 "트란실바니아 왕국"
+trans.1.d:0 "1921년부터 존재한 트란실바니아 왕국은 협상국과 헝가리 루마니아 사이에서 누가 이 지역을 통치해야하는지의 협상실패로 존재하게되었습니다 많은 제안들이 오갔지만 모두가 실패로 막을 내렸습니다 결국 트란실바니아 왕국의 독립이 임시방편으로써 결정되었습니다 이 결정은 유럽에서 영구적인것으로 보이며 또한 협상국은 이것에 대하여 다시 참가하고 싶어하지않고잇습니다. \n\n트란실바니아의 미래는 불투명하며 우리는 국가를 위해 꾸준한 노력을 쏟아야할것입니다."
+trans.1.a:0 "사방이 적이다....."
 
-trans.2.t:0 "Hungarians offer us truce!"
-trans.2.d:0 "Ever since our independance in 1920, we have fearing a Hungarian attack on our lands to bring us back under their boot. It seems that the political attitude has changed in Hungary however, and the President has sent us a letter expressing his desires for a pact of non-agression between us, Whether this is a political move or simply an act of friendship is unknown, but regardless we must answer their request."
-trans.2.a:0 "A pact serves our interests best."
-trans.2.b:0 "We will never make a deal with the Magyar devil!"
+trans.2.t:0 "헝가리의 휴전 제안!"
+trans.2.d:0 "1920년 우리의 독립이후 우리는 헝가리의 공격에 우리의 땅이 그들의 군홧발에 짖밟히는것을 두려워했습니다 이것은 헝가리에 대한 우리의 정치적 태도 변화를 가져왔습니다 하지만 대통령은 우리에게 비공격적인 협약을 원하는 편지를 보내왔습니다 그것이 정치적인 움직인인지 그저 우정의 발로인지 모르겠지만 하나 확실한건 우리는 그것에 대답해야한다는것입니다."
+trans.2.a:0 "협정은 우리에게 최선의 수입니다."
+trans.2.b:0 "우린 마자르 악마놈들과 거래하지 않겠다!"
 
-trans.3.t:0 "Hungary invites us to their faction."
-trans.3.d:0 "We have been invited into a formal alliance with the Hungarians, they claim it is best for stability in the region if we all join hands in cooperation and friendship. This is a very large decision, and one we must consider carefully before making a choice."
-trans.3.a:0 "We will join the faction."
-trans.3.b:0 "We will not sign our independance away so easily!"
+trans.3.t:0 "헝가리의 세력 초대."
+trans.3.d:0 "우리는 헝가리에게 공식적으로 동맹제안을 받았으며 그들은 우리와의 협력과 친화로 안정을 유지한것이 최고라 주장합니다 이것은 매우 커다란 결정입니다 우리는 매우 신중하게 결정해야할것입니다."
+trans.3.a:0 "우리는 세력에 참가할것이다."
+trans.3.b:0 "우리는 우리의 독립을 쉽게 잃지않을것이다!"
 
-trans.4.t:0 "Hungary demands Transylvania!"
-trans.4.d:0 "The Hungarian government has sent us an official letter today, demanding that we hand over control of Transylvania to King Horthy. This will result in the return of Hungarian supremacy in the region. Perhaps Hungary would be willing to give up their claims if we stood up for ourselves."
-trans.4.a:0 "We must safeguard our people, accept their demands."
-trans.4.b:0 "We will never surrender!"
+trans.4.t:0 "헝가리의 트란실바니아 요구!"
+trans.4.d:0 "헝가리 정부는 오늘 우리에게 공식적으로 전문을 보냈으며 우리에게 트란실바니아를 넘길것을 요구하였습니다 이것은 헝가리의 지역패권을 복구시키는 결과를 초래할것입니다 아마도 우리가 포기하지않는다면 그들은 포기할것입니다."
+trans.4.a:0 "우리는 국민들을 지켜야만한다, 그들의 요구를 받아들여라."
+trans.4.b:0 "우리는 절대 항복하지 않는다!"
 
-trans.5.t:0 "Hungary offers us protection"
-trans.5.d:0 "We have been decieved. The Romanians never wished to protect us, they only wished to annex and integrate us into their state. The Hungarians have approached us with an offer, an offer of protection. If we don't accept, the Romanians may jump on the oppertunity and invade."
-trans.5.a:0 "Unified with Hungary, once more."
-trans.5.b:0 "We will never lose our independance!"
+trans.5.t:0 "헝가리의 보호 제안"
+trans.5.d:0 "우리는 결정했습니다 루마니아는 우리를 보호하지않을것이며 그들은 우리를 합병하기만을 원하지만 헝가리는 우리에게 보호를 제안하였습니다 이것을 받아들이지 않는다면 루마니아가 우리를 침공할것입니다."
+trans.5.a:0 "다시한번 헝가리와의 통합."
+trans.5.b:0 "우리는 절대 우리의 독립을 잃지않는다!"
 
 ### MISC ###
 
-TRA_hungary_nice:0 "Building Rapport"
+TRA_hungary_nice:0 "관계건설"
