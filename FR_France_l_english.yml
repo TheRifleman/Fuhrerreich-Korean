@@ -1,12 +1,12 @@
 ﻿l_english:
 
 #Description
-FRA_FUHRERREICH_DESC:0 "Victorious, but at what cost? Many Frenchmen found themselves asking this in the aftermath of the Great War. France had reclaimed its rightful land, and established a protectorate over the Rheinland to prevent the Germans from ever threatening La Patrie ever again. However as the 1930s come to an end, France's position in Europe and the world is increasingly threatened, with a hostile British Empire threatening France's colonies and a increasingly belligerent Soviet Union, but perhaps of the greatest concern is a resurgent Germany. France will need cunning, bravery, and excellent diplomacy to emerge from the coming storm unscathed."
+FRA_FUHRERREICH_DESC:0 "'승리했지만, 그 대가는 무엇이였는가?' 대전쟁은 끝나고, 많은 프랑스인들이 이렇게 묻고 있습니다. 프랑스는 정당한 영토를 되찾았으며, 독일인들이 다신 조국을 위협하지 못하도록 라인란트에 보호령도 설립했지요. 그렇지만, 1930년대가 끝나가며 유럽과 세계에서의 프랑스의 지위는 프랑스의 식민지를 위협하고 있는 적대적인 대영제국과 점차 호전적으로 변해가는 소련에 의해 위협받고 있습니다. 그렇지만 그 무엇보다도 중요한 문제는 대전쟁으로부터 회복한 독일이겠지요. 다가오는 폭풍으로부터 살아남으려면, 프랑스에겐 신중함, 용기, 그리고 휼륭한 외교를 필요로 할 것입니다.
 #Focus Tree
-france_focus_junta:0 "Military Government Tree"
+france_focus_junta:0 "군사 정부 트리"
 #Research Groups
-continental_entente_research_name:0 "Entente Institute of Research"
-continental_entente_research_desc:0 "The Entente Institute of Research, or simply 'EIR', is an academic organization headed by France. Whilst many domestic branches of this organization do exist, there are a sizeable amount of branches related to military innovations."
+continental_entente_research_name:0 "협상국 연구협회"
+continental_entente_research_desc:0 "협상국 연구협회는 프랑스가 이끄는 연구단체로서, 간단하게 'EIR'로 부르기도 합니다. 국내 지사도 존재하기는 하지만, 상당수의 지사는 군사 연구와 관련되어 있습니다."
 
 #### Political Parties ####
 
@@ -19,7 +19,7 @@ FRA_libertarian_socialist_party_long:0 "Section Française de l'Internationale O
 FRA_social_democrat_party:0 "PRS" # Socialistes
 FRA_social_democrat_party_long:0 "Parti Républicain-Socialiste"
 FRA_social_liberal_party:0 "PR" #Radicaux
-FRA_social_liberal_party_long:0 "Parti Radical"
+FRA_social_liberal_party_long:0 "급진당"
 FRA_market_liberal_party:0 "ARD" #ADR
 FRA_market_liberal_party_long:0 "Alliance Républicaine Démocratique" 
 FRA_social_conservative_party:0 "FR" #Conservateurs
@@ -39,12 +39,12 @@ hothead:0 "Small Guy"
 marshal_of_france:0 "Maréchal de France"
 
 #WT
-FRA_world:0 "French Imperialism"
-FRA_Joined_Entente:0 "Joined Entente"
-FRA_Hostile_Diplomacy:0 "Hostile Diplomacy"
+FRA_world:0 프랑스 제국주의"
+FRA_Joined_Entente:0 "협상국 참가"
+FRA_Hostile_Diplomacy:0 "적대적 외교"
 FRA_escalating_rivalry:0 "Escalating the Franco-British Rivalry"
-FRA_reconciling_britain:0 "Reconciling the British Empire"
-FRA_literally_japan:0 "French attack on Portsmouth"
+FRA_reconciling_britain:0 "대영제국과의 화해"
+FRA_literally_japan:0 "프랑스의 포츠머스 공격"
 
 #### Decisions ####
 FRA_Mutual_Defence_Fund_France:0 "Utilize funds from the MDF"
@@ -66,10 +66,10 @@ FRA_grant_autonomy:0 "Granted Autonomy"
 
 #### Ideas ####
 
-FRA_great_war_victors:0 "Victors of The Great War"
+FRA_great_war_victors:0 "대전쟁의 승자들"
 FRA_great_war_victors_desc:0 "When the dust had finally settled at the end of the war, we, alongside a multitude of other countries, have emerged victorious over the butchered Central Powers. Our victory has been a huge source of national pride, albeit our people are weary of the notion of another prolonged conflict."
 
-FRA_rhineland_coal:0 "Coal from The Rhineland"
+FRA_rhineland_coal:0 "라인란트의 석탄"
 FRA_rhineland_coal_desc:0 "With the acquisition of the Rhineland from Germany after the Great War, we have seen a surplus of Coal, a resource badly needed for French Industries. As long as we remain in control of the Rhineland, we can ensure profits are at an all time high."
 
 FRA_infantry_equipment_production:0 "Standardization of Armaments"
@@ -90,13 +90,13 @@ FRA_motorized_research_desc:0 "Researching and adopting new tactics for the Land
 FRA_offensive_army:0 "Offensive Army"
 FRA_offensive_army_desc:0 "No longer shall the Land Army use the forts of the Alsace-Rhine Line to intimidate the German menace. We shall use the might of our soldiers, and the discipline of our men, to ensure the German menace never rises again!"
 
-FRA_fighter_focus_idea:0 "Fighter Industry"
+FRA_fighter_focus_idea:0 "전투기 산업"
 FRA_fighter_focus_idea_desc:0 "Fighter planes, able to maintain both air superiority and wreak havoc on enemy planes, are essential for the reformation of the Air Army."
 
-FRA_bomber_focus_idea:0 "Bomber Industry"
+FRA_bomber_focus_idea:0 "폭격기 산업"
 FRA_bomber_focus_idea_desc:0 "Bomber planes, able to destroy enemy supply lines, are essential for the reformation of the Air Army."
 
-FRA_bomber_focus_idea2:0 "Bomber Industry"
+FRA_bomber_focus_idea2:0 "폭격기 산업"
 FRA_bomber_focus_idea2_desc:0 "Both bomber planes and naval aircraft are essential to aid the reformation of the National Navy and the Air Army."
 
 FRA_our_place_in_the_sun:0 "Our place in the Sun"
@@ -117,7 +117,7 @@ FRA_artillery_production_idea_desc:0 "Since the new doctrine doctrine of the Lan
 FRA_reduced_conscription_idea:0 "Reduced Conscription"
 FRA_reduced_conscription_idea_desc:0 "With a compromise finally reached between some of the more left-leaning members of our nation, we have managed to keep the policy of conscription — despite it being greaty reduced."
 
-FRA_defend_the_republic:0 "In Defence of the Fatherland"
+FRA_defend_the_republic:0 "조국의 수호를 위해"
 FRA_defend_the_republic_desc:0 "We have fought the Germans and have beat them before! We have fought the English and sent them back to their island! We have fought the Spanish, the Dutch, the Italians and we have won over and over! France loves her sons, and her sons will do anything to see her outlast all whom defy her wishes!"
 
 FRA_airforce_decline:0 "Declining Airforce"
@@ -131,7 +131,7 @@ FRA_political_bickering_desc:0 "Over the period of Laval's government, various g
 
 FRA_research_subsidies:0 "Research Subsidies"
 
-FRA_lsmc:0 "London Stock Market Crash"
+FRA_lsmc:0 "런던 주식시장 폭락"
 
 FRA_lower_colonial_budget:0 "Reduced Colonial Maintenance"
 
@@ -143,7 +143,7 @@ FRA_republican_austerity:0 "Republican Austerity"
 
 FRA_living_standards:0 "Better Living Standards"
 
-FRA_relief_camps:0 "Work Camps"
+FRA_relief_camps:0 "노동 캠프"
 
 FRA_org_youth:0 "Organized Youth"
 
@@ -155,7 +155,7 @@ FRA_desperate_defence:0 "Desperate Defence"
 
 FRA_war_stim:0 "War-stimulated Economy"
 
-FRA_wal_dissent:0 "Walloon Dissent"
+FRA_wal_dissent:0 "왈롱인들의 불만"
 FRA_wal_dissent_desc:0 "It goes without saying that the Walloons protest their new nation of residence. Parties favouring independence of Wallonia have been formed, and garrisoned forces find it difficult to deal with dissenters without infringing on their civil rights."
 
 FRA_EAMP_idea:0 "Entente Army Modernization Plan"
