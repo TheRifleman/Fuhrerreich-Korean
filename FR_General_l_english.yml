@@ -107,26 +107,26 @@ limited_exports_desc:0 "인생의 그 어떤 것이나 그렇듯이, 절제를 �
 closed_economy:0 "폐쇄 시장" #Closed Economy
 closed_economy_desc:0 "무역? 누가 무역을 필요로 하죠?\n"
 
-disarmed_nation:0 "Disarmed Nation"
-disarmed_nation_desc:0 "It's for the best that we follow a limit imposed on our Military.\n"
+disarmed_nation:0 "비무장 국가"
+disarmed_nation_desc:0 "우리의 군대에 가해진 제한을 따르는게 최선일 겁니다.\n"
 
-volunteer_only:0 "Volunteer-Only"
-volunteer_only_desc:0 "A "Just War" - if there could be such a thing - would not require conscription. Volunteers would be plentiful.\n"
+volunteer_only:0 "모병자 한정"
+volunteer_only_desc:0 ""정당한 전쟁", 만약 그런게 있다면, 징병을 필요로 하지 않을 겁니다. 자원자가 충분할 테니까요.\n"
 
-limited_conscription:0 "Limited Conscription"
-limited_conscription_desc:0 "Conscription if necessary, but not necessarily conscription.\n"
+limited_conscription:0 "제한적 징병"
+limited_conscription_desc:0 "필요하다면 징병하겠지만, 굳이 징병할 필요는 없습니다.\n"
 
-extensive_conscription:0 "Extensive Conscription"
-extensive_conscription_desc:0 "Conscription is the vitality of a nation, the purification of its morality, and the real foundations of all its habits.\n"
+extensive_conscription:0 "광범위한 징병"
+extensive_conscription_desc:0 "징병은 국가의 활력이자, 도덕성의 정화이며, 그 모든 습성의 근본입니다.\n"
 
-service_by_requirement:0 "Service by Requirement"
-service_by_requirement_desc:0 "Are you doing your part?\n"
+service_by_requirement:0 "의무적인 복무"
+service_by_requirement_desc:0 "당신의 역할을 하고 있습니까?\n"
 
-all_adults_serve:0 "All Adults Serve"
-all_adults_serve_desc:0 "The worse the man, the better the soldier.\n"
+all_adults_serve:0 "모든 성인 복무"
+all_adults_serve_desc:0 "약한 인간일수록 훌륭한 군인입니다.\n"
 
-scraping_the_barrel:0 "Scraping the Barrel"
-scraping_the_barrel_desc:0 "Every man, every women and every child will contribute to the War Effort, one way or another.\n"
+scraping_the_barrel:0 "최후의 한 명까지"
+scraping_the_barrel_desc:0 "모든 남자, 모든 여자와 아이까지 전쟁 수행 노력에 어떻게든 기여할 것입니다.\n"
 
 ### Land Units ###
 garrison:0 "Garrison"
@@ -138,23 +138,23 @@ trade_sanctions:0 "Trade Sanctions"
 heavy_tariffs:0 "Heavy Tariffs"
 
 ### Difficulty settings ###
-custom_diff_strong_ger:0 "Strengthen Stahlpakt"
-custom_diff_strong_sov:0 "Strengthen Soviet Russia"
-custom_diff_strong_fra:0 "Strengthen France"
-custom_diff_strong_ita:0 "Strengthen Italy"
-custom_diff_strong_eng:0 "Strengthen I.P.A."
-custom_diff_strong_usa:0 "Strengthen America"
-custom_diff_strong_mex:0 "Strengthen Mexico"
-custom_diff_strong_jap:0 "Strengthen Japan"
-custom_diff_strong_tur:0 "Strengthen Ottomans"
+custom_diff_strong_ger:0 "강철 조약 강화"
+custom_diff_strong_sov:0 "소비에트 러시아 강화"
+custom_diff_strong_fra:0 "프랑스 강화"
+custom_diff_strong_ita:0 "이탈리아 강화"
+custom_diff_strong_eng:0 "제국 수호 동맹 강화"
+custom_diff_strong_usa:0 "미국 강화"
+custom_diff_strong_mex:0 "멕시코 강화"
+custom_diff_strong_jap:0 "일본 강화"
+custom_diff_strong_tur:0 "오스만 제국 강화"
 
 ### Factions ###
-imperial_protection_alliance:0 "Imperial Protection Alliance"
-continental_entente:0 "Continental Entente"
-Stahlpakt:0 "Stahlpakt"
-3rd_international:0 "Third International"
-free_bloc:0 "Free Bloc"
-commonwealth:0 "Commonwealth of Nations"
+imperial_protection_alliance:0 "제국 수호 동맹"
+continental_entente:0 "대륙 협상국"
+Stahlpakt:0 "강철 조약"
+3rd_international:0 "제3인터내셔널"
+free_bloc:0 "자유 연합"
+commonwealth:0 "영연방"
 
 ### Interface ###
 minister:1 "Ministers"
