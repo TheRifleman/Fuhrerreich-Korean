@@ -1,7 +1,7 @@
 ﻿l_english:
 
 #Description
-FRA_FUHRERREICH_DESC:0 "'승리했지만, 그 대가는 무엇이였는가?' 대전쟁은 끝나고, 많은 프랑스인들이 이렇게 묻고 있습니다. 프랑스는 정당한 영토를 되찾았으며, 독일인들이 다신 조국을 위협하지 못하도록 라인란트에 보호령도 설립했지요. 그렇지만, 1930년대가 끝나가며 유럽과 세계에서의 프랑스의 지위는 프랑스의 식민지를 위협하고 있는 적대적인 대영제국과 점차 호전적으로 변해가는 소련에 의해 위협받고 있습니다. 그렇지만 그 무엇보다도 중요한 문제는 대전쟁으로부터 회복한 독일이겠지요. 다가오는 폭풍으로부터 살아남으려면, 프랑스에겐 신중함, 용기, 그리고 휼륭한 외교를 필요로 할 것입니다.
+FRA_FUHRERREICH_DESC:0 "'승리했지만, 그 대가는 무엇이였는가?' 대전쟁은 끝나고, 많은 프랑스인들이 이렇게 묻고 있습니다. 프랑스는 정당한 영토를 되찾았으며, 독일인들이 다신 조국을 위협하지 못하도록 라인란트에 보호령도 설립했습니다. 그렇지만, 1930년대가 끝나가며 유럽과 세계에서의 프랑스의 지위는 프랑스의 식민지를 위협하고 있는 적대적인 대영제국과 점차 호전적으로 변해가는 소련에 의해 위협받고 있습니다. 그렇지만 그 무엇보다도 중요한 문제는 대전쟁으로부터 회복한 독일이겠지요. 다가오는 폭풍으로부터 살아남으려면, 프랑스에겐 신중함, 용기, 그리고 휼륭한 외교를 필요로 할 것입니다.
 #Focus Tree
 france_focus_junta:0 "군사 정부 트리"
 #Research Groups
@@ -70,7 +70,7 @@ FRA_great_war_victors:0 "대전쟁의 승자들"
 FRA_great_war_victors_desc:0 "When the dust had finally settled at the end of the war, we, alongside a multitude of other countries, have emerged victorious over the butchered Central Powers. Our victory has been a huge source of national pride, albeit our people are weary of the notion of another prolonged conflict."
 
 FRA_rhineland_coal:0 "라인란트의 석탄"
-FRA_rhineland_coal_desc:0 "With the acquisition of the Rhineland from Germany after the Great War, we have seen a surplus of Coal, a resource badly needed for French Industries. As long as we remain in control of the Rhineland, we can ensure profits are at an all time high."
+FRA_rhineland_coal_desc:0 "대전쟁이 끝나고 독일에게서 라인란트를 얻어낸 덕분에, 우리는 프랑스 산업이 심각하게 필요로 하는 석탄을 대량으로 확보할 수 있게 되었습니다. 만약 우리가 라인란트를 계속 통제할 수만 있다면, 우리의 산업 또한 계속 번영하게 될 것입니다."
 
 FRA_infantry_equipment_production:0 "Standardization of Armaments"
 FRA_infantry_equipment_production_desc:0 "Conscripting more men into the Land Forces means more guns will be required in order to supply them all. The production of infantry equipment has been emphasized by our armament factories... But a problem is we simply could be doing a better job producing one Armament. Why do we need all these petty things like Submachineguns and Shotguns? We will halt production on any small-arms that aren't Rifles."
@@ -118,22 +118,22 @@ FRA_reduced_conscription_idea:0 "Reduced Conscription"
 FRA_reduced_conscription_idea_desc:0 "With a compromise finally reached between some of the more left-leaning members of our nation, we have managed to keep the policy of conscription — despite it being greaty reduced."
 
 FRA_defend_the_republic:0 "조국의 수호를 위해"
-FRA_defend_the_republic_desc:0 "We have fought the Germans and have beat them before! We have fought the English and sent them back to their island! We have fought the Spanish, the Dutch, the Italians and we have won over and over! France loves her sons, and her sons will do anything to see her outlast all whom defy her wishes!"
+FRA_defend_the_republic_desc:0 "우리는 독일놈들과 싸워 이겨봤었습니다! 우린 영국놈들과도 싸워 놈들이 놈들의 조그만 섬으로 줄행랑치게도 만들어 봤었지요! 우린 스페인, 네덜란드, 그리고 이탈리아인들과도 싸웠었으며, 언제나 승리했었습니다! 프랑스는 프랑스의 아이들을 사랑하며, 그리고 그녀의 아이들은 프랑스에 거역하는 자들을 쓰러트리기 위해서라면 무슨 일이든 할 것입니다!"
 
 FRA_airforce_decline:0 "Declining Airforce"
 FRA_airforce_decline_desc:0 "Over the period of the Interwar; the French Airforce has steadily been declining in numbers and quality in comparison to the German and British Airforces. Additionally, our Air staff have been bickering over whether we should focus on building our Airforce around Bombers or Fighters."
 
-FRA_british_tariffs:0 "British Tariffs"
+FRA_british_tariffs:0 "영국의 관세"
 FRA_british_tariffs_desc:0 "Unrelenting British Economic protectionism continues to hurt us to this day. Harsh tariffs on French goods hurt our firms and inhibit our economic growth. This has forced some of our firms to drastically lower prices in an attempt to find ways to sell their products and materials to other nations in order to maintain business."
 
 FRA_political_bickering:0 "Political Bickering"
 FRA_political_bickering_desc:0 "Over the period of Laval's government, various groups of people in our nation have become discontent. Internally, Laval barely holds a majority whilst various conservative movements seem to be abstaining from the elections due to reorganisation or decline and hardline Communists aren't pleased with how SFIO is more moderate than they'd prefer. It is needless to say, some citizens don't feel they are properly being represented."
 
-FRA_research_subsidies:0 "Research Subsidies"
+FRA_research_subsidies:0 "연구 보조금"
 
 FRA_lsmc:0 "런던 주식시장 폭락"
 
-FRA_lower_colonial_budget:0 "Reduced Colonial Maintenance"
+FRA_lower_colonial_budget:0 "줄어든 식민지 유지비"
 
 FRA_cut_mill_budget:0 "Military funding slashed"
 
@@ -334,12 +334,12 @@ FRA_careful_planning:0 "Mass Planning"
 FRA_careful_planning_desc:0 "It would be best to plan for each and every scenario as that would ensure that we will be prepared and ready for anything that may come our way. In addition, building more forts on the Alsace-Rhine line will intimidate the Germans, ensuring that they will not act up."
 FRA_military_academies:0 "Military Academies"
 FRA_military_academies_desc:0 "Encouraging civilians to enrol in military academies  will help widen and develop our officer pool, giving us more of the finest minds to choose from."
-FRA_alsace_rhine_line:0 "Alsace-Rhine Line"
-FRA_alsace_rhine_line_desc:0 "The Alsace-Rhine Line, our primary defence against the German menace, has served well to deter the Germans from attacking us. Therefore, it is only natural that we continue to develop the existing fortifications further."
+FRA_alsace_rhine_line:0 "알자스-라인 선"
+FRA_alsace_rhine_line_desc:0 "알자스-라인 선은 독일의 위협으로부터 프랑스를 지키는 프랑스의 가장 중요한 방어선으로서, 독일의 침략야욕을 억제시키는데 중요한 역할을 해 왔습니다. 그러므로, 이 방어선의 방어를 강화하는 것은 당연한 일이겠지요."
 FRA_the_guard_on_the_rhine:0 "The Guard on the Rhine"
 FRA_the_guard_on_the_rhine_desc:0 "After the Great War, we saw to it that the German menace had been permanently weakened, so that they could never embroil Europe in yet another conflict. We, the French, are the true guardians of the Rhine and, by extension, the guardians of Europe. Vive la France!"
-FRA_the_army_reformed:0 "The Army Reformed"
-FRA_the_army_reformed_desc:0 "Rigorous training, new tactics, and weapons production have all seen the Land Army advance much further than ever before. Our army now stands ready at attention, more prepared than it has ever been."
+FRA_the_army_reformed:0 "개혁된 군대"
+FRA_the_army_reformed_desc:0 "혹독한 훈련, 새로운 전술, 그리고 충분해진 무기 공급 덕분에, 프랑스 육군은 그 어느때보다도 더 강력해졌습니다. 프랑스군은 그 어느때보다도 완벽한 상태이며, 이제 명령만을 기다리고 있습니다."
 FRA_military_innovations:0 "Military Innovations"
 FRA_military_innovations_desc:0 ""
 FRA_no_arms_deficit:0 "Fix the Arms deficit"
