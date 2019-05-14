@@ -2,19 +2,19 @@
 
 #### Events ####
 
-worldnews.1.t:0 "The Assassination of Abdülmecid II"
-worldnews.1.d:0 "[This.GetNewspaperHeader]On the 13th of January, 1936, Sultan Abdülmecid II was very suddenly shot and killed by an unknown assailant! The local Gendarmerie were unable to react in time to save the Sultan, killing the assailant only after the fatal shot that left the Sultan dead. Despite the unpopularity of the Ottoman dynasty after the Great War, Sultan Abdülmecid II and the rest of the Ottoman Royal Family were backed by the Entente powers and kept the empire relatively stable. With the death of the Sultan, uncertainty now rules within the Ottoman Empire."
-worldnews.1.a:0 "How terrifying!"
-worldnews.1.d:0 "[This.GetNewspaperHeader]On this day, the 13th of January, 1936, Sultan Abdülmecid II was very suddenly shot and killed by an unknown assailant! The local Gendarmerie were unable to react in time to save the Sultan, killing the assailant only after the fatal shot that left the Sultan dead. Despite the unpopularity of the Ottoman dynasty after the Great War, Sultan Abdülmecid II and the rest of the Ottoman Royal Family were backed by the Entente powers and kept the empire relatively stable. With the death of the Sultan, uncertainty now rules within the Ottoman Empire."
-worldnews.1.a:0 "How terrifying!"
+worldnews.1.t:0 "압뒬메지트 2세의 암살"
+worldnews.1.d:0 "[This.GetNewspaperHeader]1936년 1월 13일, 술탄 압뒬메지트 2세가 의문의 암살자에게 갑작스럽게 저격당해 사망했습니다. 국가 헌병은 술탄을 지키기 위해 대응하는 것에 실패했으며, 치명적인 총상으로 술탄이 숨을 거둔 후에야 암살자를 사살할 수 있었습니다. 대전쟁 이후 오스만 황실에 대한 낮은 지지도에도 불구하고, 압뒬메지트 2세와 나머지 황족들은 협상국의 지지를 받고 있었으며 제국을 비교적 안정되게 유지해왔습니다. 술탄의 죽음으로 인해, 이제 불확실함만이 오스만 제국을 지배하고 있습니다."
+worldnews.1.a:0 "끔찍하군!"
+worldnews.1.d:0 "[This.GetNewspaperHeader]1936년 1월 13일, 술탄 압뒬메지트 2세가 의문의 암살자에게 갑작스럽게 저격당해 사망했습니다. 국가 헌병은 술탄을 지키기 위해 대응하는 것에 실패했으며, 치명적인 총상으로 술탄이 숨을 거둔 후에야 암살자를 사살할 수 있었습니다. 대전쟁 이후 오스만 황실에 대한 낮은 지지도에도 불구하고, 압뒬메지트 2세와 나머지 황족들은 협상국의 지지를 받고 있었으며 제국을 비교적 안정되게 유지해왔습니다. 술탄의 죽음으로 인해, 이제 불확실함만이 오스만 제국을 지배하고 있습니다."
+worldnews.1.a:0 "끔찍하군!"
 ###
-worldnews.2.t:0 "Black Wednesday."
-worldnews.2.d:0 "For quite some time now, the London Stock Exchange had been on the decline. Nobody could have denied the new worldwide recession that was taking place. What they couldn't have predicted, however, was the complete and utter collapse of the London Stock Exchange. By the hour currency is losing value at an extreme rate, and a loaf of bread in Central London now costs an estimated £1700. The entire world has been paralyzed by this tragedy, and already weakened states now face the prospect of complete and utter collapse. Some nations are already hard at work to reverse the effects of the newly dubbed 'Black Wednesday' but it is doubtful that the worlds nations will be able to recover without some extreme measures being taken. Will this upset the already delicate balence of the world?"
-worldnews.2.a:0 "God help us all..."
+worldnews.2.t:0 "검은 수요일"
+worldnews.2.d:0 "꽤 오랫동안 런던증권시장은 하락세에 있었습니다. 그 누구도 새로운 전세계적 불황이 다가오고 있다는 것을 부정할 수 없었습니다. 하지만 그들조차 진짜로 예측할 수 없었던 것은 런던증권시장의 총체적 붕괴였습니다. 매 시간 통화는 급격한 속도로 가치를 잃고 있으며, 런던 중심가에서 빵 한 덩이 가격은 대략 1700파운드까지 치솟았습니다. 전세계가 이 충격적인 사태에 완전히 마비되었으며, 이미 취약했던 국가들은 총체적 붕괴의 가능성에 직면했습니다. 일부 국가들은 새롭게 명명된 '검은 수요일'의 여파를 무마하기 위해 벌써 행동에 나섰지만 극단적 조치를 취하지 않고서 세계 각국이 경기 회복을 할 수 있을지는 미지수입니다. 이 사건이 이미 연약했던 세계의 균형을 무너뜨릴까요?"
+worldnews.2.a:0 "신이 우리 모두를 도와 주시길..."
 ###
-worldnews.3.t:0 "The Remilitarization of Constantinople"
-worldnews.3.d:0 "[This.GetNewspaperHeader]After the assassination of the former Sultan, Abdülmecid II, many factions within Turkey were vying for power and, among them, emerged the Turanists lead by Hüseyin Nihal Bey. One of his first goals in office was the remilitarization of Constantinople, which was made a demilitarized zone by the Entente powers upon the conclusion of the Great War. Around the world, many are worried, wondering if this could be the rise of a revanchist Turkey. Sources say that Greece has also been thrown into a frenzy by this event, planning their next move."
-worldnews.3.a:0 "Worrying."
+worldnews.3.t:0 "콘스탄티노플의 재무장"
+worldnews.3.d:0 "[This.GetNewspaperHeader]전 술탄 압뒬메지트 2세의 암살 후 터키 내의 수많은 파벌 간의 각축장 안에서 휘세인 니할 베이가 이끄는 투란주의자들이 떠올랐습니다. 집권 후 그의 첫 번째 목표는 대전쟁 후 협상국에 의해 비무장 지대로 설정된 콘스탄티노플을 재무장하는 것이었습니다. 전세계적으로 이것이 보복주의적인 터키의 등장을 의미하는 것인지 많은 사람들이 우려하고 있습니다. 소식통에 의하면, 그리스는 이 사건에 대해 광분했으며 대책을 계획하고 있다고 합니다."
+worldnews.3.a:0 "걱정스럽군."
 ###
 worldnews.4.d:0 "[This.GetNewspaperHeader]A few short hours ago, France has declared the Paris Colonial Exposition to be open after months of extensive planning. France, after facing excessive flak for their colonial holdings from other nations such as Germany and the USSR, has decided to hold a festival dedicated to displaying the vast resources of her colonies, amongst a multitude of other subjects. \n\nA multitude of other nations has participated in this event, particularly other nations possessing Colonies. Nonetheless, the event is planned to continue for another few months, until it is closed at France's discretion; despite condemnations from the German and Soviet Governments."
 ###
