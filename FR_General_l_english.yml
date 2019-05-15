@@ -138,7 +138,7 @@ trade_sanctions:0 "Trade Sanctions"
 heavy_tariffs:0 "Heavy Tariffs"
 
 ### Difficulty settings ###
-custom_diff_strong_ger:0 "강철 조약 강화"
+custom_diff_strong_ger:0 "강철조약 강화"
 custom_diff_strong_sov:0 "소비에트 러시아 강화"
 custom_diff_strong_fra:0 "프랑스 강화"
 custom_diff_strong_ita:0 "이탈리아 강화"
@@ -151,7 +151,7 @@ custom_diff_strong_tur:0 "오스만 제국 강화"
 ### Factions ###
 imperial_protection_alliance:0 "제국 수호 동맹"
 continental_entente:0 "대륙 협상국"
-Stahlpakt:0 "강철 조약"
+Stahlpakt:0 "강철조약"
 3rd_international:0 "제3인터내셔널"
 free_bloc:0 "자유 연합"
 commonwealth:0 "영연방"
