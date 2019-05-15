@@ -179,8 +179,8 @@ FRA_foreign_expenses_high_desc:0 ""
 FRA_marital_power:0 "Abolished Marital Power"
 FRA_marital_power_desc:0 "The French government has successfully abolished Marital Power and thus increased equality between males and females."
 
-FRA_female_right_to_vote:0 "Universal Suffrage"
-FRA_female_right_to_vote_desc:0 "After many years of battle, the women of France have finally received their right of suffrage."
+FRA_female_right_to_vote:0 "보통 선거권"
+FRA_female_right_to_vote_desc:0 "수년간의 투쟁 끝에, 프랑스의 여성들은 투표권을 마침내 얻게 되었습니다."
 
 FRA_political_instability_1:0 "Political Turmoil"
 FRA_political_instability_1_desc:0 ""
@@ -304,10 +304,10 @@ FRA_begone_commies2:0 "Militarized Economy"
 
 ### Army ###
 
-FRA_the_land_army:0 "Armée de Terre"
+FRA_the_land_army:0 "육군"
 FRA_the_land_army_desc:0 "Despite emerging victorious from the Great War, our army is in poor shape. While our men are well equipped, the Great War saw France undergo a huge demographic loss of men from the ages of eighteen to twenty five. If we are to keep Europe safe from the German menace, we must ensure our army is in top shape."
-FRA_mechanized_warfare:0 "Mass Mechanization"
-FRA_mechanized_warfare_desc:0 "Charles de Gaulle, a Land Army officer, has expressed sentiments in favour of using tanks, mechanized infantry, planes, and other types of armour as the primary doctrine for the Land Army. While his ideas are not popular with the French high command, perhaps it is time we began to use offensive tactics?"
+FRA_mechanized_warfare:0 "대규모 기계화"
+FRA_mechanized_warfare_desc:0 "육군 장교 중 한 명인 샤를 드 골은, 최근 전차, 기계화 보병, 항공기, 그리고 다른 여러 종류의 장갑차량들의 운용을 육군 교리의 기반으로 삼아야만 한다고 말했습니다. 많은 고위 장교들이 그의 의견에 반대하고 있긴 하지만, 어쩌면 이제 프랑스군이 '공격적 전술'을 도입할 때가 됐을지도 모르지요?"
 FRA_motorized_infantry:0 "Motorized Infantry"
 FRA_motorized_infantry_desc:0 "Using motorized infantry, which is much quicker than regular infantry, we can move at high speeds towards the enemy’s position and squeeze out a quick victory!"
 FRA_airplane_technology:0 "Airplane Technology"
@@ -360,7 +360,7 @@ FRA_conseil_de_defense:0 "Conseil de Défense"
 FRA_conseil_de_defense_desc:0 ""
 FRA_schlieffen_never_again:0 "Schlieffen Never Again"
 FRA_schlieffen_never_again_desc:0 ""
-FRA_plan_xviii:0 "Plan XVIII"
+FRA_plan_xviii:0 "18호 계획"
 FRA_plan_xviii_desc:0 ""
 
 ### Air Force ###
