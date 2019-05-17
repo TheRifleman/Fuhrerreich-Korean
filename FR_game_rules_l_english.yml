@@ -90,7 +90,7 @@ RULE_OPTION_PRR_VICTORY_DESC:0 "포르투갈 공화국은 게임 시작 시 자�
 RAJ_POLITICAL_STATUS:0 "인도 내전 상황"
 RULE_OPTION_RAJ_VICTORY:0 "영국령 인도 승리"
 RULE_OPTION_RAJ_VICTORY_DESC:0 "영국령 인도는 게임 시작 시 자동으로 인도 반란군을 합병할 것입니다."
-RULE_OPTION_IND_VICTORY:0 "인도 반란군 승리	"
+RULE_OPTION_IND_VICTORY:0 "인도 반란군 승리"
 RULE_OPTION_IND_VICTORY_DESC:0 "인도 반란군은 게임 시작 시 자동으로 영국령 인도를 합병할 것입니다."
 
 RULE_GROUP_RANDOMIZER:0 "퓌러라이히 무작위화 도구 (FR에 근본적인 수정)"
