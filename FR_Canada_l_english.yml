@@ -312,7 +312,7 @@ CAN_reform_elections_desc:0 ""
 
 #### Tooltips ####
 
-CAN_rcmp_tooltip:0 "§G전국에서 왕립  여단들이 집결하여 당신의 지휘하에 놓일 것입니다.\n"
+CAN_rcmp_tooltip:0 "§G전국에서 왕립 캐나다  여단들이 집결하여 당신의 지휘하에 놓일 것입니다.\n"
 CAN_tory_tooltip:0 "§G토리 당은 모든 역경을 딛고 살아남아 선거에서 승리했습니다.§!\n"
 CAN_liberal_tooltip:0 "§G멕켄지 킹의 '중도' 자유주의자들이 선거를 휩쓸었습니다.§!\n"
 CAN_ccf_tooltip:0 "§G토미 더글라스의 급진적 협동조합이 선거에서 승리를 거두었습니다.§!\n"
@@ -443,25 +443,25 @@ canada.53.d:0 "불행이도, 폭도들에 대한 무력 사용은 그들을 더�
 
 #Elections fuck me I hate localising this shit fuck fuck fuck fuck 
 canelection.1.d:0 "오늘은 간이 선거가 시작하는 날입니다. 연합당의 임기는 연정의 붕괴로 3년이라는 충격적인 시간으로 단축되었습니다. 몇몇 시민들은 이 연정의 붕괴가 보수당을 우측으로 이동시켰고 마침내 좌파와 협력할 수 있는 약간의 영향력을 형성했기 때문에 연합당의 종결이 더 좋은 결과라고 주장합니다. 캐나다 정치계는 보수당과 자유당이 우위를 가지기 위해 싸우는 원래의 상태로 돌아간 것으로 보였습니다. \n\n그러나 몇몇 새로운 도전자들이 무대에 올라왔습니다. 협동조합연합과  사회신용당이 연정의 통치기간동안 급격한 성장을 이루었으며, 이는 자유당과 보수당의 실망한 구 지지층에 의한 것이었습니다. \n\n그리고 이 때문에, 우리는 흥미로운 상황하에 놓여 있습니다. 이 선거는 4가지 방향으로 전개될 수 있으며, 보수당의 승리는 당연하게도 그중에서 가장 어려울 것입니다. "
-canelection.2.d:0 "From the Mountains to the Coastal Cities of British Columbia, citizens are putting in their votes for this election. 16 Seats in Parliament are up-for-grabs, who will take a majority?" #BC
-canelection.3.d:0 "The Citizens of the Imperial Oil basin are commiting votes for the election. Alberta is a strong base of the SoCreds, a Social Credit victory is anticipated. 17 Seats in Parliament are up-for-grabs here, will another party snatch them out of the hands of the SoCreds?" #AL
-canelection.4.d:0 "In the farmland and wheatfields of the Prairies, the turnout is highly indecisive. A SoCred victory is plausible due to Saskatchewan's proximity to Alberta, however the CCF is also excerting some influence on the area. The Conservatives and Liberals continue to battle with eachother for control, who will be the ones to take the 21 seats?" #SK
-canelection.5.d:0 "Citizens from across Manitoba are travelling to make their ways to the polls. With 17 seats available, all parties are attempting to further their position in parliament." #MB
-canelection.6.d:0 "From the dense forests of Ontario to the dense urban region of Toronto, Ontarians find themselves questioning who they should vote for in the election. Ontario has been a strong base of support for the Unionists, and a Pro-Tory sentiment still strongly exists in the region. Ontario is a highly valuable province, as it has a grand total of 82 seats. It is without a doubt the most influential province in the Dominion."  #ON
-canelection.7.d:0 "The most infamous province of the Dominion; Quebec. Housing a Francophone populace, they've historically opposed the Anglos at every turn. They are nonetheless the second-most populated Province, and have remained a base of support for the non-unionist Liberals during the Interwar. Quebec has 65 seats available for the four parties to seize. However the question remains though; who will be victorious? " #QB
-canelection.8.d:0 "Yukon is a Territory located in Northern Canada, right above British Columbia. Rapidly settled by the British Empire to block American expansion of Alaska, it ended up becoming one of the more populated Territories. No clear party seems to have the edge here, however it's a situation of minimal interest; as there's only 1 seat available..." #YK
-canelection.9.d:0 "Many citizens are venturing out to the polls, the vote could go any way. 10 seats are being battled for in New Brunswick." #NB
-canelection.10.d:0 "The coastal Province of Nova Scotia, people are finding time to go out and vote. A Conservative victory seems likely, 12 seats are in-the-air in Nova Scotia." #NS
-canelection.11.d:0 "The small island of Prince Edward Isles holds 4 seats, whilst very unnotable, the various dominant parties in the election have been battling for the seats in the region, but who shall reign victorious?" #PEI
-canelection.13.d:0 "The House of Commons has presented us with a highly intriguing (and irritating) outcome to this election. \n\nWe've run into Gridlock. \n\nWith no side having a clear majority over the other, a party will have to make compromises to gain a majority and assume Government." #Gridlock
-canelection.14.d:0 "The Cooperatives have won the election, achieving a clear majority in the House of Commons." #CCF
-canelection.15.d:0 "The Liberals have won the election, achieving a clear majority in the House of Commons." #LIBERAL
-canelection.16.d:0 "The Conservatives have won the election, achieving a clear majority in the House of Commons." #CONSERVATIVE
-canelection.20.d:0 "The SoCreds have won the election, achieving a clear majority in the House of Commons." #SOCIAL CREDIT
-canelection.17.d:0 "Recently in the Canadian Elections, the Cooperative-Commonwealth Federation has come to power. Whilst normally the democratic election of a party in one of the Dominions is an unnotable development, the Canadian CCF is an unusually radical organization, comparable to our ILP./n/nLetting these radicals have a place in power could be a considerably dangerous situation, allowing them to spread socialism in Canada might have repercussions in the future." #CRY FROM CANADA
-canelection.18.d:0 "Recently in the Canadian Elections, the Cooperative-Commonwealth Federation has come to power. Whilst normally the democratic election of a party in one of the Dominions is an unnotable development, the Canadian CCF is an unusually radical organization, comparable to our ILP./n/nLetting these radicals have a place in power could be a considerably dangerous situation, allowing them to spread socialism in Canada might have repercussions in the future." #CRY FROM CANADA
-canelection.19.d:0 "Given the recent election of the CCF in the federal elections, Britain has firmly been convinced that allowing the CCF to spread socialism within our nation is a far too dangerous to be allowed. Due to this, they have sent a demand for Lord Tweedsmuir to temporarily dissolve Canadian parliament until a foreseeable future." #LONDON'S INTERVENTION
-canelection.21.d:0 "Nearly 2 months ago, Parliament was dissolved by order of Britain in face of a radical socialist victory of the Cooperative Commonwealth Federation. Since then, we've begun heavy reorganization. We've temporarily been governed by Lord Tweedsmuir and his selected cabinet of Loyalists, however, the Dissolution of Parliament was heavily assisted by the Military. In addition, a Military Government could be more effective than Tweedsmuir's absolutist regime, and London might not be opposed to the concept of the establishment of a Loyalist Junta."
+canelection.2.d:0 "브리티시컬럼비아의 산악지대에서 해안도시까지, 시민들은 이번 선거를 위해 투표를 하고 있습니다. 16석 국회 의석에서, 누가 다수를 차지할까요?" #BC
+canelection.3.d:0 "제국 석유 분지의 시민들이 선거 투표를 독려하고 있습니다. 알버타는 사회신용당의 강력한 기반으로, 사회 신용당의 승리가 예상됩니다. 이곳은 의회에서 17석을 차지합니다. 다른 정당이 사회신용당의 손에서 그들을 떼어낼 수 있을까요?" #AL
+canelection.4.d:0 "대초원의 농지와 밀밭에서는 투표율이 매우 오락가락 합니다. 사회신용당의 승리는 새스캐처원이 알버타에 근접했기 때문에 그럴듯하지만, 캐나다 협동조합 또한 그 지역에 약간의 영향력을 행사하고 있습니다. 보수와 자유당은 의석을 차지하기 위해 계속해서 서로 주도권 싸움을 벌이고 있는데 과연 누가 그 21석을 차지하게 될까요?" #SK
+canelection.5.d:0 "매니토바 전역의 시민들은 투표장으로 가기 위해 여행을 하고 있습니다. 모든 정당들은 국회에서의 그들의 입지를 강화하기 위해 17석의 의석을 확보하고자 노력하고 있습니다." #MB
+canelection.6.d:0 "온타리오의 울창한 숲에서 토론토의 울창한 도시 지역에 이르기까지 온타리오 사람들은 선거에서 누구를 뽑아야 할지 고민하고 있습니다. 온타리오주는 통합당의 강력한 지지 기반이었고, 친토리 정서는 여전히 이 지역에 강하게 존재합니다. 온타리오 주는 총 82석의 엄청난 의석을 보유하고 있는 매우 가치 있는 지방입니다. 이곳은 의심할 여지 없이 자치령에서 가장 영향력 있는 지방일 것입니다."  #ON
+canelection.7.d:0 "자치령에서 가장 악명 높은 지방, 퀘벡입니다. 프랑스계 인구를 수용하면서 그들은 역사적으로 앵글로족에 반대해 왔습니다. 그럼에도 불구하고 그들은 두 번째로 인구가 많은 주이며, 전간기 동안에 비-통합당 자유주의자들의 지지 기반으로 남아 있습니다. 퀘벡은 이 4개 정당이 장악할 수 있는 65석을 확보했습니다. 그러나 문제는 있습니다. 누가 승리를 가져갈까요?" #QB
+canelection.8.d:0 "유콘은 브리티시 컬럼비아 바로 위에 있는 캐나다 북부에 위치한 영토입니다. 미국의 알래스카 확장을 막기 위해 대영제국에 의해 급속히 정착시켰고, 결국 더 많은 인구가 사는 영토 중 하나가 되었습니다. 어떤 정당도 여기에 확실한 우위를 점하지 못하는 것 같지만, 그것은 관심 밖의 상황입니다. 의석이 하나밖에 없기 때문에..." #YK
+canelection.9.d:0 "뉴브런즈윅에서는 많은 시민들이 투표장으로 몰려가고 있습니다. 투표는 어떤 식으로든 진행될 수 있습니다. 10개의 의석이 뷰브언즈윅에 배정되어 있습니다." #NB
+canelection.10.d:0 "노바스코샤 해안지방 사람들은 밖으로 나가 투표할 시간을 찾고 있습니다. 보수당의 승리가 유력해 보이는데, 12개의 좌석이 노바스코샤에서 붕 떠 있는 상태입니다." #NS
+canelection.11.d:0 "작은 섬인 프린스 에드워드 섬은 4석을 차지하고 있지만, 매우 주목할 만한 것은, 선거의 여러 지배적인 정당들이 그 지역의 의석을 차지하기 위해 싸워왔다는 것입니다. 그러나, 누가 승리할까요?" #PEI
+canelection.13.d:0 "하원은 매우 흥미롭고(화도 나는) 결과를 발표했습니다. \n\n우리는 교착상태에 빠졌습니다. \n\n다른 쪽에 비해 확실한 다수당이 없는 상황에서, 한 정당이 과반수를 획득하고 정부를 인수하기 위해서는 타협을 해야 할 것입니다." #Gridlock
+canelection.14.d:0 "협동조합이 하원에서 확실하게 과반수를 차지하면서 선거에서 승리했습니다." #CCF
+canelection.15.d:0 "자유당이 하원에서 확실하게 과반수를 차지하면서 선거에서 승리했습니다." #LIBERAL
+canelection.16.d:0 "보수당이 하원에서 확실하게 과반수를 차지하면서 선거에서 승리했습니다." #CONSERVATIVE
+canelection.20.d:0 "사회신용당이 하원에서 확실하게 과반수를 차지하면서 선거에서 승리했습니다." #SOCIAL CREDIT
+canelection.17.d:0 "최근 캐나다 선거에서는 협동조합이 권력을 잡았습니다. 보통 자치령들 중 한 곳에서 정당을 선출하는 것은 주목하지 않는 변화이지만, 영연방 협동조합 연맹은 우리의 독립노동당에 버금가는 유별나게 급진적인 조직입니다./n/n 이러한 급진주의자들에게 권력을 부여하게 하는 것은 상당히 위험한 상황이 될 수 있습니다. 그들이 캐나다에 사회주의를 전파하도록 하는 것은 반향을 가져올 수도 있습니다." #CRY FROM CANADA
+canelection.18.d:0 "최근 캐나다 선거에서는 협동조합이 권력을 잡았습니다. 보통 자치령들 중 한 곳에서 정당을 선출하는 것은 주목하지 않는 변화이지만, 영연방 협동조합 연맹은 우리의 독립노동당에 버금가는 유별나게 급진적인 조직입니다./n/n 이러한 급진주의자들에게 권력을 부여하게 하는 것은 상당히 위험한 상황이 될 수 있습니다. 그들이 캐나다에 사회주의를 전파하도록 하는 것은 반향을 가져올 수도 있습니다." #CRY FROM CANADA
+canelection.19.d:0 "최근 연방 선거에서 영연방 협동조합 연맹이 당선된 것에 대해, 영국은 영연방 협동주의 연맹이 우리 나라 안에 사회주의를 전파하도록 허용하는 것은 허용하기에는 너무 위험하다는 것을 확고히 확신해 왔습니다. 이 때문에 그들은 트위즈미어 경에게 캐나다 의회를 가까운 미래까지 일시적으로 해산할 것을 요구해 왔습니다." #LONDON'S INTERVENTION
+canelection.21.d:0 "거의 두 달 전에 의회는 영연방 협동조합 의 급진적인 사회주의적 승리에 직면하여 영국의 명령에 의해 해산되었고, 이후 대대적인 조직 개편에 나섰습니다. 우리는 일시적으로 트위즈미어 경과 그가 선택한 충성파 내각에 의해 통치되어 왔지만, 의회의 분해는 군대의 많은 도움을 받았습니다. 게다가 군사정권은 트위즈미어의 절대주의 정권보다 더 효과적일 수 있고, 런던은 충성파 군사정부 수립에 반대하지 않을 수도 있습니다."
 
 #### Ideas ####
 
@@ -560,80 +560,80 @@ CAN_coal_exports_to_britain:0 "영국에게의 석탄 수출"
 #### Political Parties ####
 
 CAN_vanguardist_party:0 "CMP"
-CAN_vanguardist_party_long:0 "Canadian Maximist Party"
+CAN_vanguardist_party_long:0 "캐나다 최대주의자 당"
 CAN_collectivist_party:0 "CPC"
-CAN_collectivist_party_long:0 "Collectivist Party of Canada"
+CAN_collectivist_party_long:0 "캐나다 집산주의당"
 CAN_libertarian_socialist_party:0 "WUL" #SPC
 CAN_libertarian_socialist_party_long:0 "Workers' Unity League" #Socialist Party of Canada
 CAN_social_democrat_party:0 "Cooperatives"
-CAN_social_democrat_party_long:0 "Co-operative Commonwealth Federation"
+CAN_social_democrat_party_long:0 "영연방 협동조합 연맹"
 CAN_social_liberal_party:0 "Progressives"
-CAN_social_liberal_party_long:0 "Liberal-Progressive Party"
+CAN_social_liberal_party_long:0 "자유-진보당"
 CAN_market_liberal_party:0 "Liberals"
-CAN_market_liberal_party_long:0 "Liberal Party"
+CAN_market_liberal_party_long:0 "자유당"
 CAN_social_conservative_party:0 "Red Tories"
-CAN_social_conservative_party_long:0 "Unionist Government"
+CAN_social_conservative_party_long:0 "통합당 정부"
 CAN_authoritarian_democrat_party:0 "NB/BN"
-CAN_authoritarian_democrat_party_long:0 "Nationalist Bloc/Bloc Nationaliste"
+CAN_authoritarian_democrat_party_long:0 "민족전선"
 CAN_paternal_autocrat_party:0 "Loyalists"
-CAN_paternal_autocrat_party_long:0 "Loyalist-Monarchist Party"
+CAN_paternal_autocrat_party_long:0 "충성파 군주주의자당"
 CAN_national_populist_party:0 "SoCreds"
-CAN_national_populist_party_long:0 "Social Credit Party"
+CAN_national_populist_party_long:0 "사회신용당"
 CAN_valkist_party:0 "CBP"
-CAN_valkist_party_long:0 "Canadian Brotherhood Party"
+CAN_valkist_party_long:0 "캐나다 형제단"
 
-CAN_conservative_party:0 "Conservative Party of Canada"
-CAN_tories:0 "Tories"
-CAN_mil_junta_long:0 "Military Junta"
-CAN_mil_junta_short:0 "Military Junta"
+CAN_conservative_party:0 "캐나다 보수당"
+CAN_tories:0 "토리당"
+CAN_mil_junta_long:0 "군사 정부"
+CAN_mil_junta_short:0 "군사 정부"
 
 #### Ministers ####
 
 #HEAD OF GOVERNMENT
 
 CAN_rb_bennett_hog:0 "R.B Bennett"
-rb_bennett_dead:0 "is incapable of holding any posts"
-rb_bennett_hog_fired:0 "is incapable of holding this post"
+rb_bennett_dead:0 "은 어떤 직책도 맡을 수 없습니다"
+rb_bennett_hog_fired:0 "은 이 직책을 맡을 수 없습니다"
 
 CAN_john_diefenbaker_hog:0 "John Diefenbaker"
-john_diefenbaker_dead:0 "is incapable of holding any posts"
-john_diefenbaker_hog_fired:0 "is incapable of holding this post"
+john_diefenbaker_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+john_diefenbaker_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_wl_mackenzie_king_hog:0 "W.L Mackenzie King"
-wl_mackenzie_king_dead:0 "is incapable of holding any posts"
-wl_mackenzie_king_hog_fired:0 "is incapable of holding this post"
+wl_mackenzie_king_dead:0 "은 어떤 직책도 맡을 수 없습니다"
+wl_mackenzie_king_hog_fired:0 "은 이 직책을 맡을 수 없습니다"
 
 CAN_tommy_douglas_hog:0 "Thomas Clement Douglas"
-tommy_douglas_dead:0 "is incapable of holding any posts"
-tommy_douglas_hog_fired:0 "is incapable of holding this post"
+tommy_douglas_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+tommy_douglas_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_john_buchan_hog:0 "Lord Tweedsmuir"
-john_buchan_dead:0 "is incapable of holding any posts"
-john_buchan_hog_fired:0 "is incapable of holding this post"
+john_buchan_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+john_buchan_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_jh_blackmore_hog:0 "J.H Blackmore"
-jh_blackmore_dead:0 "is incapable of holding any posts"
-jh_blackmore_hog_fired:0 "is incapable of holding this post"
+jh_blackmore_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+jh_blackmore_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_joseph_maurice_scott_hog:0 "Joseph Maurice Scott"
-joseph_maurice_scott_dead:0 "is incapable of holding any posts"
-joseph_maurice_scott_hog_fired:0 "is incapable of holding this post"
+joseph_maurice_scott_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+joseph_maurice_scott_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_arthur_evans_hog:0 "Arthur Evans"
-arthur_evans_dead:0 "is incapable of holding any posts"
-arthur_evans_hog_fired:0 "is incapable of holding this post"
+arthur_evans_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+arthur_evans_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_fred_rose_hog:0 "Fred Rose"
-fred_rose_dead:0 "is incapable of holding any posts"
-fred_rose_hog_fired:0 "is incapable of holding this post"
+fred_rose_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+fred_rose_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 CAN_william_kashtan_hog:0 "William Kashtan"
-william_kashtan_dead:0 "is incapable of holding any posts"
-william_kashtan_hog_fired:0 "is incapable of holding this post"
+william_kashtan_dead:0 "은 어떤 직책도 맡을 수 없습니다"
+william_kashtan_hog_fired:0 "은 이 직책을 맡을 수 없습니다"
 
 CAN_maurice_spector_hog:0 "Maurice Spector"
-maurice_spector_dead:0 "is incapable of holding any posts"
-maurice_spector_hog_fired:0 "is incapable of holding this post"
+maurice_spector_dead:0 "는 어떤 직책도 맡을 수 없습니다"
+maurice_spector_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
 #FOREIGN MINISTER
 
