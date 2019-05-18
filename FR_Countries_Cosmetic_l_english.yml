@@ -2692,15 +2692,15 @@ CZE_SSR_libertarian_socialist:0 "체코 소비에트 사회주의 공화국"
 CZE_SSR_libertarian_socialist_ADJ:0 "체코"
 CZE_SSR_libertarian_socialist_DEF:0 "체코 소비에트 사회주의 공화국"
 
-USA_SSR_vanguardist:0 "아메리카 소비에트 사회주의 공화국"
+USA_SSR_vanguardist:0 "미 소비에트 사회주의 공화국"
 USA_SSR_vanguardist_ADJ:0 "미국"
-USA_SSR_vanguardist_DEF:0 "아메리카 소비에트 사회주의 공화국"
-USA_SSR_collectivist:0 "아메리카 소비에트 사회주의 공화국"
+USA_SSR_vanguardist_DEF:0 "미 소비에트 사회주의 공화국"
+USA_SSR_collectivist:0 "미 소비에트 사회주의 공화국"
 USA_SSR_collectivist_ADJ:0 "미국"
-USA_SSR_collectivist_DEF:0 "아메리카 소비에트 사회주의 공화국"
-USA_SSR_libertarian_socialist:0 "아메리카 소비에트 사회주의 공화국"
+USA_SSR_collectivist_DEF:0 "미 소비에트 사회주의 공화국"
+USA_SSR_libertarian_socialist:0 "미 소비에트 사회주의 공화국"
 USA_SSR_libertarian_socialist_ADJ:0 "미국"
-USA_SSR_libertarian_socialist_DEF:0 "아메리카 소비에트 사회주의 공화국"
+USA_SSR_libertarian_socialist_DEF:0 "미 소비에트 사회주의 공화국"
 
 #French East Asia
 
