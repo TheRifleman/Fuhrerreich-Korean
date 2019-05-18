@@ -312,8 +312,8 @@ CAN_reform_elections_desc:0 ""
 
 #### Tooltips ####
 
-CAN_rcmp_tooltip:0 "§G전국에서 왕립 캐나다  여단들이 집결하여 당신의 지휘하에 놓일 것입니다.\n"
-CAN_tory_tooltip:0 "§G토리 당은 모든 역경을 딛고 살아남아 선거에서 승리했습니다.§!\n"
+CAN_rcmp_tooltip:0 "§G전국에서 왕립 캐나다 여단들이 집결하여 당신의 지휘하에 놓일 것입니다.\n"
+CAN_tory_tooltip:0 "§G토리당은 모든 역경을 딛고 살아남아 선거에서 승리했습니다.§!\n"
 CAN_liberal_tooltip:0 "§G멕켄지 킹의 '중도' 자유주의자들이 선거를 휩쓸었습니다.§!\n"
 CAN_ccf_tooltip:0 "§G토미 더글라스의 급진적 협동조합이 선거에서 승리를 거두었습니다.§!\n"
 CAN_socred_tooltip:0 "§G블랙모어의 독특한 사회신용당 '개혁주의자들'이 승리를 거머쥐었습니다.§!\n"
@@ -366,7 +366,7 @@ CAN_official_languages_act_desc:0 "민족주의자들은 의회에서 상당한 
 
 #### Flags ####
 CAN_TURNER_VALLEY_DESTROYED:0 "터너 밸리 유전이 파괴되었습니다."
-CAN_NFB_CORP_FOUNDED_FLAG:0 "캐나다 국립 영화 위원회가 설립되었습니다."
+CAN_NFB_CORP_FOUNDED_FLAG:0 "캐나다 국립영화위원회가 설립되었습니다."
 CAN_WAR_MEASURES_ACT_INVOKED:0 "전쟁대책법이 활성화 되었습니다."
 CAN_MILITARY_SERVICE_ACT_INVOKED:0 "병역법이 활성화 되었습니다."
 CAN_WAR_MEASURES_ACT_IMPROVED:0 "전쟁대책법의 권한이 증가하였습니다."
@@ -560,7 +560,7 @@ CAN_coal_exports_to_britain:0 "영국에게의 석탄 수출"
 #### Political Parties ####
 
 CAN_vanguardist_party:0 "CMP"
-CAN_vanguardist_party_long:0 "캐나다 최대주의자 당"
+CAN_vanguardist_party_long:0 "캐나다 최대주의당"
 CAN_collectivist_party:0 "CPC"
 CAN_collectivist_party_long:0 "캐나다 집산주의당"
 CAN_libertarian_socialist_party:0 "WUL" #SPC
@@ -591,15 +591,15 @@ CAN_mil_junta_short:0 "군사 정부"
 
 #HEAD OF GOVERNMENT
 
-CAN_rb_bennett_hog:0 "R.B Bennett"
+CAN_rb_bennett_hog:0 "R.B 베넷"
 rb_bennett_dead:0 "은 어떤 직책도 맡을 수 없습니다"
 rb_bennett_hog_fired:0 "은 이 직책을 맡을 수 없습니다"
 
-CAN_john_diefenbaker_hog:0 "John Diefenbaker"
+CAN_john_diefenbaker_hog:0 "존 디펜베이커"
 john_diefenbaker_dead:0 "는 어떤 직책도 맡을 수 없습니다"
 john_diefenbaker_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
-CAN_wl_mackenzie_king_hog:0 "W.L Mackenzie King"
+CAN_wl_mackenzie_king_hog:0 "W.L 매켄지 킹"
 wl_mackenzie_king_dead:0 "은 어떤 직책도 맡을 수 없습니다"
 wl_mackenzie_king_hog_fired:0 "은 이 직책을 맡을 수 없습니다"
 
@@ -611,7 +611,7 @@ CAN_john_buchan_hog:0 "Lord Tweedsmuir"
 john_buchan_dead:0 "는 어떤 직책도 맡을 수 없습니다"
 john_buchan_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
-CAN_jh_blackmore_hog:0 "J.H Blackmore"
+CAN_jh_blackmore_hog:0 "J.H 블랙모어"
 jh_blackmore_dead:0 "는 어떤 직책도 맡을 수 없습니다"
 jh_blackmore_hog_fired:0 "는 이 직책을 맡을 수 없습니다"
 
