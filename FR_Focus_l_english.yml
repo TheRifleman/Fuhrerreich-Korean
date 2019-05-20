@@ -146,7 +146,7 @@ generic_welfare_idea_desc:0 "We are ensuring that the poorest in our society rec
 generic_arms_payments:0 "무기 지급"
 
 ### Bonuses ###
-naval_doctrine_bonus:0 "떠다니는 비행장 "
+naval_doctrine_bonus:0 "떠다니는 비행장 교리"
 
 ### Generic Events ###
 genfocus.1.t:0 "누구에게서 수입해야 할까요?"
