@@ -1,41 +1,41 @@
 ﻿l_english: 
 
 #Decisions
-SPR_civil_war:0 "The Spanish Civil War"
-SPR_civil_war_desc:0 "The Spanish Civil War which began in November of 1935 as a result of Alfonso Pío Cristino assassination has resulted in four sides rising up, the Popular Front, Monarchists, Falangists, and Republicans. We must use whatever means neccesary to gain an advantage in this time of strife."
+SPR_civil_war:0 "스페인 내전"
+SPR_civil_war_desc:0 "1935년 11월, 알폰소 피오 크리스티노의 암살로 시작된 스페인 내전은 인민전선, 왕당파, 팔랑헤주의자, 공화주의자등 4개의 진영이 부상하며 시작되어졌습니다. 우리는 이 내전에서 우위를 점하기위해 어떠한 수단이라도 사용하여야합니다."
 
-SCW_partisans_monarchy_1:0 "Southern Resistance"
-SCW_partisans_monarchy_1_desc:0 "The people in South of Spain are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_monarchy_1:0 "남부에서의 저항"
+SCW_partisans_monarchy_1_desc:0 "스페인 남부 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_monarchy_2:0 "Extremadura Resistance"
-SCW_partisans_monarchy_2_desc:0 "The people in Extremadura are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_monarchy_2:0 "에스트레마두라에서의 저항"
+SCW_partisans_monarchy_2_desc:0 "에스트레마두라 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_popular_front_1:0 "Valencia Resistance"
-SCW_partisans_popular_front_1_desc:0 "The people in Valencia are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_popular_front_1:0 "발렌시아에서의 저항"
+SCW_partisans_popular_front_1_desc:0 "발렌시아 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_popular_front_2:0 "Aragon Resistance"
-SCW_partisans_popular_front_2_desc:0 "The people in Aragon are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_popular_front_2:0 "아르곤에서의 저항"
+SCW_partisans_popular_front_2_desc:0 "아르곤 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_republic_1:0 "La Mancha Resistance"
-SCW_partisans_republic_1_desc:0 "The people in La Mencha are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_republic_1:0 "라만차에서의 저항"
+SCW_partisans_republic_1_desc:0 "라만차 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_republic_2:0 "Castille Resistance"
-SCW_partisans_republic_2_desc:0 "The people in Castille are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_republic_2:0 "카스티유에서의 저항"
+SCW_partisans_republic_2_desc:0 "카스티유 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_falangists_1:0 "Leon Resistance"
-SCW_partisans_falangists_1_desc:0 "The people in Leon are not completely satisfied with their current controllers rule over the area. Maybe we could convince them that our side would be better for them?"
+SCW_partisans_falangists_1:0 "레옹에서의 저항"
+SCW_partisans_falangists_1_desc:0 "레옹 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
 #Tooltips
-SCW_uprising:0 " An uprising has already occured in this location"
-SCW_SPM_partisan_granada_tooltip:0 "A partisan division will rise up in Granada\n"
-SCW_SPM_partisan_jaen_tooltip:0 "A partisan division will rise up in Jaen\n"
-SCW_SPM_partisan_extremadura_tooltip:0 "Two partisan divisions will rise up in Extremadura\n"
-SCW_SPA_partisan_valencia_tooltip:0 "A partisan division will rise up in Valencia\n"
-SCW_SPA_partisan_murica_tooltip:0 "A partisan division will rise up in Murica\n"
-SCW_SPA_partisan_aragon_tooltip:0 "Two partisan divisions will rise up in Aragon\n"
-SCW_SPR_partisan_la_mancha_tooltip:0 "Two partisan divisions will rise up in La Mancha"
-SCW_SPR_partisan_castille_tooltip:0 "Two partisan divisions will rise up in Castille"
-SCW_SPR_partisan_leon_tooltip:0 "Two partisan divisions will rise up in Leon"
+SCW_uprising:0 "이 지역에서 이미 봉기가 일어났습니다"
+SCW_SPM_partisan_granada_tooltip:0 "파르티잔 사단이 그라나다에서 봉기할것입니다\n"
+SCW_SPM_partisan_jaen_tooltip:0 "파르티잔 사단이 장에서 봉기할것입니다\n"
+SCW_SPM_partisan_extremadura_tooltip:0 "두개의 파르티잔 사단이 에스트레마두라에서 봉기할것입니다\n"
+SCW_SPA_partisan_valencia_tooltip:0 "파르티잔 사단이 발렌시아에서 봉기할것입니다\n"
+SCW_SPA_partisan_murica_tooltip:0 "파르티잔 사단이 무르시아에서 봉기할것입니다\n"
+SCW_SPA_partisan_aragon_tooltip:0 "두개의 파르티잔 사단이 아르곤에서 봉기할것입니다\n"
+SCW_SPR_partisan_la_mancha_tooltip:0 "두개의 파르티잔 사단이 라만차에서 봉기할것입니다/n"
+SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티유에서 봉기할것입니다"
+SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레옹에서 봉기할것입니다"
 
 #Ideas
 SCW_idea:0 "The Spanish Civil War"
