@@ -114,8 +114,8 @@ FRA_naval_range_idea_desc:0 "While Britain may claim to rule the seas, we know t
 FRA_artillery_production_idea:0 "Common Components"
 FRA_artillery_production_idea_desc:0 "Since the new doctrine doctrine of the Land Army is heavily dependent on the production of artillery, it is only natural that we increase our artillery production. However, we will need to undertake a more innovative approach to do this. We shall ensure the Artillery and Anti-tank weapons share common componets for maximum efficiency."
 
-FRA_reduced_conscription_idea:0 "Reduced Conscription"
-FRA_reduced_conscription_idea_desc:0 "With a compromise finally reached between some of the more left-leaning members of our nation, we have managed to keep the policy of conscription — despite it being greaty reduced."
+FRA_reduced_conscription_idea:0 "줄어든 징집률"
+FRA_reduced_conscription_idea_desc:0 "몇몇 좌파 인사들과의 기나긴 협상 끝에, 징병제 유지를 골자로 하는 타협안이 받아들여졌습니다 - 비록 징병률은 매우 낮아졌지만 말이지요.."
 
 FRA_defend_the_republic:0 "조국의 수호를 위해"
 FRA_defend_the_republic_desc:0 "우리는 독일놈들과 싸워 이겨봤었습니다! 우린 영국놈들과도 싸워 놈들이 놈들의 조그만 섬으로 줄행랑치게도 만들어 봤었지요! 우린 스페인, 네덜란드, 그리고 이탈리아인들과도 싸웠었으며, 언제나 승리했었습니다! 프랑스는 프랑스의 아이들을 사랑하며, 그리고 그녀의 아이들은 프랑스에 거역하는 자들을 쓰러트리기 위해서라면 무슨 일이든 할 것입니다!"
@@ -245,7 +245,7 @@ FRA_free_religion_desc:0 ""
 FRA_bolidicks_debate:0 "Encouraged Political Debate"
 FRA_bolidicks_debate_desc:0 ""
 
-FRA_free_speech:0 "Freedom of Speech"
+FRA_free_speech:0 "표현의 자유"
 FRA_free_speech_desc:0 ""
 
 FRA_austerity:0 "Austerity"
@@ -297,7 +297,7 @@ FRA_cooperatism:0 "Cooperatism"
 
 FRA_cooperatism2:0 "Cooperatism"
 
-FRA_begone_commies:0 "Trade Union purged"
+FRA_begone_commies:0 "노동조합 숙청됨"
 
 FRA_begone_commies2:0 "Militarized Economy"
 #### Focuses ####
