@@ -1,11 +1,11 @@
 ﻿l_english:
 
 #### Ideas ####
-NFA_pacification_of_africa:0 "Pacification of West Africa"
-NFA_pacification_of_africa_desc:0 "In order to make West Africa more 'accommodative' for the French, this colony has embarked on a mission of 'pacifying' the local populace. Regular military expeditions into the colonies to quell resistance, protection of trade personnel and entrepreneurs, and interning persons suspected of revolt have resulted in more stability and investor confidence for the colony, but has inversely hurt our relationship with the natives."
+NFA_pacification_of_africa:0 "서아프리카 도시화"
+NFA_pacification_of_africa_desc:0 "서아프리카를 프랑스인들에게 더 '협조적'으로 만들기 위하여, 이 식민지는 지역민들을 '교화'시키는 작업을 시작했습니다. 무역인력과 기업의 보호, 반란과 저항이 예상되는 원주민들을 진압하기 위하여 정기적으로 식민지에 군사를 파견하여 더 많은 안정과 투자자의 신뢰를 낳았지만, 우리와 원주민의 관계는 오히려 더 멀어졌습니다."
 
-MOR_harsh_environment:0 "Harsh Environment"
-MOR_harsh_environment_desc:0 "Generally hot, arid, and not suited for industrial expansion, investors refuse to assist colonial development of French North Africa. Our scientists seek to prove these investors wrong. By using flasks, beakers, and making shit up out of nowhere, they might be able to conjure up a 'study' that proves these investors incorrect. How long until it arrives is unknown though."
+MOR_harsh_environment:0 "혹독한 환경"
+MOR_harsh_environment_desc:0 "일반적으로 덥고, 건조하며, 산업확장에 적합하지 않은 북아프리카의 식민지에 프랑스 투자자들은 개발을 거부하고 있습니다. 우리의 과학자들은 이런 투자자들이 틀렸다는 것을 증명하고 싶어합니다. 플라스크나 비커를 사용하고, 난데없이 이상한 것을 만들어 냄으로써, 과학자들은 투자자들이 틀렸다는 것을 증명하는 '연구'를 할수 있을지 모릅니다. 하지만 얼마나 걸릴지는 알수 없습니다."
 
-NFQ_colonial_unrest:0 "Native Unrest"
-NFQ_colonial_unrest_desc:0 "Poor living conditions, lack of infrastructure and economic stagnation has caused Native Unrest to flare within our colony. Whilst our government actively works to correct these issues, it's undoubtedly going to be some time until the issue is resolved."
+NFQ_colonial_unrest:0 "원주민 불안"
+NFQ_colonial_unrest_desc:0 "열악한 생활환경과 기반시설 부족, 경제 침체로 인해 우리 식민지에서 '원주민 불안'이 불붙고 있습니다. 우리 정부는 이런 문제들을 해결하기 위해 적극적으로 노력하지만, 이러한 문제가 해결될 때까지는 의심의 여지 없이 시간이 걸릴 것입니다."
