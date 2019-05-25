@@ -103,4 +103,4 @@ FRA_council_sub10:0 "§R협상국 회원의 신뢰도가 10% 감소합니다§"
 
 ##### Opinion Modifiers #####
 FRA_gives_support:0 "프랑스가 우리에게 지원을 보내오다"
-FRA_refuses_support:0 "프랑스는 우리에게 지원을 보내는 것을 거부하다"
+FRA_refuses_support:0 "프랑스 우리에게 지원을 보내는 것을 거부하다"
