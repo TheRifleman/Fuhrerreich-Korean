@@ -151,5 +151,5 @@ naval_doctrine_bonus:0 "떠다니는 비행장 교리"
 ### Generic Events ###
 genfocus.1.t:0 "누구에게서 수입해야 할까요?"
 genfocus.1.d:0 "After our Nation's recent descision to Import arms from another country, we have been stumped on a very important question. Who will we import the Arms from? Purchasing from the Soviets would net us the largest portion of weapons, however they would be outdated for the most part. Purchasing from the British or French would grant us a sizable amount of arms, at a reasonable quality. Purchasing arms from the Germans would enable us to purchase a lower amount of higher quality weaponry. But the question remains, who shall we import from?"
-genfocus.2.t:0 "최신 무기 "
+genfocus.2.t:0 "최신 무기 판매"
 genfocus.2.d:0 "It seems that we have recently made an Arms sale! [From.GetName] has purchased a shipment of arms from us, which is en-route to their location right now. These arms weren't in-use by our military; so this won't impact our stored arms. For the moment, we're raking in funds from this sale."
