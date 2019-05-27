@@ -1,11 +1,11 @@
 ﻿l_english:
 
-SWI_FUHRERREICH_DESC:0 "The country of Switzerland has never engaged in a foreign war in over a century- not since the era of Napoleon. What had been over two decades of status quo liberal dominance was tested last year, with the General Strike of 1935. While Switzerland is still stable, the memory of this socialist agitation and possible future German aggression leaves this Alpine nation with many friends, but few allies..."
+SWI_FUHRERREICH_DESC:0 "스위스는 수 세기 넘게 누군가와 싸워본 적이 없습니다 - 나폴레옹 시대 전까진 말이죠. 지난 20년동안 계속되었던 자유주의 정당의 집권은, 1935년의 총파업과 함께 위협받았습니다. 스위스는 여전히 안정적이긴 하지만, 예전에 있었던 사회주의자들의 총파업과, 독일의 침공 위협 탓에, 스위스에겐 친구는 많지만, 동맹은 얼마 없습니다..."
 
 #### Political Parties ####
 
 SWI_vanguardist_party:0 "KUL-S"
-SWI_vanguardist_party_long:0 "Kommunistische Überschussliga"
+SWI_vanguardist_party_long:0 "공산주의연맹"
 SWI_collectivist_party:0 "ASL"
 SWI_collectivist_party_long:0 "Arbeiter-Sozialisten-Liga"
 SWI_libertarian_socialist_party:0 "SDPSrad"
@@ -23,18 +23,18 @@ SWI_authoritarian_democrat_party_long:0 "Radical Wing of the Christlichdemokrati
 SWI_paternal_autocrat_party:0 "FVP"
 SWI_paternal_autocrat_party_long:0 "Französische Volkspartei"
 SWI_national_populist_party:0 "DNDAP"
-SWI_national_populist_party_long:0 "Deutsche Nationaldemokratische Arbeiterpartei"
+SWI_national_populist_party_long:0 "독일 국가민주주의 노동자당"
 SWI_valkist_party:0 "VWF"
-SWI_valkist_party_long:0 "Vaterland und Wiedervereinigungsfront"
+SWI_valkist_party_long:0 "조국통일전선"
 
 #### Decisions ####
 #>categories below
-SWI_german_immigration_cat:0 "German Immigration"
-SWI_immigrants_from_germany_cat:0 "Immigration Continues"
+SWI_german_immigration_cat:0 "독일인 이민자 문제"
+SWI_immigrants_from_germany_cat:0 "계속되는 이민"
 #>individual decisions below
-SWI_german_immigrants:0 "Acceptance of German Malcontents"
-SWI_german_immigrants_desc:0 "The Germans seem to be in quite a bind as they prepare for battle. How fortuitous it would be to incorporate their malcontents!"
-SWI_the_germans_are_coming:0 "The Germans Arrive"
+SWI_german_immigrants:0 "독일인 불순분자들 수용"
+SWI_german_immigrants_desc:0 "독일군들은 전투를 준비하는 와중에 상당히 궁지에 몰린듯 하다. 그들에게 반대하는 자들이 우리에게 동조한다면 정말 좋은 일이 될 것이다!"
+SWI_the_germans_are_coming:0 "독일인들이 도착하다"
 # SWI_immigrants_from_germany_cat
 
 #### Tooltips ####
