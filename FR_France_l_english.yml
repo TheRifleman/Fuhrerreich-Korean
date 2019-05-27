@@ -11,9 +11,9 @@ continental_entente_research_desc:0 "협상국 연구협회는 프랑스가 이�
 #### Political Parties ####
 
 FRA_vanguardist_party:0 "UC" #Révolutionnaires
-FRA_vanguardist_party_long:0 "Union Collectiviste"
+FRA_vanguardist_party_long:0 "집산주의 연맹"
 FRA_collectivist_party:0 "PCF" #Collectivistes
-FRA_collectivist_party_long:0 "Parti Collectiviste Français"
+FRA_collectivist_party_long:0 "프랑스 집산당"
 FRA_libertarian_socialist_party:0 "SFIO" ##Travailleurs
 FRA_libertarian_socialist_party_long:0 "노동자 인터내셔널 프랑스 지부"
 FRA_social_democrat_party:0 "PRS" # Socialistes
@@ -21,9 +21,9 @@ FRA_social_democrat_party_long:0 "공화사회당"
 FRA_social_liberal_party:0 "PR" #Radicaux
 FRA_social_liberal_party_long:0 "급진당"
 FRA_market_liberal_party:0 "ARD" #ADR
-FRA_market_liberal_party_long:0 "Alliance Républicaine Démocratique" 
+FRA_market_liberal_party_long:0 "민주공화동맹" 
 FRA_social_conservative_party:0 "FR" #Conservateurs
-FRA_social_conservative_party_long:0 "Fédération Républicaine"
+FRA_social_conservative_party_long:0 "공화연맹"
 FRA_authoritarian_democrat_party:0 "군사 정부"
 FRA_authoritarian_democrat_party_long:0 "군사 정부"
 FRA_paternal_autocrat_party:0 "악시옹 프랑세예즈"
@@ -31,7 +31,7 @@ FRA_paternal_autocrat_party_long:0 "악시옹 프랑세예즈"
 FRA_national_populist_party:0 "PSF" #Nationalistes
 FRA_national_populist_party_long:0 "프랑스 사회당"
 FRA_valkist_party:0 "RNP"
-FRA_valkist_party_long:0 "Rassemblement National Populaire"
+FRA_valkist_party_long:0 "국민대중연합"
 
 #### TRAITS ####
 cia:0 "Head of the CIA"
@@ -328,8 +328,8 @@ FRA_mass_production_of_infantry_equipment:0 "Arms Standardization"
 FRA_mass_production_of_infantry_equipment_desc:0 "If we are to replace the manpower gap that exists within the Land Army, it is only logical that every man receives a rifle, no matter how poorly made it is."
 FRA_mandatory_draft:0 "의무복무제"
 FRA_mandatory_draft_desc:0 "이젠 국민개병제만 가지고는 안됩니다. 이제부턴 군 복무가 가능한 모든 프랑스 남성들을 징집해야만 합니다."
-FRA_militarization:0 "Militarization"
-FRA_militarization_desc:0 "We must convert every non-necessary domestic goods factory into Arms producing factories. Bike shops can make Rifles, Railcar factories can produce Tanks, Coat factories can produce uniforms. Every Frenchman will contribute to the war effort, one way or another."
+FRA_militarization:0 "민간산업 군수화"
+FRA_militarization_desc:0 "린 이제 필요 없는 소비재와 사치품들을 생산하는 공장들을 군수품 공장으로 바꿔야만 합니다. 자전거 공장에선 소총을 만들 수 있으며, 열차 공장에선 전차를 생산할 수 있고, 코트 공장에선 군복을 만들 수 있습니다. 모든 프랑스인들은 전쟁 수행에 기여해야만 합니다, 전선에서든, 집에서든 말입니다."
 FRA_careful_planning:0 "Mass Planning"
 FRA_careful_planning_desc:0 "It would be best to plan for each and every scenario as that would ensure that we will be prepared and ready for anything that may come our way. In addition, building more forts on the Alsace-Rhine line will intimidate the Germans, ensuring that they will not act up."
 FRA_military_academies:0 "Military Academies"
@@ -346,9 +346,9 @@ FRA_no_arms_deficit:0 "Fix the Arms deficit"
 FRA_no_arms_deficit_desc:0 ""
 FRA_defend_the_republique:0 "조국의 수호를 위해"
 FRA_defend_the_republique_desc:0 ""
-FRA_contracts_with_mas:0 "Contracts with M.A.S."
+FRA_contracts_with_mas:0 "M.A.S와의 계약"
 FRA_contracts_with_mas_desc:0 ""
-FRA_contracts_with_schneider:0 "Contracts with Schneider"
+FRA_contracts_with_schneider:0 "슈나이더와의 계약"
 FRA_contracts_with_schneider_desc:0 ""
 FRA_reorganize_the_csg:0 "Reorganize the Conseil Supérieur de la Guerre"
 FRA_reorganize_the_csg_desc:0 ""
@@ -481,7 +481,7 @@ FRA_FR_ADR_PR_social_right_3_desc:0 ""
 FRA_FR_ADR_PR_economic_policy:0 "The Economic Recovery"
 FRA_FR_ADR_PR_economic_policy_desc:0 ""
 FRA_FR_ADR_PR_economic_left_1:0 "긴축 정책"
-FRA_FR_ADR_PR_economic_left_1_desc:0 ""`
+FRA_FR_ADR_PR_economic_left_1_desc:0 ""
 FRA_FR_ADR_PR_economic_left_2:0 "Reduce Regulations"
 FRA_FR_ADR_PR_economic_left_2_desc:0 ""
 FRA_FR_ADR_PR_economic_left_3:0 "Reduce Benefits"
@@ -733,7 +733,7 @@ FRA_ANGERY_BELGIANS:0 "This will eventually be enabled."
 FR_authoritarianism:0 "Authoritarianism"
 #### Tooltips ####
 
-FRA_conscription_tt:0 "§RThis may cause unintended consequences.§!\n"
+FRA_conscription_tt:0 "§R이는 의도하지 않은 결과를 만들어 낼 수도 있습니다.§!\n"
 FRA_port_construction_tt:0 "§GNew ports shall be built within our coastal states.§!\n"
 FRA_mobile_warfare_tt:0 "§G경전차 사단 몇개가 창설될 것입니다.§!\n"
 FRA_trench_warfare_tt:0 "§GVarious standard Infantry divisions will be assembled.§!\n"
@@ -756,7 +756,7 @@ FRA_state_visit_tt:0 "§YWe'll organize a state-visit to the United States in or
 FRA_IMPERIALISM_tt:0 "§GA set of decisions pertaining to conquest of uncivilized nations will be unlocked.§!\n"
 FRA_DEVELOPMENT_tt:0 "§GA set of decisions pertaining to development of our colonies will be unlocked.§!\n"
 FRA_junta_authoritarianism:0 "§YThis will increase our Authoritarianism by 1§!"
-FRA_danger_military_coup:0 "§R만약 우리가 독일에 대한 유화정책을 계속한다면, 군부가 쿠데타를 일으킬 것입니다.§!"
+FRA_danger_military_coup:0 "§R만약 우리가 독일에 대한 유화정책을 계속 펼친다면, 군부가 쿠데타를 일으킬 것입니다.§!"
 #### Opinion Modifiers ####
 FRA_Accepted_Assistance:0 "Accepted Assistance"
 FRA_Refused_Assistance:0 "Refused Assistance"
