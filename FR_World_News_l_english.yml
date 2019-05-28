@@ -171,10 +171,10 @@ worldnews.121.d:0 "[This.GetNewspaperHeader]Habsburg royalty from various coutri
 # EAST INDIES #
 ###############
 
-worldnews.130.t:0 "The Insulindian Uprising"
-worldnews.130.d:0 "[This.GetNewspaperHeader]Now, the news of the Insulindian uprising has spread across the world. The islands that have for many years been under colonial control, first by the Dutch, than the British, has been plunged into an uprising. The British Empire is once again challenged!"
-worldnews.130.a:0 "They Will Be Crushed!"
-worldnews.130.b:0 "Another Revolt Against the British"
+worldnews.130.t:0 "인술린디아 봉기"
+worldnews.130.d:0 "[This.GetNewspaperHeader]이제 인술린디아 봉기에 관한 소식이 전세계로 퍼졌습니다. 처음에는 네덜란드에게, 후에는 영국에게 오랜 기간 식민 통치를 받은 이 군도들은 봉기의 불길에 휩싸였습니다. 대영제국은 다시 한 번 도전받고 있습니다!"
+worldnews.130.a:0 "그들은 진압될 것이다!"
+worldnews.130.b:0 "영국에 대한 또다른 봉기군."
 
 ###############
 #   Soviet    #
