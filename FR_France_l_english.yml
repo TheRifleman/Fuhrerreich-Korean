@@ -115,7 +115,7 @@ FRA_artillery_production_idea:0 "Common Components"
 FRA_artillery_production_idea_desc:0 "Since the new doctrine doctrine of the Land Army is heavily dependent on the production of artillery, it is only natural that we increase our artillery production. However, we will need to undertake a more innovative approach to do this. We shall ensure the Artillery and Anti-tank weapons share common componets for maximum efficiency."
 
 FRA_reduced_conscription_idea:0 "줄어든 징집률"
-FRA_reduced_conscription_idea_desc:0 "몇몇 좌파 인사들과의 기나긴 협상 끝에, 징병제 유지를 골자로 하는 타협안이 받아들여졌습니다 - 비록 징병률은 매우 낮아졌지만 말이지요.."
+FRA_reduced_conscription_idea_desc:0 "몇몇 좌파 인사들과의 기나긴 협상 끝에, 징병제 유지를 골자로 하는 타협안이 받아들여졌습니다 - 비록 징병률 자체는 매우 낮아졌지만 말이지요.."
 
 FRA_defend_the_republic:0 "조국의 수호를 위해"
 FRA_defend_the_republic_desc:0 "우리는 독일놈들과 싸워 이겨봤었습니다! 우린 영국놈들과도 싸워 놈들이 놈들의 조그만 섬으로 줄행랑치게도 만들어 봤었지요! 우린 스페인, 네덜란드, 그리고 이탈리아인들과도 싸웠었으며, 언제나 승리했었습니다! 프랑스는 프랑스의 아이들을 사랑하며, 그리고 그녀의 아이들은 프랑스에 거역하는 자들을 쓰러트리기 위해서라면 무슨 일이든 할 것입니다!"
@@ -230,7 +230,7 @@ FRA_jobs_desc:0 ""
 FRA_remove_leftists:0 "개혁된 관료조직"
 FRA_remove_leftists_desc:0 ""
 
-FRA_cut_immigrant_spending:0 "Closed Country"
+FRA_cut_immigrant_spending:0 "닫힌 국가"
 FRA_cut_immigrant_spending_desc:0 ""
 
 FRA_exclude_church:0 "Church Excluded from Taxation"
@@ -386,8 +386,8 @@ FRA_paratrooper_technology_desc:0 "Instead of primarily relying on planes, we co
 
 ### Navy ###
 
-FRA_national_navy:0 "Marine Nationale"
-FRA_national_navy_desc:0 "The National Navy, or the Marine Nationale, the pride of France. Our navy has been in top shape, unlike our army, and is capable of securing the motherland and the colonies. However, to ensure our navy remains modern, we must continue researching new naval technology."
+FRA_national_navy:0 "국민해군"
+FRA_national_navy_desc:0 "국민해군은 프랑스의 자랑 중 하나입니다. 육군과는 다르게, 해군은 예전처럼 휼륭한 상태를 유지하고 있으며, 프랑스와 식민지들의 바다를 지킬 능력을 갖추고 있습니다. 그렇지만, 해군 기술을 계속 연구해야만, 우리 해군을 지금처럼 계속 유지할 수 있을 것입니다."
 FRA_building_new_dockyards:0 "Building new Dockyards"
 FRA_building_new_dockyards_desc:0 "Increasing our naval production capability is extremely important in the case of a major naval expansion."
 FRA_upgrading_our_ports:0 "Upgrading our Ports"
