@@ -2224,7 +2224,7 @@ NFL_valkist:0 "빈란드"
 NFL_valkist_ADJ:0 "빈란드"
 NFL_valkist_DEF:0 "빈란드"
 
-#Québéc
+#Quebec
 QUE_vanguardist:0 "퀘벡 혁명공화국"
 QUE_vanguardist_ADJ:0 "퀘벡"
 QUE_vanguardist_DEF:0 "퀘벡 혁명공화국"
@@ -3246,7 +3246,7 @@ PER_national_populist_ADJ:0 "이란"
 PER_national_populist_DEF:0 "신 이란 제국"
 PER_valkist:0 "Eranshahr"
 PER_valkist_ADJ:0 "이란"
-PER_valkist_DEF:0 "Ērānshahr"
+PER_valkist_DEF:0 "?r?nshahr"
 
 #Kurdistan
 KUR_vanguardist:0 "쿠르디스탄 소비에트 국가"
@@ -4425,7 +4425,7 @@ HAI_paternal_autocrat_DEF:0 "아이티"
 HAI_national_populist:0 "아이티"
 HAI_national_populist_ADJ:0 "아이티"
 HAI_national_populist_DEF:0 "아이티"
-HAI_valkist:0 "Etat d'Haïti"
+HAI_valkist:0 "Etat d'Haiti"
 HAI_valkist_ADJ:0 "아이티"
 HAI_valkist_DEF:0 "아이티"
 
@@ -5756,7 +5756,7 @@ HES_valkist:0 "헤센 공화국"
 HES_valkist_ADJ:0 "헤센"
 HES_valkist_DEF:0 "헤센 공화국"
 
-#Republic of Baden-Würrtemberg:
+#Republic of Baden-Wurrtemberg:
 BAW_vanguardist:0 "바덴뷔르템부르크 공화국"
 BAW_vanguardist_ADJ:0 "바덴뷔르템부르크"
 BAW_vanguardist_DEF:0 "바덴뷔르템부르크 공화국"
@@ -7539,9 +7539,9 @@ VRS_paternal_autocrat_DEF:0 "러시아 국가판무관부"
 VRS_national_populist:0 "러시아 국가판무관부"
 VRS_national_populist_ADJ:0 "러시아"
 VRS_national_populist_DEF:0 "러시아 국가판무관부"
-VRS_valkist:0 "루스란트 국가판무관부"
-VRS_valkist_ADJ:0 "루스란트"
-VRS_valkist_DEF:0 "루스란트 국가판무관부"
+VRS_valkist:0 "러시아 국가판무관부"
+VRS_valkist_ADJ:0 "러시아"
+VRS_valkist_DEF:0 "러시아 국가판무관부"
 
 # Iceland
 ICE_vanguardist:0 "아이슬란드 인민공화국"
@@ -8033,7 +8033,7 @@ NGR_valkist:0 "하우사"
 NGR_valkist_ADJ:0 "하우사"
 NGR_valkist_DEF:0 "북하우사"
 
-# Ivory Coast/Côte d'Ivoire
+# Ivory Coast/Cote d'Ivoire
 IVO_vanguardist:0 "코트디부아르"
 IVO_vanguardist_ADJ:0 "코트디부아르"
 IVO_vanguardist_DEF:0 "코트디부아르 인민공화국"
