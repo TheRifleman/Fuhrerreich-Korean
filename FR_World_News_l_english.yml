@@ -101,18 +101,18 @@ worldnews.45.a:0 "왜 리가를 위해 죽어야 하는가?"
 ### World News (Wars)
 worldnews.100.d:0 "[This.GetNewspaperHeader]프랑스와 독일의 수개월 간의 외교적 충돌과 적대적 관계 끝에, 결국 전쟁이 발발했습니다. 많은 사람들이 독일을 분할시킨 평화 조약과 그에 따른 발키스트의 집권 이후 전쟁이 필연적이라고 봤지만, 그럼에도 뉴스 보도가 여러 국가에서 라디오를 통해 방송되었을 때 큰 충격으로 다가왔습니다.\n\n고작 몇일 전에 공식 선전포고가 발송되었음에도 불구하고, 프랑스와 독일의 국경에서 이미 격렬한 전투가 벌어지고 있습니다. 이 전쟁이 어떻게 끝나던 간에 유럽의 운명이 결정될 것이고, 이 사실만으로도 현 질서를 바꾸고자 하는 다른 국가들을 끌어들이기에 충분할 것입니다."
 
-worldnews.101.t:0 "오스만 제국에서 혁명!"
-worldnews.101.d:0 "[This.GetNewspaperHeader]Several worrying eyewitness reports have come from the Ottoman Empire! Apparently, the nation has broke out in a civil war due to the recent reforms of the new Sultan, Osman IV, who wishes to consolidate power in the hands of the Sultan and ‘right the wrongs’ of The Great War. This has, clearly, pushed his political opposition (made up primarily of the Turanists and Kemalists) to the brink, who have mobilized the population and taken to fighting against the reign of the tyrannical leader, declaring themselves the true heirs to the Ottoman Empire. Such an event is big, and could threaten stability within the Middle East. Whatever may come, this is certainly a decisive and watershed moment in Ottoman history."
-worldnews.101.a:0 "By god!"
-worldnews.103.t:0 "Revolution In the Republic of Turkey!"
-worldnews.103.d:0 "[This.GetNewspaperHeader]Several worrying eyewitness reports have come from the Republic of Turkey! Apparently, the nation has broke out in a civil war due to the recent reforms of the new President, İsmet İnönü, who wishes to modernize and westernize the nation, dragging it out of the dark ages. This has, clearly, pushed his political opposition (made up primarily of traditionalists who supported the now dead Ottoman Empire) to the brink, who have mobilized the population and taken to fighting against the reign of the leader, declaring themselves the heirs to the Ottoman Empire. Such an event is big, and could threaten stability within the Middle East. Whatever may come, this is certainly a decisive and watershed moment in Turkish history."
-worldnews.103.a:0 "By god!"
+worldnews.101.t:0 "오스만 제국에서 혁명"
+worldnews.101.d:0 "[This.GetNewspaperHeader]여러 걱정스러운 목격담이 오스만 제국에서 나오고 있습니다. 오스만 제국은 술탄에게 권력을 집중하고 대전쟁의 '잘못을 고치려고' 하는 새로운 술탄 오스만 4세의 최근 개혁으로 인해 내전에 빠져들었습니다. 이 개혁은 주로 투란주의자와 케말주의자로 이루어진 오스만 4세의 정치적 반대파를 벼랑 끝으로 밑어붙였고, 그들이 시민들을 조직하여 스스로를 오스만 제국의 진정한 후계자로 선언한 후 폭군에 대항하여 싸우도록 만들었습니다. 이 사건의 영향은 클 것이며, 중동의 안정을 위협할 수도 있습니다. 어떤 결과가 나오던 간에, 이 순간은 오스만 역사의 결정적 분수령이 될 것입니다."
+worldnews.101.a:0 "맙소사!"
+worldnews.103.t:0 "터키 공화국에서 혁명"
+worldnews.103.d:0 "[This.GetNewspaperHeader]여러 걱정스러운 목격담이 터키 공화국에서 나오고 있습니다. 터키 공화국은 나라를 근대화 및 서구화하여 암흑기로부터 끌고 나오고자 하는 신임 대통령 이스메트 이뇌뉘의 최근 개혁으로 인해 내전에 빠져들었습니다. 이 개혁은 주로 없어진 오스만 제국을 지지하던 전통주의자로 구성된 정치적 반대파를 벼랑 끝으로 밑어붙였고, 그들이 시민들을 조직하여 스스로를 오스만 제국의 후계자로 선언한 후 정부에 대항하여 싸우도록 만들었습니다. 이 사건의 영향은 클 것이며, 중동의 안정을 위협할 수도 있습니다. 어떤 결과가 나오던 간에, 이 순간은 오스만 역사의 결정적 분수령이 될 것입니다."
+worldnews.103.a:0 "맙소사!"
 
 ###############
 ### HUNGARY ###
 ###############
 
-worldnews.102.t:0 "The Transylvanian Revolt!"
+worldnews.102.t:0 "트란실바니아 반란"
 worldnews.102.d:0 "[This.GetNewspaperHeader]Earlier today, several armed militias siezed control of key junctions and towns in the Transylvanian region, proclaiming a "Transitional Government" was in place and that the Romanian government had no authority over the region any longer. \n\nThe Transylvanian region has long been a flashpoint for tensions in Europe, ever since the lands were awarded to Romania for their service in the Great War. The Hungarian population in the region appears to have taken up arms against the Romanian government. \n\nWhile not much is currently known about the developing situation, a political union between Transylvania and Hungary may be soon on the horizon."
 worldnews.102.a:0 "How interesting!"
 ###
