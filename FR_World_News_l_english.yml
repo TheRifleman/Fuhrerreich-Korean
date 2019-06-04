@@ -113,18 +113,18 @@ worldnews.103.a:0 "맙소사!"
 ###############
 
 worldnews.102.t:0 "트란실바니아 반란"
-worldnews.102.d:0 "[This.GetNewspaperHeader]Earlier today, several armed militias siezed control of key junctions and towns in the Transylvanian region, proclaiming a "Transitional Government" was in place and that the Romanian government had no authority over the region any longer. \n\nThe Transylvanian region has long been a flashpoint for tensions in Europe, ever since the lands were awarded to Romania for their service in the Great War. The Hungarian population in the region appears to have taken up arms against the Romanian government. \n\nWhile not much is currently known about the developing situation, a political union between Transylvania and Hungary may be soon on the horizon."
-worldnews.102.a:0 "How interesting!"
+worldnews.102.d:0 "[This.GetNewspaperHeader]오늘 일찍, 여러 무장한 민병대원이 트란실바니아 지방의 주요 교차로와 도시를 장악한 후, "과도 정부"를 선언하며 루마니아 정부가 더 이상 지방의 통제권을 가지지 못한다고 발표했습니다. \n\n트란실바니아 지방은 대전쟁에서 협상국 측에 선 것에 대한 보상으로 루마니아에 할양된 후 계속해서 유럽의 화약고였습니다. 아마도 지역의 헝가리인들이 루마니아 정부에 대항해 봉기한 것으로 보입니다. \n\n현재 상황에 대해 알려진 것은 거의 없지만, 트란실바니아와 헝가리 간의 동맹이 곧 일어날지도 모릅니다."
+worldnews.102.a:0 "흥미롭군!"
 ###
-worldnews.103.t:0 "Croatian Revolt in Hungary!"
-worldnews.103.d:0 "[This.GetNewspaperHeader]Brutal fighting erupted in Zagreb earlier today as government forces clashed with a Croatian militia for control of the city, in what appeared to be an attempt at gaining independance from Hungary. \n\nThe Croatian people have been subjigated for hundreds of years, not having their own state since the middle ages, and many believed that the Croatians would eventually try to achieve independance. Failed negotiations seem to be the cause for this revolt, as the Croatians were unable to peacefully secceed from Hungary. \n\nWhether or not this revolt suceeds remains to be seen, but many believe that Croat-majority areas in the Balkans may soon take up arms against their overlords and join the Zagreb revolt."
-worldnews.103.a:0 "The powderkeg lights up once more..."
+worldnews.103.t:0 "헝가리의 크로아티아인 반란"
+worldnews.103.d:0 "[This.GetNewspaperHeader]오늘 자그레브에서 도시를 두고 정부군과 헝가리로부터 독립을 원하는 크로아티아 민병대 간의 치열한 전투가 벌어졌습니다. \n\n크로아티아인들은 중세 이래로 몇 백년간 자기 국가를 가지지 못했으며, 많은 사람들이 크로아티아인들이 결국 독립을 얻기 위해 싸울 것이라고 전망했습니다. 교섭의 실패로 크로아티아인들이 평화적으로 헝가리로부터 독립할 수 없게 되면서 이 반란이 일어난 것으로 생각됩니다. \n\n이 반란이 성공할지는 미지수지만, 많은 사람들이 곧 발칸에서 크로아티아인들이 다수를 차지하는 지역에서도 반란이 일어나 자그레브 반란에 참여할 것이라고 보고 있습니다."
+worldnews.103.a:0 "화약고가 다시 한 번 불타는군..."
 
 #############
 #### USA ####
 #############
 
-worldnews.104.d:0 "[This.GetNewspaperHeader]Tensions along the US-Mexico border have been intense for the last few years since the declaration of independent statehood by the Mexican Republic following the United States of America's sharp economic downturn. To the surprise of essentially no international spectator, this tension boiled over a day ago as what appears to be a long-planned sabotage mission was set into motion by the Mexican government, followed a few short hours later by an official declaration of war. Initial casualties have been extremely high, likely portending things to come. The world looks on, uncertain whether this war might be harbinger to others."
+worldnews.104.d:0 "[This.GetNewspaperHeader]미국의 경기 불황에 따라 멕시코 공화국이 독립을 선언한 후 최근 몇 년 간 미국-멕시코 국경의 긴장감은 팽팽한 상태로 지속되었습니다. 모두가 예상했듯이, 어제 오랫동안 계획된 것처럼 보인 사보타주 작전이 멕시코 정부에 의해 실행되고 몇 시간 후 공식 선전포고가 발송되었습니다. 앞으로 다가올 일들의 전조처럼, 매우 큰 초기 사상자가 발생했습니다. 세계는 이 전쟁이 다른 사건의 전조가 아닐지 걱정하며 관망하고 있습니다."
 
 worldnews.105.d:0 "[This.GetNewspaperHeader]Huey Pierce Long, the governor of Louisiana and populist thorn in the side of American politics, has officially been declared the inaugural President of the United States of America. The first Democratic President in more than three decades, he comes into office promising wealth, inheritance, and economic reforms, Long soared into the White House on the heels of one of the most tense campaigns in American history. Speaking on tension between Mexico and the United States, Long declared that he was 'up to the task; not a man who strikes first', though many political commentators have expressed their disbelief in such a statement. Regardless of the opinion of some, Long's policies clearly resonate with the many, and it's hard to say exactly where the United States will go from here..."
 
