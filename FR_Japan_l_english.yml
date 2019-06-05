@@ -2,20 +2,20 @@
 
 #### Political Parties ####
 
-JAP_vanguardist_party:0 "노동 연맹"
-JAP_vanguardist_party_long:0 "일본 노동 연맹"
-JAP_collectivist_party:0 "노동 연맹"
-JAP_collectivist_party_long:0 "일본 노동 연맹"
+JAP_vanguardist_party:0 "노동연맹"
+JAP_vanguardist_party_long:0 "일본 노동연맹"
+JAP_collectivist_party:0 "노동연맹"
+JAP_collectivist_party_long:0 "일본 노동연맹"
 JAP_libertarian_socialist_party:0 "공산당"
 JAP_libertarian_socialist_party_long:0 "일본 공산당"
 JAP_social_democrat_party:0 "대중당"
-JAP_social_democrat_party_long:0 "사회 대중당"
+JAP_social_democrat_party_long:0 "사회대중당"
 JAP_social_liberal_party:0 "혁신당"
-JAP_social_liberal_party_long:0 ""혁신 진보당
+JAP_social_liberal_party_long:0 "혁신진보당"
 JAP_market_liberal_party:0 "민주당"
-JAP_market_liberal_party_long:0 "헌법 민주당"
+JAP_market_liberal_party_long:0 "헌법민주당"
 JAP_social_conservative_party:0 "정우회"
-JAP_social_conservative_party_long:0 "입헌 정우회"
+JAP_social_conservative_party_long:0 "입헌정우회"
 JAP_authoritarian_democrat_party:0 "일본 제국 해군"
 JAP_authoritarian_democrat_party_long:0 "일본 제국 해군"
 JAP_paternal_autocrat_party:0 "황도파"
@@ -548,7 +548,7 @@ jap_new_constitution_desc:0 "메이지 헌법이 결함을 보이기 시작하�
 jap_army_under_the_parliament:0 "문민통제"
 jap_army_under_the_parliament_desc:0 "육군은 안정을 위하여 영원히 의회의 지휘를 받게 될 것입니다."
 jap_economic_devaluation_act:0 "화폐 평가절하 법안"
-jap_economic_devaluation_act_desc:0 "우리 통화는 환율을 유지하기 위해 매우 많은 비용이 듭니다. 우리는 화폐를 평가절하하고 비용을 아껴야 합니다.
+jap_economic_devaluation_act_desc:0 "우리 통화는 환율을 유지하기 위해 매우 많은 비용이 듭니다. 우리는 화폐를 평가절하하고 비용을 아껴야 합니다."
 jap_military_contracts:0 "제국 육군 감축"
 jap_military_contracts_desc:0 "경제 복구 방법들 중 하나는 군비를 감축시키는 것입니다. 먼저 군 장비부터 시작해야 합니다."
 jap_the_great_recovery:0 "대 회복"
@@ -559,7 +559,7 @@ jap_arrest_the_traitor_desc:0 "육해군 장관들의 신임을 받지 못하는
 #Menace Across The Sea
 jap_menace_across_the_sea:0 "바다 건너의 위협"
 jap_menace_across_the_sea_desc:0 "미국은 우리에게 대항하는 국가중 하나로, 우리에게 비난받고 있습니다. 그들의 위협은 우리의 건함 계획에 추가적인 지원을 제공받을 수 있을 것입니다."
-jap_secure_our_place:0 Secure "우리의 위치 사수"
+jap_secure_our_place:0 Secure:0 "우리의 위치 사수"
 jap_secure_our_place_desc:0 "우리는 마침내 정식으로 제국 보호 동맹에 가입하여 동아시아에서의 우리의 지위를 굳건히 할 것입니다."
 jap_join_the_ISC:0 "ISC 가입"
 jap_join_the_ISC_desc:0 "제국 과학회는 기술 발전에 도움을 줄 수 있습니다. 합류한다면 더욱 우리의 기술을 발전시킬 수 있을 것입니다."
