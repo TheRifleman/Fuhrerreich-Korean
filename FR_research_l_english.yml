@@ -60,7 +60,7 @@ l_english:
  artillery_folder:0 "포병"
  artillery_folder_desc:0 "사단용 야포, 대전차 및 대공 무기."
  land_doctrine_folder:0 "지상전 교리"
- land_doctrine_folder_desc:0 "지상전 교리, 지상군 전투법."
+ land_doctrine_folder_desc:0 "지상전 교리, 지상군의 전투법."
  naval_folder:0 "해군"
  naval_folder_desc:0 "선박과 잠수함."
  mtgnavalfolder:0 "해군"
