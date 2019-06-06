@@ -1023,7 +1023,7 @@ l_english:
  fire_control_methods_2_desc:0 "Instead of firing over the target and losing track of the impacts behind the enemy ship, shots are deliberately dropped short of the target and the distance between impact and target measured to determine the range."
  fire_control_methods_3:0 "염색탄"
  fire_control_methods_3_desc:0 "Adding small color packages to the shells when they are fired colors the impacts around the target and allows multiple ships to engage the same target without being confused by each other's impacts."
- fuel_silos:0 "석유 저장고"
+ fuel_silos:0 " 저장고"
  fuel_silos_desc:0 "Mass Storage of fuel requires a complex set of tanks, pipes, and valves to ensure it is both secure and readily available."
  fuel_refining:0 "연료 정유 I"
  fuel_refining_desc:0 "Advancements in chemical cracking allow for better yield of light fuels from oil."
