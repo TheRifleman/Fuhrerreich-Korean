@@ -66,7 +66,7 @@ l_english:
  mtgnavalfolder:0 "해군"
  mtgnavalfolder_desc:0 "선박과 잠수함. 선박을 맞춤 제작하기 위한 새 부품 연구."
  naval_doctrine_folder:0 "해전 교리"
- naval_doctrine_folder_desc:0 "해상 교리, 해군 전투법."
+ naval_doctrine_folder_desc:0 "해상 교리, 해군의 전투법."
  air_techs_folder:0 "항공"
  air_techs_folder_desc:0 "항공기."
  air_doctrine_folder:0 "공중전 교리"
