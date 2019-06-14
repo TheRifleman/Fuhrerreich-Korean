@@ -11,34 +11,34 @@ IRE_ENG1:0 "Dominion of Ireland"
 
 ##### Factions #####
 
-entente_cordiale:0 "Entente Cordiale"
-league_of_nations:0 "League of Nations"
-commonwealth:0 "Commonwealth of Nations"
+entente_cordiale:0 "협상국"
+league_of_nations:0 "국제 연맹"
+commonwealth:0 "영연방"
 
 ##### Political Parties #####
 
-ENG_vanguardist_party:0 "WIL"
-ENG_vanguardist_party_long:0 "Worker's International League"
-ENG_collectivist_party:0 "BSP"
-ENG_collectivist_party_long:0 "British Socialist Party"
-ENG_libertarian_socialist_party:0 "ILP"
-ENG_libertarian_socialist_party_long:0 "Independent Labour Party"
-ENG_social_democrat_party:0 "Labour"
-ENG_social_democrat_party_long:0 "Labour Party"
-ENG_social_liberal_party:0 "Liberals"
-ENG_social_liberal_party_long:0 "Liberal Party"
-ENG_market_liberal_party:0 "Liberal Nationals"
-ENG_market_liberal_party_long:0 "Liberal Nationals Party"
-ENG_social_conservative_party:0 "Tories"
-ENG_social_conservative_party_long:0 "Conservative Party"
-ENG_authoritarian_democrat_party:0 "Military Junta"
-ENG_authoritarian_democrat_party_long:0 "Military Junta"
-ENG_paternal_autocrat_party:0 "Windsor"
-ENG_paternal_autocrat_party_long:0 "House of Windsor"
+ENG_vanguardist_party:0 "국제노동자연맹"
+ENG_vanguardist_party_long:0 "국제노동자연맹"
+ENG_collectivist_party:0 "사회당"
+ENG_collectivist_party_long:0 "영국 사회당"
+ENG_libertarian_socialist_party:0 "독립노동당"
+ENG_libertarian_socialist_party_long:0 "독립 노동당"
+ENG_social_democrat_party:0 "노동당"
+ENG_social_democrat_party_long:0 "노동당"
+ENG_social_liberal_party:0 "자유당"
+ENG_social_liberal_party_long:0 "자유당"
+ENG_market_liberal_party:0 "자유국민당"
+ENG_market_liberal_party_long:0 "자유국민당"
+ENG_social_conservative_party:0 "토리당"
+ENG_social_conservative_party_long:0 "보수당"
+ENG_authoritarian_democrat_party:0 "군사 정권"
+ENG_authoritarian_democrat_party_long:0 "군사 정권"
+ENG_paternal_autocrat_party:0 "윈저"
+ENG_paternal_autocrat_party_long:0 "윈저 왕가"
 ENG_national_populist_party:0 "IFL"
-ENG_national_populist_party_long:0 "Imperial Federation League"
+ENG_national_populist_party_long:0 "제국연방연맹"
 ENG_valkist_party:0 "PSPB"
-ENG_valkist_party_long:0 "People's Socialist Party of Britannia"
+ENG_valkist_party_long:0 "브리타니아 인민사회당"
 
 
 # - Puppet Parties
@@ -102,7 +102,7 @@ hog_meme_man:0 "Inspiring Figure"
 
 ##### Tech Sharing Groups #####
 
-imperial_research_name:0 "Imperial Research"
+imperial_research_name:0 "제국 연구 협회"
 imperial_research_desc:0 "Increased research capabilities for all nations associated with the British Empire."
 
 ##### Relations Modifiers #####
@@ -146,7 +146,7 @@ WORLD_second_gw:0 "The Second Great War"
 
 ##### Ideas #####
 
-undisturbed_isolation:0 "Splendid Isolation"
+undisturbed_isolation:0 "명예로운 고립"
 undisturbed_isolation_desc:0 "With its victory in Great War, Britain once again retreated into isolation, content to manage its Empire and avoid further entanglements on the European continent. With the onset of political developments in British India and Colonial Africa the attention of the British Empire is focused squarely on internal affairs."
 
 ENG_col_unrest:0 "Colonial Unrest"
@@ -161,7 +161,7 @@ ENG_col_uprising2_desc:0 "A large-scale revolt against British rule in Africa. I
 ENG_col_uprising_france:0 "East Africa In Flames"
 ENG_col_uprising_france_desc:0 "French support for the revolt in East Africa has significantly made matters worse in our East Africa possessions. It will be several months before stability fully returns to the region."
 
-ENG_war_fatigue:0 "Legacy of the Great War"
+ENG_war_fatigue:0 "대전쟁의 유산"
 ENG_war_fatigue_desc:0 "Despite victory in the war to end all wars a firm mark has been made upon the minds and culture of the British people, with the Armed Forces no longer being perceived as they once were. If we are to solve this chronic issue we must rebuild the image of the Armed Forces in our Empire."
 
 ENG_jarrow:0 "The Jarrow Crusade"
