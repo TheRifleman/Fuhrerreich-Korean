@@ -6,8 +6,8 @@
 
 ##### Bookmark Description #####
 
-ENG_FUHRERREICH_DESC:0 "The Great War lasted for five long years of merciless slaughter and destruction. In the end, Britain stood victorious over the butchered Central Powers, establishing itself once more as the global hegemon. The 1931 Statute of Autonomy would grant the Dominion nations only limited powers, with the original proposals being drastically altered resulting in great resentment towards the mother country. Britain is in a precarious position. The Imperial Conference of 1937 looms ever closer and in the years that follow Britain will be faced with choices that will not only determine the fate of the Empire, but of the future of Britain itself."
-IRE_ENG1:0 "Dominion of Ireland"
+ENG_FUHRERREICH_DESC:0 "대전쟁은 무자비한 살육과 파괴속에서 5년동안 진행되었습니다. 결국 영국은 동맹국들을 상대로 승리를 거두며 다시한번 세계적인 패권국가로 자리매김했습니다. 1931년의 자치령들에게는 제한된 권한만을 부여할 것이며, 원래의 권한들은 크게 변경되어 우리 영국에 큰 분노를 일으키고 있습니다. 영국은 위태로운 상태입니다. 1937년의 제국 회의는 점점더 가까워지고 영국을 따르는 기간동안에 제국의 운명을 결정할 뿐만 아니라 영국의 미래를 결정할 선택들을 해야 합니다."
+IRE_ENG1:0 "아일랜드 자치령"
 
 ##### Factions #####
 
@@ -43,27 +43,27 @@ ENG_valkist_party_long:0 "브리타니아 인민사회당"
 
 # - Puppet Parties
 
-ENG_ITP_authoritarian_democrat:0 "Military Administration"
-ENG_ITP_authoritarian_democrat_party_long:0 "Military Administration"
-ENG_GRP_authoritarian_democrat:0 "Military Administration"
-ENG_GRP_authoritarian_democrat_party_long:0 "Military Administration"
-ENG_FRP_authoritarian_democrat:0 "Military Administration"
-ENG_FRP_authoritarian_democrat_party_long:0 "Military Administration"
+ENG_ITP_authoritarian_democrat:0 "군사 정부"
+ENG_ITP_authoritarian_democrat_party_long:0 "군사 정부"
+ENG_GRP_authoritarian_democrat:0 "군사 정부"
+ENG_GRP_authoritarian_democrat_party_long:0 "군사 정부"
+ENG_FRP_authoritarian_democrat:0 "군사 정부"
+ENG_FRP_authoritarian_democrat_party_long:0 "군사 정부"
 
 ##### Political Ministers #####
 
-ENG_Samuel_Hoare_hog:0 "Sir Samuel Hoare, Prime Minister"
-ENG_John_Anderson_for:0 "1st Viscount John Anderson, Foreign Secretary"
-ENG_Neville_Chamberlain_eco:0 "Neville Chamberlain, Chancellor of the Exchequer"
-ENG_John_Gilmour_sec:0 "Sir John Gilmour, Home Secretary"
-ENG_Howard_Wood_int:0 "Sir Howard Wood, War Secretary"
+ENG_Samuel_Hoare_hog:0 "새뮤얼 호어 경, 수상"
+ENG_John_Anderson_for:0 "제 1자작 존 앤더슨, 외무 장관"
+ENG_Neville_Chamberlain_eco:0 "네빌 체임벌린, 재무 장관"
+ENG_John_Gilmour_sec:0 "존 길모어 경, 내무 장관"
+ENG_Howard_Wood_int:0 "하워드 우드 경, 전쟁 장관"
 
-ENG_Alfred_Brown_for:0 "Alfred Brown, Foreign Secretary"
-ENG_John_Simon_eco:0 "1st Viscount John Simon, Chancellor of the Exchequer"
+ENG_Alfred_Brown_for:0 "알프레드 브라운, 외무 장관"
+ENG_John_Simon_eco:0 "제 1자작 존 사이먼, 재무 장관"
 
-ENG_Arthur_Greenwood_hog:0 "Arthur Greenwood, Prime Minister"
-ENG_Herbert_Morrison_for:0 "Baron Morrison of Lambeth, Foreign Secretary"
-ENG_Oswald_Mosley_eco:0 "Sir Oswald Mosley, Chancellor of the Exchequer"
+ENG_Arthur_Greenwood_hog:0 "아서 그린우드, 수상"
+ENG_Herbert_Morrison_for:0 "람베스의 모리슨 남작, 외무 장관"
+ENG_Oswald_Mosley_eco:0 "오즈왈드 모즐리 경, 재무 장관"
 ENG_Sydney_Olivier_sec:0 "1st Baron Sydney Olivier, Home Secretary"
 ENG_Josiah_Wedgwood_int:0 "1st Baron Josiah Wedgwood, War Secretary"
 
