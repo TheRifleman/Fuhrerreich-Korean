@@ -38,34 +38,34 @@ SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티�
 SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레옹에서 봉기할것입니다"
 
 #Ideas
-SCW_idea:0 "The Spanish Civil War"
-SCW_idea_desc:0 "The Spanish Civil war which began in 1935 has thrown Spain into utter chaos, and we've been thrown into the fire. We must come out victorious, for a better Spain!"
+SCW_idea:0 "스페인 내전"
+SCW_idea_desc:0 "1935년부터 시작된 스페인 내전은 스페인을 완전히 혼란에 빠뜨렸고, 우리는 불길속으로 던져졌습니다. 우리는 더 나은 스페인을 위하여 승리해야 합니다!"
 
-SCW_SPM_no_support:0 "Support Cut-Off"
-SCW_SPM_no_support_desc:0 "With the British caught up in the Indian revolt, support for our side of the conflict has largely been cut off. We'll need to fend for ourselves until the Indians are dealt with."
+SCW_SPM_no_support:0 "원조 중단"
+SCW_SPM_no_support_desc:0 "영국은 인도에서 일어난 반란으로 인하여 우리측에 지원하는 것을 거의 중단했습니다. 인도의 반란이 진압될 때까지는 우리 스스로 버텨야 합니다."
 
-SCW_SPM_no_support_2:0 "Support Ended"
-SCW_SPM_no_support_2_desc:0 "With the dawn of the London Stock Market Crash, our support from the British has been totally cut off. Our chance of survival is limited, and many predict our fall any moment now."
+SCW_SPM_no_support_2:0 "원조 종료"
+SCW_SPM_no_support_2_desc:0 "런던증권시장 붕괴로 인하여 영국으로부터의 지원은 완전히 종료되었습니다. 우리가 홀로 버티는 것은 힘겨울 것이고, 많은 이들이 우리가 당장이라도 붕괴할 것이라고 걱정하고 있습니다."
 
-SCW_SPM_support_regained:0 "Support Regained"
-SCW_SPM_support_regained_desc:0 "The United Kingdom has made the wise decision to support our government in the civil war once again, resulting in a surge of strength. We must use this oppurtunity while it lasts!"
+SCW_SPM_support_regained:0 "다시 시작된 원조"
+SCW_SPM_support_regained_desc:0 "영국은 내전에서 우리정부를 지원하기로 결정하였고, 우리에게 지원을 해왔습니다. 우리는 이 지원을 이용해 내전에서 승리해야 합니다."
 
 #Events
-scw.1.t:0 "The Republic Destroyed"
-scw.1.d:0 "The Spanish Civil War has left our favor, with the Spanish Republic which controlled Madrid falling not long ago. The rebel movements have begun to move into Tangiers, but our very close proximity to it can cut off the rebel forces, and allow us to start a Republican government in exile in Tangiers. However, doing so will hurt relations with the victor of the war, but allows us to have a claim to the region."
+scw.1.t:0 "공화국의 붕괴"
+scw.1.d:0 "스페인 내전은 얼마 전까지 마드리드를 지배했던 스페인 공화국이 몰락하면서 우리에게 유리해졌습니다. 반군들이 탠지어로 이동하기 시작했지만, 우리와 매우 가까운 곳에서 우리는 반군들을 차단할수 있습니다. 그러나 우리는 탠지어로 망명하는 공화정부를 존속시키게 됩니다. 전쟁의 승자와의 관계는 영 좋지 못하겠지만 우리는 그 지역을 통제할수 있을 것입니다."
 
-scw.2.t:0 "The Civil War Ends"
-scw.2.d:0 "When the dust settled, we came out on top, the one and only Republican government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+scw.2.t:0 "내전의 끝"
+scw.2.d:0 "먼지가 가라앉자, 하나뿐인 공화국 정부만이 남았습니다. 우리는 무너진 국가와 국민, 산업과 함께 있고, 회복과정은 이제까지 겪은 것들중 가장 어려운 때가 될 것입니다. 하지만 이제야 스페인은 승리했다고 말할수 있습니다."
 
-scw.3.t:0 "The Civil War Ends"
-scw.3.d:0 "When the dust settled, we came out on top, the one and only Falangist government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+scw.3.t:0 "내전의 끝"
+scw.3.d:0 "먼지가 가라앉자, 하나뿐인 팔랑헤 정부만이 남았습니다. 우리는 무너진 국가와 국민, 산업과 함께 있고, 회복과정은 이제까지 겪은 것들중 가장 어려운 때가 될 것입니다. 하지만 이제야 스페인은 승리했다고 말할수 있습니다."
 
-scw.4.t:0 "The Civil War Ends"
-scw.4.d:0 "When the dust settled, we came out on top, the one and only People's government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+scw.4.t:0 "내전의 끝"
+scw.4.d:0 "먼지가 가라앉자, 하나뿐인 인민 공화국 정부만이 남았습니다. 우리는 무너진 국가와 국민, 산업과 함께 있고, 회복과정은 이제까지 겪은 것들중 가장 어려운 때가 될 것입니다. 하지만 이제야 스페인은 승리했다고 말할수 있습니다."
 
-scw.5.t:0 "The Civil War Ends"
-scw.5.d:0 "When the dust settled, we came out on top, the one and only Monarchist government. We are left with a broken nation, people, and industry, and the recovery process will be one of the most difficult the nation has ever seen. But today, Spain can together say that it was won."
+scw.5.t:0 "내전의 끝"
+scw.5.d:0 "먼지가 가라앉자, 하나뿐인 왕실만이 남았습니다. 우리는 무너진 국가와 국민, 산업과 함께 있고, 회복과정은 이제까지 겪은 것들중 가장 어려운 때가 될 것입니다. 하지만 이제야 스페인은 승리했다고 말할수 있습니다."
 
-scw.6.t:0 "The London Stock Market Crash"
-scw.6.d:0 "With our main and only funder being the United Kingdom, their recent economic depression has cut off our support worse than when the Indian Revolt Cut-Off. Our already broken economy has been declared dead by many economists, and support for war overall within the country is at an all time low. Many within our land are telling us to surrender, and for the 'Kingdom to be buried once and for all!'."
-scw.6.a:0 "This is truly the end..."
+scw.6.t:0 "런던증권시장 붕괴"
+scw.6.d:0 "영국의 최근 경제적인 불황은 인도에서의 반란이 일어났을 때보다 더욱 심하게 우리를 괴롭혔습니다. 이미 붕괴된 우리의 경제는 많은 경제학자들이 소생하기 어렵다고 판단했고, 전쟁지지도는 사상 최저입니다. 우리 영토 내부의 많은 이들이 우리에게 항복하라고 권고하고 있습니다. 그리고 '왕국은 매장되어야 한다'고 말합니다."
+scw.6.a:0 "이것으로 끝나길 바라자..."
