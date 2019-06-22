@@ -177,8 +177,8 @@ jap.hol.friends.of.our.friends.are.our.friends.d:0 "일본은 우리 세력에 �
 
 ###Tooltips###
 jap_us_excercise:0 "미국과의 군사훈련을 취소합니다."
-jap_spawn_korean_units_2:0 "§Y2§!개의 완전 무장한 §Y한국인 자원병§!이 생성됩니다."
-jap_spawn_korean_units_3:0 "§Y3§!개의 완전 무장한 §Y한국인 자원병§!이 생성됩니다."
+jap_spawn_korean_units_2:0 "§Y2§!개의 완전 무장한 §Y조선인 자원병§!이 생성됩니다."
+jap_spawn_korean_units_3:0 "§Y3§!개의 완전 무장한 §Y조선인 자원병§!이 생성됩니다."
 jap_spawn_588_bombers:0 "술라웨시에 §Y588 폭격기 편대§!"
 
 #####Ideas#####
@@ -221,9 +221,9 @@ JAP_LSMC_stage3_rec:0 "런던증권시장 붕괴 - 3단계 복구"
 JAP_LSMC_stage4_rec:0 "런던증권시장 붕괴 - 4단계 복구"
 JAP_LSMC_stage5_rec:0 "런던증권시장 붕괴 - 5단계 복구"
 jap_LSMC_conquered:0 "런던증권시장 붕괴 - 회복"
-JAP_incorporate_korea_1:0 "한국인 동화 - 빠르게"
-JAP_incorporate_korea_2:0 "한국인 동화 - 균형적"
-JAP_incorporate_korea_3:0 "한국인 동화 - 천천히"
+JAP_incorporate_korea_1:0 "조선인 동화 - 빠르게"
+JAP_incorporate_korea_2:0 "조선인 동화 - 균형적"
+JAP_incorporate_korea_3:0 "조선인 동화 - 천천히"
 JAP_bank_loans:0 "부자세 법안"
 JAP_interservice_rivalry_army_dominant:0 "군대 내부 파벌 - 우세한"
 JAP_interservice_rivalry_army_bolstered:0 "군대 내부 파벌 - 개선적"
@@ -630,14 +630,78 @@ jap_shanghai_incident_desc:0 "갈수록 커지는 중국 내 반일감정은 제
 jap_defeat_cliques:0 "군벌 타도"
 jap_defeat_cliques_desc:0 "중국 민족주의자들이 우리의 지배하에 있는 가운데, 우리는 군벌이 통제하고 있는 부분을 공동정부 통제하로 통합할 것입니다."
 jap_korean_project:0 "조선 계획"
-jap_korean_project_desc:0 "한국이 제국에 편입됨에 따라, 우리는 한국인들을 우리의 신민으로써 배려한다는 것을 보여주기 위하여 한국인들을 위한 계획을 실행할 것입니다."
+jap_korean_project_desc:0 "조선이 제국에 편입됨에 따라, 우리는 조선인들을 우리의 신민으로써 배려한다는 것을 보여주기 위하여 인들을 위한 계획을 실행할 것입니다."
 jap_chinese_project:0 "중국 계획"
 jap_chinese_project_desc:0 "이른바 '중국 계획'은 우리에게 협력하고 있는 중국 정부를 우리의 통제하에 놓으려는 계획입니다."
 jap_three_race_coprosperity:0 "삼족공영"
 jap_three_race_coprosperity_desc:0 "중국인들과 한국인들이 우리에게 협력하면서, 그들은 우리와 함께 일하며 발전하고, 그렇지 않으면 우리가 쉽게 그들을 떠날수 있다는 것을 확실히 해야 합니다."
-jap_promote_koreans:0 "한국인 모병"
+jap_promote_koreans:0 "ina:0 "인도차이나 공격"
+
+623
+
+jap_strike_indochina_desc:0 "우리의 작전은 준비되었고, 우리는 인도차이나 침공 준비만을 기다리고 있습니다."
+
+624
+
+jap_three_musketeers_i_mean_indochinese_bros:0 "세 인도차이나 형제"
+
+625
+
+jap_three_musketeers_i_mean_indochinese_bros_desc:0 "인도차이나 반도는 과거 라오스, 베트남, 캄보디아에 의해 통치되었습니다. 우리는 그들이 우리에게 협력하여 반도를 통치하도록 할 것입니다."
+
+626
+
+jap_pressure_siam:0 "시암 압박"
+
+627
+
+jap_pressure_siam_desc:0 "우리는 시암의 왕에게 우리의 의지에 충성을 바치고 향후있을 프랑스령 인도차이나 공격에 대한 지원을 하도록 압박할 것입니다."
+
+628
+
+jap_shanghai_incident:0 "상하이 사건"
+
+629
+
+jap_shanghai_incident_desc:0 "갈수록 커지는 중국 내 반일감정은 제1차 청일전쟁 이후 계속해서 증가세를 보이며 상하이 사건으로 정점을 찍었습니다. 우리는 여전히 그 사건에 대해 아무런 반응을 보이지 않고 있습니다. 우리는 이 시간을 우리 내부에서 토론하는 데 사용할 것입니다."
+
+630
+
+jap_defeat_cliques:0 "군벌 타도"
+
+631
+
+jap_defeat_cliques_desc:0 "중국 민족주의자들이 우리의 지배하에 있는 가운데, 우리는 군벌이 통제하고 있는 부분을 공동정부 통제하로 통합할 것입니다."
+
+632
+
+jap_korean_project:0 "조선 계획"
+
+633
+
+jap_korean_project_desc:0 "한국이 제국에 편입됨에 따라, 우리는 한국인들을 우리의 신민으로써 배려한다는 것을 보여주기 위하여 한국인들을 위한 계획을 실행할 것입니다."
+
+634
+
+jap_chinese_project:0 "중국 계획"
+
+635
+
+jap_chinese_project_desc:0 "이른바 '중국 계획'은 우리에게 협력하고 있는 중국 정부를 우리의 통제하에 놓으려는 계획입니다."
+
+636
+
+jap_three_race_coprosperity:0 "삼족공영"
+
+637
+
+jap_three_race_coprosperity_desc:0 "중국인들과 한국인들이 우리에게 협력하면서, 그들은 우리와 함께 일하며 발전하고, 그렇지 않으면 우리가 쉽게 그들을 떠날수 있다는 것을 확실히 해야 합니다."
+
+638
+
+jap_promote_koreans:0 "종ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ인 모병"
 jap_promote_koreans_desc:0 "우리는 한국인 모병을 홍보하고 우리를 위해 복무하는 한국인들이 배척받지 않도록 한국인들을 안정시킬 것입니다."
-jap_korean_army:0 "한국인 군대"
+jap_korean_army:0 "조선인 군대"
 jap_korean_army_desc:0 "대한제국 육군의 잔해가 아직 남아있을때 우리는 한국인 군대를 창설할 것입니다."
 jap_chinese_air:0 "중화민국 공군"
 jap_chinese_air_desc:0 "중국 공군은 퇴보하고 오래됬습니다. 그들은 현대화를 도와줄 이들이 없습니다. 우리는 그들의 무기를 현대화 해줄 것입니다."
@@ -664,9 +728,9 @@ jap_russo_japan_ally_desc:0 "동맹이 지지받음에 따라서, 우리는 번�
 
 #Country Flags
 jap_sep_incident_done:0 "9월 사건의 해결"
-jap_sep_incident_diplo:0 "구국의 군대가 버텨내다."
-jap_sep_incident_smash:0 "구국의 군대가 무너지다."
-JAP_renounce_wnt:0 "워싱턴 해군 조약 - 거부되다"
+jap_sep_incident_diplo:0 "구국의 군대가 버팀."
+jap_sep_incident_smash:0 "구국의 군대가 무너짐."
+JAP_renounce_wnt:0 "워싱턴 해군 조약 - 거부됨"
 JAP_san_fran_summit_held:0 "샌프란시스코 정상회담 개최"
 us_jap_eco_agreement:0 "샌프란시스코 정상회담 - 경제협정"
 JAP_san_fran_summit_good_end:0 "샌프란시스코 정상회담 - 좋은결말"
