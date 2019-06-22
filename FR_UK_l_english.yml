@@ -95,10 +95,10 @@ vauxhall:0 "복스홀"
 
 ##### Traits #####
 
-meddler:0 "Political Meddler"
-charismatic:0 "Charismatic"
-hog_mad_jack:0 "Mad Jack"
-hog_meme_man:0 "Inspiring Figure"
+meddler:0 "정치 참견꾼"
+charismatic:0 "카리스마적인"
+hog_mad_jack:0 "미치광이 잭"
+hog_meme_man:0 "영감적인 인물"
 
 ##### Tech Sharing Groups #####
 
@@ -238,23 +238,23 @@ ENG_lf2:0 "런던 시장 붕괴"
 ENG_lf2_desc:0 "An economic crisis unlike anything we have ever seen. Following the calamitous week on the London Stock Exchange and the following weeks of continued catastrophy, the economy of both Britain and Empire is in shambles. Demand for goods has flat-lined, industries across the nation are closing and the unemployment rate soars. This crisis will be felt for years to come."
 ENG_lf_success:0 "Liberated Markets"
 
-ENG_war_mobil:0 "War-Mobilised Economy"
+ENG_war_mobil:0 "전쟁 동원 경제"
 ENG_war_mobil_desc:0 "Now that a state of war exists with ourselves and another Great Power our economy has been mobilised to meet the demands of war. As such the effects of the catastrophic London Stock Market Collapse have been offset significantly. We are likely to see significant production boosts across our economy for the next year."
 
-ENG_eco_instab:0 "Economic Instability"
+ENG_eco_instab:0 "경제 불안정"
 ENG_eco_instab_desc:0 "Despite clearing the worst of the effects of the London Stock Market Collapse some latent economic instability remains. It will be least a year before we fully recover from these effects."
 
 ENG_ire_integration_efforts:0 "Irish Integration Efforts"
 ENG_ire_integration_efforts_desc:0 "Attempted integration of Ireland into the United Kingdom is likely to be an extremely difficult process, with significant political capital needing to be expended in order to ensure its success."
 ENG_integ2:0 "Irish Integration Efforts"
 ENG_ire_integ2_desc:0 "Attempted integration of Ireland into the United Kingdom is likely to be an extremely difficult process, with significant political capital needing to be expended in order to ensure its success."
-ENG_irb:0 "Irish Republican Brotherhood"
+ENG_irb:0 "아일랜드 공화주의 형제단"
 ENG_irb_desc:0 "Ever since the 1916 Easter Rising, the IRB has resorted to more low-key attacks aimed at disrupting our rule in Ireland. These attacks normally take the form of convoy ambushes and assaults on police positions. Until we can discover a means of destroying the IRB, these attacks will likely continue."
-ENG_irb1:0 "Irish Republican Brotherhood"
+ENG_irb1:0 "아일랜드 공화주의 형제단"
 ENG_irb1_desc:0 "Ever since the 1916 Easter Rising, the IRB has resorted to more low-key attacks aimed at disrupting our rule in Ireland. These attacks normally take the form of convoy ambushes and assaults on police positions. Until we can discover a means of destroying the IRB, these attacks will likely continue."
-ENG_irb2:0 "Irish Republican Brotherhood"
+ENG_irb2:0 "아일랜드 공화주의 형제단"
 ENG_irb2_desc:0 "Ever since the 1916 Easter Rising, the IRB has resorted to more low-key attacks aimed at disrupting our rule in Ireland. These attacks normally take the form of convoy ambushes and assaults on police positions. Until we can discover a means of destroying the IRB, these attacks will likely continue."
-ENG_irb3:0 "Irish Republican Brotherhood"
+ENG_irb3:0 "아일랜드 공화주의 형제단"
 ENG_irb3_desc:0 "Ever since the 1916 Easter Rising, the IRB has resorted to more low-key attacks aimed at disrupting our rule in Ireland. These attacks normally take the form of convoy ambushes and assaults on police positions. Until we can discover a means of destroying the IRB, these attacks will likely continue."
 
 ENG_conser_nation:0 "Conservative Nation"
