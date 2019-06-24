@@ -362,7 +362,7 @@ TUR_educating_the_people_idea:0 "시민 교육"
 TUR_educating_the_people_idea_desc:0 ""
 TUR_political_resistance_idea:0 "정치적 저항"
 TUR_political_resistance_idea_desc:0 ""
-TUR_an_inclusive_empire_idea:0 "모두를위한 제국"
+TUR_an_inclusive_empire_idea:0 "모두를 위한 제국"
 TUR_forced_conscription_idea:0 "의무적 징병제"
 TUR_forced_conscription_idea_desc:0 ""
 TUR_risen_from_the_ashes_idea:0 "잿더미에서 부활하다"
@@ -477,7 +477,7 @@ TUR_economic_prosperity_tt:0 "§G우리는 새롭게 경제번영의 시대로 �
 TUR_building_naval_cruisers_tt:0 "§Y우리는 해군 순양함 건조에 착수할 것입니다.§!\n"
 TUR_naval_cruisers_tt:0 "우리는 삼순에서 §Y해군 순양함§! 두척을 얻을 것입니다.\n"
 TUR_british_military_assistance_tt:0 "§Y로열 아스널과의 계약§!중점이 해제되었습니다.\n"
-TUR_german_military_assistance_tt:0 "§Y로열 아스널과의 계약§!중점이 해제되었습니다.\n"
+TUR_german_military_assistance_tt:0 "§Y마우저와의 계약§!중점이 해제되었습니다.\n"
 
 #### Opinion Modifiers ####
 TUR_dissolution_of_the_caliphate:0 "칼리프의 끝"
@@ -526,7 +526,7 @@ tur.2.d:0 "놀랍게도, 술탄 압뒬메지트 2세는 최근에 [Root.GetAdjec
 tur.2.a:0 "좋지 않군..."
 
 tur.3.t:0 "총회가 소집되다"
-tur.3.d:0 "[Root.GetNameDef] 내부에서 가장 영향력 있고 강력한 정당과 파벌들이 [Root.GetNameDef]의 운명을 결정하기 위하여 모였습니다. 현재로써는, 국가가 총회의 결정을 기다리고 있으며, 제국의 상태는 불안과 불확실성이 가득합니다. 속수무책으로 상황을 지켜보고 있는 국민의 불안이 우리의 회의로 쏠렸습니다.\n\n참석자중 과반수, 특히 오스만 의회와 자유 협상국 출신은 오스만 의회하에 신속하고 강력한 권력의 통합을 지지합니다. 하지만 대부분 케말주의자들과 투란주의자들로 구성되어있는 파벌들은 투표가 시작되면서 제국의 파멸과 터키라는 새로운 국가의 재 탄생을 청원하고 있습니다.\n\n이제 투표가 종료되고, 개표에 관심이 집중되는 가운데, 참석자들은 어떤 결과가 나올지 기다리며 숨을 죽이고 있습니다.\n\n마지막 표가 개표되었고, 방금전 알려진 결과는..."
+tur.3.d:0 "[Root.GetNameDef] 내부에서 가장 영향력 있고 강력한 정당과 파벌들이 [Root.GetNameDef]의 운명을 결정하기 위하여 모였습니다. 현재로써는, 국가가 총회의 결정을 기다리고 있으며, 제국의 상태는 불안과 불확실성이 가득합니다. 속수무책으로 상황을 지켜보고 있는 국민의 불안이 우리의 회의로 쏠렸습니다.\n\n참석자 중 과반수, 특히 오스만 의회와 자유 협상국 출신은 오스만 의회하에 신속하고 강력한 권력의 통합을 지지합니다. 하지만 대부분 케말주의자들과 투란주의자들로 구성되어있는 파벌들은 투표가 시작되면서 제국의 파멸과 터키라는 새로운 국가의 재 탄생을 청원하고 있습니다.\n\n이제 투표가 종료되고, 개표에 관심이 집중되는 가운데, 참석자들은 어떤 결과가 나올지 기다리며 숨을 죽이고 있습니다.\n\n마지막 표가 개표되었고, 방금전 알려진 결과는..."
 tur.3.a:0 "제국은 더 이상 없다!"
 tur.3.b:0 "제국은 우뚝 설 것이다."
 
