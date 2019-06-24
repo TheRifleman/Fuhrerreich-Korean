@@ -533,7 +533,7 @@ tur.3.b:0 "제국은 우뚝 설 것이다."
 tur.4.t:0 "제국의 해체"
 tur.4.d:0 "많은 사람들이 근소한 차이로 이겼다는 것을 보았고, 케말주의자들과 투란주의자들의 기반은 모든 역경에도 불구하고, 오스만 제국의 폐지를 찬성하는데 성공하는 것처럼 보입니다. 오스만 제국의 잿더미에서 터키라는 새로운 국가가 탄생하며 국가는 즉시 해체될 것입니다.\n\n케말주의자들과 투란주의자들은 이슬람 세계를 통합하기 보다는 터키 중심적인 시각을 전적으로 지지하는 국가를 주장해 왔습니다. 물론, 이것은 다른 이슬람 국가들을 위협하지는 않을 것입니다. 오스만 제국의 해체와 함께 칼리프라는 작위가 사라지기 때문입니다.\n\n하지만, 문제가 하나 있습니다. 케말주의자들과 투란주의자들 사이의 선거라는 점입니다. 그들은 새로운 터키라는 국가를 이끌기 위하여 투표권이 있는 다른 대표들을 설득해야 할 것입니다.\n\n투표가 시작되었습니다. 다시한번 말하지만, 대부분의 사람들이 새로운 국가를 이끄는 케말주의자들을 지지하는 것처럼 보이지만, 투란주의자들이 승리할수도 있을 것입니다.\n\n지금 까지 집계된 투표수는 바로..."
 tur.4.a:0 "투란주의자들이 승리하다!"
-tur.4.b:0 "케말리스트들이 승리하다!"
+tur.4.b:0 "케말들이 승리하다!"
 
 tur.5.t:0 "제국은 우뚝 설 것이다!"
 tur.5.d:0 "예상대로 참석한 대의원 중 압도적 다수가 [Root.GetNameDef]에게  국가뿐만 아니라 국가의 안정을 위해 투표한 것으로 보이며, 오히려 해산보다는 내부의 개혁을 원하고 있습니다.\n\n정치적으로 말하자면, 야당인 케말주의자들과 투란주의자들을 귀속시키지는 못했지만, [Root.GetNameDef] 내부의 많은 사람들은 그들의 제국내 투자와 안정이 약속되어있어 안도의 한숨을 내쉬고 있다고 전했습니다.\n\n하지만 우리는 돌아가신 술탄 압뒬메지트 2세를 대신하여 영광으로 이끌어 주실 후계자를 골라야 합니다. 현재로써는 후계자가 두명이나 있는데 감사해야 합니다. 아흐메드 니하드 에펜디는 전 술탄이신 마흐메드 5세의 손자로써 온건하고 자유로운 제국으로의 개혁을 원합니다. 아니면 이전 영토의 정복과 군국주의를 원하며 제국의 영광을 복원하고 술탄의 권력을 향상시키려는 마흐메스 살라딘 왕자의 아들인 오스만 푸아드 에펜디가 있습니다. 양측중 오직 한쪽만이 승리할 것입니다.\n\n누가 [Root.GetNameDef]를 이끌게 될까요?"
@@ -605,19 +605,19 @@ tur.19.d:0 "영국은 우리의 도움요청을 거절했습니다. 우리끼리
 tur.19.a:0 "젠장!"
 
 tur.20.t:0 "정치 체계 점검"
-tur.20.d:0 "By constricting the parties that are in direct opposition, whether explicitly or implicitly, to our goals, we can ensure that parliamentary representatives that are elected are more favourable towards what we consider to be optimal. This will mean that a lot of the republican and left leaning parties will lose representation and the Sultan will manage to, slowly but surely, take the reins through the manipulation of the existing system."
+tur.20.d:0 "직접적이든 암묵적이든 반대하는 정당들의 권한을 제한함으로써, 우리는 국회에서 선출되는 대표들이 우리가 원하는 목표에 맞을 것을 보장할수 있습니다. 이것은 공화파들과 좌파 정당들의 대표성을 잃게 할것이고, 술탄은 기존 체제에 조작을 가해 느리지만 확실하게 정권을 잡을수 있을 것입니다."
 tur.20.a:0 "완벽해."
 
 tur.21.t:0 "사법관제"
-tur.21.d:0 "The Sultan has decided to step in and reverse many of the reforms that had been made to the judicial system during the late nineteenth century. Non-Muslims shall no longer enjoy the freedoms they once had, and trials shall now favour the people we consider true Ottomans. In addition, the Sultan shall be given more power to freely enforce Kanuns and his word will be considered final by all. We cannot hope to leave the judicial system in the hands of corrupt or inefficient judges if we are to truly save the empire."
+tur.21.d:0 "술탄께서는 19세기 후반에 사법제도에 행해진 많은 개혁들을 다시 뒤집기로 결정하셨습니다. 비 이슬람교도들은 더이상 한동안 누렸던 자유를 누리지 못할 것이고, 이제 재판은 진정한 오스만인들이라고 여겨지는 이들을 지지할 것입니다. 또한 술탄께서는 오스만 헌법을 자유롭게 집행하실수 있는 더 많은 권력을 부여받으셔야 하며, 술탄께서 하시는 결정들은 최종 결정으로 간주될 것입니다. 우리가 진정으로 다시한번 제국을 부흥시키려면 부패한 사법제도와 비효율적인 판사들의 손에서 빼앗아와야 합니다."
 tur.21.a:0 "힘이 강해졌군"
 
 tur.22.t:0 "새로운 수상"
-tur.22.d:0 "We must look towards appointing the a loyal Grand Vizier as a way to help provide more legitimacy to our rule whilst also making it appear to the masses as though the Sultan does not have absolute power when, in fact, he does. In what is considered as a smart, yet somewhat risky, move by observers at home and abroad, Sultan Osman IV has decided to appoint Mustafa Fevzi Paşa as the new Grand Vizier. Once the Minister of War for [Root.GetNameDef], Mustafa Fevzi Paşa’s expertise in matters of war will certainly help with overseeing the development of a mobilized and active Ottoman state, ready to take action against all who have wronged it."
+tur.22.d:0 "우리는 충성스러운 수상에게 권력을 어느정도 부여함으로써 대중들에게 술탄이 절대적인 권력을 가지지 않은 것처럼 보이게 해야 합니다. 국내와 국외의 여론들이 현명하지만 다소 위험한 결정이라고 여기는 움직임을 보이고 있고, 술탄 오스만 4세는 무스타파 페브지 파샤를 새로운 수상으로 임명하기로 결정하셨습니다. 일단 [Root.GetNameDef]가 전쟁장관이 되면, 무스타파 페브지 파샤의 전쟁에 관한 전문적인 지식들은 오스만 제국에 확실한 도움이 될 것입니다."
 tur.22.a:0 "우리가 올바른 선택을 했길 바란다."
 
 tur.23.t:0 "의회를 해산하다"
-tur.23.d:0 "It is clear that parliament is an archaic relic and nothing more than a sham that stands in the way of not only the wishes of the Sultan, but the wishes of the people. We cannot allow such an institution, which hurts not only our state but our way of life, to continue and must look towards its immediate removal.\n\nOf course, this will not endear us to our political opposition, who may now look towards doing all that they can to stop our initiative. In addition, the opposition within the country itself is already having a hard time digesting our current reforms, so this could lead them to do unspeakable things. For now, we must keep watch..."
+tur.23.d:0 "의회는 과거의 유산이며 술탄의 의지와 국민의 바람을 가로막는 장애물에 불과합니다. 우리는 의회가 계속해서 우리를 방해하는 것을 용납할수 없으며, 즉시 해산해야 합니다.\n\n물론 이것은 정치적 반대로부터 우리를 위협하지는 못할 것입니다. 그들은 이제 우리의 정치적 주도권을 막기위해 이용가능한 모든 수단을 이용해야 할 것입니다. 게다가 정치적 반대가 이미 우리의 개혁을 수용하는데 어려움을 겪고 있기 때문에 지금으로써는 우리는 계속 지켜보는 수밖에 없습니다."
 tur.23.a:0 "계속해!"
 tur.23.b:0 "당장 야당을 분쇄해라!"
 
