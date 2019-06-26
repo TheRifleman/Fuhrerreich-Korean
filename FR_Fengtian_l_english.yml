@@ -1,41 +1,41 @@
 ﻿l_english:
 #### Bookmark Description ####
 
-MAN_FUHRERREICH_DESC:0 "With the Anti-Zhili Coaltion being formed in 1924 consisting of the Anhui, Kuomintang, and Fengtian, the war ended disastrously for the Zhili, resulting in a large collapse of the Clique itself. With the Fengtian Clique finally reigning supreme in Beijing, Beiyang had managed to become stable once again with the Zhili remaining a minority in the government. However the relations with the Kuomintang in the south quickly souring, the Northern Expedition against Beiyang began. While the Kuomintang saw initial success, intervention by Shanxi caused their advance to stall, forcing peace between the two biggests governments in China."
+MAN_FUHRERREICH_DESC:0 "1924년 안휘, 국민당, 봉천의 반직연합이 결성되면서 전쟁은 직예의 대패로 끝났으며, 그로 인해 군벌 자체가 붕괴했습니다. 봉천 군벌이 베이징의 최강 세력이 되면서, 북양 정부는 직예가 소수를 차지하는 안정된 모양새를 다시 취할 수 있었습니다. 그러나 남쪽의 국민당과의 관계가 악화되면서, 북양 정부를 겨냥한 북벌이 시작되었습니다. 처음에는 국민당이 승승장구했으나, 산서의 개입이 진격을 둔화시켰으며, 그로 인해 중국 내 가장 강력한 양대 정부는 평화 협정을 맺을 수밖에 없었습니다."
 
 #### Political Parties ####
 
-MAN_vanguardist_party:0 "Manchurian Soviets"
-MAN_vanguardist_party_long:0 "Manchurian Soviets"
-MAN_collectivist_party:0 "Manchurian Soviets"
-MAN_collectivist_party_long:0 "Manchurian Soviets"
-MAN_libertarian_socialist_party:0 "Manchurian People's Association"
-MAN_libertarian_socialist_party_long:0 "Manchurian People's Association"
-MAN_social_democrat_party:0 "Unificationists"
-MAN_social_democrat_party_long:0 "Unificationists"
-MAN_social_liberal_party:0 "Kuomintang"
-MAN_social_liberal_party_long:0 "Kuomintang"
-MAN_market_liberal_party:0 "Market League"
-MAN_market_liberal_party_long:0 "Market League"
-MAN_social_conservative_party:0 "Communications Clique"
-MAN_social_conservative_party_long:0 "Communications Clique"
-MAN_authoritarian_democrat_party:0 "Zhang Council"
-MAN_authoritarian_democrat_party_long:0 "Zhang Council"
-MAN_paternal_autocrat_party:0 "Beiyang Army"
-MAN_paternal_autocrat_party_long:0 "Beiyang Army"
-MAN_national_populist_party:0 "Concordia Association"
-MAN_national_populist_party_long:0 "Concordia Association"
+MAN_vanguardist_party:0 "만주 소비에트"
+MAN_vanguardist_party_long:0 "만주 소비에트"
+MAN_collectivist_party:0 "만주 소비에트"
+MAN_collectivist_party_long:0 "만주 소비에트"
+MAN_libertarian_socialist_party:0 "만주 인민 협회"
+MAN_libertarian_socialist_party_long:0 "만주 인민 협회"
+MAN_social_democrat_party:0 "통일파"
+MAN_social_democrat_party_long:0 "통일파"
+MAN_social_liberal_party:0 "국민당"
+MAN_social_liberal_party_long:0 "국민당"
+MAN_market_liberal_party:0 "시장 연맹"
+MAN_market_liberal_party_long:0 "시장 연맹"
+MAN_social_conservative_party:0 "교통계"
+MAN_social_conservative_party_long:0 "교통계"
+MAN_authoritarian_democrat_party:0 "장씨 위원회"
+MAN_authoritarian_democrat_party_long:0 "장씨 위원회"
+MAN_paternal_autocrat_party:0 "북양군"
+MAN_paternal_autocrat_party_long:0 "북양군"
+MAN_national_populist_party:0 "협화회"
+MAN_national_populist_party_long:0 "협화회"
 MAN_valkist_party:0 "Fealty Party"
 MAN_valkist_party_long:0 "Fealty Party"
 
 #### OOB ####
 
-MAN_hunters:0 "Heilunkiang Hunters"
+MAN_hunters:0 "헤이룽장 포수"
 
 #### Decisions ####
 #>categories below
-MAN_one_china_policy:0 "One China Policy"
-MAN_our_china_one_china:0 "Our China: One China"
+MAN_one_china_policy:0 "하나의 중국 원칙"
+MAN_our_china_one_china:0 "우리의 중국: 하나의 중국"
 #>individual decisions below
 MAN_the_forging_of_a_new_china:0 "The Forging of a New China"
 MAN_the_forging_of_a_new_china_desc:0 "China has long been splintered, torn apart. The last couple decades have seen very little change, and the people grow weary. If we do not act now, the moral fabricate of the Chinese will forever be torn! Unity, the answer, requires only the beheading of snakes and the signing of paper."
