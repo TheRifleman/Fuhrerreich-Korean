@@ -660,37 +660,37 @@ tur.31.a:0 "가입시켜라!"
 tur.31.b:0 "터키인들은 아무 도움도 되지 않을 것이다."
 
 tur.32.t:0 "[From.GetNameDef]의 동의"
-tur.32.d:0 "The Germans have wisely accepted our request for membership in the Stahlpakt. Agreeing as our nations have formed Brotherly-ties in the Great War, Adam Dressler has vowed to see ALL of the victims of versailles restored to their former greatness. With a new German-Turkish axis formed, a real empire ruled by Turks seems closer now than it did in the closing years of the Great War. \n Trade Routes have been planned, Turkish and German Military Staff are now undertaking meetings, and prominent German and Turkish political leaders are making visits to eachother; our bonds with Germany seem to be stronger than steel."
+tur.32.d:0 "독일인들은 우리의 강철조약 가입을 현명하게도 받아들였습니다. 아담 드레슬러는 대전에서 우리의 민족들이 유대감을 형성함에 따라, 그 반대자들이 파괴되고 이전의 위대한 영광을 되찾는 것을 보겠다고 맹세했습니다. 새로운 독일-터키 동맹이 형성되면서 터키가 지배하는 제국은 대전쟁의 마지막에 그랬던 것처럼 위대함을 되찾을 것으로 보입니다. \n 상호 무역이 계획되고 있고, 터키와 독일군 참모들이 현재 회의를 하고 있으며, 독일과 터키의 저명한 정치가들이 서로를 방문하고 있습니다. 지금 이순간, 독일과 우리의 관계는 강철보다 단단합니다."
 tur.32.a:0 "우리는 우리의 정당한 영토를 되찾을 것이다!"
 
 tur.33.t:0 "[From.GetNameDef]의 거부!"
-tur.33.d:0 "The Germans seem to have rejected our gracious offer! With judgement awful as that it is no wonder they managed to lose us the Great War! The mindless dictator known as 'Adam Dressler' has cited that we were a minimally useful Ally in the Great War and were likely to be even worse considering how brutally partitioned we were in the Conferences of Versailles. We have managed to refrain from mentioning that Germany herself was incredibly humiliated in the Versailles Accord, but the problem stands. We have been locked out of the Stahlpakt and our lands still lie in the hands of the French and Italians. What shall we do?"
+tur.33.d:0 "독일이 우리의 제안을 거부했습니다! 역시나 형편없는 판단력으로 대전쟁 당시에 패배한 것이 분명합니다. '아담 드레슬러'라는 이름으로 알려진 이 독재자는 우리가 적어도 대전쟁에서 유용하지 못한 동맹이었으며, 베르사유 조약 당시 우리가 얼마나 잔인할 정도로 분할되었는지를 고려하면 훨씬 더 나빠질 것 같다고 언급했습니다. 우리는 독일도 베르사유 조약에서 큰 굴욕을 당했다는 점을 언급하지 않고는 있지만 문제는 계속되고 있습니다. 우리는 강철조약에 가입하지 못했고, 우리의 영토는 여전히 프랑스와 이탈리아의 수중에 있습니다. 어떻게 해야 할까요?"
 tur.33.a:0 "그렇다면 우린 그들의 도움 없이 우리의 영토를 되찾을 것이다!"
 tur.33.b:0 "우리의 영토는 결국 우리의 것이 될 것이다."
 
-tur.34.t:0 "이탈리아의 조건부 항복"
-tur.34.d:0 "In the aftermath of the Great War, we lost many rightfully Turkish lands to the Entente Dogs. It seems that once again, a war broke out between the Germans and Entente. Unfortunately for the Italians, they have lost a war without being able to switch sides in time. The mainland Italian Peninsula is firmly in German Control, and we have ample opportunity to retake our rightful lands with the Italian government scrambling to assemble themselves in Africa. This is arguably the best opportunity we could have to seize Panfilia and restore them to Turkist rule."
+tur.34.t:0 "이탈리아의 몰락"
+tur.34.d:0 "대전쟁의 여파로 우리는 많은 우리의 정당한 영토를 협상국의 개같은 것 들에게 빼앗겼습니다. 다시 한번 독일과 협상국 사이에 전쟁이 일어난 것 같습니다 이탈리아인들은 편을 제때 바꾸지 못하고 전쟁에서 패배했으며, 이탈리아 반도는 독일의 통제하에 들어갔습니다. 이탈리아의 정부가 아프리카로 망명을 떠난 가운데, 우리는 우리의 정당한 영토를 되찾을 충분한 기회를 가지고 있습니다. 이것은 틀림없이 우리의 판필리아를 되찾고 우리의 통치권을 회복할수 있는 최고의 기회일 것입니다."
 tur.34.a:0 "남해안을 장악해라!"
 
 tur.35.t:0 "[TUR.GetName]가 팜필리아를 장악하다!"
-tur.35.d:0 "Those opportunistic bastards in asia minor have occupied Panfilia! Following our capitulation, we've been scrambling to reassemble and rebase ourselves in Africa. Most of our navy is lost, and our Army is not even a fraction of its former size. There is unfortunately little we can do against these... vultures!"
+tur.35.d:0 "아시아의 끝에 있는 기회주의자들이 판필리아를 점령했습니다! 우리가 항복함에 따라, 우리는 아프리카에서 다시한번 재조직 하기 위하여 노력해 왔습니다. 우리의 해군은 대다수가 혼란에 빠졌고, 우리의 육군은 예전에 비하면 보잘것 없습니다. 불행히도 우리가 이 사건에 대하여 할수 있는 것이 거의 없습니다...독수리 같이 시체나 파먹는 녀석들!"
 tur.35.a:0 "망할 놈들."
 
-tur.36.t:0 "프랑스의 조건부 항복"
-tur.36.d:0 "Much to the shock of our Military staff, the French have lost in the Second Great War! Following a breakthrough on the mainland, their enemies advanced right until they were able to reach Paris. The French mainland is no longer in French hands comically enough. The French government is barely managing to evacuate to their colonies. The provides us with an exceptional opportunity to seize the southwest, the French military is in no position to resist us at this stage."
+tur.36.t:0 "프랑스의 몰락"
+tur.36.d:0 "우리 군대의 참모들의 노력에도 불구하고, 프랑스는 2번째 대전쟁에서 패배했습니다! 본토에서 돌파구를 발견한 적들은 파리로 곧장 진격했습니다. 프랑스 본토는 이제 독일에 의해서 지배되고 있으며, 프랑스 정부는 간신히 식민지로 대피했습니다. 이런 상황은 우리가 남서부 지역을 점령할수 있는 특별한 기회를 제공합니다. 프랑스 군대는 현 단계에서 우리에게 저항할 위치에 있지 않습니다."
 tur.36.a:0 "남동쪽을 장악해라!"
 
 tur.37.t:0 "[TUR.GetName]가 시리아 북부 지역을 점령했습니다!"
-tur.37.d:0 "The godless Turks have occupied chunks of northern Syria! Given our status as an exiled nation, they have gambled by assuming we would not resist an occupation of colonial territories. Little do those Vultures know, we could very well resist an invasion of northern syria, however doing so would require us to delegate military resources to a non-vital front. It might be in our best interests to let this slide and deal with the Turks once we retake the homeland."
-tur.37.a:0 "망할 놈들"
+tur.37.d:0 "터키놈들이 우리의 시리아 북부 지역을 점령했습니다! 망명정부의 지위를 고려하여, 우리의 식민지를 점령해도 대응하지 못할 것이라고 판단하여 도박을 걸어왔습니다. 하지만 그 비겁한 하이에나들은 알지 못합니다. 우리가 그들에게 선전포고 할수도 있다는 것을 말입니다. 하지만 그렇게 하는 것은 우리의 적을 늘릴 가능성이 있습니다. 우리가 조국을 되찾고 터키인들을 상대하는 것이 최선의 선택일지도 모릅니다."
+tur.37.a:0 "망할 놈들."
 tur.37.b:0 "우리는 우리의 영토를 지킬 것이다!"
 
 tur.38.t:0 "우리의 관료체계 현대화"
-tur.38.d:0 "It is no secret to both citizens of [Root.GetName] and international observers that the Ottoman Empire was a decadent and crumbling state with a bureaucracy to match. Corruption and bureaucratic inefficiency were widespread in the former empire and considered commonplace or were not properly dealt with. This has, unfortunately, carried on into [Root.GetNameDef]. We must take steps to ensure that officials hired are both effective at their job and willing to work for the interests of not themselves, but the state. In addition, the Turkish Public Administration has been founded to replace the old Ottoman bureaucracy. Hopefully, a fresh start is what will help our endeavours."
+tur.38.d:0 "[Root.GetName]의 시민들과 국제 여론들 모두 오스만 제국의 관료체계가 붕괴되어 있었다는 것입니다. 부패와 비효율적인 관료체계가 제국 전체에 퍼져있었고, 평범한 것조차 제대로 처리되지 못했습니다. 이것은 불행하게도 [Root.GetNameDef]으로도 계속되었습니다. 우리는 공무원들이 효율적이고 국가를 위해 충성하도록 조치를 취해야 합니다. 옛 오스만 관료체계를 대체할 터키 행정청이 설립되었습니다. 바라건데, 새로운 시작은 우리의 노력에 발을 맞춰줄 것입니다."
 tur.38.a:0 "앞으로!"
 
 tur.39.t:0 "관료체계 근대화 성공"
-tur.39.d:0 "Thankfully, it seems as though our efforts to modernize the bureaucracy have, for the most part, paid off. While we still have a long road ahead of us in order to properly reach the level of success that we truly want to see, it is a good start and, already, the Turkish government, in its daily functions, has begun to perform various tasks more efficiently and is better able to meet the needs of the people."
+tur.39.d:0 "고맙게도, 관료체계를 현대화 하려는 우리의 노력은 대부분 성공을 거둔 것으로 보입니다. 아직 성공적이라고 말하기는 부족하지만 좋은 시작이고 터키 정부는 이미 효율적이고 다양한 업무를 수행하기 시작했습니다. 이제 국민들의 요구를 더 잘 충족시킬수 있을 것입니다."
 tur.39.a:0 "좋은 소식이군!"
 
 tur.40.t:0 "혁명이 무너지다!"
